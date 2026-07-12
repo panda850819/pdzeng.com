@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { WordReveal, FadeUp } from "@/components/stagger";
-import { Panda } from "@/components/panda";
+import { PandaHero } from "@/components/panda-hero";
 import { Marquee } from "@/components/marquee";
 import { published, allProjects } from "@/lib/content";
 
@@ -17,8 +17,8 @@ export default function Home() {
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6">
-      <section className="relative flex min-h-[70dvh] flex-col justify-center">
-        <Panda className="absolute top-1/2 right-2 hidden -translate-y-[60%] md:block lg:right-10" />
+      <section className="relative flex min-h-[70dvh] flex-col justify-center pb-6">
+        <PandaHero className="absolute top-1/2 right-0 hidden h-80 w-80 -translate-y-[55%] md:block lg:right-6" />
         <p className="mb-5 text-sm text-bamboo">Panda Zeng · on-chain since 2018</p>
         <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-6xl lg:max-w-2xl xl:max-w-3xl">
           <WordReveal text="Operations, automation, and everything between DeFi and AI." />
@@ -53,7 +53,7 @@ export default function Home() {
         </FadeUp>
       </section>
 
-      <div className="relative left-1/2 w-screen -translate-x-1/2">
+      <div className="relative left-1/2 my-12 w-screen -translate-x-1/2 sm:my-16">
         <Marquee />
       </div>
 

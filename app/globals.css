@@ -186,41 +186,8 @@ p {
   will-change: transform;
 }
 
-/* Panda mascot — same glass material language as the chrome */
-@keyframes panda-float {
-  from {
-    transform: translateY(-8px);
-  }
-  to {
-    transform: translateY(10px);
-  }
-}
-
-@keyframes panda-blink {
-  0%,
-  93%,
-  100% {
-    transform: scaleY(1);
-  }
-  95%,
-  97% {
-    transform: scaleY(0.08);
-  }
-}
-
-.panda-float {
-  animation: panda-float 5.5s ease-in-out infinite alternate;
-}
-
-.panda-eye {
-  transform-origin: center;
-  animation: panda-blink 4.6s ease-in-out infinite;
-}
-
 @media (prefers-reduced-motion: reduce) {
-  .aurora-blob,
-  .panda-float,
-  .panda-eye {
+  .aurora-blob {
     animation: none;
   }
 }
