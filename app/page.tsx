@@ -49,7 +49,7 @@ export default function Home() {
         <ul>
           {latest.map((post, i) => (
             <FadeUp key={post.slug} delay={0.08 * i}>
-              <li className="hairline border-x-0 border-b-0">
+              <li className="border-t border-white/5">
                 <Link
                   href={post.permalink}
                   className="group flex flex-col gap-1 py-5 sm:flex-row sm:items-baseline sm:justify-between"

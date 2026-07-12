@@ -9,7 +9,7 @@ const socials = [
 export function Footer() {
   return (
     <footer className="mx-auto mt-28 w-full max-w-5xl px-6 pb-12">
-      <div className="hairline flex flex-wrap items-center justify-between gap-4 rounded-lg border-x-0 border-b-0 pt-6">
+      <div className="flex flex-wrap items-center justify-between gap-4 border-t border-white/5 pt-6">
         <p className="text-sm text-faint">© {new Date().getFullYear()} Panda Zeng</p>
         <ul className="flex flex-wrap gap-4">
           {socials.map((s) => (

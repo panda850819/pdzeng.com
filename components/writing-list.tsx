@@ -46,7 +46,7 @@ export function WritingList({ items }: { items: WritingItem[] }) {
       ) : (
         <ul>
           {visible.map((item) => (
-            <li key={item.permalink} className="hairline border-x-0 border-b-0">
+            <li key={item.permalink} className="border-t border-white/5">
               <Link href={item.permalink} className="group block py-6">
                 <div className="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
                   <h2
