@@ -23,7 +23,7 @@ export default function ProjectsPage() {
               href={project.url}
               target="_blank"
               rel="noreferrer"
-              className="surface-1 hairline flex h-full flex-col rounded-lg p-6 transition-colors duration-150 [@media(hover:hover)]:hover:bg-white/4"
+              className="surface-1 hairline flex h-full flex-col rounded-lg p-6 transition-[background-color,transform] duration-200 [@media(hover:hover)]:hover:-translate-y-0.5 [@media(hover:hover)]:hover:bg-hover"
             >
               <div className="flex items-baseline justify-between gap-3">
                 <h2 className="font-display text-lg font-medium">{project.title}</h2>

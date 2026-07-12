@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "pdzeng-com",
+  "account_id": "7ebfe11e87869f0cfdd9726b93fa69f3",
   "compatibility_date": "2026-07-01",
   "assets": {
     "directory": "./out",

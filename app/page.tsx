@@ -1,6 +1,15 @@
 import Link from "next/link";
 import { WordReveal, FadeUp } from "@/components/stagger";
+import { Panda } from "@/components/panda";
+import { Marquee } from "@/components/marquee";
 import { published, allProjects } from "@/lib/content";
+
+const stats = [
+  { value: "2018", label: "on-chain since" },
+  { value: "53", label: "AI skills built" },
+  { value: "11", label: "CLI tools" },
+  { value: "40+", label: "automations" },
+];
 
 export default function Home() {
   const latest = published.slice(0, 4);
@@ -8,9 +17,10 @@ export default function Home() {
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6">
-      <section className="flex min-h-[70dvh] flex-col justify-center">
+      <section className="relative flex min-h-[70dvh] flex-col justify-center">
+        <Panda className="absolute top-1/2 right-2 hidden -translate-y-[60%] md:block lg:right-10" />
         <p className="mb-5 text-sm text-bamboo">Panda Zeng · on-chain since 2018</p>
-        <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-7xl">
+        <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-6xl lg:max-w-2xl xl:max-w-3xl">
           <WordReveal text="Operations, automation, and everything between DeFi and AI." />
         </h1>
         <FadeUp delay={0.5} className="mt-8 max-w-xl">
@@ -33,7 +43,19 @@ export default function Home() {
             About me
           </Link>
         </FadeUp>
+        <FadeUp delay={0.8} className="mt-12 flex flex-wrap gap-3">
+          {stats.map((s) => (
+            <div key={s.label} className="glass rounded-lg px-4 py-2.5">
+              <span className="font-display text-lg font-semibold tabular-nums">{s.value}</span>
+              <span className="ml-2 text-xs text-muted">{s.label}</span>
+            </div>
+          ))}
+        </FadeUp>
       </section>
+
+      <div className="relative left-1/2 w-screen -translate-x-1/2">
+        <Marquee />
+      </div>
 
       <section className="mt-24" aria-labelledby="latest-writing">
         <FadeUp>
@@ -49,7 +71,7 @@ export default function Home() {
         <ul>
           {latest.map((post, i) => (
             <FadeUp key={post.slug} delay={0.08 * i}>
-              <li className="border-t border-white/5">
+              <li className="border-t border-line">
                 <Link
                   href={post.permalink}
                   className="group flex flex-col gap-1 py-5 sm:flex-row sm:items-baseline sm:justify-between"
@@ -89,7 +111,7 @@ export default function Home() {
                   href={project.url}
                   target="_blank"
                   rel="noreferrer"
-                  className="surface-1 hairline block rounded-lg p-6 transition-colors duration-150 [@media(hover:hover)]:hover:bg-white/4"
+                  className="surface-1 hairline block rounded-lg p-6 transition-[background-color,transform] duration-200 [@media(hover:hover)]:hover:-translate-y-0.5 [@media(hover:hover)]:hover:bg-hover"
                 >
                   <h3 className="font-display text-lg font-medium">{project.title}</h3>
                   <p lang="zh" className="mt-2 text-sm text-muted">

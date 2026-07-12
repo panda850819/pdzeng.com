@@ -44,13 +44,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={bricolage.variable}>
       <body className="min-h-dvh antialiased">
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}`,
+          }}
+        />
         <a href="#main-content" className="skip-link">
           Skip to main content
         </a>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <Aurora />
         <Nav />
-        <main id="main-content" className="pt-28">
+        <main id="main-content" className="pt-24">
           {children}
         </main>
         <Footer />

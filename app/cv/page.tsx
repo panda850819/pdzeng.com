@@ -21,7 +21,7 @@ export default function CvPage() {
         </h2>
         <ol className="space-y-8">
           {experience.map((job) => (
-            <li key={`${job.company}-${job.role}`} className="border-b border-white/5 pb-8 last:border-b-0">
+            <li key={`${job.company}-${job.role}`} className="border-b border-line pb-8 last:border-b-0">
               <div className="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
                 <h3 className="font-display text-lg font-medium">
                   {job.role} <span className="text-muted">· {job.company}</span>
