@@ -106,6 +106,101 @@ p {
   }
 }
 
+/* Article body — readable minimal; no glass, no motion */
+.article {
+  max-width: 65ch;
+  font-size: 1.0625rem;
+}
+.article:lang(zh) {
+  line-height: 1.8;
+}
+.article > * + * {
+  margin-top: 1.25em;
+}
+.article h2,
+.article h3,
+.article h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  margin-top: 2em;
+  line-height: 1.35;
+}
+.article h2 {
+  font-size: 1.5rem;
+}
+.article h3 {
+  font-size: 1.25rem;
+}
+.article a {
+  color: var(--color-bamboo);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in oklch, var(--color-bamboo) 40%, transparent);
+  text-underline-offset: 3px;
+}
+.article a:hover {
+  text-decoration-color: var(--color-bamboo);
+}
+.article code {
+  font-size: 0.875em;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-xs);
+  padding: 0.125em 0.375em;
+}
+.article pre {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  line-height: 1.6;
+}
+.article pre code {
+  background: none;
+  border: none;
+  padding: 0;
+}
+.article blockquote {
+  border-left: 1px solid rgba(255, 255, 255, 0.16);
+  padding-left: 1.25rem;
+  color: var(--color-muted);
+}
+.article img {
+  max-width: 100%;
+  border-radius: var(--radius-md);
+  outline: 1px solid rgba(255, 255, 255, 0.1);
+  outline-offset: -1px;
+}
+.article ul,
+.article ol {
+  padding-left: 1.5rem;
+}
+.article ul {
+  list-style: disc;
+}
+.article ol {
+  list-style: decimal;
+}
+.article li + li {
+  margin-top: 0.5em;
+}
+.article hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  margin: 2.5em 0;
+}
+.article table {
+  width: 100%;
+  font-size: 0.9375rem;
+  border-collapse: collapse;
+}
+.article th,
+.article td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
 .skip-link {
   position: absolute;
   left: -9999px;
