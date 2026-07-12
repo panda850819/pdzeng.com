@@ -22,9 +22,9 @@ status: todo
 - depends-on: none
 - status: todo
 
-### pdzeng-rebuild-T02 — Content migration (blog 65 + notes 6)
+### pdzeng-rebuild-T02 — Content migration (blog 64 + notes 2)
 - scope: `scripts/migrate.ts` 讀 `~/site/apps/blog/src/content/{blog,notes}`,正規化 frontmatter(加 `locale: zh-TW`、`type: blog|note`),輸出到 `content/writing/`;Velite schema 定義 locale/type 為必填
-- acceptance: `bun run build` 時 Velite 報 71 entries 零 schema error;`grep -rL "locale:" content/writing | wc -l` 為 0;script 重跑兩次結果 diff 為空
+- acceptance: `bun run build` 時 Velite 報 66 entries 零 schema error;`grep -rL "locale:" content/writing | wc -l` 為 0;script 重跑兩次結果 diff 為空
 - depends-on: pdzeng-rebuild-T01
 - status: todo
 
@@ -42,7 +42,7 @@ status: todo
 
 ### pdzeng-rebuild-T05 — Writing section + RSS
 - scope: `/writing` 列表(blogs / notes 分類過濾)、`/writing/[slug]` 文章內頁(可讀極簡,無重動效)、`/rss.xml`
-- acceptance: 列表渲染 71 篇且分類過濾正確(blog 65 / note 6);任選一篇繁中長文內頁渲染正常(圖片、code block、embed);`/rss.xml` 通過 `bunx rss-validator` 或等效檢查
+- acceptance: 列表渲染 66 篇且分類過濾正確(blog 64 / note 2);任選一篇繁中長文內頁渲染正常(圖片、code block、embed);`/rss.xml` 通過 `bunx rss-validator` 或等效檢查
 - depends-on: pdzeng-rebuild-T02, pdzeng-rebuild-T03
 - status: todo
 

@@ -18,7 +18,7 @@ tags: [brief, grill]
 
 ## Revised premise (after grill)
 
-骨架其實已存在(Astro 站有 index / projects / experience / blog / notes / bookmarks / RSS / OG)。真正要買的是:平台換成 React 全應用、氣質換成展演型、域名整併成 pdzeng.com 單域。內容(blog 65 + notes 6 = 71 篇)是資產無損搬遷;未來文章 i18n 只留 schema 鉤子不付框架成本。
+骨架其實已存在(Astro 站有 index / projects / experience / blog / notes / bookmarks / RSS / OG)。真正要買的是:平台換成 React 全應用、氣質換成展演型、域名整併成 pdzeng.com 單域。內容(blog 64 + notes 2 = 66 篇)是資產無損搬遷;未來文章 i18n 只留 schema 鉤子不付框架成本。
 
 ## Alternatives considered
 
@@ -37,7 +37,7 @@ Executable plan: docs/plans/pdzeng-rebuild.md
 In:
 - 新 repo `~/site/apps/pdzeng`(先 private),Next 15 + TS + Tailwind 4 + Motion + Velite
 - 五區:home / about / projects / writing / cv;writing 收 blogs + notes 分類
-- 內容遷移 71 篇,frontmatter 正規化(locale、type 欄位)
+- 內容遷移 66 篇,frontmatter 正規化(locale、type 欄位)
 - 站框架(home / about / cv / UI)英文,文章維持原文繁中
 - Design system:glass liquid 主氣質,文章內頁回歸可讀極簡
 - SEO/GEO 移植(metadata / sitemap / OG / 舊站 GEO 優化)
@@ -52,7 +52,7 @@ Out:
 ## Seams
 
 新專案無既有 test seams。新 seams 放最高處:
-- content pipeline seam:Velite schema 驗證(build 即測試,71 entries 全過)
+- content pipeline seam:Velite schema 驗證(build 即測試,66 entries 全過)
 - migration script seam:`scripts/migrate.ts` 可重跑、可 diff 驗證
 - route seam:每頁一個 route,build 靜態輸出存在性即煙測
 
@@ -76,7 +76,7 @@ Recommended skill:
 
 ## Gate Log
 
-- Stage 1 (load context): 現況查明 — Astro 5 + CF Pages,4 collections,71 篇可遷內容,CV 源碼在另一 repo(本機未找到)
+- Stage 1 (load context): 現況查明 — Astro 5 + CF Pages,4 collections,66 篇可遷內容,CV 源碼在另一 repo(本機未找到)
 - Stage 2 (premise challenge): 7 questions,1 contradiction surfaced(繁中為主 vs 站框架英文 → 解讀為框架英文、內容繁中),escape-hatch fired? N
 - Stage 3 (alternatives): chose A(B defer, C reject)
 - Stage 4 (premise refresh): premise still load-bearing — Y
