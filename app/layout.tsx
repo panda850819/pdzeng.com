@@ -16,6 +16,28 @@ export const metadata: Metadata = {
   title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
   description:
     "Panda Zeng — six years in crypto operations, building automations and writing about DeFi, AI tooling, and the systems in between.",
+  alternates: { canonical: "./" },
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Panda Zeng",
+  alternateName: "熊貓隨口說",
+  url: "https://pdzeng.com",
+  inLanguage: ["en", "zh-TW"],
+  author: {
+    "@type": "Person",
+    name: "Panda Zeng",
+    alternateName: "熊貓隨口說",
+    url: "https://pdzeng.com",
+    knowsAbout: ["Blockchain", "DeFi", "Operations", "AI agents", "Workflow automation"],
+    sameAs: [
+      "https://github.com/panda850819",
+      "https://x.com/pandazeng1",
+      "https://www.linkedin.com/in/wei-chieh-tseng-369303161/",
+    ],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -25,6 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a href="#main-content" className="skip-link">
           Skip to main content
         </a>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <Aurora />
         <Nav />
         <main id="main-content" className="pt-28">

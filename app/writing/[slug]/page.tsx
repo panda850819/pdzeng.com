@@ -24,9 +24,20 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   if (!post) notFound();
 
   const zh = post.locale === "zh-TW";
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    url: `https://pdzeng.com${post.permalink}`,
+    datePublished: post.publishedAt,
+    inLanguage: post.locale,
+    author: { "@type": "Person", name: "Panda Zeng", url: "https://pdzeng.com" },
+  };
 
   return (
     <article className="mx-auto w-full max-w-3xl px-6" lang={zh ? "zh" : "en"}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <header className="mb-10">
         <Link href="/writing/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
           ← Writing
