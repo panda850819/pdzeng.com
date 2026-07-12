@@ -1,11 +1,122 @@
 @import "tailwindcss";
 
-:root {
-  --background: #0a0a0f;
-  --foreground: #ededf2;
+@theme {
+  --font-display: var(--font-bricolage), "PingFang TC", "Noto Sans TC", sans-serif;
+  --font-body: -apple-system, "SF Pro Text", "Helvetica Neue", "PingFang TC", "Noto Sans TC", sans-serif;
+
+  /* Bamboo aurora on deep ink — neutrals tinted toward the accent hue (165) */
+  --color-canvas: oklch(14% 0.006 170);
+  --color-ink: oklch(93.5% 0.005 170);
+  --color-muted: oklch(70% 0.012 170);
+  --color-faint: oklch(52% 0.012 170);
+  --color-bamboo: oklch(85% 0.09 165);
+  --color-bamboo-dim: oklch(66% 0.1 165);
+  --color-ember: oklch(84% 0.07 80);
+
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+html {
+  background: var(--color-canvas);
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  font-family: var(--font-body);
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* CJK runs breathe more than Latin; tracking never touches Hanzi */
+:lang(zh) {
+  line-height: 1.75;
+  letter-spacing: normal;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+/* Depth = luminance steps, not drop shadows (dark canvas) */
+.surface-1 {
+  background: rgba(255, 255, 255, 0.02);
+}
+.surface-2 {
+  background: rgba(255, 255, 255, 0.04);
+}
+.surface-3 {
+  background: rgba(255, 255, 255, 0.05);
+}
+.hairline {
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+.hairline-strong {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Glass: reserved for floating chrome (nav, hero panels) — not the default card */
+.glass {
+  background: rgba(255, 255, 255, 0.045);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(20px) saturate(1.4);
+  -webkit-backdrop-filter: blur(20px) saturate(1.4);
+}
+
+.display-tracking {
+  letter-spacing: -0.022em;
+}
+
+@keyframes aurora-drift {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(6%, -4%, 0) scale(1.12);
+  }
+  100% {
+    transform: translate3d(-4%, 5%, 0) scale(0.96);
+  }
+}
+
+.aurora-blob {
+  animation: aurora-drift 26s var(--ease-out-expo) infinite alternate;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aurora-blob {
+    animation: none;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+}
+.skip-link:focus {
+  left: 16px;
+  top: 16px;
+  padding: 8px 16px;
+  border-radius: var(--radius-sm);
+  background: var(--color-bamboo);
+  color: var(--color-canvas);
 }
