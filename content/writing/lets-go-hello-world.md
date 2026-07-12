@@ -73,7 +73,7 @@ GOGCCFLAGS="-fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmess
 Create a file hello-world.go
 
 package main
-
+import "fmt"func main() {
   fmt.Println("Hello world!")
 }Open your terminal and enter it .
 

@@ -35,9 +35,11 @@ const isoDate = (v: unknown): string => {
 const yamlStr = (s: string) => JSON.stringify(s);
 
 // Astro-specific MDX → plain markdown/HTML the new pipeline can render.
-const transformBody = (body: string) => {
+// Import-stripping is .mdx-only: plain .md never has MDX imports, but its
+// code blocks can contain lines starting with `import` (e.g. Go).
+const transformBody = (body: string, isMdx: boolean) => {
   let out = body;
-  out = out.replace(/^import\s.+$/gm, "");
+  if (isMdx) out = out.replace(/^import\s.+$/gm, "");
   out = out.replace(/<Tweet\s+id=["']([^"']+)["']\s*\/>/g, (_, id) => `[Tweet ↗](https://x.com/i/status/${id})`);
   out = out.replace(/<YouTube\s+id=["']([^"']+)["']\s*\/>/g, (_, id) => `[YouTube ↗](https://www.youtube.com/watch?v=${id})`);
   out = out.replace(/<LinkPreview\s+id=["']([^"']+)["']\s*\/>/g, (_, url) => `[${url}](${url})`);
@@ -57,7 +59,7 @@ const migrateDir = (dir: string, kind: Kind) => {
     const tags: string[] = (data.tags ?? (data.category ? [String(data.category).toLowerCase()] : [])).map(
       (t: string) => t.toLowerCase()
     );
-    const body = transformBody(content);
+    const body = transformBody(content, extname(f) === ".mdx");
     const locale = cjkRatio(title + body.slice(0, 2000)) > 0.05 ? "zh-TW" : "en";
     const fm = [
       "---",
