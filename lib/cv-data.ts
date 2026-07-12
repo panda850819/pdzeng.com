@@ -97,6 +97,7 @@ export const achievements = [
   { title: "Champion — APP Mobile Innovation Competition, iOS", year: "2018 · Taichung" },
   { title: "3rd — China Collegiate Computing Competition, Mobile Apps", year: "2018 · Zhejiang" },
   { title: "3rd — Ocean Innovation & Entrepreneurship Competition", year: "2018 · Kaohsiung" },
+  { title: "Honorable Mention — NKUST Fintech Competition", year: "2018 · Kaohsiung" },
 ];
 
 export const education = [
