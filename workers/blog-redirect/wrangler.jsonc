@@ -1,0 +1,7 @@
+{
+  "name": "blog-redirect",
+  "account_id": "7ebfe11e87869f0cfdd9726b93fa69f3",
+  "compatibility_date": "2026-07-01",
+  "main": "index.js",
+  "routes": [{ "pattern": "blog.pdzeng.com/*", "zone_name": "pdzeng.com" }]
+}

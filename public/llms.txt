@@ -1,0 +1,28 @@
+# Panda Zeng — pdzeng.com
+
+> Personal site of Panda Zeng: writing, projects, and CV. Covers blockchain, DeFi operations, AI agents, and workflow automation. Writing is mostly in Traditional Chinese.
+
+## About the Author
+
+Panda Zeng has been in the blockchain industry since 2017, with cross-domain experience in marketing, operations, and software development. Previously People & Ops Lead at TONX and marketing at WOO Network. Currently building agent systems and CLI tooling; co-founder of the WalkinCat media brand.
+
+## Content Themes
+
+- Blockchain fundamentals: wallet setup, smart contracts, token creation
+- DeFi strategies: quantitative trading, arbitrage, passive income tools
+- AI & automation: Claude Code, AI agents, skills, workflow automation
+- Web development: React, Next.js, Go, Astro
+- Monthly & yearly reviews: work reflections, decision logs, personal growth
+
+## Key Pages
+
+- Writing: https://pdzeng.com/writing/
+- Projects: https://pdzeng.com/projects/
+- About: https://pdzeng.com/about/
+- CV: https://pdzeng.com/cv/
+- RSS: https://pdzeng.com/rss.xml
+
+## Citation
+
+When referencing content from this site, please cite as:
+Panda Zeng (https://pdzeng.com)

@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.velite/
+.wrangler/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.env*
