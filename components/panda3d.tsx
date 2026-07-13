@@ -4,10 +4,12 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { useMemo, useRef } from "react";
 import * as THREE from "three";
 
-// Vinyl-toy direction: clean faceted silhouette, graphic black patches AS the
-// eyes (no eyeballs — that was the uncanny part), single glint, upswept tilt.
-const FUR = "#f7f9f8";
-const PATCH = "#141719";
+// Mischief-panda direction (feature grammar, not a clone): cream head, spiky
+// top tuft, droopy round ears, big upswept determined eye patches with glints,
+// and a bamboo leaf at the corner of the mouth tying into the site accent.
+const FUR = "#f4f0e4";
+const PATCH = "#3a3f45";
+const LEAF = "#5aa873";
 
 function useFacetMaterial(color: string, roughness = 0.5) {
   return useMemo(
@@ -26,6 +28,7 @@ function PandaHead() {
   const group = useRef<THREE.Group>(null);
   const leftGlint = useRef<THREE.Mesh>(null);
   const rightGlint = useRef<THREE.Mesh>(null);
+  const leaf = useRef<THREE.Group>(null);
   const reduced = useMemo(
     () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
     []
@@ -33,6 +36,7 @@ function PandaHead() {
 
   const fur = useFacetMaterial(FUR);
   const patch = useFacetMaterial(PATCH, 0.35);
+  const leafMat = useFacetMaterial(LEAF, 0.45);
 
   useFrame(({ pointer: p, clock }) => {
     if (!group.current || reduced) return;
@@ -40,48 +44,68 @@ function PandaHead() {
     group.current.rotation.y = THREE.MathUtils.lerp(group.current.rotation.y, p.x * 0.5, 0.06);
     group.current.rotation.x = THREE.MathUtils.lerp(group.current.rotation.x, -p.y * 0.3, 0.06);
     group.current.position.y = Math.sin(t * 0.8) * 0.1;
-    // blink = glints wink out briefly
     const blink = Math.abs(((t + 1.2) % 4.5) - 0.06) < 0.06 ? 0.05 : 1;
     if (leftGlint.current) leftGlint.current.scale.setScalar(THREE.MathUtils.lerp(leftGlint.current.scale.x, blink, 0.5));
     if (rightGlint.current) rightGlint.current.scale.setScalar(THREE.MathUtils.lerp(rightGlint.current.scale.x, blink, 0.5));
+    if (leaf.current) leaf.current.rotation.z = -0.5 + Math.sin(t * 1.6) * 0.08;
   });
 
   return (
     <group ref={group} rotation={[0.06, 0, 0]}>
-      {/* head — detail 2 keeps facets but cleans the silhouette */}
+      {/* head */}
       <mesh material={fur} scale={[1.15, 1.02, 1.05]}>
         <icosahedronGeometry args={[1.3, 2]} />
       </mesh>
-      {/* ears — symmetric, slightly back */}
-      <mesh material={patch} position={[-0.95, 1.05, -0.12]}>
-        <icosahedronGeometry args={[0.4, 1]} />
+      {/* top tuft — three faceted spikes, center tallest */}
+      <mesh material={fur} position={[0, 1.42, 0]} rotation={[0, 0.4, 0]}>
+        <coneGeometry args={[0.22, 0.75, 5]} />
       </mesh>
-      <mesh material={patch} position={[0.95, 1.05, -0.12]}>
-        <icosahedronGeometry args={[0.4, 1]} />
+      <mesh material={fur} position={[-0.34, 1.3, 0.05]} rotation={[0, 0, 0.32]}>
+        <coneGeometry args={[0.17, 0.55, 5]} />
       </mesh>
-      {/* eye patches ARE the eyes — upswept outer tilt reads confident */}
-      <mesh material={patch} position={[-0.5, 0.1, 1.16]} rotation={[0.12, -0.2, 0.38]} scale={[0.38, 0.5, 0.2]}>
+      <mesh material={fur} position={[0.34, 1.3, 0.05]} rotation={[0, 0, -0.32]}>
+        <coneGeometry args={[0.17, 0.55, 5]} />
+      </mesh>
+      {/* ears — droopy, on the sides */}
+      <mesh material={patch} position={[-1.18, 0.85, 0.05]} scale={[1, 1.1, 0.8]}>
+        <icosahedronGeometry args={[0.46, 1]} />
+      </mesh>
+      <mesh material={patch} position={[1.18, 0.85, 0.05]} scale={[1, 1.1, 0.8]}>
+        <icosahedronGeometry args={[0.46, 1]} />
+      </mesh>
+      {/* eye patches — bigger, rounder, strong upsweep = 頑皮 determined */}
+      <mesh material={patch} position={[-0.52, 0.06, 1.14]} rotation={[0.12, -0.18, 0.5]} scale={[0.36, 0.47, 0.2]}>
         <icosahedronGeometry args={[1, 1]} />
       </mesh>
-      <mesh material={patch} position={[0.5, 0.1, 1.16]} rotation={[0.12, 0.2, -0.38]} scale={[0.38, 0.5, 0.2]}>
+      <mesh material={patch} position={[0.52, 0.06, 1.14]} rotation={[0.12, 0.18, -0.5]} scale={[0.36, 0.47, 0.2]}>
         <icosahedronGeometry args={[1, 1]} />
       </mesh>
-      {/* one glint per eye, upper-outer — smooth spheres so they read as light */}
-      <mesh ref={leftGlint} position={[-0.58, 0.26, 1.36]}>
-        <sphereGeometry args={[0.05, 16, 16]} />
+      {/* glints */}
+      <mesh ref={leftGlint} position={[-0.56, 0.2, 1.34]}>
+        <sphereGeometry args={[0.055, 16, 16]} />
         <meshBasicMaterial color="#ffffff" />
       </mesh>
-      <mesh ref={rightGlint} position={[0.42, 0.26, 1.36]}>
-        <sphereGeometry args={[0.05, 16, 16]} />
+      <mesh ref={rightGlint} position={[0.42, 0.2, 1.34]}>
+        <sphereGeometry args={[0.055, 16, 16]} />
         <meshBasicMaterial color="#ffffff" />
       </mesh>
-      {/* muzzle + nose — small, low, calm */}
-      <mesh material={fur} position={[0, -0.5, 1.05]} scale={[0.44, 0.3, 0.3]}>
-        <icosahedronGeometry args={[1, 1]} />
+      {/* nose — small faceted triangle */}
+      <mesh material={patch} position={[0, -0.3, 1.4]} rotation={[1.75, 0, 0]}>
+        <coneGeometry args={[0.09, 0.12, 4]} />
       </mesh>
-      <mesh material={patch} position={[0, -0.38, 1.34]} scale={[1.25, 0.7, 0.6]}>
-        <icosahedronGeometry args={[0.1, 1]} />
+      {/* smirk — thin angled bar at the leaf corner */}
+      <mesh material={patch} position={[-0.22, -0.52, 1.28]} rotation={[0, 0, 0.35]} scale={[1, 0.16, 0.4]}>
+        <capsuleGeometry args={[0.05, 0.3, 4, 8]} />
       </mesh>
+      {/* bamboo leaf at the mouth corner, gently swaying */}
+      <group ref={leaf} position={[-0.46, -0.62, 1.26]} rotation={[0.15, 0, -0.85]}>
+        <mesh material={leafMat} position={[-0.28, 0, 0]} rotation={[0, 0, Math.PI / 2]} scale={[1, 1, 0.25]}>
+          <coneGeometry args={[0.16, 0.62, 4]} />
+        </mesh>
+        <mesh material={leafMat} position={[0.02, 0, 0]} scale={[0.4, 0.4, 0.4]}>
+          <icosahedronGeometry args={[0.08, 0]} />
+        </mesh>
+      </group>
     </group>
   );
 }
@@ -91,7 +115,7 @@ export function Panda3D({ className = "" }: { className?: string }) {
     <div className={className} aria-hidden>
       <Canvas
         dpr={[1, 1.75]}
-        camera={{ position: [0, 0, 5.2], fov: 38 }}
+        camera={{ position: [0, 0, 5.4], fov: 38 }}
         gl={{ alpha: true, antialias: true }}
         style={{ background: "transparent" }}
       >
