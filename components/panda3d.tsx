@@ -5,11 +5,9 @@ import { useMemo, useRef } from "react";
 import * as THREE from "three";
 
 // Mischief-panda direction (feature grammar, not a clone): cream head, spiky
-// top tuft, droopy round ears, big upswept determined eye patches with glints,
-// and a bamboo leaf at the corner of the mouth tying into the site accent.
+// top tuft, droopy round ears, big upswept determined eye patches with glints.
 const FUR = "#f4f0e4";
 const PATCH = "#3a3f45";
-const LEAF = "#5aa873";
 
 function useFacetMaterial(color: string, roughness = 0.5) {
   return useMemo(
@@ -28,7 +26,6 @@ function PandaHead() {
   const group = useRef<THREE.Group>(null);
   const leftGlint = useRef<THREE.Mesh>(null);
   const rightGlint = useRef<THREE.Mesh>(null);
-  const leaf = useRef<THREE.Group>(null);
   const reduced = useMemo(
     () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
     []
@@ -36,7 +33,6 @@ function PandaHead() {
 
   const fur = useFacetMaterial(FUR);
   const patch = useFacetMaterial(PATCH, 0.35);
-  const leafMat = useFacetMaterial(LEAF, 0.45);
 
   useFrame(({ pointer: p, clock }) => {
     if (!group.current || reduced) return;
@@ -47,7 +43,6 @@ function PandaHead() {
     const blink = Math.abs(((t + 1.2) % 4.5) - 0.06) < 0.06 ? 0.05 : 1;
     if (leftGlint.current) leftGlint.current.scale.setScalar(THREE.MathUtils.lerp(leftGlint.current.scale.x, blink, 0.5));
     if (rightGlint.current) rightGlint.current.scale.setScalar(THREE.MathUtils.lerp(rightGlint.current.scale.x, blink, 0.5));
-    if (leaf.current) leaf.current.rotation.z = -0.5 + Math.sin(t * 1.6) * 0.08;
   });
 
   return (
@@ -93,19 +88,10 @@ function PandaHead() {
       <mesh material={patch} position={[0, -0.3, 1.4]} rotation={[1.75, 0, 0]}>
         <coneGeometry args={[0.09, 0.12, 4]} />
       </mesh>
-      {/* smirk — thin angled bar at the leaf corner */}
+      {/* smirk — thin angled bar */}
       <mesh material={patch} position={[-0.22, -0.52, 1.28]} rotation={[0, 0, 0.35]} scale={[1, 0.16, 0.4]}>
         <capsuleGeometry args={[0.05, 0.3, 4, 8]} />
       </mesh>
-      {/* bamboo leaf at the mouth corner, gently swaying */}
-      <group ref={leaf} position={[-0.46, -0.62, 1.26]} rotation={[0.15, 0, -0.85]}>
-        <mesh material={leafMat} position={[-0.28, 0, 0]} rotation={[0, 0, Math.PI / 2]} scale={[1, 1, 0.25]}>
-          <coneGeometry args={[0.16, 0.62, 4]} />
-        </mesh>
-        <mesh material={leafMat} position={[0.02, 0, 0]} scale={[0.4, 0.4, 0.4]}>
-          <icosahedronGeometry args={[0.08, 0]} />
-        </mesh>
-      </group>
     </group>
   );
 }
