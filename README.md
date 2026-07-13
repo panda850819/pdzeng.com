@@ -42,7 +42,9 @@ Workflow:
 2. Flip `draft: false`, commit on a branch, open a PR — merging to `main` auto-deploys.
 3. URL becomes `/writing/<slug>/`. Slug is permanent once published; don't rename it (breaks links and the 301 map).
 
-Projects live in `content/projects/*.md` (frontmatter only: title, description, url, featured, techs).
+Projects live in `content/projects/*.md` (frontmatter only: title, description, url, featured, techs) — these are the curated "Featured" cards.
+
+The "Open source activity" list on /projects is auto-synced: `.github/workflows/sync-github.yml` runs daily (01:00 Taipei), regenerates `content/github-repos.json` via `scripts/sync-github.ts`, and commits only when something changed — the commit triggers a redeploy. Repos already covered by a Featured card (matched by URL), forks, and archived repos are excluded. Manual refresh: `bun scripts/sync-github.ts` or trigger the workflow from the Actions tab.
 
 CV data is `lib/cv-data.ts`; source of truth is the [personal-cv](https://github.com/panda850819/personal-cv) repo — update both when history changes.
 

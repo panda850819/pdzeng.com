@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { allProjects } from "@/lib/content";
+import { openSourceRepos } from "@/lib/github";
 import { FadeUp } from "@/components/stagger";
 
 export const metadata: Metadata = {
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
 
 export default function ProjectsPage() {
   const projects = [...allProjects].sort((a, b) => Number(b.featured) - Number(a.featured));
+  const repos = openSourceRepos(projects.map((p) => p.url));
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6">
@@ -41,6 +43,45 @@ export default function ProjectsPage() {
           </FadeUp>
         ))}
       </div>
+
+      {repos.length > 0 && (
+        <section className="mt-20" aria-labelledby="oss-activity">
+          <FadeUp>
+            <h2 id="oss-activity" className="display-tracking font-display text-2xl font-semibold">
+              Open source activity
+            </h2>
+            <p className="mt-2 mb-6 text-sm text-faint">
+              Synced daily from GitHub — public repos by latest push.
+            </p>
+          </FadeUp>
+          <ul>
+            {repos.map((repo) => (
+              <li key={repo.url} className="border-t border-line">
+                <a
+                  href={repo.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="group flex flex-col gap-1 py-4 sm:flex-row sm:items-baseline sm:justify-between"
+                >
+                  <div className="min-w-0">
+                    <span className="text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo">
+                      {repo.name}
+                    </span>
+                    {repo.description && (
+                      <p className="mt-0.5 max-w-2xl text-sm text-muted">{repo.description}</p>
+                    )}
+                  </div>
+                  <div className="flex shrink-0 items-baseline gap-4 text-sm text-faint tabular-nums">
+                    {repo.language && <span>{repo.language}</span>}
+                    {repo.stars > 0 && <span>★ {repo.stars}</span>}
+                    <time dateTime={repo.pushedAt}>{repo.pushedAt}</time>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   );
 }

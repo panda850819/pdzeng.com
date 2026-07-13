@@ -4,94 +4,93 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { useMemo, useRef } from "react";
 import * as THREE from "three";
 
-const FUR = "#f4f6f5";
-const PATCH = "#17191b";
+// Mischief-panda direction (feature grammar, not a clone): cream head, spiky
+// top tuft, droopy round ears, big upswept determined eye patches with glints.
+const FUR = "#f4f0e4";
+const PATCH = "#3a3f45";
 
-function useToyMaterial(color: string) {
+function useFacetMaterial(color: string, roughness = 0.5) {
   return useMemo(
     () =>
       new THREE.MeshStandardMaterial({
         color,
-        roughness: 0.35,
-        metalness: 0.05,
+        roughness,
+        metalness: 0.06,
+        flatShading: true,
       }),
-    [color]
+    [color, roughness]
   );
 }
 
 function PandaHead() {
   const group = useRef<THREE.Group>(null);
-  const leftEye = useRef<THREE.Mesh>(null);
-  const rightEye = useRef<THREE.Mesh>(null);
-  const pointer = useRef({ x: 0, y: 0 });
+  const leftGlint = useRef<THREE.Mesh>(null);
+  const rightGlint = useRef<THREE.Mesh>(null);
   const reduced = useMemo(
     () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
     []
   );
 
-  const fur = useToyMaterial(FUR);
-  const patch = useToyMaterial(PATCH);
+  const fur = useFacetMaterial(FUR);
+  const patch = useFacetMaterial(PATCH, 0.35);
 
   useFrame(({ pointer: p, clock }) => {
     if (!group.current || reduced) return;
-    pointer.current = p;
     const t = clock.elapsedTime;
-    // ease toward the cursor, add a slow idle bob
-    group.current.rotation.y = THREE.MathUtils.lerp(group.current.rotation.y, p.x * 0.55, 0.06);
-    group.current.rotation.x = THREE.MathUtils.lerp(group.current.rotation.x, -p.y * 0.35, 0.06);
-    group.current.position.y = Math.sin(t * 0.8) * 0.12;
-    // blink every ~4.5s
-    const blink = Math.abs(((t + 1.2) % 4.5) - 0.06) < 0.06 ? 0.12 : 1;
-    if (leftEye.current) leftEye.current.scale.y = THREE.MathUtils.lerp(leftEye.current.scale.y, blink, 0.5);
-    if (rightEye.current) rightEye.current.scale.y = THREE.MathUtils.lerp(rightEye.current.scale.y, blink, 0.5);
+    group.current.rotation.y = THREE.MathUtils.lerp(group.current.rotation.y, p.x * 0.5, 0.06);
+    group.current.rotation.x = THREE.MathUtils.lerp(group.current.rotation.x, -p.y * 0.3, 0.06);
+    group.current.position.y = Math.sin(t * 0.8) * 0.1;
+    const blink = Math.abs(((t + 1.2) % 4.5) - 0.06) < 0.06 ? 0.05 : 1;
+    if (leftGlint.current) leftGlint.current.scale.setScalar(THREE.MathUtils.lerp(leftGlint.current.scale.x, blink, 0.5));
+    if (rightGlint.current) rightGlint.current.scale.setScalar(THREE.MathUtils.lerp(rightGlint.current.scale.x, blink, 0.5));
   });
 
   return (
-    <group ref={group}>
+    <group ref={group} rotation={[0.06, 0, 0]}>
       {/* head */}
-      <mesh material={fur} scale={[1.15, 1, 1.05]}>
-        <sphereGeometry args={[1.3, 48, 48]} />
+      <mesh material={fur} scale={[1.15, 1.02, 1.05]}>
+        <icosahedronGeometry args={[1.3, 2]} />
       </mesh>
-      {/* ears */}
-      <mesh material={patch} position={[-1.02, 1.02, -0.1]}>
-        <sphereGeometry args={[0.42, 32, 32]} />
+      {/* top tuft — three faceted spikes, center tallest */}
+      <mesh material={fur} position={[0, 1.42, 0]} rotation={[0, 0.4, 0]}>
+        <coneGeometry args={[0.22, 0.75, 5]} />
       </mesh>
-      <mesh material={patch} position={[1.02, 1.02, -0.1]}>
-        <sphereGeometry args={[0.42, 32, 32]} />
+      <mesh material={fur} position={[-0.34, 1.3, 0.05]} rotation={[0, 0, 0.32]}>
+        <coneGeometry args={[0.17, 0.55, 5]} />
       </mesh>
-      {/* eye patches — flattened, angled into the face */}
-      <mesh material={patch} position={[-0.52, 0.08, 1.27]} rotation={[0.15, -0.25, -0.5]} scale={[0.34, 0.48, 0.18]}>
-        <sphereGeometry args={[1, 32, 32]} />
+      <mesh material={fur} position={[0.34, 1.3, 0.05]} rotation={[0, 0, -0.32]}>
+        <coneGeometry args={[0.17, 0.55, 5]} />
       </mesh>
-      <mesh material={patch} position={[0.52, 0.08, 1.27]} rotation={[0.15, 0.25, 0.5]} scale={[0.34, 0.48, 0.18]}>
-        <sphereGeometry args={[1, 32, 32]} />
+      {/* ears — droopy, on the sides */}
+      <mesh material={patch} position={[-1.18, 0.85, 0.05]} scale={[1, 1.1, 0.8]}>
+        <icosahedronGeometry args={[0.46, 1]} />
       </mesh>
-      {/* eyes */}
-      <mesh ref={leftEye} position={[-0.48, 0.1, 1.43]}>
-        <sphereGeometry args={[0.09, 24, 24]} />
-        <meshStandardMaterial color="#ffffff" roughness={0.1} />
+      <mesh material={patch} position={[1.18, 0.85, 0.05]} scale={[1, 1.1, 0.8]}>
+        <icosahedronGeometry args={[0.46, 1]} />
       </mesh>
-      <mesh ref={rightEye} position={[0.48, 0.1, 1.43]}>
-        <sphereGeometry args={[0.09, 24, 24]} />
-        <meshStandardMaterial color="#ffffff" roughness={0.1} />
+      {/* eye patches — bigger, rounder, strong upsweep = 頑皮 determined */}
+      <mesh material={patch} position={[-0.52, 0.06, 1.14]} rotation={[0.12, -0.18, 0.5]} scale={[0.36, 0.47, 0.2]}>
+        <icosahedronGeometry args={[1, 1]} />
       </mesh>
-      <mesh position={[-0.45, 0.1, 1.5]}>
-        <sphereGeometry args={[0.045, 16, 16]} />
-        <meshStandardMaterial color="#050505" roughness={0.2} />
+      <mesh material={patch} position={[0.52, 0.06, 1.14]} rotation={[0.12, 0.18, -0.5]} scale={[0.36, 0.47, 0.2]}>
+        <icosahedronGeometry args={[1, 1]} />
       </mesh>
-      <mesh position={[0.5, 0.1, 1.5]}>
-        <sphereGeometry args={[0.045, 16, 16]} />
-        <meshStandardMaterial color="#050505" roughness={0.2} />
+      {/* glints */}
+      <mesh ref={leftGlint} position={[-0.56, 0.2, 1.34]}>
+        <sphereGeometry args={[0.055, 16, 16]} />
+        <meshBasicMaterial color="#ffffff" />
       </mesh>
-      {/* muzzle + nose + mouth */}
-      <mesh material={fur} position={[0, -0.42, 1.08]} scale={[0.42, 0.32, 0.3]}>
-        <sphereGeometry args={[1, 32, 32]} />
+      <mesh ref={rightGlint} position={[0.42, 0.2, 1.34]}>
+        <sphereGeometry args={[0.055, 16, 16]} />
+        <meshBasicMaterial color="#ffffff" />
       </mesh>
-      <mesh material={patch} position={[0, -0.28, 1.38]} scale={[1, 0.75, 0.7]}>
-        <sphereGeometry args={[0.11, 24, 24]} />
+      {/* nose — small faceted triangle */}
+      <mesh material={patch} position={[0, -0.3, 1.4]} rotation={[1.75, 0, 0]}>
+        <coneGeometry args={[0.09, 0.12, 4]} />
       </mesh>
-      <mesh material={patch} position={[0, -0.52, 1.32]} scale={[0.5, 1, 0.5]}>
-        <capsuleGeometry args={[0.02, 0.14, 4, 8]} />
+      {/* smirk — thin angled bar */}
+      <mesh material={patch} position={[-0.22, -0.52, 1.28]} rotation={[0, 0, 0.35]} scale={[1, 0.16, 0.4]}>
+        <capsuleGeometry args={[0.05, 0.3, 4, 8]} />
       </mesh>
     </group>
   );
@@ -101,15 +100,14 @@ export function Panda3D({ className = "" }: { className?: string }) {
   return (
     <div className={className} aria-hidden>
       <Canvas
-        dpr={[1, 2]}
-        camera={{ position: [0, 0, 5.2], fov: 38 }}
+        dpr={[1, 1.75]}
+        camera={{ position: [0, 0, 5.4], fov: 38 }}
         gl={{ alpha: true, antialias: true }}
         style={{ background: "transparent" }}
       >
-        <ambientLight intensity={0.7} />
-        <directionalLight position={[4, 5, 6]} intensity={1.6} />
-        {/* bamboo rim + warm fill echo the aurora palette */}
-        <pointLight position={[-5, 1, 2]} intensity={9} color="#6ec096" />
+        <ambientLight intensity={0.6} />
+        <directionalLight position={[4, 5, 6]} intensity={1.8} />
+        <pointLight position={[-5, 1, 2]} intensity={10} color="#6ec096" />
         <pointLight position={[3, -3, 4]} intensity={4} color="#e0b878" />
         <PandaHead />
       </Canvas>

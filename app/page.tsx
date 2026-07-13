@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className="mx-auto w-full max-w-5xl px-6">
       <section className="relative flex min-h-[70dvh] flex-col justify-center pb-6">
-        <PandaHero className="absolute top-1/2 right-0 hidden h-80 w-80 -translate-y-[55%] md:block lg:right-6" />
+        <PandaHero className="mb-4 h-36 w-36 md:absolute md:top-1/2 md:right-0 md:mb-0 md:h-80 md:w-80 md:-translate-y-[55%] lg:right-6" />
         <p className="mb-5 text-sm text-bamboo">Panda Zeng · on-chain since 2018</p>
         <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-6xl lg:max-w-2xl xl:max-w-3xl">
           <WordReveal text="Operations, automation, and everything between DeFi and AI." />
