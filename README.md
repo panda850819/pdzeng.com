@@ -19,6 +19,16 @@ Bun is the package manager and script runner everywhere — local and CI. Do not
 
 ## Writing content
 
+`/writing/` is a unified visual index. Legacy Markdown posts remain on-site;
+new essays come from Substack, short notes come from `@pdzeng_talk`, and public
+X posts are archived from `@PandaZeng1`. Duplicate local/Substack titles render
+once, with Substack taking precedence.
+
+Refresh the versioned source snapshot with `bun run sync:writing`. The daily
+Action updates credential-free Substack and Telegram data. Local runs also
+refresh X through Panda's read-only `bird` session; CI preserves the last X
+snapshot when that session is unavailable.
+
 Posts live in `content/writing/*.md`. One file per post:
 
 ```markdown

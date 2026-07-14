@@ -1,145 +1,202 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
-
-export type WritingItem = {
-  title: string;
-  description: string;
-  permalink: string;
-  publishedAt: string;
-  type: "blog" | "note";
-  locale: string;
-};
+import { useEffect, useMemo, useState } from "react";
+import type { UnifiedWritingItem, WritingCategory } from "@/lib/writing";
 
 const filters = [
   { key: "all", label: "All" },
   { key: "blog", label: "Blog" },
-  { key: "note", label: "Notes" },
+  { key: "telegram", label: "Telegram" },
+  { key: "x", label: "X archive" },
 ] as const;
 
+type Filter = "all" | WritingCategory;
 type View = "list" | "grid";
 
-export function WritingList({ items }: { items: WritingItem[] }) {
-  const [filter, setFilter] = useState<(typeof filters)[number]["key"]>("all");
+const sourceLabels = {
+  site: "pdzeng.com",
+  substack: "Substack",
+  telegram: "Telegram",
+  x: "X",
+} as const;
+
+const sourceNotes: Record<Filter, React.ReactNode> = {
+  all: "Latest public writing across every channel.",
+  blog: (
+    <>
+      Legacy essays and new issues from{" "}
+      <a className="text-ink underline decoration-line underline-offset-4" href="https://pdzeng.substack.com/" target="_blank" rel="noreferrer">
+        Substack
+      </a>
+      , deduplicated into one index.
+    </>
+  ),
+  telegram: (
+    <>
+      Short notes from{" "}
+      <a className="text-ink underline decoration-line underline-offset-4" href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer">
+        @pdzeng_talk
+      </a>
+      . The archive is powered by the{" "}
+      <a className="text-ink underline decoration-line underline-offset-4" href="https://github.com/panda850819/mini-blog" target="_blank" rel="noreferrer">
+        mini-blog
+      </a>{" "}
+      source.
+    </>
+  ),
+  x: (
+    <>
+      Public posts by{" "}
+      <a className="text-ink underline decoration-line underline-offset-4" href="https://x.com/PandaZeng1" target="_blank" rel="noreferrer">
+        @PandaZeng1
+      </a>
+      , preserved here with links to the originals.
+    </>
+  ),
+};
+
+const isFilter = (value: string): value is Filter => filters.some((filter) => filter.key === value);
+
+const formatDate = (value: string) => value.slice(0, 10);
+
+function ItemLink({ item, className, children }: { item: UnifiedWritingItem; className: string; children: React.ReactNode }) {
+  if (item.external) {
+    return (
+      <a href={item.url} target="_blank" rel="noreferrer" className={className}>
+        {children}
+      </a>
+    );
+  }
+  return <Link href={item.url} className={className}>{children}</Link>;
+}
+
+export function WritingList({ items, updatedAt }: { items: UnifiedWritingItem[]; updatedAt: string }) {
+  const [filter, setFilter] = useState<Filter>("all");
   const [view, setView] = useState<View>("list");
+  const [visibleCount, setVisibleCount] = useState(24);
 
   useEffect(() => {
-    const saved = localStorage.getItem("writing-view");
-    if (saved === "grid" || saved === "list") setView(saved);
+    const savedView = localStorage.getItem("writing-view");
+    if (savedView === "grid" || savedView === "list") setView(savedView);
+    const hashFilter = window.location.hash.slice(1);
+    if (isFilter(hashFilter)) setFilter(hashFilter);
   }, []);
 
-  const switchView = (v: View) => {
-    setView(v);
-    localStorage.setItem("writing-view", v);
+  const switchFilter = (next: Filter) => {
+    setFilter(next);
+    setVisibleCount(24);
+    window.history.replaceState(null, "", next === "all" ? window.location.pathname : `#${next}`);
   };
 
-  const visible = filter === "all" ? items : items.filter((i) => i.type === filter);
+  const switchView = (next: View) => {
+    setView(next);
+    localStorage.setItem("writing-view", next);
+  };
+
+  const filtered = useMemo(
+    () => (filter === "all" ? items : items.filter((item) => item.category === filter)),
+    [filter, items],
+  );
+  const visible = filtered.slice(0, visibleCount);
 
   return (
-    <div>
-      <div className="mb-8 flex items-center justify-between gap-4">
-        <div className="flex gap-2" role="group" aria-label="Filter writing">
-          {filters.map((f) => (
+    <div className="mt-8">
+      <div className="flex flex-col gap-5 border-b border-line pb-6">
+        <div className="flex items-center justify-between gap-4">
+          <div className="flex flex-wrap gap-2" role="group" aria-label="Filter writing">
+            {filters.map((item) => (
+              <button
+                key={item.key}
+                onClick={() => switchFilter(item.key)}
+                aria-pressed={filter === item.key}
+                className={`rounded-full px-4 py-1.5 text-sm transition-colors duration-150 active:scale-95 ${
+                  filter === item.key
+                    ? "bg-bamboo font-medium text-canvas"
+                    : "surface-2 hairline text-muted [@media(hover:hover)]:hover:text-ink"
+                }`}
+              >
+                {item.label}
+              </button>
+            ))}
+          </div>
+          <div className="hidden gap-1 sm:flex" role="group" aria-label="View mode">
             <button
-              key={f.key}
-              onClick={() => setFilter(f.key)}
-              aria-pressed={filter === f.key}
-              className={`rounded-full px-4 py-1.5 text-sm transition-colors duration-150 active:scale-95 ${
-                filter === f.key
-                  ? "bg-bamboo font-medium text-canvas"
-                  : "surface-2 hairline text-muted [@media(hover:hover)]:hover:text-ink"
+              onClick={() => switchView("list")}
+              aria-pressed={view === "list"}
+              aria-label="List view"
+              className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
+                view === "list" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
               }`}
             >
-              {f.label}
+              <span aria-hidden>≡</span>
             </button>
-          ))}
+            <button
+              onClick={() => switchView("grid")}
+              aria-pressed={view === "grid"}
+              aria-label="Grid view"
+              className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
+                view === "grid" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
+              }`}
+            >
+              <span aria-hidden>⊞</span>
+            </button>
+          </div>
         </div>
-        <div className="flex gap-1" role="group" aria-label="View mode">
-          <button
-            onClick={() => switchView("list")}
-            aria-pressed={view === "list"}
-            aria-label="List view"
-            className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
-              view === "list" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
-            }`}
-          >
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden>
-              <path d="M4 6h16M4 12h16M4 18h16" />
-            </svg>
-          </button>
-          <button
-            onClick={() => switchView("grid")}
-            aria-pressed={view === "grid"}
-            aria-label="Grid view"
-            className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
-              view === "grid" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
-            }`}
-          >
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden>
-              <rect x="4" y="4" width="7" height="7" rx="1" />
-              <rect x="13" y="4" width="7" height="7" rx="1" />
-              <rect x="4" y="13" width="7" height="7" rx="1" />
-              <rect x="13" y="13" width="7" height="7" rx="1" />
-            </svg>
-          </button>
+        <div className="flex flex-col gap-1 text-sm text-faint sm:flex-row sm:items-baseline sm:justify-between">
+          <p>{sourceNotes[filter]}</p>
+          <p className="shrink-0 tabular-nums">{filtered.length} entries · latest {formatDate(updatedAt)}</p>
         </div>
       </div>
 
       {visible.length === 0 ? (
-        <p className="py-16 text-muted">Nothing here yet — drafts are brewing.</p>
+        <p className="py-16 text-muted">No published entries in this source yet.</p>
       ) : view === "grid" ? (
-        <ul className="grid gap-4 sm:grid-cols-2">
+        <ul className="mt-6 grid gap-4 sm:grid-cols-2">
           {visible.map((item) => (
-            <li key={item.permalink}>
-              <Link
-                href={item.permalink}
-                className="surface-1 hairline group flex h-full flex-col rounded-lg p-5 transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover"
-              >
-                <span className="text-xs text-faint uppercase">{item.type}</span>
-                <h2
-                  lang={item.locale === "zh-TW" ? "zh" : "en"}
-                  className="mt-2 flex-none text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
-                >
+            <li key={item.id}>
+              <ItemLink item={item} className="surface-1 hairline group flex h-full flex-col rounded-lg p-5 transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover">
+                <span className="text-xs text-faint">{sourceLabels[item.source]}</span>
+                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "line-clamp-6 whitespace-pre-line"}`}>
                   {item.title}
                 </h2>
-                {item.description && (
-                  <p lang={item.locale === "zh-TW" ? "zh" : "en"} className="mt-2 flex-1 text-sm text-muted">
-                    {item.description}
-                  </p>
-                )}
-                <time dateTime={item.publishedAt} className="mt-4 text-sm text-faint tabular-nums">
-                  {item.publishedAt.slice(0, 10)}
-                </time>
-              </Link>
+                {item.description && <p lang="zh" className="mt-2 line-clamp-4 flex-1 text-sm text-muted">{item.description}</p>}
+                <time dateTime={item.publishedAt} className="mt-4 text-sm text-faint tabular-nums">{formatDate(item.publishedAt)}</time>
+              </ItemLink>
             </li>
           ))}
         </ul>
       ) : (
         <ul>
           {visible.map((item) => (
-            <li key={item.permalink} className="border-t border-line">
-              <Link href={item.permalink} className="group block py-6">
-                <div className="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
-                  <h2
-                    lang={item.locale === "zh-TW" ? "zh" : "en"}
-                    className="text-lg text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
-                  >
-                    {item.title}
-                  </h2>
-                  <time dateTime={item.publishedAt} className="shrink-0 text-sm text-faint tabular-nums">
-                    {item.publishedAt.slice(0, 10)}
-                  </time>
+            <li key={item.id} className="border-b border-line">
+              <ItemLink item={item} className="group block py-6">
+                <div className="mb-2 flex items-center justify-between gap-4 text-xs text-faint">
+                  <span>{sourceLabels[item.source]}</span>
+                  <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
                 </div>
-                {item.description && (
-                  <p lang={item.locale === "zh-TW" ? "zh" : "en"} className="mt-1.5 max-w-2xl text-sm text-muted">
-                    {item.description}
+                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`text-lg text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "whitespace-pre-line leading-relaxed"}`}>
+                  {item.title}
+                </h2>
+                {item.description && <p lang="zh" className="mt-1.5 line-clamp-3 max-w-2xl text-sm text-muted">{item.description}</p>}
+                {item.metrics && (item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0) && (
+                  <p className="mt-3 text-xs text-faint tabular-nums">
+                    {item.metrics.replies} replies · {item.metrics.reposts} reposts · {item.metrics.likes} likes
                   </p>
                 )}
-              </Link>
+              </ItemLink>
             </li>
           ))}
         </ul>
+      )}
+
+      {visible.length < filtered.length && (
+        <button
+          onClick={() => setVisibleCount((count) => count + 24)}
+          className="mt-8 w-full rounded-lg border border-line py-3 text-sm text-muted transition-colors duration-150 active:scale-[0.99] [@media(hover:hover)]:hover:text-ink"
+        >
+          Show older entries
+        </button>
       )}
     </div>
   );
