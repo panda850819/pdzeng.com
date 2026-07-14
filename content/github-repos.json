@@ -1,11 +1,11 @@
 [
   {
-    "name": "n8n-docker",
-    "description": "透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上",
-    "url": "https://github.com/panda850819/n8n-docker",
+    "name": "murmur",
+    "description": "Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight.",
+    "url": "https://github.com/panda850819/murmur",
     "stars": 0,
-    "language": "Python",
-    "pushedAt": "2026-07-13"
+    "language": "Swift",
+    "pushedAt": "2026-07-14"
   },
   {
     "name": "verbs",
@@ -13,70 +13,6 @@
     "url": "https://github.com/panda850819/verbs",
     "stars": 4,
     "language": "Python",
-    "pushedAt": "2026-07-13"
-  },
-  {
-    "name": "murmur",
-    "description": "Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight.",
-    "url": "https://github.com/panda850819/murmur",
-    "stars": 0,
-    "language": "Swift",
-    "pushedAt": "2026-07-02"
-  },
-  {
-    "name": "notion-cli",
-    "description": "CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal",
-    "url": "https://github.com/panda850819/notion-cli",
-    "stars": 1,
-    "language": "Python",
-    "pushedAt": "2026-05-26"
-  },
-  {
-    "name": "murmur-voice",
-    "description": "Privacy-first voice-to-text for macOS and Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2.",
-    "url": "https://github.com/panda850819/murmur-voice",
-    "stars": 20,
-    "language": "Rust",
-    "pushedAt": "2026-05-12"
-  },
-  {
-    "name": "slack-cli",
-    "description": "A CLI tool for searching and browsing Slack workspaces",
-    "url": "https://github.com/panda850819/slack-cli",
-    "stars": 2,
-    "language": "Python",
-    "pushedAt": "2026-05-12"
-  },
-  {
-    "name": "telegram-cli",
-    "description": "Headless Telegram CLI via tdlib - designed for AI agents and automation",
-    "url": "https://github.com/panda850819/telegram-cli",
-    "stars": 2,
-    "language": "Python",
-    "pushedAt": "2026-05-12"
-  },
-  {
-    "name": "image-hosting",
-    "description": "",
-    "url": "https://github.com/panda850819/image-hosting",
-    "stars": 0,
-    "language": "",
-    "pushedAt": "2026-05-03"
-  },
-  {
-    "name": "ashby-cli",
-    "description": "",
-    "url": "https://github.com/panda850819/ashby-cli",
-    "stars": 0,
-    "language": "Go",
-    "pushedAt": "2026-04-28"
-  },
-  {
-    "name": "personal-cv",
-    "description": "personal-cv",
-    "url": "https://github.com/panda850819/personal-cv",
-    "stars": 2,
-    "language": "TypeScript",
-    "pushedAt": "2026-03-30"
+    "pushedAt": "2026-07-14"
   }
 ]

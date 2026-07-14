@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://pdzeng.com"),
   title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
   description:
-    "Panda Zeng — six years in crypto operations, building automations and writing about DeFi, AI tooling, and the systems in between.",
+    "Panda Zeng — Operations × AI, working in crypto since 2018 and writing about DeFi, AI tooling, and workflow systems.",
   alternates: { canonical: "./" },
 };
 
@@ -31,6 +31,11 @@ const jsonLd = {
     name: "Panda Zeng",
     alternateName: "熊貓隨口說",
     url: "https://pdzeng.com",
+    jobTitle: "Ops Manager",
+    worksFor: {
+      "@type": "Organization",
+      name: "Yei Finance",
+    },
     knowsAbout: ["Blockchain", "DeFi", "Operations", "AI agents", "Workflow automation"],
     sameAs: [
       "https://github.com/panda850819",

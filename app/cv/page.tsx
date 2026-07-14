@@ -3,7 +3,7 @@ import { summary, experience, achievements, education, skills } from "@/lib/cv-d
 
 export const metadata: Metadata = {
   title: "CV",
-  description: "Panda Zeng — operations and software development. In Web3 since 2017.",
+  description: "Panda Zeng — Ops Manager at Yei Finance, working across operations and AI. In Web3 since 2018.",
 };
 
 export default function CvPage() {
@@ -11,7 +11,7 @@ export default function CvPage() {
     <div className="mx-auto w-full max-w-3xl px-6" lang="en">
       <header>
         <h1 className="display-tracking font-display text-4xl font-semibold">Panda Zeng</h1>
-        <p className="mt-2 text-bamboo">Operations · Software Development</p>
+        <p className="mt-2 text-bamboo">Operations × AI</p>
         <p className="mt-5 max-w-2xl text-muted">{summary}</p>
       </header>
 
@@ -28,14 +28,7 @@ export default function CvPage() {
                 </h3>
                 <p className="shrink-0 text-sm text-faint tabular-nums">{job.period}</p>
               </div>
-              <p className="mt-1 text-xs text-faint">{job.location}</p>
-              <ul className="mt-3 space-y-1.5">
-                {job.points.map((point) => (
-                  <li key={point} className="text-sm text-muted">
-                    {point}
-                  </li>
-                ))}
-              </ul>
+              {job.location && <p className="mt-1 text-xs text-faint">{job.location}</p>}
             </li>
           ))}
         </ol>

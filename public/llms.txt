@@ -4,14 +4,14 @@
 
 ## About the Author
 
-Panda Zeng has been in the blockchain industry since 2017, with cross-domain experience in marketing, operations, and software development. Previously People & Ops Lead at TONX and marketing at WOO Network. Currently building agent systems and CLI tooling; co-founder of the WalkinCat media brand.
+Panda Zeng works at the intersection of operations and AI. He has been in Web3 since 2018 and is currently Ops Manager at Yei Finance. His background includes full-stack development, WOO Network Marketing Associate, and People & Ops Lead at TONX. He co-founded WalkinCat, a media brand that is currently paused.
 
 ## Content Themes
 
 - Blockchain fundamentals: wallet setup, smart contracts, token creation
 - DeFi strategies: quantitative trading, arbitrage, passive income tools
 - AI & automation: Claude Code, AI agents, skills, workflow automation
-- Web development: React, Next.js, Go, Astro
+- Web development: React, Next.js, Astro
 - Monthly & yearly reviews: work reflections, decision logs, personal growth
 
 ## Key Pages

@@ -4,7 +4,7 @@ const items = [
   "CLI tooling",
   "Workflow automation",
   "On-chain since 2018",
-  "Ops × Engineering",
+  "Operations × AI",
   "Traditional Chinese writing",
   "Taipei · Remote",
 ];

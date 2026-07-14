@@ -1,92 +1,60 @@
 export const summary =
-  "Cross-disciplinary between operations and software — Master's in Information Management, full-stack background, in Web3 since 2017. Grew from engineer to operations lead, applying technical thinking to team workflows and product processes.";
+  "Ops Manager at Yei Finance, working across operations, AI systems, and workflow automation. Full-stack background and active in Web3 since 2018.";
 
 export const experience = [
+  {
+    company: "Yei Finance",
+    role: "Ops Manager",
+    period: "2026/01 – Present",
+    location: "",
+  },
   {
     company: "TONX",
     role: "People & Ops Lead",
     period: "2025/07 – 2025/12",
     location: "Hybrid",
-    points: [
-      "Managed company operations and personnel development",
-      "Handled financial accounting and budget planning",
-      "Optimized operational processes and team collaboration",
-    ],
   },
   {
     company: "TONX",
     role: "Operations",
     period: "2023/07 – 2025/06",
     location: "On-site",
-    points: [
-      "Executed operations management and process optimization",
-      "Planned and executed content marketing strategies",
-      "Coordinated cross-department projects and resource integration",
-    ],
   },
   {
     company: "WalkinCat",
-    role: "Co-Founder / Content Creator",
-    period: "2020/07 – Present",
+    role: "Co-Founder",
+    period: "2020/07 – Paused",
     location: "Taipei · Remote",
-    points: [
-      "Creating AI and productivity tool content",
-      "Sharing Web3 and blockchain insights",
-      "Building active community engagement",
-    ],
   },
   {
     company: "Taiwan Blockchain Academia",
-    role: "Supervisor",
+    role: "Board Supervisor",
     period: "2019/06 – Present",
     location: "Taiwan",
-    points: [
-      "Participating in alliance governance and decision-making",
-      "Promoting blockchain education and academic exchange",
-      "Connecting industry-academia resources",
-    ],
   },
   {
     company: "WOO Network",
-    role: "Marketing",
+    role: "Marketing Associate",
     period: "2021/09 – 2022/02",
     location: "Remote",
-    points: [
-      "Developed and executed marketing strategies for DeFi products",
-      "Managed community growth and engagement",
-      "Coordinated an international team for product launches",
-    ],
   },
   {
     company: "YuStar Limit",
     role: "Full-Stack Engineer",
     period: "2018/09 – 2020/05",
     location: "Taiwan",
-    points: [
-      "Developed full-stack web applications",
-      "Built iOS mobile applications",
-      "Integrated blockchain technology into products",
-    ],
   },
   {
     company: "DEXON",
     role: "Campus Ambassador",
     period: "2019/02 – 2019/06",
     location: "Taiwan",
-    points: [
-      "Organized blockchain workshops and seminars",
-      "Built university blockchain communities",
-    ],
   },
   {
     company: "EduVator Ltd",
     role: "Backend Intern",
     period: "2017/07 – 2017/09",
     location: "Taiwan",
-    points: [
-      "Developed RESTful APIs",
-      "Managed database design and optimization",
-    ],
   },
 ];
 
@@ -103,7 +71,7 @@ export const achievements = [
 export const education = [
   {
     school: "National Kaohsiung University of Science and Technology",
-    degree: "Master's — Information Management",
+    degree: "Master's studies — Information Management (withdrawn)",
     period: "2018/09 – 2020/06",
   },
   {
@@ -114,7 +82,7 @@ export const education = [
 ];
 
 export const skills = [
-  { group: "Blockchain & Web3", items: ["DeFi protocols", "Smart contracts", "Web3 integration", "Cryptography"] },
+  { group: "Blockchain & Web3", items: ["DeFi protocols", "Smart contracts", "Web3 integration"] },
   { group: "Development", items: ["Full-stack", "Backend", "iOS", "CLI tooling"] },
   { group: "Operations", items: ["People & ops", "Financial accounting", "Process design", "Content strategy"] },
   { group: "AI & automation", items: ["Agent systems", "LLM pipelines", "Workflow automation"] },
