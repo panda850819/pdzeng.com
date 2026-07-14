@@ -4,13 +4,6 @@ import { PandaHero } from "@/components/panda-hero";
 import { Marquee } from "@/components/marquee";
 import { published, allProjects } from "@/lib/content";
 
-const stats = [
-  { value: "2018", label: "on-chain since" },
-  { value: "53", label: "AI skills built" },
-  { value: "11", label: "CLI tools" },
-  { value: "40+", label: "automations" },
-];
-
 export default function Home() {
   const latest = published.slice(0, 4);
   const projects = allProjects.filter((p) => p.featured).concat(allProjects.filter((p) => !p.featured)).slice(0, 3);
@@ -19,14 +12,14 @@ export default function Home() {
     <div className="mx-auto w-full max-w-5xl px-6">
       <section className="relative flex min-h-[70dvh] flex-col justify-center pb-6">
         <PandaHero className="mb-4 h-36 w-36 md:absolute md:top-1/2 md:right-0 md:mb-0 md:h-80 md:w-80 md:-translate-y-[55%] lg:right-6" />
-        <p className="mb-5 text-sm text-bamboo">Panda Zeng · on-chain since 2018</p>
+        <p className="mb-5 text-sm text-bamboo">Panda Zeng · Operations × AI</p>
         <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-6xl lg:max-w-2xl xl:max-w-3xl">
-          <WordReveal text="Operations, automation, and everything between DeFi and AI." />
+          <WordReveal text="Operations, AI, and the systems between them." />
         </h1>
         <FadeUp delay={0.5} className="mt-8 max-w-xl">
           <p className="text-lg text-muted">
-            I run operations in crypto and build the systems that run themselves — agents, pipelines, and
-            the occasional trading experiment. Notes from the field live here.
+            I&apos;m an Ops Manager at Yei Finance, working across crypto operations, AI systems, and
+            workflow automation. I&apos;ve been in Web3 since 2018, and I write notes from the field here.
           </p>
         </FadeUp>
         <FadeUp delay={0.65} className="mt-10 flex gap-4">
@@ -42,14 +35,6 @@ export default function Home() {
           >
             About me
           </Link>
-        </FadeUp>
-        <FadeUp delay={0.8} className="mt-12 flex flex-wrap gap-3">
-          {stats.map((s) => (
-            <div key={s.label} className="glass rounded-lg px-4 py-2.5">
-              <span className="font-display text-lg font-semibold tabular-nums">{s.value}</span>
-              <span className="ml-2 text-xs text-muted">{s.label}</span>
-            </div>
-          ))}
         </FadeUp>
       </section>
 

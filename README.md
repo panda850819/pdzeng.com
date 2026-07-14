@@ -46,7 +46,7 @@ Projects live in `content/projects/*.md` (frontmatter only: title, description, 
 
 The "Open source activity" list on /projects is auto-synced: `.github/workflows/sync-github.yml` runs daily (01:00 Taipei), regenerates `content/github-repos.json` via `scripts/sync-github.ts`, and commits only when something changed — the commit triggers a redeploy. Repos already covered by a Featured card (matched by URL), forks, and archived repos are excluded. Manual refresh: `bun scripts/sync-github.ts` or trigger the workflow from the Actions tab.
 
-CV data is `lib/cv-data.ts`; source of truth is the [personal-cv](https://github.com/panda850819/personal-cv) repo — update both when history changes.
+CV data is maintained in `lib/cv-data.ts`. The older [personal-cv](https://github.com/panda850819/personal-cv) repo is historical and should not be synced into this site without re-verifying its facts.
 
 `scripts/migrate.ts` was the one-shot import from the old Astro blog; it stays for reference and regenerates `docs/redirect-map.json` (old URL → new URL, consumed by the domain-cutover worker).
 
