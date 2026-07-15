@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T16:28:29.000Z",
+  "updatedAt": "2026-07-15T17:05:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4398",
+      "title": "我感覺我找到我真正的開發方法了，不管做什麼都有呼應太爽了 使用了 gbrain 把它 mcp 化之後，先做了一輪 grill 跟我自己深度對談之後，有了一些哲學跟 decisions 之後讓他…",
+      "description": "我感覺我找到我真正的開發方法了，不管做什麼都有呼應太爽了 使用了 gbrain 把它 mcp 化之後，先做了一輪 grill 跟我自己深度對談之後，有了一些哲學跟 decisions 之後讓他根據我過往的 sessions 繼續問我問題得到之後再度 against 自己的想法之後沉澱下來 並且把自己的 skill pack - verbs https://g…",
+      "url": "https://t.me/pdzeng_talk/4398",
+      "publishedAt": "2026-07-15T17:05:45.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/panda850819/verbs/",
+        "siteName": "GitHub",
+        "title": "GitHub - panda850819/verbs: Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from…",
+        "description": "Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. - panda850819/verbs",
+        "imageUrl": "https://cdn4.telesco.pe/file/IWDrl5661uAGsA6OxvmCRMWI42Ryu5WTuRduLzcoghK-wfOooXMWOLUbzaQNiaZNT8h6SHZL3DlASA2H6gxwo76-jb04KhHi7XbHgxpZ-x1QzuZQpuND7O54W1VhXUNjVZdmKD9qo9wPWTt76McH-JcBIWKgSsXORTlkcEsv15TgmAtvch3OEPjfVBBOfRcjlyKBG0BNTcuFGYsNr1PGpMIuwvTh6SWB7EJKJXhxvHPWd09HIdIN0HUM86HhqnwpcdsO5B9Ml7bbrgf2tPnQIqEmj26kuEQhp8nVq0J-Kf8IHEm8edGvtFW5sCwJPvT1Te_OSTujADSK5PSTEdMRSA.jpg"
+      }
+    },
     {
       "id": "4397",
       "title": "Ok nice lets make sth cool bro",
