@@ -3,6 +3,14 @@ import sources from "../content/writing-sources.json";
 export type WritingSource = "substack" | "telegram" | "x";
 export type WritingCategory = "blog" | "telegram" | "x";
 
+export type WritingPreview = {
+  targetUrl: string;
+  siteName: string;
+  title: string;
+  description: string;
+  imageUrl?: string;
+};
+
 export type UnifiedWritingItem = {
   id: string;
   title: string;
@@ -13,6 +21,7 @@ export type UnifiedWritingItem = {
   source: WritingSource;
   category: WritingCategory;
   external: boolean;
+  preview?: WritingPreview;
   metrics?: {
     replies: number;
     reposts: number;
@@ -38,6 +47,7 @@ const substackItems: UnifiedWritingItem[] = sources.substack.map((item) => ({
     source: "substack" as const,
     category: "blog" as const,
     external: true,
+    preview: item.preview,
   }));
 
 const telegramItems: UnifiedWritingItem[] = sources.telegram.map((item) => ({
@@ -50,6 +60,7 @@ const telegramItems: UnifiedWritingItem[] = sources.telegram.map((item) => ({
     source: "telegram" as const,
     category: "telegram" as const,
     external: true,
+    preview: item.preview,
   }));
 
 const xItems: UnifiedWritingItem[] = sources.x.map((item) => ({
@@ -62,6 +73,7 @@ const xItems: UnifiedWritingItem[] = sources.x.map((item) => ({
     source: "x" as const,
     category: "x" as const,
     external: true,
+    preview: item.preview,
     metrics: {
       replies: item.replies,
       reposts: item.reposts,

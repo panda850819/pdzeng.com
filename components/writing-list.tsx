@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
-import type { UnifiedWritingItem, WritingCategory } from "@/lib/writing";
+import type { UnifiedWritingItem, WritingCategory, WritingPreview } from "@/lib/writing";
 
 const filters = [
   { key: "all", label: "All" },
@@ -68,6 +68,23 @@ function ItemLink({ item, className, children }: { item: UnifiedWritingItem; cla
     );
   }
   return <Link href={item.url} className={className}>{children}</Link>;
+}
+
+function PreviewImage({ preview }: { preview?: WritingPreview }) {
+  const [failed, setFailed] = useState(false);
+  if (!preview?.imageUrl || failed) return null;
+  return (
+    <div className="aspect-[16/9] overflow-hidden bg-hover">
+      <img
+        src={preview.imageUrl}
+        alt=""
+        loading="lazy"
+        referrerPolicy="no-referrer"
+        onError={() => setFailed(true)}
+        className="h-full w-full object-cover transition-transform duration-300 [@media(hover:hover)]:group-hover:scale-[1.02]"
+      />
+    </div>
+  );
 }
 
 export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
@@ -156,13 +173,30 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
         <ul className="mt-6 grid gap-4 sm:grid-cols-2">
           {visible.map((item) => (
             <li key={item.id}>
-              <ItemLink item={item} className="surface-1 hairline group flex h-full flex-col rounded-lg p-5 transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover">
-                <span className="text-xs text-faint">{sourceLabels[item.source]}</span>
-                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "line-clamp-6 whitespace-pre-line"}`}>
-                  {item.title}
-                </h2>
-                {item.description && <p lang="zh" className="mt-2 line-clamp-4 flex-1 text-sm text-muted">{item.description}</p>}
-                <time dateTime={item.publishedAt} className="mt-4 text-sm text-faint tabular-nums">{formatDate(item.publishedAt)}</time>
+              <ItemLink item={item} className="surface-1 hairline group flex h-full flex-col overflow-hidden rounded-lg transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover">
+                <PreviewImage preview={item.preview} />
+                <div className="flex flex-1 flex-col p-5">
+                  <div className="flex items-center justify-between gap-3 text-xs text-faint">
+                    <span>{sourceLabels[item.source]}</span>
+                    <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
+                  </div>
+                  <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "line-clamp-3" : "line-clamp-5 whitespace-pre-line"}`}>
+                    {item.title}
+                  </h2>
+                  {item.description && <p lang="zh" className="mt-2 line-clamp-3 flex-1 text-sm text-muted">{item.description}</p>}
+                  {item.preview && (item.preview.title || item.preview.description) && item.source !== "substack" && (
+                    <div className="mt-4 border-t border-line pt-3">
+                      <p className="text-xs text-faint">{item.preview.siteName}</p>
+                      {item.preview.title && <p className="mt-1 line-clamp-2 text-sm text-ink">{item.preview.title}</p>}
+                      {item.preview.description && <p className="mt-1 line-clamp-2 text-xs text-muted">{item.preview.description}</p>}
+                    </div>
+                  )}
+                  {item.metrics && (item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0) && (
+                    <p className="mt-4 text-xs text-faint tabular-nums">
+                      {item.metrics.replies} replies · {item.metrics.reposts} reposts · {item.metrics.likes} likes
+                    </p>
+                  )}
+                </div>
               </ItemLink>
             </li>
           ))}

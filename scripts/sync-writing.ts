@@ -13,12 +13,21 @@ const TELEGRAM_CHANNEL = "pdzeng_talk";
 const X_HANDLE = "PandaZeng1";
 const REQUIRE_X = Bun.argv.includes("--require-x");
 
+type Preview = {
+  targetUrl: string;
+  siteName: string;
+  title: string;
+  description: string;
+  imageUrl?: string;
+};
+
 type SourceItem = {
   id: string;
   title: string;
   description: string;
   url: string;
   publishedAt: string;
+  preview?: Preview;
 };
 
 type XItem = SourceItem & {
@@ -55,6 +64,38 @@ const extractTag = (input: string, tag: string) => {
   return match ? decodeHtml(match[1]) : "";
 };
 
+const extractAttribute = (input: string, tag: string, attribute: string) => {
+  const match = input.match(new RegExp(`<${tag}\\b[^>]*\\b${attribute}="([^"]+)"`, "i"));
+  return match ? decodeHtml(match[1]) : "";
+};
+
+const extractClassText = (input: string, className: string) => {
+  const match = input.match(
+    new RegExp(`<[^>]+class="[^"]*\\b${className}\\b[^"]*"[^>]*>([\\s\\S]*?)<\\/[^>]+>`, "i"),
+  );
+  return match ? decodeHtml(match[1]) : "";
+};
+
+const normalizePreviewImage = (value: string) => {
+  if (!value) return undefined;
+  try {
+    const parsed = new URL(value.startsWith("//") ? `https:${value}` : value);
+    const allowed =
+      parsed.protocol === "https:" &&
+      (parsed.hostname === "substackcdn.com" ||
+        parsed.hostname === "pbs.twimg.com" ||
+        parsed.hostname.endsWith(".telesco.pe"));
+    return allowed ? parsed.toString() : undefined;
+  } catch {
+    return undefined;
+  }
+};
+
+const extractPreviewImage = (input: string) =>
+  [...input.matchAll(/background-image:url\(['"]?([^'")]+)['"]?\)/gi)]
+    .map((match) => normalizePreviewImage(match[1]))
+    .find(Boolean);
+
 const summarize = (text: string, length = 180) =>
   text.length <= length ? text : `${text.slice(0, length).trimEnd()}…`;
 
@@ -90,12 +131,20 @@ const syncSubstack = async (): Promise<SourceItem[]> => {
       const url = rawUrl ? validateSourceUrl(rawUrl, "pdzeng.substack.com") : "";
       const publishedAt = new Date(extractTag(item, "pubDate")).toISOString();
       const body = extractTag(item, "description") || extractTag(item, "content:encoded");
+      const imageUrl = normalizePreviewImage(extractAttribute(item, "enclosure", "url"));
       return {
         id: extractTag(item, "guid") || url,
         title,
         description: summarize(body),
         url,
         publishedAt,
+        preview: {
+          targetUrl: url,
+          siteName: "Substack",
+          title,
+          description: summarize(body),
+          ...(imageUrl ? { imageUrl } : {}),
+        },
       };
     })
     .filter((item) => item.title && item.url && item.publishedAt)
@@ -115,13 +164,33 @@ const syncTelegram = async (): Promise<SourceItem[]> => {
       ];
       const text = decodeHtml(textMatches.at(-1)?.[1] ?? "");
       if (!id || !date || !text) return [];
+      const url = `https://t.me/${TELEGRAM_CHANNEL}/${id}`;
+      const linkPreview = chunk.match(
+        /<a class="tgme_widget_message_link_preview" href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i,
+      );
+      const previewBody = linkPreview?.[2] ?? "";
+      const previewTarget = linkPreview?.[1] ? decodeHtml(linkPreview[1]) : url;
+      const imageUrl = extractPreviewImage(previewBody || chunk);
+      const previewTitle = extractClassText(previewBody, "link_preview_title");
+      const previewDescription = extractClassText(previewBody, "link_preview_description");
+      const previewSite = extractClassText(previewBody, "link_preview_site_name");
+      const preview = linkPreview || imageUrl
+        ? {
+            targetUrl: previewTarget,
+            siteName: previewSite || "Telegram",
+            title: previewTitle || summarize(text, 96),
+            description: previewDescription,
+            ...(imageUrl ? { imageUrl } : {}),
+          }
+        : undefined;
       return [
         {
           id,
           title: summarize(text, 96),
           description: summarize(text),
-          url: `https://t.me/${TELEGRAM_CHANNEL}/${id}`,
+          url,
           publishedAt: new Date(date).toISOString(),
+          ...(preview ? { preview } : {}),
         },
       ];
     })
@@ -155,6 +224,24 @@ const syncX = (previous: XItem[]): XItem[] => {
         author: {
           username: string;
         };
+        media?: Array<{
+          type: string;
+          url: string;
+          previewUrl?: string;
+        }>;
+        quotedTweet?: {
+          id: string;
+          text: string;
+          author: {
+            username: string;
+            name: string;
+          };
+          media?: Array<{
+            type: string;
+            url: string;
+            previewUrl?: string;
+          }>;
+        };
         replyCount?: number;
         retweetCount?: number;
         likeCount?: number;
@@ -169,16 +256,38 @@ const syncX = (previous: XItem[]): XItem[] => {
           tweet.text.trim() &&
           !tweet.text.trimStart().startsWith("RT @"),
       )
-      .map((tweet) => ({
-        id: tweet.id,
-        title: summarize(tweet.text, 96),
-        description: tweet.text.trim(),
-        url: `https://x.com/${X_HANDLE}/status/${tweet.id}`,
-        publishedAt: new Date(tweet.createdAt).toISOString(),
-        replies: tweet.replyCount ?? 0,
-        reposts: tweet.retweetCount ?? 0,
-        likes: tweet.likeCount ?? 0,
-      }))
+      .map((tweet) => {
+        const url = `https://x.com/${X_HANDLE}/status/${tweet.id}`;
+        const ownImage = tweet.media
+          ?.filter((item) => item.type === "photo")
+          .map((item) => normalizePreviewImage(item.previewUrl || item.url))
+          .find(Boolean);
+        const quote = tweet.quotedTweet;
+        const quoteImage = quote?.media
+          ?.filter((item) => item.type === "photo")
+          .map((item) => normalizePreviewImage(item.previewUrl || item.url))
+          .find(Boolean);
+        const preview = ownImage || quote
+          ? {
+              targetUrl: quote ? `https://x.com/${quote.author.username}/status/${quote.id}` : url,
+              siteName: quote ? `X · @${quote.author.username}` : "X",
+              title: quote?.author.name ?? "",
+              description: quote ? summarize(quote.text) : "",
+              ...(ownImage || quoteImage ? { imageUrl: ownImage || quoteImage } : {}),
+            }
+          : undefined;
+        return {
+          id: tweet.id,
+          title: summarize(tweet.text, 96),
+          description: tweet.text.trim(),
+          url,
+          publishedAt: new Date(tweet.createdAt).toISOString(),
+          replies: tweet.replyCount ?? 0,
+          reposts: tweet.retweetCount ?? 0,
+          likes: tweet.likeCount ?? 0,
+          ...(preview ? { preview } : {}),
+        };
+      })
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
   } catch (error) {
     if (REQUIRE_X) throw error;
