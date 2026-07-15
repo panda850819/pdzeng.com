@@ -23,9 +23,10 @@ Bun is the package manager and script runner everywhere — local and CI. Do not
 notes come from `@pdzeng_talk`, and top-level public X posts authored by
 `@PandaZeng1` are archived without replies or retweets. Legacy Markdown posts
 remain reachable on-site but do not appear in the Writing index.
-Grid view renders source-native previews from Substack enclosures, Telegram
-link metadata or message media, and X media or quoted-post context. List view
-stays text-first for fast archive scanning.
+Grid and list views render source-native previews from Substack enclosures,
+Telegram link metadata or message media, and X media or quoted-post context.
+Telegram keeps authored notes separate from linked content; X keeps media,
+quotes, and metrics secondary to the post text.
 
 Refresh the versioned source snapshot with `bun run sync:writing`. X refreshes
 through Panda's local read-only `bird` session. GitHub Actions does not run this
