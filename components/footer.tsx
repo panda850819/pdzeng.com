@@ -3,6 +3,7 @@ const socials = [
   { label: "X", href: "https://x.com/pandazeng1" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/wei-chieh-tseng-369303161/" },
   { label: "Telegram", href: "https://t.me/pdzeng_talk" },
+  { label: "Newsletter", href: "https://pdzeng.substack.com/subscribe" },
   { label: "RSS", href: "/rss.xml" },
 ];
 
