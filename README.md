@@ -19,10 +19,10 @@ Bun is the package manager and script runner everywhere — local and CI. Do not
 
 ## Writing content
 
-`/writing/` is a unified visual index. Legacy Markdown posts remain on-site;
-new essays come from Substack, short notes come from `@pdzeng_talk`, and public
-X posts are archived from `@PandaZeng1`. Duplicate local/Substack titles render
-once, with Substack taking precedence.
+`/writing/` is a unified visual index. Essays come only from Substack, short
+notes come from `@pdzeng_talk`, and top-level public X posts authored by
+`@PandaZeng1` are archived without replies or retweets. Legacy Markdown posts
+remain reachable on-site but do not appear in the Writing index.
 
 Refresh the versioned source snapshot with `bun run sync:writing`. X refreshes
 through Panda's local read-only `bird` session. GitHub Actions does not run this

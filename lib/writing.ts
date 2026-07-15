@@ -1,7 +1,6 @@
 import sources from "../content/writing-sources.json";
-import type { Writing } from "#content";
 
-export type WritingSource = "site" | "substack" | "telegram" | "x";
+export type WritingSource = "substack" | "telegram" | "x";
 export type WritingCategory = "blog" | "telegram" | "x";
 
 export type UnifiedWritingItem = {
@@ -20,12 +19,6 @@ export type UnifiedWritingItem = {
     likes: number;
   };
 };
-
-const normalizeTitle = (title: string) =>
-  title
-    .normalize("NFKC")
-    .toLocaleLowerCase("zh-TW")
-    .replace(/[\p{P}\p{S}\s]+/gu, "");
 
 const canonicalUrl = (url: string) => {
   if (url.startsWith("/")) return url.replace(/\/$/, "");
@@ -92,34 +85,7 @@ const sourceItems = [
   ...deduplicateByUrl(xItems),
 ];
 
-export const unifiedWriting = (localWriting: Writing[]): UnifiedWritingItem[] => {
-  const seenTitles = new Set(substackItems.map((item) => normalizeTitle(item.title)).filter(Boolean));
-  const seenUrls = new Set(substackItems.map((item) => canonicalUrl(item.url)));
-
-  const localItems = localWriting.flatMap((item) => {
-    const titleKey = normalizeTitle(item.title);
-    const urlKey = canonicalUrl(item.permalink);
-    if ((titleKey && seenTitles.has(titleKey)) || seenUrls.has(urlKey)) return [];
-    if (titleKey) seenTitles.add(titleKey);
-    seenUrls.add(urlKey);
-    return [
-      {
-        id: `site:${item.slug}`,
-        title: item.title,
-        description: item.description,
-        url: item.permalink,
-        publishedAt: item.publishedAt,
-        locale: item.locale,
-        source: "site" as const,
-        category: "blog" as const,
-        external: false,
-      },
-    ];
-  });
-
-  return [...sourceItems, ...localItems].sort(
+export const unifiedWriting = (): UnifiedWritingItem[] =>
+  [...sourceItems].sort(
     (a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.id.localeCompare(b.id),
   );
-};
-
-export const writingSnapshotUpdatedAt = sources.updatedAt;

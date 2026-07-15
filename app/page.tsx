@@ -2,10 +2,11 @@ import Link from "next/link";
 import { WordReveal, FadeUp } from "@/components/stagger";
 import { PandaHero } from "@/components/panda-hero";
 import { Marquee } from "@/components/marquee";
-import { published, allProjects } from "@/lib/content";
+import { allProjects } from "@/lib/content";
+import { unifiedWriting } from "@/lib/writing";
 
 export default function Home() {
-  const latest = published.slice(0, 4);
+  const latest = unifiedWriting().slice(0, 4);
   const projects = allProjects.filter((p) => p.featured).concat(allProjects.filter((p) => !p.featured)).slice(0, 3);
 
   return (
@@ -55,15 +56,17 @@ export default function Home() {
         </FadeUp>
         <ul>
           {latest.map((post, i) => (
-            <FadeUp key={post.slug} delay={0.08 * i}>
+            <FadeUp key={post.id} delay={0.08 * i}>
               <li className="border-t border-line">
                 <Link
-                  href={post.permalink}
+                  href={post.url}
+                  target={post.external ? "_blank" : undefined}
+                  rel={post.external ? "noreferrer" : undefined}
                   className="group flex flex-col gap-1 py-5 sm:flex-row sm:items-baseline sm:justify-between"
                 >
                   <span
                     lang={post.locale === "zh-TW" ? "zh" : "en"}
-                    className="text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
+                    className="break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
                   >
                     {post.title}
                   </span>

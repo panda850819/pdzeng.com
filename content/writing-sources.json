@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T00:07:53.000Z",
+  "updatedAt": "2026-07-15T02:36:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -52,6 +52,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4393",
+      "title": "https://x.com/aistarjp/status/2077096184905375809",
+      "description": "https://x.com/aistarjp/status/2077096184905375809",
+      "url": "https://t.me/pdzeng_talk/4393",
+      "publishedAt": "2026-07-15T02:36:45.000Z"
+    },
     {
       "id": "4392",
       "title": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又 reset 了",
@@ -242,7 +249,7 @@
       "publishedAt": "2026-06-16T00:51:53.000Z",
       "replies": 3,
       "reposts": 0,
-      "likes": 4
+      "likes": 5
     },
     {
       "id": "2058215978761338983",
