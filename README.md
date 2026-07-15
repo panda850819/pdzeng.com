@@ -24,10 +24,20 @@ new essays come from Substack, short notes come from `@pdzeng_talk`, and public
 X posts are archived from `@PandaZeng1`. Duplicate local/Substack titles render
 once, with Substack taking precedence.
 
-Refresh the versioned source snapshot with `bun run sync:writing`. The daily
-Action updates credential-free Substack and Telegram data. Local runs also
-refresh X through Panda's read-only `bird` session; CI preserves the last X
-snapshot when that session is unavailable.
+Refresh the versioned source snapshot with `bun run sync:writing`. X refreshes
+through Panda's local read-only `bird` session. GitHub Actions does not run this
+sync because it has no X login state.
+
+On Panda's Mac, `ops/me.pdzeng.sync-writing.plist` runs `bun run
+publish:writing` every 30 minutes from the canonical `main` checkout. The
+publisher requires a clean worktree and a successful `bird` refresh, runs the
+production build, then commits and pushes only `content/writing-sources.json`
+when it changed. Install it after this feature is merged:
+
+```bash
+cp ops/me.pdzeng.sync-writing.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/me.pdzeng.sync-writing.plist
+```
 
 Posts live in `content/writing/*.md`. One file per post:
 

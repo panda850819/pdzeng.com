@@ -11,6 +11,7 @@ const OUT = join(import.meta.dir, "..", "content", "writing-sources.json");
 const SUBSTACK_FEED = "https://pdzeng.substack.com/feed";
 const TELEGRAM_CHANNEL = "pdzeng_talk";
 const X_HANDLE = "PandaZeng1";
+const REQUIRE_X = Bun.argv.includes("--require-x");
 
 type SourceItem = {
   id: string;
@@ -138,7 +139,12 @@ const syncX = (previous: XItem[]): XItem[] => {
       ["bird", "user-tweets", X_HANDLE, "-n", "100", "--max-pages", "5", "--json"],
       { stdout: "pipe", stderr: "pipe" },
     );
-    if (result.exitCode !== 0) return previous;
+    if (result.exitCode !== 0) {
+      if (REQUIRE_X) {
+        throw new Error(`bird exited ${result.exitCode}: ${result.stderr.toString().trim()}`);
+      }
+      return previous;
+    }
 
     const payload = JSON.parse(result.stdout.toString()) as {
       tweets: Array<{
@@ -168,7 +174,8 @@ const syncX = (previous: XItem[]): XItem[] => {
         likes: tweet.likeCount ?? 0,
       }))
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
-  } catch {
+  } catch (error) {
+    if (REQUIRE_X) throw error;
     return previous;
   }
 };
