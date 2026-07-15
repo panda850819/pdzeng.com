@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import { published } from "@/lib/content";
-import { unifiedWriting, writingSnapshotUpdatedAt } from "@/lib/writing";
+import { unifiedWriting } from "@/lib/writing";
 import { WritingList } from "@/components/writing-list";
 
 export const metadata: Metadata = {
@@ -9,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 export default function WritingPage() {
-  const items = unifiedWriting(published);
+  const items = unifiedWriting();
 
   return (
     <div className="mx-auto w-full max-w-3xl px-6">
@@ -32,7 +31,7 @@ export default function WritingPage() {
       <div className="mt-8 border-y border-line py-4 text-sm text-muted">
         New essays publish on Substack. This page is the visual index for everything I write elsewhere.
       </div>
-      <WritingList items={items} updatedAt={writingSnapshotUpdatedAt} />
+      <WritingList items={items} />
     </div>
   );
 }

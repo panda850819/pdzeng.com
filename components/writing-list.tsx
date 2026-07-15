@@ -15,7 +15,6 @@ type Filter = "all" | WritingCategory;
 type View = "list" | "grid";
 
 const sourceLabels = {
-  site: "pdzeng.com",
   substack: "Substack",
   telegram: "Telegram",
   x: "X",
@@ -25,11 +24,11 @@ const sourceNotes: Record<Filter, React.ReactNode> = {
   all: "Latest public writing across every channel.",
   blog: (
     <>
-      Legacy essays and new issues from{" "}
+      Essays published on{" "}
       <a className="text-ink underline decoration-line underline-offset-4" href="https://pdzeng.substack.com/" target="_blank" rel="noreferrer">
         Substack
       </a>
-      , deduplicated into one index.
+      .
     </>
   ),
   telegram: (
@@ -71,7 +70,7 @@ function ItemLink({ item, className, children }: { item: UnifiedWritingItem; cla
   return <Link href={item.url} className={className}>{children}</Link>;
 }
 
-export function WritingList({ items, updatedAt }: { items: UnifiedWritingItem[]; updatedAt: string }) {
+export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
   const [filter, setFilter] = useState<Filter>("all");
   const [view, setView] = useState<View>("list");
   const [visibleCount, setVisibleCount] = useState(24);
@@ -145,7 +144,9 @@ export function WritingList({ items, updatedAt }: { items: UnifiedWritingItem[];
         </div>
         <div className="flex flex-col gap-1 text-sm text-faint sm:flex-row sm:items-baseline sm:justify-between">
           <p>{sourceNotes[filter]}</p>
-          <p className="shrink-0 tabular-nums">{filtered.length} entries · latest {formatDate(updatedAt)}</p>
+          <p className="shrink-0 tabular-nums">
+            {filtered.length} entries{filtered[0] && ` · latest ${formatDate(filtered[0].publishedAt)}`}
+          </p>
         </div>
       </div>
 
@@ -157,7 +158,7 @@ export function WritingList({ items, updatedAt }: { items: UnifiedWritingItem[];
             <li key={item.id}>
               <ItemLink item={item} className="surface-1 hairline group flex h-full flex-col rounded-lg p-5 transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover">
                 <span className="text-xs text-faint">{sourceLabels[item.source]}</span>
-                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "line-clamp-6 whitespace-pre-line"}`}>
+                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "line-clamp-6 whitespace-pre-line"}`}>
                   {item.title}
                 </h2>
                 {item.description && <p lang="zh" className="mt-2 line-clamp-4 flex-1 text-sm text-muted">{item.description}</p>}
@@ -175,7 +176,7 @@ export function WritingList({ items, updatedAt }: { items: UnifiedWritingItem[];
                   <span>{sourceLabels[item.source]}</span>
                   <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
                 </div>
-                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`text-lg text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "whitespace-pre-line leading-relaxed"}`}>
+                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`break-words text-lg text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "whitespace-pre-line leading-relaxed"}`}>
                   {item.title}
                 </h2>
                 {item.description && <p lang="zh" className="mt-1.5 line-clamp-3 max-w-2xl text-sm text-muted">{item.description}</p>}

@@ -152,6 +152,9 @@ const syncX = (previous: XItem[]): XItem[] => {
         text: string;
         createdAt: string;
         conversationId: string;
+        author: {
+          username: string;
+        };
         replyCount?: number;
         retweetCount?: number;
         likeCount?: number;
@@ -161,7 +164,10 @@ const syncX = (previous: XItem[]): XItem[] => {
     return payload.tweets
       .filter(
         (tweet) =>
-          tweet.id === tweet.conversationId && tweet.text.trim() && !tweet.text.trimStart().startsWith("RT @"),
+          tweet.author.username.toLowerCase() === X_HANDLE.toLowerCase() &&
+          tweet.id === tweet.conversationId &&
+          tweet.text.trim() &&
+          !tweet.text.trimStart().startsWith("RT @"),
       )
       .map((tweet) => ({
         id: tweet.id,
