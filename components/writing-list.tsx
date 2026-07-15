@@ -70,11 +70,54 @@ function ItemLink({ item, className, children }: { item: UnifiedWritingItem; cla
   return <Link href={item.url} className={className}>{children}</Link>;
 }
 
-function PreviewImage({ preview }: { preview?: WritingPreview }) {
+const hasMetrics = (item: UnifiedWritingItem) =>
+  Boolean(item.metrics && item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0);
+
+const telegramNote = (item: UnifiedWritingItem) =>
+  (item.description || item.title)
+    .replace(/https?:\/\/\S+/g, " ")
+    .replace(/🔗/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+const splitXCopy = (item: UnifiedWritingItem) => {
+  const text = (item.description || item.title).trim();
+  if (text.length <= 96) return { headline: text, body: "" };
+  const firstParagraphEnd = text.indexOf("\n\n");
+  if (firstParagraphEnd >= 24 && firstParagraphEnd <= 120) {
+    return {
+      headline: text.slice(0, firstParagraphEnd).trim(),
+      body: text.slice(firstParagraphEnd).trim(),
+    };
+  }
+  const excerpt = text.slice(0, 96);
+  const punctuationEnd = Math.max(
+    excerpt.lastIndexOf("。") + 1,
+    excerpt.lastIndexOf("！") + 1,
+    excerpt.lastIndexOf("？") + 1,
+  );
+  const splitAt = punctuationEnd >= 24 ? punctuationEnd : 96;
+  return {
+    headline: `${text.slice(0, splitAt).trimEnd()}…`,
+    body: text.slice(splitAt).trimStart(),
+  };
+};
+
+const previewSiteLabel = (preview: WritingPreview) =>
+  preview.siteName === "X (formerly Twitter)" ? "X" : preview.siteName;
+
+function PreviewImage({ preview, className = "aspect-[16/9]" }: { preview?: WritingPreview; className?: string }) {
   const [failed, setFailed] = useState(false);
-  if (!preview?.imageUrl || failed) return null;
+  if (!preview?.imageUrl) return null;
+  if (failed) {
+    return (
+      <div className={`${className} flex items-center justify-center overflow-hidden bg-hover text-xs text-faint`}>
+        {previewSiteLabel(preview)}
+      </div>
+    );
+  }
   return (
-    <div className="aspect-[16/9] overflow-hidden bg-hover">
+    <div className={`${className} overflow-hidden bg-hover`}>
       <img
         src={preview.imageUrl}
         alt=""
@@ -84,6 +127,125 @@ function PreviewImage({ preview }: { preview?: WritingPreview }) {
         className="h-full w-full object-cover transition-transform duration-300 [@media(hover:hover)]:group-hover:scale-[1.02]"
       />
     </div>
+  );
+}
+
+function ItemMeta({ item }: { item: UnifiedWritingItem }) {
+  return (
+    <div className="flex items-center justify-between gap-3 text-xs text-faint sm:block">
+      <time dateTime={item.publishedAt} className="tabular-nums">{formatDate(item.publishedAt)}</time>
+      <span className="sm:mt-1 sm:block">{sourceLabels[item.source]}</span>
+    </div>
+  );
+}
+
+function Metrics({ item }: { item: UnifiedWritingItem }) {
+  if (!hasMetrics(item)) return null;
+  return (
+    <p className="mt-3 text-xs text-faint tabular-nums">
+      {item.metrics!.replies} replies · {item.metrics!.reposts} reposts · {item.metrics!.likes} likes
+    </p>
+  );
+}
+
+function CompactPreview({ preview, showImage = true, primary = false }: { preview: WritingPreview; showImage?: boolean; primary?: boolean }) {
+  return (
+    <div className={`surface-2 mt-3 grid gap-3 rounded-md p-3 ${showImage && preview.imageUrl ? "grid-cols-[minmax(0,1fr)_5.5rem]" : ""}`}>
+      <div className="min-w-0">
+        <p className="text-xs text-faint">{previewSiteLabel(preview)}</p>
+        {preview.title && (
+          <p className={`mt-1 line-clamp-2 text-ink ${primary ? "text-base" : "text-sm"}`}>{preview.title}</p>
+        )}
+        {preview.description && <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-muted">{preview.description}</p>}
+      </div>
+      {showImage && preview.imageUrl && <PreviewImage preview={preview} className="aspect-square rounded-sm" />}
+    </div>
+  );
+}
+
+function GridCard({ item }: { item: UnifiedWritingItem }) {
+  if (item.source === "substack") {
+    return (
+      <>
+        <PreviewImage preview={item.preview} />
+        <div className="flex flex-1 flex-col p-5">
+          <div className="flex items-center justify-between gap-3 text-xs text-faint">
+            <span>Substack</span>
+            <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
+          </div>
+          <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className="mt-2 line-clamp-3 break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo">
+            {item.title}
+          </h2>
+          {item.description && <p lang="zh" className="mt-2 line-clamp-3 flex-1 text-sm text-muted">{item.description}</p>}
+        </div>
+      </>
+    );
+  }
+
+  if (item.source === "telegram") {
+    const note = telegramNote(item);
+    return (
+      <div className="flex h-full flex-col p-5">
+        <div className="flex items-center justify-between gap-3 text-xs text-faint">
+          <span>Telegram</span>
+          <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
+        </div>
+        {note && <h2 lang="zh" className="mt-3 line-clamp-4 whitespace-pre-line text-base leading-relaxed text-ink">{note}</h2>}
+        {item.preview ? (
+          <CompactPreview preview={item.preview} primary={!note} />
+        ) : (
+          <h2 lang="zh" className="mt-3 line-clamp-5 whitespace-pre-line text-base leading-relaxed text-ink">{item.title}</h2>
+        )}
+      </div>
+    );
+  }
+
+  const copy = splitXCopy(item);
+  const isQuote = Boolean(item.preview && (item.preview.title || item.preview.description));
+  return (
+    <div className="flex h-full flex-col p-5">
+      <div className="flex items-center justify-between gap-3 text-xs text-faint">
+        <span>X</span>
+        <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
+      </div>
+      <h2 lang="zh" className="mt-3 line-clamp-4 whitespace-pre-line text-base font-medium leading-relaxed text-ink">{copy.headline}</h2>
+      {copy.body && <p lang="zh" className="mt-2 line-clamp-3 whitespace-pre-line text-sm leading-relaxed text-muted">{copy.body}</p>}
+      {isQuote && item.preview ? (
+        <CompactPreview preview={item.preview} />
+      ) : item.preview?.imageUrl ? (
+        <PreviewImage preview={item.preview} className="mt-4 aspect-[2/1] rounded-md" />
+      ) : null}
+      <div className="mt-auto"><Metrics item={item} /></div>
+    </div>
+  );
+}
+
+function ListRow({ item }: { item: UnifiedWritingItem }) {
+  const note = item.source === "telegram" ? telegramNote(item) : "";
+  const xCopy = item.source === "x" ? splitXCopy(item) : null;
+  const continuation = xCopy?.body || item.description;
+  const showCompactPreview = Boolean(item.preview && item.source !== "substack" && (item.source === "telegram" || item.preview.title || item.preview.description));
+  const showHeading = item.source !== "telegram" || Boolean(note) || !item.preview;
+
+  return (
+    <ItemLink item={item} className="group grid gap-3 py-6 sm:grid-cols-[6.5rem_minmax(0,1fr)] sm:gap-5">
+      <ItemMeta item={item} />
+      <div className={`min-w-0 ${item.preview?.imageUrl ? "grid gap-4 sm:grid-cols-[minmax(0,1fr)_8rem]" : ""}`}>
+        <div className="min-w-0">
+          {showHeading && (
+            <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className="break-words text-base font-medium leading-relaxed text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo">
+              {item.source === "telegram" ? note || item.title : xCopy?.headline || item.title}
+            </h2>
+          )}
+          {item.source !== "telegram" && continuation && (
+            <p lang="zh" className="mt-1 line-clamp-3 max-w-2xl whitespace-pre-line text-sm leading-relaxed text-muted">{continuation}</p>
+          )}
+          {showCompactPreview && item.preview && <CompactPreview preview={item.preview} showImage={false} primary={!note && item.source === "telegram"} />}
+          <Metrics item={item} />
+        </div>
+        {item.preview?.imageUrl && <PreviewImage preview={item.preview} className="aspect-[4/3] w-28 rounded-md sm:w-full" />}
+      </div>
+    </ItemLink>
   );
 }
 
@@ -174,29 +336,7 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
           {visible.map((item) => (
             <li key={item.id}>
               <ItemLink item={item} className="surface-1 hairline group flex h-full flex-col overflow-hidden rounded-lg transition-colors duration-150 [@media(hover:hover)]:hover:bg-hover">
-                <PreviewImage preview={item.preview} />
-                <div className="flex flex-1 flex-col p-5">
-                  <div className="flex items-center justify-between gap-3 text-xs text-faint">
-                    <span>{sourceLabels[item.source]}</span>
-                    <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
-                  </div>
-                  <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`mt-2 flex-none break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "line-clamp-3" : "line-clamp-5 whitespace-pre-line"}`}>
-                    {item.title}
-                  </h2>
-                  {item.description && <p lang="zh" className="mt-2 line-clamp-3 flex-1 text-sm text-muted">{item.description}</p>}
-                  {item.preview && (item.preview.title || item.preview.description) && item.source !== "substack" && (
-                    <div className="mt-4 border-t border-line pt-3">
-                      <p className="text-xs text-faint">{item.preview.siteName}</p>
-                      {item.preview.title && <p className="mt-1 line-clamp-2 text-sm text-ink">{item.preview.title}</p>}
-                      {item.preview.description && <p className="mt-1 line-clamp-2 text-xs text-muted">{item.preview.description}</p>}
-                    </div>
-                  )}
-                  {item.metrics && (item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0) && (
-                    <p className="mt-4 text-xs text-faint tabular-nums">
-                      {item.metrics.replies} replies · {item.metrics.reposts} reposts · {item.metrics.likes} likes
-                    </p>
-                  )}
-                </div>
+                <GridCard item={item} />
               </ItemLink>
             </li>
           ))}
@@ -205,21 +345,7 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
         <ul>
           {visible.map((item) => (
             <li key={item.id} className="border-b border-line">
-              <ItemLink item={item} className="group block py-6">
-                <div className="mb-2 flex items-center justify-between gap-4 text-xs text-faint">
-                  <span>{sourceLabels[item.source]}</span>
-                  <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
-                </div>
-                <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className={`break-words text-lg text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo ${item.category === "blog" ? "" : "whitespace-pre-line leading-relaxed"}`}>
-                  {item.title}
-                </h2>
-                {item.description && <p lang="zh" className="mt-1.5 line-clamp-3 max-w-2xl text-sm text-muted">{item.description}</p>}
-                {item.metrics && (item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0) && (
-                  <p className="mt-3 text-xs text-faint tabular-nums">
-                    {item.metrics.replies} replies · {item.metrics.reposts} reposts · {item.metrics.likes} likes
-                  </p>
-                )}
-              </ItemLink>
+              <ListRow item={item} />
             </li>
           ))}
         </ul>
