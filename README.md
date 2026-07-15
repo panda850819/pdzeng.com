@@ -28,16 +28,11 @@ Refresh the versioned source snapshot with `bun run sync:writing`. X refreshes
 through Panda's local read-only `bird` session. GitHub Actions does not run this
 sync because it has no X login state.
 
-On Panda's Mac, `ops/me.pdzeng.sync-writing.plist` runs `bun run
-publish:writing` every 30 minutes from the canonical `main` checkout. The
-publisher requires a clean worktree and a successful `bird` refresh, runs the
-production build, then commits and pushes only `content/writing-sources.json`
-when it changed. Install it after this feature is merged:
-
-```bash
-cp ops/me.pdzeng.sync-writing.plist ~/Library/LaunchAgents/
-launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/me.pdzeng.sync-writing.plist
-```
+Production scheduling is managed outside this repository on Panda's VPS. The
+host runs `bun run publish:writing` every 30 minutes from the canonical `main`
+checkout. The publisher requires a clean worktree and a successful `bird`
+refresh, runs the production build, then commits and pushes only
+`content/writing-sources.json` when it changed.
 
 Posts live in `content/writing/*.md`. One file per post:
 
