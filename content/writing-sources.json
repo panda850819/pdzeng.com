@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:28:09.000Z",
+  "updatedAt": "2026-07-15T16:28:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4397",
+      "title": "Ok nice lets make sth cool bro",
+      "description": "Ok nice lets make sth cool bro",
+      "url": "https://t.me/pdzeng_talk/4397",
+      "publishedAt": "2026-07-15T16:28:29.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4397",
+        "siteName": "Telegram",
+        "title": "Ok nice lets make sth cool bro",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/orByz7x9ouTmivyKrhq3jr9b9ayTS7goBT3D5xogJYvLpiFsT1ZKKviUdJlW5Rdf1uEYzETtjU4hFRGZpDo3sK7k5Ax5GKZpWNwxv6mPvIylPPlRB4ZTds0jwfCO6lx_Wf-N3DLE-QgsLy_kZhwvspdsrB---4s1LHCbu71wYZ1Q0OjIooF0axllM3gtUBCiv1FOvC4PTvtTF5f6SPZrQJR9Q8DkqmLbExE71cGunpIWO_Xet7FX6s4EyG1dk-mMNMy1gRemsbH3Uz6JTf7R4IaGnd0_1o8TVJsoYI3Zr2tGCkISWRlUnMQacREkaiDWF400iUDWfGxJbK-jPgRllw.jpg"
+      }
+    },
+    {
+      "id": "4396",
+      "title": "...",
+      "description": "...",
+      "url": "https://t.me/pdzeng_talk/4396",
+      "publishedAt": "2026-07-15T16:09:15.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4396",
+        "siteName": "Telegram",
+        "title": "...",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/I9a1REoc2sBekbOPNYy3nVuNmYHLi1QbOBkPDPMqUEUd_XVrL8-rvw7jW82SKo_cMMvOU_Ul3Om5V_ub-u4GGE8miEZt0Q99h-xc0eIUi7erzi6tHrrgyJW7tx80Vd1bXCMygTj7MlzJHwzgoRZ0JI-xPkpPRcdXyasInqRTp7gsyyFGhgdfxrXx2LTA0aCDoWEdJHu2svJik3q4Gg1XJtuOEkCZUN6_PGCip4F4FuELojzKtX3S3DYjSY_6K6Kp0KVhAShA28jt2z_-LEgGEdQz4RYbXYQlnEwIE3U4ENtjs3A6UTXUXR_Up37aSgJECxag3XzNVSqCpRNTkOnL4w.jpg"
+      }
+    },
     {
       "id": "4395",
       "title": "1c7/chinese-independent-developer 🔗 https://github.com/1c7/chinese-independent-developer #githu…",
