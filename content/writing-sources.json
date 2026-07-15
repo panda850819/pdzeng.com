@@ -6,49 +6,98 @@
       "title": "龐龐 - 我們永遠的可愛寶貝",
       "description": "原來四年這麼快，還以為是五年甚至更久。經歷了祢的 1/3，我們都很開心。謝謝祢最後選擇我們！",
       "url": "https://pdzeng.substack.com/p/0af",
-      "publishedAt": "2026-05-23T15:50:42.000Z"
+      "publishedAt": "2026-05-23T15:50:42.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/0af",
+        "siteName": "Substack",
+        "title": "龐龐 - 我們永遠的可愛寶貝",
+        "description": "原來四年這麼快，還以為是五年甚至更久。經歷了祢的 1/3，我們都很開心。謝謝祢最後選擇我們！",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!k2Im!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed831c15-3e50-4fc1-a992-53d105751f49_2365x1330.jpeg"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/ai-harness",
       "title": "我的 AI 架構真的 Harness 嗎？",
       "description": "從 pandastack v1.0、Obsidian vault 清理到 gbrain 遷移 Postgres，記錄我如何重建個人 AI agent harness 與知識庫。",
       "url": "https://pdzeng.substack.com/p/ai-harness",
-      "publishedAt": "2026-05-03T15:40:41.000Z"
+      "publishedAt": "2026-05-03T15:40:41.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/ai-harness",
+        "siteName": "Substack",
+        "title": "我的 AI 架構真的 Harness 嗎？",
+        "description": "從 pandastack v1.0、Obsidian vault 清理到 gbrain 遷移 Postgres，記錄我如何重建個人 AI agent harness 與知識庫。",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!JYEi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55473847-8d7c-49c5-8194-815b2cfc995f_1672x941.png"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/fd5",
       "title": "很忙，但好像什麼都還沒做",
       "description": "做了開源語音工具 Murmur Voice、創建了 pstack、跑通宵研究循環、去了釜山,但回頭看好像什麼都還沒完成。",
       "url": "https://pdzeng.substack.com/p/fd5",
-      "publishedAt": "2026-04-06T15:18:24.000Z"
+      "publishedAt": "2026-04-06T15:18:24.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/fd5",
+        "siteName": "Substack",
+        "title": "很忙，但好像什麼都還沒做",
+        "description": "做了開源語音工具 Murmur Voice、創建了 pstack、跑通宵研究循環、去了釜山,但回頭看好像什麼都還沒完成。",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!XfGu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93f19729-a5b5-4a8a-b527-f2ebb16f4811_2172x1448.jpeg"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/01",
       "title": "月報 #01 - 閒不下來的一月",
       "description": "科技始終源自於人性。所以在 AI 時代，越懶的人越能發揮出 AI 真正的價值。",
       "url": "https://pdzeng.substack.com/p/01",
-      "publishedAt": "2026-02-01T06:46:43.000Z"
+      "publishedAt": "2026-02-01T06:46:43.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/01",
+        "siteName": "Substack",
+        "title": "月報 #01 - 閒不下來的一月",
+        "description": "科技始終源自於人性。所以在 AI 時代，越懶的人越能發揮出 AI 真正的價值。",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!XM4K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd6f17f6-f46f-41f5-915c-2fcab1a4b87d_4032x2268.jpeg"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/2025",
       "title": "2025 年報 - 決策之年",
       "description": "今年是我體感最快的一年，關於結婚、離職、健康，每一個決定都在塑造未來的自己。",
       "url": "https://pdzeng.substack.com/p/2025",
-      "publishedAt": "2026-01-01T02:50:07.000Z"
+      "publishedAt": "2026-01-01T02:50:07.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/2025",
+        "siteName": "Substack",
+        "title": "2025 年報 - 決策之年",
+        "description": "今年是我體感最快的一年，關於結婚、離職、健康，每一個決定都在塑造未來的自己。",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!yXPE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd668d714-99b1-4f3d-9d27-f9b7330a7edb_1086x724.jpeg"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/6cd",
       "title": "錯！你認識的敏捷開發根本不敏捷！",
       "description": "什麼是敏捷開發？如果你是一個剛接觸敏捷開發的新手，你一定會有很多疑問。",
       "url": "https://pdzeng.substack.com/p/6cd",
-      "publishedAt": "2023-06-24T05:42:01.000Z"
+      "publishedAt": "2023-06-24T05:42:01.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/6cd",
+        "siteName": "Substack",
+        "title": "錯！你認識的敏捷開發根本不敏捷！",
+        "description": "什麼是敏捷開發？如果你是一個剛接觸敏捷開發的新手，你一定會有很多疑問。",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!huWE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e4b8cef-305d-4bd3-a8fd-5dbde4bf88de_810x942.png"
+      }
     },
     {
       "id": "https://pdzeng.substack.com/p/478",
       "title": "忙碌不代表有生產力",
       "description": "如何透過子彈筆記及四象限管理法找回自己的時間",
       "url": "https://pdzeng.substack.com/p/478",
-      "publishedAt": "2023-02-21T09:23:22.000Z"
+      "publishedAt": "2023-02-21T09:23:22.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/478",
+        "siteName": "Substack",
+        "title": "忙碌不代表有生產力",
+        "description": "如何透過子彈筆記及四象限管理法找回自己的時間",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!Urbo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5307c4bc-3af6-4d2c-87e8-9374ace3ea82_6000x4000.jpeg"
+      }
     }
   ],
   "telegram": [
@@ -57,91 +106,182 @@
       "title": "openinterpreter/openinterpreter 🔗 https://github.com/openinterpreter/openinterpreter #github",
       "description": "openinterpreter/openinterpreter 🔗 https://github.com/openinterpreter/openinterpreter #github",
       "url": "https://t.me/pdzeng_talk/4394",
-      "publishedAt": "2026-07-15T02:55:08.000Z"
+      "publishedAt": "2026-07-15T02:55:08.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/openinterpreter/openinterpreter",
+        "siteName": "GitHub",
+        "title": "GitHub - openinterpreter/openinterpreter: A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi",
+        "description": "A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi - openinterpreter/openinterpreter",
+        "imageUrl": "https://cdn4.telesco.pe/file/VuTzJvii2FuYjdCC5PIQeEKeEOtcM8MWF_vsrAybhgmc0DJ7JDGpjxl2DjFTHizFgwE70ANpQfx6XjZzj4C215L5mo_VMhxqkhW1VmbD8HJk6TxnvKAVVFJR1LSYdB3hM1wOBK3lelQsZn0DL1z9tj_BU9OPSpIdK42sBAC596Rb5UspkWQbv1E5mjfweKYnAPgm9r1aQ-wDOpQCP8BE3jy0z8haqKDZfLgyk0JMvBOGw_qjvqtHrnxyTSxa1XRY0rhP3ttJxf34z0tcldAhjS9SV8AH-NjE9dPBoODUa5mGjC20BLZugh7OyY3PdlZu1eWCw0BAUrnVjlNebYKCeA.jpg"
+      }
     },
     {
       "id": "4393",
       "title": "https://x.com/aistarjp/status/2077096184905375809",
       "description": "https://x.com/aistarjp/status/2077096184905375809",
       "url": "https://t.me/pdzeng_talk/4393",
-      "publishedAt": "2026-07-15T02:36:45.000Z"
+      "publishedAt": "2026-07-15T02:36:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/aistarjp/status/2077096184905375809",
+        "siteName": "X (formerly Twitter)",
+        "title": "Kaz (@aistarjp) on X",
+        "description": "【Codexガチ勢に朗報】 OpenAI Build Week開催中！ 参加申請するだけで $100相当のCodexクレジットがもらえる 【正確な手順】 1. https://t.co/yCfGhMUPfv に参加申し込み 2. Resourcesタブから「request $100 in Codex credits」を申請 → 7月17日 12:00 PM PTまで（なくなり次第終了）",
+        "imageUrl": "https://cdn4.telesco.pe/file/rV95knNP2SmQp7uRZTOF7kMHspynCQgFGpaOh_zu0tP6GUWeplvD-gADByKPm6fBTIiq1PfCimRpZZFuoraLPflgWdN2CEKss8M3iTIj-ieUCtHgO-sUR2K1eY1F4k5_ukgkqklkDH3GmzeGiDiQqc0GBwxi5-4vFGyS23cgFz28n95j8UqzSM8f0sE9H2h_L_F-ShLms4QO1kNRW8j2f6xbXiuvfdgsb4hknyz34Pn9GPUVU6aGa_XwGMfIs-BYxm1Qg9nG4ryzUYIqyDwTCRT5TNIrIALl2_meMJEwlYpAlt8UPc-PwIJI-ZTIr8hw8lZ4KBLiDcFrj9QKcFssAA.jpg"
+      }
     },
     {
       "id": "4392",
       "title": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又 reset 了",
       "description": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又 reset 了",
       "url": "https://t.me/pdzeng_talk/4392",
-      "publishedAt": "2026-07-15T00:07:53.000Z"
+      "publishedAt": "2026-07-15T00:07:53.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Tibo (@thsottiaux) on X",
+        "description": "Hello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how…",
+        "imageUrl": "https://cdn4.telesco.pe/file/bOiRjulphjOolQB2EhVENguj-EGW4_yny2okeUhWijEjrfU1kxZAnDKJYakHdUDbedjisyD3B__CHap8X9Tn_v_wPPjK7pkGuAB_6IamRIT2rhl40ICedHsoQ8JeI3roL1VFzw05uqflnD1CSqMQXU6J39a6EfMar_TyKFea4rjJ9bBnx2c9wugwBgfrBeCWCYYGycM4G-lg-PBoxEC1xLYAJsBuCVXbG0qwQPUgFn6LxZBZgealvA7QrhPOELH5iynaMSK411iVLQ0XmDweIPg2ARJeAkAOad8nFIDbOy8ShQMwS2npRHlqCkzZRa8BuT-ELjR2gkA0t-iNyrg2Hg.jpg"
+      }
     },
     {
       "id": "4391",
       "title": "腦中一直有個印象就是前一陣子 Cursor Design Lead 在外面演講什麼的 順便找到這個，蠻酷的，希望能重拾一些樂趣 https://x.com/ryolu_/status/2076…",
       "description": "腦中一直有個印象就是前一陣子 Cursor Design Lead 在外面演講什麼的 順便找到這個，蠻酷的，希望能重拾一些樂趣 https://x.com/ryolu_/status/2076713331113734641",
       "url": "https://t.me/pdzeng_talk/4391",
-      "publishedAt": "2026-07-14T01:29:51.000Z"
+      "publishedAt": "2026-07-14T01:29:51.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/ryolu_/status/2076713331113734641",
+        "siteName": "X (formerly Twitter)",
+        "title": "Ryo Lu (@ryolu_) on X",
+        "description": "built a custom e-reader firmware with Cursor, hardware hacking is fun! made for: – beautiful latin + CJK typography – vertical layout, line breaking, large character sets (縱書．禁則) – syncs books + progress with ryOS – speedy rendering + caching",
+        "imageUrl": "https://cdn4.telesco.pe/file/dcXEo3y4RCA2lTm7yPm7T83H1Y19ZA54YwbwryVbrR_LvfVdbcHti-ng6AlIuKJaL4HgcmCGPA17xlBGS4jZB422QeXEUAfCP-Zd-QLNCoShEO1D7oqxnHs3chBcyhOwcMnXQavkbypQt2Rkqy_NAYRRLocwsoAR2PlANrlYHUwOC-Zh-XWJPXBIAzyCzyoqI3rdXHoHKATPJRVqM3Pi8hDb0KAsrYnmSboiZARjAXfkABtoIta7vRbfcXKNkAp5AYYWSzJPbw5u-0jtRmk8ZLjlS5IvSKeTL3-nM81sijbQjVQWPicM1K0VmUQxiNYihRatsTGFan8fNTAXBY40pQ.jpg"
+      }
     },
     {
       "id": "4390",
       "title": "https://x.com/jenny_wen/status/2076835503731515791 又變動了 anthropic design lead 去了 cursor",
       "description": "https://x.com/jenny_wen/status/2076835503731515791 又變動了 anthropic design lead 去了 cursor",
       "url": "https://t.me/pdzeng_talk/4390",
-      "publishedAt": "2026-07-14T01:26:11.000Z"
+      "publishedAt": "2026-07-14T01:26:11.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/jenny_wen/status/2076835503731515791",
+        "siteName": "X (formerly Twitter)",
+        "title": "jenny wen (@jenny_wen) on X",
+        "description": "all my friends are more impressed about the TBPN thing than my actual role 😑",
+        "imageUrl": "https://cdn4.telesco.pe/file/HdbwJJdVg9KaESQHcBXuz14JKaqaEa5i9__5aj8m4_4cUBSMYJ9RAUPsJazaXLggxjAjpfpCTckjgc53tZpNeJAa2hq2vpkdV8yKL6Zm-6jGkiNFlIzGtldl5P0iXEDHUr0WcrTMzluybrzaPa8mHwOMtYqKKt_6ezujTSNxJD4P1Lk-rYh2GlPLS4vQJGMqeQNJog2b9cJojl3FZnmK-BugA4__DGAnJZi__lqBg4c4SJLss81fxBKEf_1DhD-bQ510vI4hdVAoSJL1f56MrVy1RTOg5-_WS5D0HfvQ-VzKgbF_QkJ5qvMKXFgTspDpaMf1ue8ux-mqewKTUwvfgQ.jpg"
+      }
     },
     {
       "id": "4389",
       "title": "https://x.com/0xlogiclog/status/2076658081417802022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
       "description": "https://x.com/0xlogiclog/status/2076658081417802022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
       "url": "https://t.me/pdzeng_talk/4389",
-      "publishedAt": "2026-07-14T00:31:54.000Z"
+      "publishedAt": "2026-07-14T00:31:54.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xlogiclog/status/2076658081417802022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "罗格 Roge | Web3 Security & Arb (@0xLogicLog) on X",
+        "description": "已经一年了，感慨。 当时自己其实模糊看到了这一层，但是只有真正踩坑的时候，才进一步理解自己看到的理论，到底是怎么发挥作用的。 这一年做了很多东西： 套利系统、MEV、低延迟、链上执行、订单流研究。",
+        "imageUrl": "https://cdn4.telesco.pe/file/R74CRoeCiT_iabxRiuxy-iYdv7g6lLHx2rtWOhfvTYsbcVPG7UKeamUHQBoEWbwOkB2bQkPl-hfsDDdg5AZDBpghClbe6jRx8jdTNyy45MY657yYgAXNCzImCWgBUrT9rL3HFG7DRXTUuHPji73xcA6mfOjo15tMms-kFgyvedRoUQ7xw88RSF25iguzfCYSZ57dxX2WBTz9BI5E0qo7_orMIr3Ba7YaPxSusK1pIBxhgsfT3HcqOQwi9_Jw2UhQlDzAwdmu0uqPTnl_G4eU8sqscZaJYVPgRSgoYuOZ7bRMhbM1DMNaUL3J-RoA4rzsxl3sK-zBMYqFPNN6tFj7AQ.jpg"
+      }
     },
     {
       "id": "4388",
       "title": "https://x.com/thsottiaux/status/2076735790567338203?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又送了一個",
       "description": "https://x.com/thsottiaux/status/2076735790567338203?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又送了一個",
       "url": "https://t.me/pdzeng_talk/4388",
-      "publishedAt": "2026-07-14T00:26:00.000Z"
+      "publishedAt": "2026-07-14T00:26:00.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/thsottiaux/status/2076735790567338203?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Tibo (@thsottiaux) on X",
+        "description": "Thank you to the 7M active users who are now using Codex and ChatGPT Work. We have added a banked reset to everyone's account to celebrate the milestone. You can apply the reset in the desktop app or on web and it will replenish the weekly usage for you.…",
+        "imageUrl": "https://cdn4.telesco.pe/file/qYW3UogEHMXOVLmeLggULaw05FFaPD459O5HjpLCFBKvuY3_d2blW_t0rXdOUfEjWfFoJIPZkkOmQaf5gve6vyth3LD-pVGQ1cjR7fvwplZM5EZ17zs10rpXSNcyJR2Mvsk6Wswyiu7NWltJaT9e4u1wxnlVMRtnZpFVzOPaNYQDbH3ogXzfU04Bs0Ox1U_4R1IlSpNUwJLF78pqtweW_1opMizft8Qhb5ireNWAffan1v_CPhPUk4K_-Y4vWNMvTrsEzCKMTK05QfbaSQD8uKgMoNAOJRgdiTAPKKmv5Dzk-IkssrqSgncTLg-r9AT4IqeHl9f0u5k9nOlR-t9nmQ.jpg"
+      }
     },
     {
       "id": "4387",
       "title": "googler",
       "description": "googler",
       "url": "https://t.me/pdzeng_talk/4387",
-      "publishedAt": "2026-07-13T16:27:20.000Z"
+      "publishedAt": "2026-07-13T16:27:20.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4387",
+        "siteName": "Telegram",
+        "title": "googler",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/XCn2me9CDa18Y-1VfAzZ5EdbSGU_aARzeZxp3AwfKqRVrDOBYqbBqTFdkcChfgyM1z6jUjn2gUR-ssDWG5Ipom6F3E3uyhUsqVwr9uCw_RExK751swZcZ0j-JnxLssKv4EgUecAtf6_p1zFk0cDqDI6ntsX4ZOU_WSYllQfQ0lBSK0EJruyr-O8uE4HcxZdDiBNLlbjAszRRZjp6CRifdE4czCkkTSKEIuX4GHGY3AmO14O-QT9a2gv-LHq7xPK-Slu3WrcLk50R-7l2T_5iND7Hpbjcf3jNnWviBDTOrgXkY9Ya9TgSYAFXSLCuHEcngxDtTD0uY9xQfqq3_hf5mA.jpg"
+      }
     },
     {
       "id": "4386",
       "title": "開始搞 vps",
       "description": "開始搞 vps",
       "url": "https://t.me/pdzeng_talk/4386",
-      "publishedAt": "2026-07-13T14:46:18.000Z"
+      "publishedAt": "2026-07-13T14:46:18.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4386",
+        "siteName": "Telegram",
+        "title": "開始搞 vps",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/Se2KRJFXdMLoeGf_O-DKvadirM6b8z09DEXQ1uVgSVVZbiCmhIeXfbcowQcNqHbrr74cf69RT9fVI85yYg3wWYKjyRN9roi4QiD3PYaFS4KfpPa6WfmbaEkTJ7HeY88c5QbjMUtyCRBBl4LO2s-551_9QqutFY4ndwj_ojaH8k-BgIqbPEGktewg5yADK0NlSCguQVie9AxyHtSg9EAJSAVMbrdRNpKn8Jj4ZAAhERVVrlxfknxzYl5dbgr8iRSjKCpNFRNUjCNK5GAnSmvO_CUkcm_iTwand4EjAvNZ9ldd-c_LtTvwaWj8TEBlYtZileT6FN01mZoRo580-YGP_w.jpg"
+      }
     },
     {
       "id": "4385",
       "title": "給了 100u",
       "description": "給了 100u",
       "url": "https://t.me/pdzeng_talk/4385",
-      "publishedAt": "2026-07-13T14:02:38.000Z"
+      "publishedAt": "2026-07-13T14:02:38.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4385",
+        "siteName": "Telegram",
+        "title": "給了 100u",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/FlEiUVTvfllkQqL08DHGhErqWHAbDPGOc5dVkOVG37y9qyYu77OD2Qr8I-Y3dT2mQ_YuHOS7gIcwwK3soZ77bjxnIe_npwJwH3PDHQJL7FPsr9g8BzhdjwFhA9hb3XxFH9rcrFCKnbP9egteozw6Anbb7wJ7NzaNx4TmVC7wJQQNHG-BOZ5T1VpvL-Blj863Y6yyPu0mO2468hkZzCK-IUeAsQQ0WJz-N2qQOqI3YnjivBmOlsj3T_vTyJ0WBltP026NIt4Qc6djex9ZA7DjJPe0bM1OTnDqYdJl9SawUiI7KyiM8Onc0BHFJnto4MMbREqVeW455dLFVXXg76EIBQ.jpg"
+      }
     },
     {
       "id": "4384",
       "title": "https://www.yamanote.fun/",
       "description": "https://www.yamanote.fun/",
       "url": "https://t.me/pdzeng_talk/4384",
-      "publishedAt": "2026-07-13T12:53:34.000Z"
+      "publishedAt": "2026-07-13T12:53:34.000Z",
+      "preview": {
+        "targetUrl": "https://www.yamanote.fun/",
+        "siteName": "Yamanote.fun",
+        "title": "https://www.yamanote.fun/",
+        "description": "The sound of riding the Yamanote Line all the way around Tokyo, station by station.",
+        "imageUrl": "https://cdn4.telesco.pe/file/otk0tbHQ6u2Zv9aVjijLNAFOxIAAaW7BYBXDwSvfvu0QJKUvptp-xO4qLTeTGBCJ77Xyzz03CFuLT_l4Ldvm-5niP4uTxDAvFtbkkjJ0J8WiBMXm42tlnoc9UucaQR6w5JWwuknookvJAS9tK0MPPst-ENfiiEnCQTvVTbuIHj88IIlxLyvefKu5-vrUtoy_jIDYn9UKrEwtoP9LDoX4JqCQzQjKg1gAR0qHViadnQJz7vJQ5QxXsK5EjSfI516L_s3hD7yFNU4CZ4b7WrOq2yzyfv_3UTtTg0Qq0-260FMjkZeiu-ZYel-2RwgS61rvwgZjTJUN3_WQ20Kfg7RZBg.jpg"
+      }
     },
     {
       "id": "4383",
       "title": "https://x.com/sama/status/2075983427019612242?s=20 超好笑",
       "description": "https://x.com/sama/status/2075983427019612242?s=20 超好笑",
       "url": "https://t.me/pdzeng_talk/4383",
-      "publishedAt": "2026-07-13T12:30:14.000Z"
+      "publishedAt": "2026-07-13T12:30:14.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/sama/status/2075983427019612242?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Sam Altman (@sama) on X",
+        "description": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+        "imageUrl": "https://cdn4.telesco.pe/file/NXTnNn68969_Tzez94v6nY0_opkKlEA1QEAMdHxekr_RewBoBWtG_aZTBuiXn1fEiwOADa6oVk3mzWy3KGN2WevLVIW6MziYC33zfuaN56-blaFXuTVBBcTgUZ9L64TB2AqHqqkUqa6CnJ6BDeg5QoOz7hJ2plpbLLlBZOmmrHH-7Jym9D7JvF8jx89QQ7lUyYUuvL-6hrkJQxDYRP2YmSTsv6No2e6I92eeDLUMaur0iIrPgimpHcYsGXb-Wf1yZoYXPo5wL8Av9Svwfv6wU3fAddrwYl1HjlRPvBtIyXMcm9nMgkwOFEaaPlI5OcF7wyEP_0zSx_JEnWMMMYgSeA.jpg"
+      }
     },
     {
       "id": "4382",
       "title": "聽兩個都在第一線 AI Lab 交談原來是如此舒服 裡面有很多 insights 值得好好思考 https://youtu.be/I0DrcsDf3Os OpenAI 翁家翌 ：AGI 的世界…",
       "description": "聽兩個都在第一線 AI Lab 交談原來是如此舒服 裡面有很多 insights 值得好好思考 https://youtu.be/I0DrcsDf3Os OpenAI 翁家翌 ：AGI 的世界必將到來...",
       "url": "https://t.me/pdzeng_talk/4382",
-      "publishedAt": "2026-07-13T12:17:20.000Z"
+      "publishedAt": "2026-07-13T12:17:20.000Z",
+      "preview": {
+        "targetUrl": "https://youtu.be/I0DrcsDf3Os",
+        "siteName": "YouTube",
+        "title": "翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4",
+        "description": "本期嘉宾翁家翌。他在 2022 年加入 OpenAI，并且是 OpenAI 一系列核心模型背后的核心贡献者之一——从 GPT-3.5、GPT-4、再到 GPT-5，你能看到的那些关键跃迁里，都有他的身影；而他最主要的贡献，你可以先记住三个词：强化学习、post-training、infra。 但对我来说，翁家翌不只是“把模型做得更强的人”。在成为 OpenAI 研究员之前，他就已经用开源和产品影响过无数人：把知识与资料公开、试图打破信息差；把做工具称作一种“慈善”——在他的价值观里，开源不是履历装饰…",
+        "imageUrl": "https://cdn4.telesco.pe/file/hWBF2axxZTykDkYq8_Q70x3F-y9f9w-9Fxj6WTkhcf38DtYooxUCnuFP6ZrLB_iOYwVht9_1MMBxFiV2NuLjWcvhgeL8OKCwgR1SUJgUAVV2l4mVJsjP1wOGLRrBr2N0uAcqbsqKaZjABDx4qpeNmKokNgW5m-QTABcSgqRflpUlLBGc5B-IShXxKq2jGEKdSpYJkRfhcqp6-9Tv9TBwVq0WtDG_vdoFecpInynXCZuLQqbdh9vTnpavedH0OHH5yQ_mPX4oZCc8PAFGgd3flp7HIKuSS9-S-m7GMVeYyy9fF6VAjLjN_J2Qx4604KGsSWkRjR31RaIM4IYEj03MwA.jpg"
+      }
     },
     {
       "id": "4381",
@@ -155,21 +295,42 @@
       "title": "▶️ 把打工说的这么高级！！！ #youtube https://www.youtube.com/watch?v=kg2r36eEJeY",
       "description": "▶️ 把打工说的这么高级！！！ #youtube https://www.youtube.com/watch?v=kg2r36eEJeY",
       "url": "https://t.me/pdzeng_talk/4380",
-      "publishedAt": "2026-07-13T12:13:18.000Z"
+      "publishedAt": "2026-07-13T12:13:18.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=kg2r36eEJeY",
+        "siteName": "YouTube",
+        "title": "把打工说的这么高级！！！",
+        "description": "不定时更新，欢迎大家订阅观看更多。#大学老师 #小趴菜 #shorts#无痛",
+        "imageUrl": "https://cdn4.telesco.pe/file/CS9z4NyK8JWXNMB3v0UGjLy7U3ZcNcsKpae44QvqvmSiSsn2crg-wMn7dVEvXnypcGYBgF19noX6y0Bvp8mOf5mnC1K2ec1VD59vIuJUNdgl8xTvDl-UCVzuXcXBbHLA-pLfsxx3iGAIngJhnAGmAJn2K7WokrGAem9ey7R68_gMKCg8pUFJO-FLWe1tdxDRBYsWzQUE-zrFtUFu0mrN8NhlhAMPAYqDsq8g6Wwp6Twrgy95OBb8SFJup_ifTYm7gpk-mVm_FynB8JDsia1gePmk0yxknEpH6pcticWmVfpMuVapYLbNT62Trl0TocCCYoyH4EY6Qb0Ww7rLsFTTpw.jpg"
+      }
     },
     {
       "id": "4379",
       "title": "0x0funky/agent-sprite-forge 🔗 https://github.com/0x0funky/agent-sprite-forge #github",
       "description": "0x0funky/agent-sprite-forge 🔗 https://github.com/0x0funky/agent-sprite-forge #github",
       "url": "https://t.me/pdzeng_talk/4379",
-      "publishedAt": "2026-07-13T11:03:18.000Z"
+      "publishedAt": "2026-07-13T11:03:18.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/0x0funky/agent-sprite-forge",
+        "siteName": "GitHub",
+        "title": "GitHub - 0x0funky/agent-sprite-forge: Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated…",
+        "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. - 0x0funky/agent-sprite-forge",
+        "imageUrl": "https://cdn4.telesco.pe/file/fniRecaue5FZT9oaZAtabHQ0Awn9cljxyOxeilNGj6m2Ncw8eTj9wfx2VTPweW358-PFodCx6D0W8VSaiqhvu5YGjmUsPVv3A2RQ6rTohZwc3_8arN-EkgItOwtVyLPNvAmVGT2YJXFiKz2PXcKJqNXkCi2_5m4WGXo9JV0HAjEvxWfSx3CXhjhyDpEZ8MAQ-DPIhmrWPebgVeRKXK6I5VWL9uM0xZb5wmP3P7xvphwuKIvJXOzPdNR1tJ_hgToJR9N5LIiLY9GNeiYKCZXVSnXzZm2mx8Ssxyl-CVBRVStzrajXkvC91W-XRa6RFmv4lPzPyLyD14qsLspiFZoelw.jpg"
+      }
     },
     {
       "id": "4377",
       "title": "我知道他是个畜生 …… 但是我现在不得不用，因为我现在就是需要一个没有道德的模型。为了安全，我直接扔 docker 里面跑。",
       "description": "我知道他是个畜生 …… 但是我现在不得不用，因为我现在就是需要一个没有道德的模型。为了安全，我直接扔 docker 里面跑。",
       "url": "https://t.me/pdzeng_talk/4377",
-      "publishedAt": "2026-07-13T05:09:43.000Z"
+      "publishedAt": "2026-07-13T05:09:43.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4377",
+        "siteName": "Telegram",
+        "title": "我知道他是个畜生 …… 但是我现在不得不用，因为我现在就是需要一个没有道德的模型。为了安全，我直接扔 docker 里面跑。",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/LzlFK_5Hth2M__RKYEcgb4eRhLa__coZuMdFo8krat_N96cnqyzdZivQqQ5wF8-KLiLpMKa_BJHqiJ7bVsjaO0gCmUUfvXh0ofstizVzSRQzUkCb8WZJy5fOl6uhs_rfHbypz0nVIzSb-NvQkN0Gm2zPKuRY4hXX-AxSWEFERgJhpTn2IgTTJrPbT_rhbwbZArw97L77kZgcNZjAnmndKaw2RwrxNmZqdDs5FvMWu5Dl0P2YaWRu2g6zkl4-QFx7lsoYJcMFJGt6p8C9T4o6FIwK1p3w9HNthtHJguKhQIlIZoYtxGJ9vtiT44LG57m4GRdbKzETssi3iCbZ2bMPfg.jpg"
+      }
     },
     {
       "id": "4376",
@@ -183,7 +344,14 @@
       "title": "🤖 Codex 和 ChatGPT Work 暂时取消 5 小时使用限制 Codex 和 ChatGPT Work 暂时取消 Plus、Business 和 Pro 套餐的 5 小时使用限制…",
       "description": "🤖 Codex 和 ChatGPT Work 暂时取消 5 小时使用限制 Codex 和 ChatGPT Work 暂时取消 Plus、Business 和 Pro 套餐的 5 小时使用限制。GPT 5.6 Sol 将进行效率优化，预计可减少使用量，具体影响将另行量化公布。平台活跃用户已突破 600 万，接下来一小时内将进行一次使用量重置。 Tibo 🌸…",
       "url": "https://t.me/pdzeng_talk/4375",
-      "publishedAt": "2026-07-13T00:46:28.000Z"
+      "publishedAt": "2026-07-13T00:46:28.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4375",
+        "siteName": "Telegram",
+        "title": "🤖 Codex 和 ChatGPT Work 暂时取消 5 小时使用限制 Codex 和 ChatGPT Work 暂时取消 Plus、Business 和 Pro 套餐的 5 小时使用限制…",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/pmt5TpDJRpdWdlNaynZCjg7oGQS7Olh4jLIPiUXtGWRp0hpGOSK0fC2IBChy-OsVmoM5gSMDsIsAmdsdPmsYYENWLZb8Gx1MEpMMZ_fwmSUJPD5GkfJKqlJLpF_5X5_JeCfukUfihgM6aW7Nf6fkr1FD1XaipWiLpYmJmkdpP573dd4JHGX3BTvYBC2QbrWhi_evC77VoDVORHW9jJnHZxD_cleTNONBAqmvIDTaHh6KdCUmw1XMZRgAzLDJxX4_22KULAUmTDX0y8HP1JBAHBMc5cz1OuCS9tzqNAxkXuMzlmc-dVfWd2c2K0FJcbW156_4ihTxgQoU8o1fm_pKgA.jpg"
+      }
     },
     {
       "id": "4374",
@@ -216,7 +384,14 @@
       "publishedAt": "2026-07-11T06:35:34.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 0
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2075429453149462555",
+        "siteName": "X · @PandaZeng1",
+        "title": "pdzeng | 熊貓",
+        "description": "gpt 5.6 這次的更新稍微記錄一下，結論就是一切的路徑都跟 A 社對齊\n\n1. 5.6 模型\n- sol 相當於 fable \n- terra 相當於 opus / sonnet \n- luna 相當於 haiku \n\n2. codex 併入 chatgpt 成為 chatgpt codex \n3. 出了 Work 相當於 Co-Work\n4. 有了 U…",
+        "imageUrl": "https://pbs.twimg.com/media/HM1nutjasAA8gEz.png:small"
+      }
     },
     {
       "id": "2075429453149462555",
@@ -226,7 +401,14 @@
       "publishedAt": "2026-07-10T03:58:35.000Z",
       "replies": 2,
       "reposts": 0,
-      "likes": 2
+      "likes": 2,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2075429453149462555",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HM1nutjasAA8gEz.png:small"
+      }
     },
     {
       "id": "2074148506718388562",
@@ -236,7 +418,13 @@
       "publishedAt": "2026-07-06T15:08:34.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/CoooolXyh/status/2074044883367846305",
+        "siteName": "X · @CoooolXyh",
+        "title": "Yuhang",
+        "description": "@leon7hao Look good to my claude/codex"
+      }
     },
     {
       "id": "2066872779295846813",
@@ -246,7 +434,13 @@
       "publishedAt": "2026-06-16T13:17:25.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 0
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/paulg/status/2066609844455403600",
+        "siteName": "X · @paulg",
+        "title": "Paul Graham",
+        "description": "I was talking to a YC partner about how well all the hard tech startups are doing. He said investors are hot to fund them because they're afraid AI will eat all software. I'm glad…"
+      }
     },
     {
       "id": "2066685156598120749",
@@ -256,7 +450,14 @@
       "publishedAt": "2026-06-16T00:51:53.000Z",
       "replies": 3,
       "reposts": 0,
-      "likes": 5
+      "likes": 5,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2066685156598120749",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HK5XMdyaIAAtRbN.jpg:small"
+      }
     },
     {
       "id": "2058215978761338983",
@@ -266,7 +467,14 @@
       "publishedAt": "2026-05-23T15:58:23.000Z",
       "replies": 1,
       "reposts": 1,
-      "likes": 13
+      "likes": 13,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2058215978761338983",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HJBAg4iagAARHbW.jpg:small"
+      }
     },
     {
       "id": "2057119979749941252",
@@ -276,7 +484,13 @@
       "publishedAt": "2026-05-20T15:23:17.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/karpathy/status/2056753169888334312",
+        "siteName": "X · @karpathy",
+        "title": "Andrej Karpathy",
+        "description": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&a…"
+      }
     },
     {
       "id": "2055510170709770749",
@@ -286,7 +500,13 @@
       "publishedAt": "2026-05-16T04:46:28.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/gregisenberg/status/2053843542020063489",
+        "siteName": "X · @gregisenberg",
+        "title": "GREG ISENBERG",
+        "description": "How to become \"AI-Native\""
+      }
     },
     {
       "id": "2050966064675373191",
@@ -296,7 +516,13 @@
       "publishedAt": "2026-05-03T15:49:49.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2050965688500818017",
+        "siteName": "X · @PandaZeng1",
+        "title": "pdzeng | 熊貓",
+        "description": "我的 AI 架構真的 Harness 嗎？"
+      }
     },
     {
       "id": "2050965688500818017",
@@ -316,7 +542,14 @@
       "publishedAt": "2026-04-24T16:12:37.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2047710311155896766",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HGrtp9vb0AAyVfB.jpg:small"
+      }
     },
     {
       "id": "2046870327058374698",
@@ -326,7 +559,13 @@
       "publishedAt": "2026-04-22T08:34:49.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/YeruiZhang/status/2046772444653093309",
+        "siteName": "X · @YeruiZhang",
+        "title": "Rui",
+        "description": "随便写写看到的吧：\n\n1. 最近有一些OG建仓完毕开始看多了，只有Tony老师坚定的认为能到5W。\n\n2. 说自己做VC一般不被人待见，说自己做项目方一批MM就要来加联系方式。\n\n3. 大部分项目方对MM没啥信息差了，坏逼和好人错配的概率在降低。\n\n4. ETH衍生资产出事之后Tokenlized 传统资产可能成为Defi新的底层。\n\n5. 相比于前两年没有…"
+      }
     },
     {
       "id": "2046797528738517410",
@@ -336,7 +575,13 @@
       "publishedAt": "2026-04-22T03:45:33.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 0
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/lexrus/status/2046417785543385129",
+        "siteName": "X · @lexrus",
+        "title": "Lex Tang",
+        "description": "NeoVIM + Herdr + gitu + Ghostty(with shaders) + Keeby\n* Please turn up the volume. https://t.co/PR8dTmrngL"
+      }
     },
     {
       "id": "2046430064531874253",
@@ -346,7 +591,14 @@
       "publishedAt": "2026-04-21T03:25:22.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 6
+      "likes": 6,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2046430064531874253",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HGZeA1qa4AA7zm_.jpg:small"
+      }
     },
     {
       "id": "2041686519333912760",
@@ -356,7 +608,14 @@
       "publishedAt": "2026-04-08T01:16:13.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 3
+      "likes": 3,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2041686519333912760",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HFWG7tnacAAuwzA.png:small"
+      }
     },
     {
       "id": "2041377367860576451",
@@ -376,7 +635,14 @@
       "publishedAt": "2026-04-06T15:08:15.000Z",
       "replies": 2,
       "reposts": 0,
-      "likes": 3
+      "likes": 3,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2041171129931587782",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HFOxY4DbYAAXRtO.jpg:small"
+      }
     },
     {
       "id": "2039224569022890028",
@@ -416,7 +682,14 @@
       "publishedAt": "2026-03-09T14:36:56.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 6
+      "likes": 6,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2031016388715028975",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HC-eo23bEAAkNRF.jpg:small"
+      }
     },
     {
       "id": "2027391363663491219",
@@ -426,7 +699,14 @@
       "publishedAt": "2026-02-27T14:32:22.000Z",
       "replies": 2,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2027391363663491219",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HCK9mK_bIAAeFVC.jpg:small"
+      }
     },
     {
       "id": "2025524592971067745",
@@ -476,7 +756,14 @@
       "publishedAt": "2026-02-17T02:35:39.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 8
+      "likes": 8,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2023587117449011421",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HBU5wKqbcAAt1ne.jpg:small"
+      }
     },
     {
       "id": "2023309296348356696",
@@ -486,7 +773,13 @@
       "publishedAt": "2026-02-16T08:11:42.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 5
+      "likes": 5,
+      "preview": {
+        "targetUrl": "https://x.com/steipete/status/2023154018714100102",
+        "siteName": "X · @steipete",
+        "title": "Peter Steinberger 🦞",
+        "description": "I'm joining @OpenAI to bring agents to everyone. @OpenClaw is becoming a foundation: open, independent, and just getting started.🦞\nhttps://t.co/XOc7X4jOxq"
+      }
     },
     {
       "id": "2022673415983776142",
@@ -496,7 +789,14 @@
       "publishedAt": "2026-02-14T14:04:56.000Z",
       "replies": 2,
       "reposts": 0,
-      "likes": 2
+      "likes": 2,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2022673415983776142",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HBH6gcuakAAfijI.png:small"
+      }
     },
     {
       "id": "2022667109600481418",
@@ -506,7 +806,13 @@
       "publishedAt": "2026-02-14T13:39:52.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 0
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/steipete/status/2022516951809945850",
+        "siteName": "X · @steipete",
+        "title": "Peter Steinberger 🦞",
+        "description": "🧭 gogcli v0.10.0 shipped: Google in your terminal.\n\n(really, Google should make this, but here we are)\n\nbig Docs/Slides upgrade (markdown updates + tables, tab-aware read/edit, ma…"
+      }
     },
     {
       "id": "2019967729680400589",
@@ -516,7 +822,14 @@
       "publishedAt": "2026-02-07T02:53:30.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 6
+      "likes": 6,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2019967729680400589",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HAhd8UmacAEq9LJ.jpg:small"
+      }
     }
   ]
 }
