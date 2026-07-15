@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T01:29:51.000Z",
+  "updatedAt": "2026-07-15T00:07:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -52,6 +52,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4392",
+      "title": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又 reset 了",
+      "description": "https://x.com/thsottiaux/status/2077114635308986427?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又 reset 了",
+      "url": "https://t.me/pdzeng_talk/4392",
+      "publishedAt": "2026-07-15T00:07:53.000Z"
+    },
     {
       "id": "4391",
       "title": "腦中一直有個印象就是前一陣子 Cursor Design Lead 在外面演講什麼的 順便找到這個，蠻酷的，希望能重拾一些樂趣 https://x.com/ryolu_/status/2076…",
@@ -205,7 +212,7 @@
       "publishedAt": "2026-07-10T03:58:35.000Z",
       "replies": 2,
       "reposts": 0,
-      "likes": 1
+      "likes": 2
     },
     {
       "id": "2074148506718388562",
