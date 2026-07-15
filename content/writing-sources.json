@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T02:55:08.000Z",
+  "updatedAt": "2026-07-15T07:28:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4395",
+      "title": "1c7/chinese-independent-developer 🔗 https://github.com/1c7/chinese-independent-developer #githu…",
+      "description": "1c7/chinese-independent-developer 🔗 https://github.com/1c7/chinese-independent-developer #github",
+      "url": "https://t.me/pdzeng_talk/4395",
+      "publishedAt": "2026-07-15T07:28:09.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/1c7/chinese-independent-developer",
+        "siteName": "GitHub",
+        "title": "GitHub - 1c7/chinese-independent-developer: 👩🏿‍💻",
+        "description": "👩🏿‍💻",
+        "imageUrl": "https://cdn4.telesco.pe/file/HdWWpKtdWZvjbmUWQQx1e9LTODER2eIv3H1I_gMsSm79wXSqbhCSxZlwilZdokC0QBTddwrOrhAb8qiia4hXBi7cdRQnG6Z6iIdx7e1_kMISVIuvEzL5NZPk4ArqKfdp45PgtVf3xZ37s5YXcMnMufnUtldpYj17PopkT0L08GZlhPBg21WbIHjAnAW829mG65CPhJ62sIsTYgNBT4jBZFzQbp3zvIriWGzDsenpuGdqenYOYj0YX6dlF91haKbor6pUsKIUH0-Z0nSEykL5ajE_pLTpSguUVbmmqySuNx4e6mL2906wQBkOuNxYtTiNwQfNf48b2o1FiWN9dw6nfg.jpg"
+      }
+    },
     {
       "id": "4394",
       "title": "openinterpreter/openinterpreter 🔗 https://github.com/openinterpreter/openinterpreter #github",
