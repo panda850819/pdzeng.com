@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T01:57:26.000Z",
+  "updatedAt": "2026-07-16T05:26:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4400",
+      "title": "Claude 重置了，但因為我昨天才剛重置相當於血虧了 😂",
+      "description": "Claude 重置了，但因為我昨天才剛重置相當於血虧了 😂",
+      "url": "https://t.me/pdzeng_talk/4400",
+      "publishedAt": "2026-07-16T05:26:34.000Z"
+    },
     {
       "id": "4399",
       "title": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
