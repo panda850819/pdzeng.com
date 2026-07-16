@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:05:45.000Z",
+  "updatedAt": "2026-07-16T01:57:26.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4399",
+      "title": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "description": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "url": "https://t.me/pdzeng_talk/4399",
+      "publishedAt": "2026-07-16T01:57:26.000Z",
+      "preview": {
+        "targetUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+        "siteName": "OpenAI",
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+        "imageUrl": "https://cdn4.telesco.pe/file/vXycHnupNHIvA6NDGZ3Y9Qsw3Xz4fCDzy2YXB8S80MCK-tAesXsuAhwnq6M1OXrvfpdw51Cs51iMO8N4zh1r37Erej-l4SG8Kv4mGnoHEY58HH1XprhbLfmdx7UlhUL2cXwUOdGwSxrpa4OZeCqXfMLIh1SyDckdIls72LCOSOOyRQqxMXEI_4XVVi5-1Bf4Zx22mH5MIqEZ5HvGOszoBKGmYbXQk6lS85yI_3YnowMeH52j1QPuwgutu1qHEiYBKc8P5f5eAAetoUR5Aj5mA78yzpKwSXQDuiqWJth7Ym7Vgw5WSLqzbpsvsmkt_sGz7QKldITtvpEqZkigPgw0Vw.jpg"
+      }
+    },
     {
       "id": "4398",
       "title": "我感覺我找到我真正的開發方法了，不管做什麼都有呼應太爽了 使用了 gbrain 把它 mcp 化之後，先做了一輪 grill 跟我自己深度對談之後，有了一些哲學跟 decisions 之後讓他…",
