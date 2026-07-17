@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T02:55:59.000Z",
+  "updatedAt": "2026-07-17T09:41:38.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4403",
+      "title": "https://t.me/leetao_space/1894 之後電子書呈現應該也可以類似",
+      "description": "https://t.me/leetao_space/1894 之後電子書呈現應該也可以類似",
+      "url": "https://t.me/pdzeng_talk/4403",
+      "publishedAt": "2026-07-17T09:41:38.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/leetao_space/1894",
+        "siteName": "Telegram",
+        "title": "Leetao’s Space",
+        "description": "用 微信读书 skills 做了一个网站，不用额外的方法去爬取数据了 https://read.leetao.me/"
+      }
+    },
     {
       "id": "4402",
       "title": "https://vervecode.dev/ai/cli-proxy-api/",
