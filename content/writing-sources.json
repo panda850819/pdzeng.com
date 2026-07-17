@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T05:26:34.000Z",
+  "updatedAt": "2026-07-17T02:55:59.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4402",
+      "title": "https://vervecode.dev/ai/cli-proxy-api/",
+      "description": "https://vervecode.dev/ai/cli-proxy-api/",
+      "url": "https://t.me/pdzeng_talk/4402",
+      "publishedAt": "2026-07-17T02:55:59.000Z",
+      "preview": {
+        "targetUrl": "https://vervecode.dev/ai/cli-proxy-api/",
+        "siteName": "偵錯桐人 VerveCode：Unity 遊戲開發、AI 整合的經驗分享",
+        "title": "CLIProxyAPI 讓 Claude Code 使用 GPT 5.6 Sol 模型與 Codex 訂閱",
+        "description": "CLIProxyAPI 是一個能將類似 Codex 訂閱轉成任意 Agent 都能連接的中轉站代理工具，Claude Code 可以透過此工具來使用 GPT 5.6 Sol 模型，且已被 OpenAI 的公關表示支援。",
+        "imageUrl": "https://cdn4.telesco.pe/file/m5zeJkffB2FQ_HR7dQcBSrsuf9Sqjv_Yz1g19LysvjB1fUa_9WavyUhlkMX5kwPJywLvgNVzaVObanDSJM8zzLgHbWe1fEtmzlxUXpumLnGsqSHfyPLVXIish7GnA7OPbmEoaqy0Wpm8ZN4AOBBxSlKeRFsvHqeSmsJmTvI0rINqjUDU9Nn7JqJHbT-NP84NR3V3SpaWg_dbjNryPdT1Vd_3_ve2u0FjiGfAUoXMa5KrIJadAx0_ft8xN1s6LEuefpvqdEosJdLmJlLFCJW9JUVLYcL1qVsA1GVHTOcnhsnxnBL5IloiBQMne5yKBmMFoW7ChiTglfQ0nwlGxDH2Jw.jpg"
+      }
+    },
     {
       "id": "4400",
       "title": "Claude 重置了，但因為我昨天才剛重置相當於血虧了 😂",
