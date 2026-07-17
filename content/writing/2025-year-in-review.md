@@ -27,27 +27,27 @@ tags: ["年度回顧", "回顧"]
 ### 一月
 - 參加了好朋友在高雄的婚禮，當天是 Trump 幣發幣，在高鐵上一路沒訊號到下車，跟同桌的幾位友人邊開心吃喜酒邊以淚洗面
 
-![3A1D7B63-7D22-42A0-8915-826538AC395F_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/3A1D7B63-7D22-42A0-8915-826538AC395F_1_105_c.jpeg)
+![婚禮上，新郎與新娘在燈串下交換誓詞](https://raw.githubusercontent.com/panda850819/image-hosting/main/3A1D7B63-7D22-42A0-8915-826538AC395F_1_105_c.jpeg)
 
 ### 二月
 - 二月初去試婚紗跟西裝，還記得當時我還沒減肥成功，穿的那套襯衫還是有點緊繃，剩下一個月，當時體重大概還是 80 上下。
 - 第一次去演唱會，還是 **Yoasobi**！感謝老婆的抽籤神運！
 - 和團隊以及 852Web3 在香港舉辦 TON Global Hacker House
 
-![F6082097-CD04-4880-B740-8465ED8DFA61.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/F6082097-CD04-4880-B740-8465ED8DFA61.jpeg)
+![YOASOBI 演唱會舞台](https://raw.githubusercontent.com/panda850819/image-hosting/main/F6082097-CD04-4880-B740-8465ED8DFA61.jpeg)
 
 ### 三月
 - 和我漂亮的老婆**結婚**了，一起拍了婚紗照，最後搬了新家
 - Chatgpt 的吉卜力風格圖片生成火熱
 
-![DA635EDB-851D-4013-9FDB-E74F5806617B_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/DA635EDB-851D-4013-9FDB-E74F5806617B_1_105_c.jpeg)
+![Panda 與太太的婚紗照](https://raw.githubusercontent.com/panda850819/image-hosting/main/DA635EDB-851D-4013-9FDB-E74F5806617B_1_105_c.jpeg)
 
 ### 四月
 - 和老婆去歐洲度蜜月
 	- 歐洲和我想像中有一點的不一樣，所有的飲食、生活習慣都不相同，許多城堡、許多古蹟
 	- 印象特別深刻的好吃的生牛肉、啤酒博物館、維克大教堂、布拉格城堡、吻
 
-![41891CD8-8778-4889-A6AF-468A8C9FEFBD_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/41891CD8-8778-4889-A6AF-468A8C9FEFBD_1_105_c.jpeg)
+![Panda 與太太在歐洲蜜月旅行中合照](https://raw.githubusercontent.com/panda850819/image-hosting/main/41891CD8-8778-4889-A6AF-468A8C9FEFBD_1_105_c.jpeg)
 
 ### 六月
 - 帶老婆去了台南慶生
@@ -55,14 +55,14 @@ tags: ["年度回顧", "回顧"]
 	- 回來台北之後和老婆家人一起吃飯，去訂製一個我們一家和龐龐的全家福蛋糕（翻糖）
 - 月底帶貓咪預防性切除乳腺，第一次面對毛孩的手術，謝天謝地！一切順利到現在！
 
-![546A3C84-CC01-4DF4-8D9A-268524E8ADCE.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/546A3C84-CC01-4DF4-8D9A-268524E8ADCE.jpeg)
+![Panda 與太太抱著家中的貓合照](https://raw.githubusercontent.com/panda850819/image-hosting/main/546A3C84-CC01-4DF4-8D9A-268524E8ADCE.jpeg)
 
 ### 七月
 
 - 和好久不見且剛從歐洲回國的雅信跟智程，吃捷克廚房
 - 帶老婆到八德最大的興仁夜市逛逛（評價普普）
 
-![B960DE12-F886-4C17-B5AD-84302E6F37E5_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/B960DE12-F886-4C17-B5AD-84302E6F37E5_1_105_c.jpeg)
+![捷克料理的生牛肉與炸肉排](https://raw.githubusercontent.com/panda850819/image-hosting/main/B960DE12-F886-4C17-B5AD-84302E6F37E5_1_105_c.jpeg)
 
 ### 八月
 - 和老婆跟她的朋友們一起玩了第一次劇本殺
@@ -73,20 +73,20 @@ tags: ["年度回顧", "回顧"]
 	- 然後去深圳找帽帽還有秋興哥給他們請吃飯，嘿嘿
 	- 廣州找侯哥包包還有包妹一起吃飯玩耍
 
-![A7B8D5FA-6603-4197-9868-4AB41FBDD824_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/A7B8D5FA-6603-4197-9868-4AB41FBDD824_1_105_c.jpeg)
+![Panda 與太太在澳門纜車裡合照](https://raw.githubusercontent.com/panda850819/image-hosting/main/A7B8D5FA-6603-4197-9868-4AB41FBDD824_1_105_c.jpeg)
 
 ### 九月
 - TBW 面基了很多沒見過的網友，特別感謝周周幫忙牽線介紹，很多帥哥美女還都 00 後且都很能賺錢太扯了，在 TBW 的最後還蹭了一波 Kaito 的飯，跟馬拉糕、佐哥、Danny 老師面基也吃上飯
 - 今年的第一場馬拉松，Panasonic 台北城市馬拉松，跑步會經過公司的體驗也是蠻有趣的，但這次的表現不是特別好，近期開始練跑步希望明年馬拉松的狀態可以更好，看可不可以挑戰半馬！
 
-![9BA07603-CD40-4C3E-B84E-A532EC281C3B_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/9BA07603-CD40-4C3E-B84E-A532EC281C3B_1_105_c.jpeg)
+![朋友們在台北聚餐合照](https://raw.githubusercontent.com/panda850819/image-hosting/main/9BA07603-CD40-4C3E-B84E-A532EC281C3B_1_105_c.jpeg)
 
 ### 十月
 - 雙十連假和闕哥去拜石碇的五路財神，聽大家說很靈驗，目前我的資產也都是正成長，財神也在默默保佑著我！
 - 連假後，買了 Pokemon ZA，為了一賭長腳的寶石海星
 - 買了 Mac Mini M4，成為我現在的主力工作站
 
-![3284A09C-9C97-4CF9-91A4-513176D16583_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/3284A09C-9C97-4CF9-91A4-513176D16583_1_105_c.jpeg)
+![Panda 在石碇五路財神廟參拜](https://raw.githubusercontent.com/panda850819/image-hosting/main/3284A09C-9C97-4CF9-91A4-513176D16583_1_105_c.jpeg)
 
 ### 十一月
 - 月初生了一場重病，燒了四天，燒到自己不知道該說什麼，然後燒到忘記取消訂位，被店家打來罵了一頓
@@ -149,7 +149,7 @@ tags: ["年度回顧", "回顧"]
 
 家中還有一隻老貓，近一年也發生了許多的事情，花了不少錢在貓咪的醫療費跟雜費上，希望她的長照生活可以慢慢好轉，穩定她的腎臟病狀態（現在是二期）。
 
-![AAAB7BED-94A8-4475-9752-1C76DD5021AC_1_105_c.jpeg](https://raw.githubusercontent.com/panda850819/image-hosting/main/AAAB7BED-94A8-4475-9752-1C76DD5021AC_1_105_c.jpeg)
+![家中的貓靠在腿上休息](https://raw.githubusercontent.com/panda850819/image-hosting/main/AAAB7BED-94A8-4475-9752-1C76DD5021AC_1_105_c.jpeg)
 
 ---
 
