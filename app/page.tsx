@@ -4,6 +4,7 @@ import { PandaHero } from "@/components/panda-hero";
 import { Marquee } from "@/components/marquee";
 import { allProjects } from "@/lib/content";
 import { unifiedWriting } from "@/lib/writing";
+import { writingHeadline } from "@/lib/writing-display";
 
 export default function Home() {
   const latest = unifiedWriting().slice(0, 4);
@@ -68,7 +69,7 @@ export default function Home() {
                     lang={post.locale === "zh-TW" ? "zh" : "en"}
                     className="break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
                   >
-                    {post.title}
+                    {writingHeadline(post)}
                   </span>
                   <time dateTime={post.publishedAt} className="shrink-0 text-sm text-faint tabular-nums">
                     {post.publishedAt.slice(0, 10)}

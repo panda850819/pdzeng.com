@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import type { UnifiedWritingItem, WritingCategory, WritingPreview } from "@/lib/writing";
+import { splitXCopy, telegramNote, writingHeadline } from "@/lib/writing-display";
 
 const filters = [
   { key: "all", label: "All" },
@@ -73,36 +74,6 @@ function ItemLink({ item, className, children }: { item: UnifiedWritingItem; cla
 const hasMetrics = (item: UnifiedWritingItem) =>
   Boolean(item.metrics && item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0);
 
-const telegramNote = (item: UnifiedWritingItem) =>
-  (item.description || item.title)
-    .replace(/https?:\/\/\S+/g, " ")
-    .replace(/🔗/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
-const splitXCopy = (item: UnifiedWritingItem) => {
-  const text = (item.description || item.title).trim();
-  if (text.length <= 96) return { headline: text, body: "" };
-  const firstParagraphEnd = text.indexOf("\n\n");
-  if (firstParagraphEnd >= 24 && firstParagraphEnd <= 120) {
-    return {
-      headline: text.slice(0, firstParagraphEnd).trim(),
-      body: text.slice(firstParagraphEnd).trim(),
-    };
-  }
-  const excerpt = text.slice(0, 96);
-  const punctuationEnd = Math.max(
-    excerpt.lastIndexOf("。") + 1,
-    excerpt.lastIndexOf("！") + 1,
-    excerpt.lastIndexOf("？") + 1,
-  );
-  const splitAt = punctuationEnd >= 24 ? punctuationEnd : 96;
-  return {
-    headline: `${text.slice(0, splitAt).trimEnd()}…`,
-    body: text.slice(splitAt).trimStart(),
-  };
-};
-
 const previewSiteLabel = (preview: WritingPreview) =>
   preview.siteName === "X (formerly Twitter)" ? "X" : preview.siteName;
 
@@ -148,22 +119,22 @@ function Metrics({ item }: { item: UnifiedWritingItem }) {
   );
 }
 
-function CompactPreview({ preview, showImage = true, primary = false }: { preview: WritingPreview; showImage?: boolean; primary?: boolean }) {
+function CompactPreview({ preview, showImage = true, primary = false, excludeText = "" }: { preview: WritingPreview; showImage?: boolean; primary?: boolean; excludeText?: string }) {
   return (
     <div className={`surface-2 mt-3 grid gap-3 rounded-md p-3 ${showImage && preview.imageUrl ? "grid-cols-[minmax(0,1fr)_5.5rem]" : ""}`}>
       <div className="min-w-0">
         <p className="text-xs text-faint">{previewSiteLabel(preview)}</p>
-        {preview.title && (
+        {preview.title && preview.title !== excludeText && (
           <p className={`mt-1 line-clamp-2 text-ink ${primary ? "text-base" : "text-sm"}`}>{preview.title}</p>
         )}
-        {preview.description && <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-muted">{preview.description}</p>}
+        {preview.description && preview.description !== excludeText && <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-muted">{preview.description}</p>}
       </div>
       {showImage && preview.imageUrl && <PreviewImage preview={preview} className="aspect-square rounded-sm" />}
     </div>
   );
 }
 
-function GridCard({ item }: { item: UnifiedWritingItem }) {
+export function GridCard({ item }: { item: UnifiedWritingItem }) {
   if (item.source === "substack") {
     return (
       <>
@@ -184,18 +155,15 @@ function GridCard({ item }: { item: UnifiedWritingItem }) {
 
   if (item.source === "telegram") {
     const note = telegramNote(item);
+    const headline = writingHeadline(item);
     return (
       <div className="flex h-full flex-col p-5">
         <div className="flex items-center justify-between gap-3 text-xs text-faint">
           <span>Telegram</span>
           <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
         </div>
-        {note && <h2 lang="zh" className="mt-3 line-clamp-4 whitespace-pre-line text-base leading-relaxed text-ink">{note}</h2>}
-        {item.preview ? (
-          <CompactPreview preview={item.preview} primary={!note} />
-        ) : (
-          <h2 lang="zh" className="mt-3 line-clamp-5 whitespace-pre-line text-base leading-relaxed text-ink">{item.title}</h2>
-        )}
+        <h2 lang="zh" className="mt-3 line-clamp-4 whitespace-pre-line text-base leading-relaxed text-ink">{headline}</h2>
+        {item.preview && <CompactPreview preview={item.preview} excludeText={headline} />}
       </div>
     );
   }
