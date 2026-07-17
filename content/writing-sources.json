@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T15:11:21.000Z",
+  "updatedAt": "2026-07-17T16:25:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4407",
+      "title": "https://www.pinglin.tw/zh-tw/blog/optimizing-apple-silicon-gpu-for-transformer-inference/",
+      "description": "https://www.pinglin.tw/zh-tw/blog/optimizing-apple-silicon-gpu-for-transformer-inference/",
+      "url": "https://t.me/pdzeng_talk/4407",
+      "publishedAt": "2026-07-17T16:25:15.000Z",
+      "preview": {
+        "targetUrl": "https://www.pinglin.tw/zh-tw/blog/optimizing-apple-silicon-gpu-for-transformer-inference/",
+        "siteName": "www.pinglin.tw",
+        "title": "優化 Transformer 模型服務參數 – Apple Silicon GPU 的案例",
+        "description": "一台 MacBook Pro M4 Max、一個開源 MoE 模型，針對推論優化的一次實戰：為什麼讓 LLM 的吞吐量崩跌 100 倍的是 prefill（而不是 decode），以及兩個針對 prefill 部分的優化。",
+        "imageUrl": "https://cdn4.telesco.pe/file/pgRVjVlOGGUn2qSo5uTPRTjxJuhHM3qOUhlSkMDsGfjPiSM2u8yo1x2pW-P7uUqxCDXfe7vzJeKUgAqos1FIb0YcHzg6SR8XRdIhLwntiZRdctBs9jbWi2XXVcZjofT1UDHQjP0kRyHN6bixiEQi7bCTNCRaNDzZcKCF5CvDZ3OkYHlJ5KG3XlOOUcf0xgBCCcLvwTjXsYoQGdhsJcq0mxFTdPr6iqRQcj2wPwA0jECCbdHHyz4qh3pCDdKA7Z1vbb_tXhAgaQcGoFArz1rAZ1HOHsg9h_170BFF1sYOLFOeGilgGLqYlqElkMJ49WwL1qUYnCO5xKK7sWAtCZU12Q.jpg"
+      }
+    },
+    {
       "id": "4406",
       "title": "滿血回歸，第二次手動重置",
       "description": "滿血回歸，第二次手動重置",
@@ -202,7 +216,7 @@
         "siteName": "Telegram",
         "title": "Ok nice lets make sth cool bro",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/Hj6ZFwisDAUqToT8Net7f_283_6ZkL-OQUI-p_1r8lnbdJneKK-8YiKJfqsEQ51bchjNF4VGwQasBIfG9ouoFmihiqJJrCw9nUzUQUmDuIvgArvEQ1g3GIhroq7REdMNCKg6G-ROa7O4mL951oUrtIcT80hFUdOatQn_uskzlvjah2-i1VtJaGcnf-zf2jR7lLmH25i2-qd5QYQLnoS43T5Rodm52_WulfcmRC4gGaMFjonhlJOpEdGu32zqTfdGCHsbtwUxlXYldeMMBd8pAtCjhSdKA97AFzFrvt-Jzp4--YUTv68cwG-9j4gAeruRCBS6HCJKkftCHpHaZfQIeQ.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/K6XqCNrsb8ffYsJB7e-fN17JMz8T-TgvoOk464H55730MG4NV4znyfUVeeeueG2j0PWUAXLbh-nazjkuvoHSEibrJtGsLp52e31ExD_Jag7JuazWbBJBqxM7y0t2F4bVQT8OgYGqY0KPljoeT2EXdFTUJ2SyAJVIH45DgkOEL2zFS-q5wZQy36PS3pPrIhcxKaaHfA5hRrJiiQi9xglX3X9fHVf-o8GFHb-M7RWlK3rA0TR18zm2TBQCUKacjZsYDNgwHn6B3frGGyaiIktH4srJPcxOSrhmzitMcXeHaAZpJwFC8dDRgGnb4tWCL8JI0R6PDFKFpom4IJw7MxWNLA.jpg"
       }
     },
     {
