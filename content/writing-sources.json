@@ -140,7 +140,7 @@
         "siteName": "www.pinglin.tw",
         "title": "優化 Transformer 模型服務參數 – Apple Silicon GPU 的案例",
         "description": "一台 MacBook Pro M4 Max、一個開源 MoE 模型，針對推論優化的一次實戰：為什麼讓 LLM 的吞吐量崩跌 100 倍的是 prefill（而不是 decode），以及兩個針對 prefill 部分的優化。",
-        "imageUrl": "https://cdn4.telesco.pe/file/pgRVjVlOGGUn2qSo5uTPRTjxJuhHM3qOUhlSkMDsGfjPiSM2u8yo1x2pW-P7uUqxCDXfe7vzJeKUgAqos1FIb0YcHzg6SR8XRdIhLwntiZRdctBs9jbWi2XXVcZjofT1UDHQjP0kRyHN6bixiEQi7bCTNCRaNDzZcKCF5CvDZ3OkYHlJ5KG3XlOOUcf0xgBCCcLvwTjXsYoQGdhsJcq0mxFTdPr6iqRQcj2wPwA0jECCbdHHyz4qh3pCDdKA7Z1vbb_tXhAgaQcGoFArz1rAZ1HOHsg9h_170BFF1sYOLFOeGilgGLqYlqElkMJ49WwL1qUYnCO5xKK7sWAtCZU12Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/L_xoVYB6cJgo6v4sharJWV50QIiq25dJ1UJGQE5QTVwsuTYLTE3OGJG61_U01ztI0GqbHmJxoyqF9dejtKFmgV_x3FUAwHKfQXI5OnW_uNpL-bIImxUItv7VcNfogOHogtnp-laBQlbk011uk0eJut5hForruHLa_NUtn9fEE27akepCiYNEawaIhpgxfj4xfIbMpuZppTzW-sk1mmkD_KBUQiWG7W0xB0MKvLc8X5q-ImuQSkFB00H12h0YVGXwjvT9VMZaAcykfxA3tJRRbVhdw2ezFAXTPmyfE0PogGRidLGCmvINEiwr0qDLUMfwVcPPIY5GSz5qEOXIV6ItBw.jpg"
       }
     },
     {
