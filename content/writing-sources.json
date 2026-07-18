@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T01:46:00.000Z",
+  "updatedAt": "2026-07-18T02:53:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4409",
+      "title": "https://x.com/claudeai/status/2078302415804379218?s=20 白話文：因為 gpt 5.6 sol 對我們的影響太大了，所以我們持續將 fabl…",
+      "description": "https://x.com/claudeai/status/2078302415804379218?s=20 白話文：因為 gpt 5.6 sol 對我們的影響太大了，所以我們持續將 fable 給大家使用，大家見笑了",
+      "url": "https://t.me/pdzeng_talk/4409",
+      "publishedAt": "2026-07-18T02:53:05.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/claudeai/status/2078302415804379218?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Claude (@claudeai) on X",
+        "description": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been…",
+        "imageUrl": "https://cdn4.telesco.pe/file/mLOyRflFK-iX7l9Hxpp4IpERHe7X2GyYfjmWthx8JNn3pMLATO1_DPuGBOZwOjHMIw3a2eVyZlaq-JP0P8atMMMHIr4XsW3uMHHzOua0IeupJlpCcOJPuJIAWwWDiifCbTBESZm1OqP_nC47LluvvdPKZiF97fcA07wWSvO4TilFz99jHIR2qSVsqtPZxq0PmtN-qydGvCpljUYQH6OIW8dsjMaRf36BPwCoxBL11Zq21f_1MQvrKe__F_vyaYuELa9Eg6yQ6Tg8d0AiWSJzGar26U3CVm4bL_2-hckSLc1neTCIHuDJr9PhmyjST7wy5zI1BeWs0NEg-oR20ZNJQA.jpg"
+      }
+    },
+    {
       "id": "4408",
       "title": "https://x.com/bitfish/status/2078044884817318264?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 神魚的韓國股市槓桿追蹤儀表板",
       "description": "https://x.com/bitfish/status/2078044884817318264?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 神魚的韓國股市槓桿追蹤儀表板",
@@ -181,7 +195,7 @@
         "siteName": "偵錯桐人 VerveCode：Unity 遊戲開發、AI 整合的經驗分享",
         "title": "CLIProxyAPI 讓 Claude Code 使用 GPT 5.6 Sol 模型與 Codex 訂閱",
         "description": "CLIProxyAPI 是一個能將類似 Codex 訂閱轉成任意 Agent 都能連接的中轉站代理工具，Claude Code 可以透過此工具來使用 GPT 5.6 Sol 模型，且已被 OpenAI 的公關表示支援。",
-        "imageUrl": "https://cdn4.telesco.pe/file/m5zeJkffB2FQ_HR7dQcBSrsuf9Sqjv_Yz1g19LysvjB1fUa_9WavyUhlkMX5kwPJywLvgNVzaVObanDSJM8zzLgHbWe1fEtmzlxUXpumLnGsqSHfyPLVXIish7GnA7OPbmEoaqy0Wpm8ZN4AOBBxSlKeRFsvHqeSmsJmTvI0rINqjUDU9Nn7JqJHbT-NP84NR3V3SpaWg_dbjNryPdT1Vd_3_ve2u0FjiGfAUoXMa5KrIJadAx0_ft8xN1s6LEuefpvqdEosJdLmJlLFCJW9JUVLYcL1qVsA1GVHTOcnhsnxnBL5IloiBQMne5yKBmMFoW7ChiTglfQ0nwlGxDH2Jw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/LL2Ccl-rXYLyYvhw2SYV5-pzuFDBfc9OUyQCaf-sUbfWDkHhgUCcrcXNXM3waN47odCNNdlYhwU75AQWaEGHTQnGZVv8PqSZv2f8MGJyhZ6wnth2h6LbQjaEGDBTr4cPCeT7KxDJ8JIx0put7QNrf_h4v-YtQT0PJwdMb_KAGLUN3Rdb7kdiFryWYoIQRpGgpjhuVTTvPkPlxypiWfzL4JGFrsbX3n16HmZTvmuqmhAH9EDsPABadCJ89cGduZGDcwO8wUQbdSg3g4qJA0P5md3_xR738pDnyOuvVcw3E6yrgkHlHNDyHKtzfdqEzS6IZkKCMiDoBFwmzkpWc2YMkQ.jpg"
       }
     },
     {
