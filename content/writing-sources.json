@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:25:15.000Z",
+  "updatedAt": "2026-07-18T01:46:00.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4408",
+      "title": "https://x.com/bitfish/status/2078044884817318264?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 神魚的韓國股市槓桿追蹤儀表板",
+      "description": "https://x.com/bitfish/status/2078044884817318264?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 神魚的韓國股市槓桿追蹤儀表板",
+      "url": "https://t.me/pdzeng_talk/4408",
+      "publishedAt": "2026-07-18T01:46:00.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/bitfish/status/2078044884817318264?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "DiscusFish (@bitfish) on X",
+        "description": "本周把海力士砸出十八年最大单日跌幅的， 不是空头研报，是强平算法。 首尔的追保线，就是你的波动率 盯住 👇",
+        "imageUrl": "https://cdn4.telesco.pe/file/lPT7vC3kGklpNAVHYmnqKZvPLGClw5xnaxAknhsCGQU_pIn_CIamAt3vl43v1XbPPT3qghLMqRfxdSgOlBkPOa_DeA46q1VZ7giv7vskhnMh6-CDhRKh1J1wpgIHG9dqDe395P1v5IVt2iRO6HmVJRQ4NRnQ6h6XREXT-gi96nDwmJa4Rc-BvVRbw3_SBv1kCGQuna-KtV6V5nxr6InnsCi8wAzYDyDwqz0hvqzCf_J6UhF-8iMHrU-LxSWNMF69qEvRCGCRadW8KiGBg4Vhygikso_nj0fB2KjTS_yNwh65Bcx6HJr0A4KYgWrdChnfrTcYNAUvAsTis4L3s0Fa9A.jpg"
+      }
+    },
+    {
       "id": "4407",
       "title": "https://www.pinglin.tw/zh-tw/blog/optimizing-apple-silicon-gpu-for-transformer-inference/",
       "description": "https://www.pinglin.tw/zh-tw/blog/optimizing-apple-silicon-gpu-for-transformer-inference/",
@@ -188,7 +202,7 @@
         "siteName": "OpenAI",
         "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
         "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-        "imageUrl": "https://cdn4.telesco.pe/file/cFKaoutRXbT3FNRVwz07BRbjbiyy8yv9LgOPV788MNjnPW_VjbXXRhSulg7CnIi5mym05C5xv9JCn8X0LHOKKz7qqKtrgsGYREy_Sw0xb5u_2YXXpfEKTHTHA05LIM34_CMPvckNWQoK551UeZz7ezUEpU-_OiR7AO5ZJ5xL-T9cyF2spaLGYX50bbsX1MInIjrlL4fqZKBmq7UNrkrMGVi_hr4YetiAStANf4861tMF2hS-YUciOuuslqYdLi2SOVfVZ0RVIfWMCZsgBnvFXSqrR_qJPHRnbvEUgqtwcOxMRO1Pi07FGikxII-_5IDbyjMhe1nAuEPYPwtkDNbKfA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/LL-10-UiUxGaAO6p5MWOsSj4Apz4ZhLkEPpy0VOtbMKkBDJWC1y7AVrG5zTItbumCV6Iby5Cd4WcsWZPcSmiqebKKdyB_Uqy5_H5FZC0R6y_XhPY5zERLQ9_3-h6TzK7GY0qGb8Grr9NfcE4mEp0pgDwCsjGGtQjNv3N9NtNDjsiCCpMmCvF_-IbpqMIhp1K1VQLhecgxujBnpF6TAM4aMNk-ocZvd8-GOy5iz9mKsbVbm5d1t0GzPjf3Yo_pqbeDcxDPWwy9YfUQVhQv_kONfvIz5Myk6twzVzyL3G6udBpxcD9vHef-eOkEAsRh1O5489Zb5ovibXtkWG1pYa1uQ.jpg"
       }
     },
     {
