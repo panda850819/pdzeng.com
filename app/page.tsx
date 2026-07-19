@@ -7,7 +7,7 @@ import { unifiedWriting } from "@/lib/writing";
 import { writingHeadline } from "@/lib/writing-display";
 
 export default function Home() {
-  const latest = unifiedWriting().slice(0, 4);
+  const latest = unifiedWriting().filter((post) => post.category === "blog").slice(0, 4);
   const projects = allProjects.filter((p) => p.featured).concat(allProjects.filter((p) => !p.featured)).slice(0, 3);
 
   return (
