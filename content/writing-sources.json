@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T02:53:05.000Z",
+  "updatedAt": "2026-07-20T02:23:43.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,40 @@
   ],
   "telegram": [
     {
+      "id": "4412",
+      "title": "https://www.githubstatus.com/",
+      "description": "https://www.githubstatus.com/",
+      "url": "https://t.me/pdzeng_talk/4412",
+      "publishedAt": "2026-07-20T02:23:43.000Z",
+      "preview": {
+        "targetUrl": "https://www.githubstatus.com/",
+        "siteName": "Githubstatus",
+        "title": "GitHub Status",
+        "description": "Welcome to GitHub's home for real-time and historical data on system performance."
+      }
+    },
+    {
+      "id": "4411",
+      "title": "不會我搬家到 linode 還要遇到這種白癡事情吧，然後我 github actions 的 runner 也壞了 :/",
+      "description": "不會我搬家到 linode 還要遇到這種白癡事情吧，然後我 github actions 的 runner 也壞了 :/",
+      "url": "https://t.me/pdzeng_talk/4411",
+      "publishedAt": "2026-07-20T01:44:52.000Z"
+    },
+    {
+      "id": "4410",
+      "title": "https://www.videotto.com",
+      "description": "https://www.videotto.com",
+      "url": "https://t.me/pdzeng_talk/4410",
+      "publishedAt": "2026-07-20T00:19:16.000Z",
+      "preview": {
+        "targetUrl": "https://www.videotto.com/",
+        "siteName": "Videotto",
+        "title": "Videotto - AI Video Clipping Tool for Podcasters & Creators",
+        "description": "Turn one podcast into 40 viral clips automatically. AI captions, auto-editing, and direct publishing to TikTok, YouTube & Instagram.",
+        "imageUrl": "https://cdn4.telesco.pe/file/hNzdV-Bb_ditOleZQmQ5H0YnfjJUXYqTJIip6r92os56DgAymLVxwzi3Y4lPOwZQD8ax7pEUbV7RxZSwDqnGld2xETpuqGvmu6PuC6UQfIis9Mw-yazQj0T6HX6bjjSLCPZlCbJ-33uth91lSn3Jk0bPRnQN48fUYJm-SHoz_i_Z2RNf_q6k8Zzdx0z8vf2Es3I85gw5XzPAg41w4GiyJ8CGyWYMJrVMVf1-_XhTx-AqhFNAO1Tls6-BR7Bw1Xxb5x8wnOQLWmmNkjxP_ifJzQT-w2432zkNFtEKU5K545uAx1mRj94wdkfsleWc64QvxNdRn_umhMvh3HMetZYlMg.jpg"
+      }
+    },
+    {
       "id": "4409",
       "title": "https://x.com/claudeai/status/2078302415804379218?s=20 白話文：因為 gpt 5.6 sol 對我們的影響太大了，所以我們持續將 fabl…",
       "description": "https://x.com/claudeai/status/2078302415804379218?s=20 白話文：因為 gpt 5.6 sol 對我們的影響太大了，所以我們持續將 fable 給大家使用，大家見笑了",
@@ -112,7 +146,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Claude (@claudeai) on X",
         "description": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been…",
-        "imageUrl": "https://cdn4.telesco.pe/file/FGdbSQUdQSMcE225wGEYok52-buKVmqaUO9BgdTplSqyjaLfwhBBDLgrsDUOPnGtl0EgMkpd9kUQztbm-ybph-nhAwdXplxbE6tOyl2lSCDU2KMjb3atkTxv2flZuF-kcMwofeCo1WdOZAmysgWw5C2nCYYRzCkYmiOMXruSgiyphzFCiqFglU6fvZJ31H7jjMXROGzdoSOFH8aVlZkvppTQUivDp33P-7n97mASj3232tbLUQVICBLo9OJEd5NB6zYxvGBQJ2d-xVAryJBeprjclE35hWQ1YjNmyt2kN15PnK-I8-M1eFL_LjpM5Dl5XMwlLGz-_9l0MnEpw0WyqA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/ZaYDM4REEDMHlAETWqkkuPOt7YfALw2UmWpnKCpngjz_LuL4CZjwDx_Qm1-0EEerTCITagOVCUhzvNoDyIlKb5kTKbjfYTg7Ydn95PMHGNZS1LG6MynHgTbuqBYzayIeo19aUJOrH11ym-C9dJbtoS4AI4_ovF3rBZdomMQmho56njDUlnX7xr-L8Qw8Et7hGV1Q_kjXWcZUbU4a76Nt6aKt6v0vljfI3WEEoCK-wGfuYxAgBCBuP_EBd7vXamgejUSJEDTirV7wFWo1naVc48Xc5BBLIxqqv74F2ssF9vzAP_1W4JaBoXf7W-m3L4Q1lxo8mF3VlmVaB-SRTJ2Hwg.jpg"
       }
     },
     {
@@ -126,7 +160,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "DiscusFish (@bitfish) on X",
         "description": "本周把海力士砸出十八年最大单日跌幅的， 不是空头研报，是强平算法。 首尔的追保线，就是你的波动率 盯住 👇",
-        "imageUrl": "https://cdn4.telesco.pe/file/s59GJvLGgChUM3crCIHKLIC1YDTCTv51dHU8VnEmFyXm1ulJpRc7H_S3sLOObKemV_TAOXCdb6SOgEf5MepIg5z342zlVPvCmaiQuffWfoWecKkX8JpakrfBLgcl3Ob0geUNmF9WB7T5K9PCIDooEwJ1ljqshRErqYDoMgmESyhJtAj9zgqxBuR-YefAxFo-_c7BKhDNU2kNeVGNFVefIKeK8a_QTqAx2TVJhyjcPXcz4WK7A3kHRQxK5INNoBccX-8ZmdJfd-oCmnlMzDGK0WX9orbRb39t3kEkA5AXGf3jq47acQoFSEWQ_mmsDFWFIybcpTk6-uPoa3G1bfzanw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/vkRYcGyVtKR07cFKVMosaesNuv_5bielFp7pRdMMbs2pgrXx_MharKufuRds3QcHPNi9XE8PB-L5CWJ8inniVJq51w7Ac7MUo9BBQObrgi2b9xKMIWj2aD-jnvkNENNOCxMYJqcqA9CsJkp-Nm3DrUOWyZ4MU2k-wp176gQu1CyX6POdH9_iYt-oAsawCTWrbIw44wE7eGxn_yyoCzAJSlBPA5mDW061bHYI8R4w2XWID9Mz834o7M-CadxIKih5e72n4YqmGahss004g876VGl84pJfS9SN4cHCuea1e2fij2Za7rYb7mSahi3kLF7vgW7DquUJI8X2EXcFvrtrNA.jpg"
       }
     },
     {
@@ -195,7 +229,7 @@
         "siteName": "偵錯桐人 VerveCode：Unity 遊戲開發、AI 整合的經驗分享",
         "title": "CLIProxyAPI 讓 Claude Code 使用 GPT 5.6 Sol 模型與 Codex 訂閱",
         "description": "CLIProxyAPI 是一個能將類似 Codex 訂閱轉成任意 Agent 都能連接的中轉站代理工具，Claude Code 可以透過此工具來使用 GPT 5.6 Sol 模型，且已被 OpenAI 的公關表示支援。",
-        "imageUrl": "https://cdn4.telesco.pe/file/q69qYiCPrLtirX-pVwuYo1gykXfdCwRZJOx2WtPflqWdFk5PGalPo_H9_nqq1lnBKW-hHh9V0y94GsGTBWoSk0gp6BzCsuyTqXwDXEMMa3RSpA96N3Z5N77mMpLkvxzkmYHR33K0_Ff6wZWBjzhqpEcwFK1uvu7UnfSRDazPJCgtqyhrd755YwjsVVRb4oA4nkY1Db9qcn8LXejk7BLMbvqK0y1OtMki0bS4y3uSxrd2CS1CANbg7QIoQdJFnsDuxZj9BOBVmP9ZHs0IB-njdEeah4-M-LRvYpUe7OvbhYCjz_H-ZiAqfKcTpRgVosydIAFv9qSYtOplST7wGCHkPw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/u37kn1hhp4620lA9457RkMWJfL327hfuiYeaaxU5RIfhqKQ1ADpZCmYmSZp3sg5WcE_4BCYV-xympWHOdwGO3fU-XgZ5WIQN00DDtARB5cFFjb6oFF-Ga9fhCzKTCJjX2PUy5mFjLxHdyY_x1rW1mqNKHaEQWvSgzqwEGMTKaUDvsHDCCqXHeHG1_1OwnE740R4FDwcmGdX3nDzXsnW5wCIg0eh3Tkwe0QXNWXTv4t0XptOkva2QOhC4bEQEJhh2f3kwRe8PuhSXC0r27AU26SUuCOhJHi5pwm3BqxnlRNDg81760T-MSWG2nt_XGzD4oEOh-tGDb6kBh0-9mfZ6kw.jpg"
       }
     },
     {
@@ -216,7 +250,7 @@
         "siteName": "OpenAI",
         "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
         "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-        "imageUrl": "https://cdn4.telesco.pe/file/myPWE9BihqVj6hck4ZiFmeTm4Ix1A7RxGampswFJu-uXoUiemi1Q2GAQmeb5bLlo-RIuCvqFXHDCTVXx3753ly0daHwUNvrGBqQ0qOg4V04YuLAB5OIOhXVDFadSWZ6ySEMMtWu_jtkYSxp1nCJRxJ-Y0wzTb4PpzYrvzdH-IVyCA3UzoNLR6CNweZ4l0LAPLjZM-t9zt_V_zR5iC5dEQH3Eaq7VKjDbu5mdf-TZCCxlUYyOxwXfm_NLnC5RTx6nOmNwQxFNWh1C5OpYAwDrjMbgPFf4J3fBQsY7kHNQ1wvrQ5IHUVjYWSi33HRu8TOGgS3v5DGuXeljYJAv6n86IQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/X11JN0tvnvyPtGWeZOPREwdJ2Qjh3asr6p6haPhyYkWVlrcy6i-XXiO5gyUjkhqXQhYL7MjmCuBPIU2J-lPMU4M87Q8bu8bP3P5ZcsNDyJvRtPuhtpfp5CjdNDHvPLAD__ZoFAJocIMpZozm8MxHjPWLzLTHSlEFrKicB3mOQ6Smf7zTfjFENQSjnSpIo7r67Kj0fWPb3_eeKbUSq06YCyquiOQI9V_CaQC1SKF9fnFjS-ArnaMw4cd-2CvZZXOl9RJawUkj_O23muTaM4b1XCowI0jYPq8rBgmOFUimsEickNQr6PsUM6-XJ-PAXcMfVAcwemFW_-5qNS-JEaOteA.jpg"
       }
     },
     {
@@ -286,7 +320,7 @@
         "siteName": "GitHub",
         "title": "GitHub - openinterpreter/openinterpreter: A coding agent for open models like Kimi K3",
         "description": "A coding agent for open models like Kimi K3. Contribute to openinterpreter/openinterpreter development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/h0nVo1F9DLCL5y_oGAetIKX-H2kdSIPAxEbf80kCU8HJ5VgG4PicnCMavQAtHD6AgxSle_aaJ2pQpvF61FW5wgP_k_rP18IE971XvPKACdjsvn7Yvv3KvxTMRjnkPgyzw7velGph7JKefsuekeHaagTTNjr0WVyI-Q1xVZyUobA46nbwvI9C8LjnuG1rTtHiWjuPFnmfWK5X7txrvRlxUzaWtOWspGs3ZqI6_I8w3IkodhFmwXGQq3e7V1mi9TyvqOb9XA_ebyML3NBiL-hFl6Y8WeO-4WQG2OqZCmaxW-m2psVJYvyjSPxTlsjLfZ5NVN2smd9wcahRAN8vq5dOEQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/kO2iGmQjPHVfn8HxsGnbupvvREVk_vmFaGnw3un_nAw3KOQzom9BwUc_dBK11GQtJ6k6omx6cDAUc-ceTdycKU3IkR8h94QNPpy-fStnj6GncKwBO2CTGLM5weno-m_3r141XRmo7MUW5SnbNY6MKUg-4jOXpgg9vL-wLIbaZLOWQKPWtT86FggpquTWV33Lzx2NaplxDpqxn-APOpk2YYpRFF2e3_vtimmoB1fMHq-HNxapRyaPU5APucg00vWsfzpuUNCXAq90xkT6lLy4zNAj5deW0djOBSxD9k8XC-LLwsww0xgJ6cnDpIOk2X2O7iy8KRmFosLhWH4NsmSwGQ.jpg"
       }
     },
     {
@@ -300,7 +334,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Kaz (@aistarjp) on X",
         "description": "【Codexガチ勢に朗報】 OpenAI Build Week開催中！ 参加申請するだけで $100相当のCodexクレジットがもらえる 【正確な手順】 1. https://t.co/yCfGhMUPfv に参加申し込み 2. Resourcesタブから「request $100 in Codex credits」を申請 → 7月17日 12:00 PM PTまで（なくなり次第終了）",
-        "imageUrl": "https://cdn4.telesco.pe/file/UpDn5eCYQdjcZSwdVOeSY9c07xHlrNnT29IARM6-LpZVCuyW5K3iUEYJXyvAA9l085xlLzxMs2_qaXL7G20YpVa0NQ4yEFFTxPXyGHGporckmOuegUSV3gS0AJkaWTJ5coOAqm0nv6SIZ7AdlaZG-l168d1h_divs5bmVCsFK85sko0VIUGq4W89YrpSVqykJBwO1XVsUw9RmLn5N2C7qN3PKGJtIfd0bnMGsA__3eGufhYHmzM_H-y32ixT5Uvad58fVB9HK0lIZolQiq6osfe9p2Gs8s70Q-ogo3sML-hUJxQiSrT3WZ9vrplRAzitcwOLp12OMqpKJHSviw8nNQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/ULKvhoncA5VVvV4diPcm3dQl3Uv4xqOv-nTPAbMIZK8V-4rC-EeQIoqzUI9gcUt_8-aZgZ79-mAzHJP80fS5MalvlRKlBE8e03U5wWRylODKwo7YtPYgOJ-0aJegdVvuPXVhmmfGxK09yJDCSnXL25NPEjJDaB02P_eguJrmw_IbbwLzqa-YG6J8cKkzl-kRylDlkv0pvct_BWfDLBtDoMCHzTnf9Mmkmr4rnkmWBWhhTlkCMFuwzVOgeixIpA86GGL7gaWnh75IPKlNpMKSOi9xJfZrEROqYG7c2ThQCw5rtPNFwa3M4Nd3VouXRJETqo-rv_tJQaX1h5R3Ag5cHQ.jpg"
       }
     },
     {
