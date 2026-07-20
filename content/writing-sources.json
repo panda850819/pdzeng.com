@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T12:37:11.000Z",
+  "updatedAt": "2026-07-20T13:29:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4418",
+      "title": "https://codex-resets.com/ nb",
+      "description": "https://codex-resets.com/ nb",
+      "url": "https://t.me/pdzeng_talk/4418",
+      "publishedAt": "2026-07-20T13:29:09.000Z",
+      "preview": {
+        "targetUrl": "https://codex-resets.com/",
+        "siteName": "Codex Resets",
+        "title": "Codex Resets — OpenAI Codex Usage Limit Reset Tracker",
+        "description": "Tracking when OpenAI's Codex usage limits get reset, based on @thsottiaux's announcements on X.",
+        "imageUrl": "https://cdn4.telesco.pe/file/jy6ouF2GvSBj8HVGFOxdL0Oe9Cd_jQuSP1V8fWFsQIo1y2uSxU-WVye9i9yqVNssfQ7miU-uC5E7zca2DnJnQoUjb8k36wCUTviHq4NdIuWcCwHAd0cnRexSaSa2i-5aL2G7c9yyOnlC9FrkADTn8TCEEnGcNBZeqUUDcLq5xyj5GyjOCXHZ69Let_SPYkB-b30NvYHJ_T6CTJm2rh11WQSBmgTaTOgusv6cJsVi6-NtxBvVQo2SVRdNm2wiZxnIbnrc-K74vTiXx5FB_eU3tIPBnRACf8Lxwc5mlxKp7pVdWnWDOEiJq8DGHOBX2lw1l-ERVLdNskVsGKw77HS9uw.jpg"
+      }
+    },
     {
       "id": "4417",
       "title": "各式各樣的 Cowork - https://x.com/_catwu/status/2079011428380602526?s=20 - https://x.com/thsottiaux/s…",
