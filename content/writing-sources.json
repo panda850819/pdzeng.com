@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T05:55:20.000Z",
+  "updatedAt": "2026-07-20T12:37:11.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4417",
+      "title": "各式各樣的 Cowork - https://x.com/_catwu/status/2079011428380602526?s=20 - https://x.com/thsottiaux/s…",
+      "description": "各式各樣的 Cowork - https://x.com/_catwu/status/2079011428380602526?s=20 - https://x.com/thsottiaux/status/2078642674572419435",
+      "url": "https://t.me/pdzeng_talk/4417",
+      "publishedAt": "2026-07-20T12:37:11.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/_catwu/status/2079011428380602526?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "cat (@_catwu) on X",
+        "description": "I love using Claude Cowork to manage my calendar. Here's my prompt for it: Manage my calendar for the week. Requirements: 1. <20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count…",
+        "imageUrl": "https://cdn4.telesco.pe/file/l2172WDXgEY8AtzouI-xpm4x5gM9pgTRoka4w0LmFawfGoMpEmJMYERPwD2rtbptagwR7Bv5v5JM_hfgEbHuu_f2jn6mj6PG0IcQCwcb6NlSh7OTEG9BYLOtWD3uxLM3Zb2JQuUbOxttTYaA5vyV5odkuEXrLVKmiCJ3EpB-aC5zX2kXL2BLeSDvdVME88zFD5eCtiEycbW-nQ8o2ap1BHrH6rRb7_hrd3acWW17U9wlulrXIfcLFk6vXanQI2jRyHp8UaveKa5pMUZvppLsj9XOQzWtiKf8jH93ubqGvWn76stXfazEQ2_GaUJUb8xTaaPnnqZPaTrRM_77APTN4w.jpg"
+      }
+    },
     {
       "id": "4416",
       "title": "claude --resume",
@@ -237,7 +251,7 @@
         "siteName": "YouTube",
         "title": "Ninja Creami值得買嗎？飲控也能吃爆冰淇淋！【團購好評延長】",
         "description": "▶",
-        "imageUrl": "https://cdn4.telesco.pe/file/W3AmKllMHJ2YjKb6rLO8kS-bI1Bm31XSGy0vXEkIqkRmADFVXWvTJkywNGT-xHPvuMf1o5XsWcbAnE9h8ytgwzklPtDTue63C7uT9vACJfz2IwIlcFTsLqXpaB22rVEuTPZJEYmbGdAE9jAZ7bRuEXaCpWGjvmM2JNqtfEZuTbxzjAKulwszvkadsRqLV4JaY9dZ45k4P9ET9oUeenslzryqA08pYssaodNZv-DhcD15XurroYcPnNVZc32_EfLjtogMpHOQJ7SwtXoKCbYA13t_hHmWPu1IvRAqopgjZhhYgeW4mK73sgn0WZXD2IAPlXCRY_VllDm9sE6ARsT1DQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/DMppukalvPLjWXoSHoOKNQBJg3LaftE12otKHq9t3to9UtjGG3DvCOuKY-FUF2o3DCseyx39pGLqN2cg9xG9tjVIkxvJsaQI2UjPUDUppYYzZ0IpEUbTFMAj480lCUxHbK38aVP_yIVoIpUrRQAahwPq-o6JYzdctyHrs8md7WKqIcJXc-OlEo0oErvKbAlMKhnioDOznE599XSCBcNY13hj9LrhmRuTaji4UMiHZ6ebA-23I1NsLMCqFsy6kL2IHbzMS5runAA_KNb6HvvJ7O5rNsuFU8HuGJBd4amRFZwoA2YMxJWFw_Q4ii5iP0KD8ijvjh3LMXKEcQoWGV3vRg.jpg"
       }
     },
     {
