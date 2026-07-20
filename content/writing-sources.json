@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T03:57:02.000Z",
+  "updatedAt": "2026-07-20T05:55:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4416",
+      "title": "claude --resume",
+      "description": "claude --resume",
+      "url": "https://t.me/pdzeng_talk/4416",
+      "publishedAt": "2026-07-20T05:55:20.000Z"
+    },
+    {
+      "id": "4415",
+      "title": "剛剛更新了 tg 桌面版感覺換了一個 App 的感覺",
+      "description": "剛剛更新了 tg 桌面版感覺換了一個 App 的感覺",
+      "url": "https://t.me/pdzeng_talk/4415",
+      "publishedAt": "2026-07-20T05:54:01.000Z"
+    },
+    {
+      "id": "4414",
+      "title": "▶️ 【 😎 纯享】没有弹壳拿不下的风格！《Talk like me(像我这样说)》痞感拉满 | EP04 说唱巅峰对决2026 The Rap of China 2026 | iQIYI潮…",
+      "description": "▶️ 【 😎 纯享】没有弹壳拿不下的风格！《Talk like me(像我这样说)》痞感拉满 | EP04 说唱巅峰对决2026 The Rap of China 2026 | iQIYI潮综艺 #youtube https://www.youtube.com/watch?v=l-V4WOvSAfk",
+      "url": "https://t.me/pdzeng_talk/4414",
+      "publishedAt": "2026-07-20T05:40:11.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=l-V4WOvSAfk",
+        "siteName": "YouTube",
+        "title": "【 😎",
+        "description": "🤘",
+        "imageUrl": "https://cdn4.telesco.pe/file/YpXRufk1qQWI_-AdpU6k8TQn9vnzfmZ031CtZN9CLZXzcNlLDYhamKo-Vca8_038eMF6ELwsQe9SnwDpfq0mClbPkmMvB4wEeCjDhw6UrVcX7k4v6pe61gboChECkITgZH9RqxN8I05Ps5_A5_L5wCG0CyaVYEE0OUKHd5-geoW6keFS5dm48gJIOQdtKlgRwLuXD5PGMtbrXuvCs4jy9UkkxIJRUjcEsvIEK3Mv8mj8jr_xLPE3n348gAhZ9AcdT45vpw7LfqzTN-hbG4SWkiUlRvoj8gsnxmlK1VkxER-OKTskiOZ1NBCV6dWl4DoaCOBUl4DwKJ1sQ_-E4nnUkA.jpg"
+      }
+    },
     {
       "id": "4413",
       "title": "us sectors mtd performance 錢跑去 healthcare and energy，年初雄到現在的 tech 一直被賣 但由於 spx 的族群分佈夠廣，mtd 還是持平，…",
