@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T14:50:35.000Z",
+  "updatedAt": "2026-07-21T23:06:30.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4424",
+      "title": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "description": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "url": "https://t.me/pdzeng_talk/4424",
+      "publishedAt": "2026-07-21T23:06:30.000Z",
+      "preview": {
+        "targetUrl": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html?utm_source=unknownews",
+        "siteName": "Geoffreylitt",
+        "title": "Understanding is the new bottleneck",
+        "description": "Agents can write code faster than we can absorb it. Here's why it still matters for humans to understand what they build — and some techniques for doing that efficiently: explainer docs, quizzes, micro-worlds, and shared spaces.",
+        "imageUrl": "https://cdn4.telesco.pe/file/N3Y9eoSvQMALXiM1oS9lT5OrprWye499Oqkzhh3DZSTj7oStdhHBAXY46SSdU111I1sTlyiyoXULseCo8M8wTZHQn0qWP2Q1Mc7d0CvAvMRFDqkF3WJZOAwvF3IxYlqhEIEhEVoFWAZCNPMShLaxJhUWuJmgz66chWkynAerE0ZAr7O1GY7_Bz1YswSTPxd5NMcONHnmrWvF4KQnKiQyMBq2vkQSyvebRjUsWpYcwQBTOCXHoImRcw3IreQAOFwn9qk8ic7C0uehjH1SgZ13Bqxe4TrHHxr8yrYEYHZk37bWbvW62qRQldxFfCeAdun-6jjH1DaPqxbyFILw6D4taw.jpg"
+      }
+    },
     {
       "id": "4423",
       "title": "hasaneyldrm/exercises-dataset 🔗 https://github.com/hasaneyldrm/exercises-dataset #github",
