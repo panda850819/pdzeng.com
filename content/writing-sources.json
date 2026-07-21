@@ -166,9 +166,9 @@
       "preview": {
         "targetUrl": "https://github.com/ayghri/i-have-adhd",
         "siteName": "GitHub",
-        "title": "GitHub - ayghri/i-have-adhd: Claude Code skill to stop it from burying the answer. ADHD-friendly output.",
-        "description": "Claude Code skill to stop it from burying the answer. ADHD-friendly output. - ayghri/i-have-adhd",
-        "imageUrl": "https://cdn4.telesco.pe/file/P7g4ZmjKQ8e7Yfm-zpvnMQN78lF_M5sZ5BjcrJPjVWzNTddbhYL1e0v9JzDpz5APONY_4FxIGPk9QdTZUBEGNXZbr34SdI9sTUICgGOGKLYh_rwpZallGExcFlw4yh3yDrSr8euirGlaMwi7VEE-p5nzbXAsz1ZsXYfTu71iBvmD__9H4AxL2VA4ls8kyyYQy0XY72Ab4jhuXJcRDEC6plwK03CMWUcwZWsPUlPZSMe7y32ZEn7430bQXPE7cK68tFkMumIZKHc1v-u7Go4uB3SfBYmzQyoRRuaMOc08-nUdOE-pQ5UFkdM6Y0GHIqoLJ4i8v7-hKr3m4ga4eLC5sQ.jpg"
+        "title": "GitHub - ayghri/i-have-adhd: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. - ayghri/i-have-adhd",
+        "imageUrl": "https://cdn4.telesco.pe/file/PozzoKx6Xd3TmlUtd87vowfK5rIv0ssaihqx1SperksDBhUiKjiJBqep747yF1XmzrPsfNOI6E_AZkcbPwYkQ2jXS8fU25MVFznYcSzdPs99y0k-BmmAap6RvrBjsNe3YvuzDRTjN5gOEJ9viv1_OerVAXE8r1QWwAkl2Rgjrc5PuTAuB-WQuuIp4Awre1mKkMiMULgYz7JE8vbBaMr0UYVD0J_r6b9PHRlErjL5FpJhGuq1CoKL2eSM7dphpXydCKfkVq33b5XgLOErlB1bmnbxColyB6EjkG9TegxCFh0nZQRpCKljRyq2TouAbFjDfB7KKxV8BmWoVVLv10RvFQ.jpg"
       }
     },
     {
@@ -307,7 +307,7 @@
         "siteName": "www.pinglin.tw",
         "title": "優化 Transformer 模型服務參數 – Apple Silicon GPU 的案例",
         "description": "一台 MacBook Pro M4 Max、一個開源 MoE 模型，針對推論優化的一次實戰：為什麼讓 LLM 的吞吐量崩跌 100 倍的是 prefill（而不是 decode），以及兩個針對 prefill 部分的優化。",
-        "imageUrl": "https://cdn4.telesco.pe/file/RKLAHoW32z-_hsVP6tSqnh6ptN5Hu95rwFohxLnjrpOQRXjMmMzUXbN-hDyMuanCH-g0T7riHPMXk7HFZ7yemCK9N99zgWVg9yGlA2ZfJ52YTk6tSxymi2JKV_odsaW5Dq172U0F4PvUeTwcUf1nvPRYyCA2NUUXgziESeAvjuEY4ZlBKlms4UxX3NxUmSLR8n9XFWXm-AFO1D9QEhHfKijInxJfhWe42JUz3msVOttJpRm9DPuWMMqyTjoF4Ux0pX8QONnCMdEP6NHS4_GyRP5qaNloZrGVqGyB9nG-YkqRMw6mT9wYIUDeyyNlU-QTlHzPJxQFsGhI9-mlYTtCFw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/b691fKJkqp2nl8EVSNnJUaGMp259CYektZu8MSrr73WoPgs3m2TtLgknu5HEx_bJFG9tgftuYXif_7ZQOxGxBNtehzN6nZFpCu4o5maslAqo8e0Iuxwq8nI_CTGAJGzXmZ_1MVeQMe-cratTlz9VuzqtoZSDOdtKDm4SADxory4RvjJy4q1jWUzpfuBL0Gbl2fecDpvAUBf3YjqhK7yap5dclapT_GYeJWj0LZHXlJ4LJE6gd38ToK44193TFB8c5-EI8vwzmjpNN6c_jg4ggqg-_UkLcwXl8cqVgzRD3aJ1PS4i9Q3R_yhFceNa_0pF2JaIUvkZO8lEA7qYr0u6gg.jpg"
       }
     },
     {
