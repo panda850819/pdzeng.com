@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T03:36:34.000Z",
+  "updatedAt": "2026-07-21T11:31:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4422",
+      "title": "zarazhangrui/reading-block 🔗 https://github.com/zarazhangrui/reading-block #github",
+      "description": "zarazhangrui/reading-block 🔗 https://github.com/zarazhangrui/reading-block #github",
+      "url": "https://t.me/pdzeng_talk/4422",
+      "publishedAt": "2026-07-21T11:31:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/zarazhangrui/reading-block",
+        "siteName": "GitHub",
+        "title": "GitHub - zarazhangrui/reading-block: Save articles with one click; every 5 saves books a reading block on your Google Calendar.…",
+        "description": "Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension. - zarazhangrui/reading-block",
+        "imageUrl": "https://cdn4.telesco.pe/file/O5H982mMsufYs-kr0c9Ilyf5oGwsaScmnwQYoNXSrAhY73qZ2RNueU3KsqJfN66zt4GjdZYy_r6dDggUEonPznAnHRDthI_OXkBrEImBooUW0baRyouYUXlzMsCaqXHtKmXnMn-TP-QKFhcmcoBWv2IoRInoUt_sH5LD2mmu4_SQjO1np60jTE7IFuwaxqmPNE_BBq9ZtY8yesxCCAP1XTkOvUdm4fjqPkJnfJhS6IBtXHdlvF5aoUJTeptr2CUkrF6egK8heo5SEgt32WMxmbQbtvWflZWOmfvREm7X0JycKDRAlhpK5Mb5ud2yQtqFuhsWmwqjqf5e9yt9kg2eGQ.jpg"
+      }
+    },
+    {
+      "id": "4421",
+      "title": "▶️ I built a Chrome extension that puts your saved articles on your calendar #youtube https://ww…",
+      "description": "▶️ I built a Chrome extension that puts your saved articles on your calendar #youtube https://www.youtube.com/watch?v=Q8g1hod552g",
+      "url": "https://t.me/pdzeng_talk/4421",
+      "publishedAt": "2026-07-21T11:31:14.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=Q8g1hod552g",
+        "siteName": "YouTube",
+        "title": "I built a Chrome extension that puts your saved articles on your calendar",
+        "description": "\"Read later\" usually means \"read never.\" So I built a Chrome extension that turns your read-later pile into dedicated reading time on your calendar. Every 5 articles you save, Reading Block automatically books a 30-minute reading block on your Google Calendar…",
+        "imageUrl": "https://cdn4.telesco.pe/file/A3pFEqBMHMiA7cMrbqB9ReJW73GFkk1kDsXiUXMrAavx98c1dcHbadM5bkuAH3JFtdTaW9IH4OEZE_NTTu3CS3y0jp47ZURQA_hvLHUaNIlakcIB-SX8SEXp9UAfEZt6jPoI-9xn8KYR-TlNL7XT5lnjSC6zKKk1iyaG1Gh4tYUqS98hWdSUYHx0t1d-l7LGtwABj7crYf33Qn7fYzczHQjyqqTOyv9CizdD9KvWPn6F5VKhttjWUHchtQdy6p5EN03eM-6Vb1B6bMFIyH6qRtkPxOvFXkS2RhKJaNCHkLpslkJ6Sj3tcBDmDhj_NTGJfNePMJS0FcseVgOClNtkzw.jpg"
+      }
+    },
     {
       "id": "4420",
       "title": "panda850819/i-have-adhd-zh-tw 🔗 https://github.com/panda850819/i-have-adhd-zh-tw #github",
