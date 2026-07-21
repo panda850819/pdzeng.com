@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:03:34.000Z",
+  "updatedAt": "2026-07-21T03:36:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4420",
+      "title": "panda850819/i-have-adhd-zh-tw 🔗 https://github.com/panda850819/i-have-adhd-zh-tw #github",
+      "description": "panda850819/i-have-adhd-zh-tw 🔗 https://github.com/panda850819/i-have-adhd-zh-tw #github",
+      "url": "https://t.me/pdzeng_talk/4420",
+      "publishedAt": "2026-07-21T03:36:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/panda850819/i-have-adhd-zh-tw",
+        "siteName": "GitHub",
+        "title": "GitHub - panda850819/i-have-adhd-zh-tw: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. - panda850819/i-have-adhd-zh-tw",
+        "imageUrl": "https://cdn4.telesco.pe/file/I4Ch1yPN3RYkTBMCZo1EQx1TeoWDw3nhOFdvmacAdtgZrN3RolHT0gDo83T8PV2TAxcQavKULhxDaCzYkwcyW9sgcfMr2YwLBXf5Sirkii6K-lQxEuA4Jw2R9LRlaFhy9-IyK4BD74_59v-r0UujJ6tgyjk3G2VXKo8PwkV0kMpHPUsHDsqBuFWG3m25w8_nYBPiDJCJth86X1_TMKw39E4JmMaGiDjOO3OtETWtYoOK_xHpFOEn2EXZ7Y8t8RL9ZZ5_y9r9mBskMurwvAJ6IH9SKbJ_8fd0p26Fmfa1asUxyFiWQYpdW4rEbi7eeIKTnmHRri4Sqsv8zx-29D1RLA.jpg"
+      }
+    },
     {
       "id": "4419",
       "title": "ayghri/i-have-adhd 🔗 https://github.com/ayghri/i-have-adhd #github",
