@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T05:39:34.000Z",
+  "updatedAt": "2026-07-22T07:19:31.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4431",
+      "title": "用 AI 快速整理并发布了一篇关于 Pi Agent 内部机制分析。 这篇文章的核心精华在于 Session（会话管理） 与 Compaction（上下文压缩） 的设计思路，文中附带了完整的源…",
+      "description": "用 AI 快速整理并发布了一篇关于 Pi Agent 内部机制分析。 这篇文章的核心精华在于 Session（会话管理） 与 Compaction（上下文压缩） 的设计思路，文中附带了完整的源码解读与实际运行截图，希望能带来一些启发。 中文版： https://edward40.com/zh-cn/p/pi-agent-internal/ English V…",
+      "url": "https://t.me/pdzeng_talk/4431",
+      "publishedAt": "2026-07-22T07:19:31.000Z",
+      "preview": {
+        "targetUrl": "https://edward40.com/zh-cn/p/pi-agent-internal/",
+        "siteName": "仕麟的博客",
+        "title": "深入 Pi Agent",
+        "description": "从 Agent 循环、上下文构建、工具与会话，到扩展、终端 UI、压缩和 Skills，全面解析 Pi 的内部架构。"
+      }
+    },
     {
       "id": "4430",
       "title": "langfuse/langfuse 🔗 https://github.com/langfuse/langfuse #github",
