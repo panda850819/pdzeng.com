@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T07:19:31.000Z",
+  "updatedAt": "2026-07-22T08:56:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4433",
+      "title": "一個很酷的東西，可以看看 syabro/mdtask 🔗 https://github.com/syabro/mdtask 🔗 https://mdtask.dev/ #github",
+      "description": "一個很酷的東西，可以看看 syabro/mdtask 🔗 https://github.com/syabro/mdtask 🔗 https://mdtask.dev/ #github",
+      "url": "https://t.me/pdzeng_talk/4433",
+      "publishedAt": "2026-07-22T08:56:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/syabro/mdtask",
+        "siteName": "GitHub",
+        "title": "GitHub - syabro/mdtask: The spec-driven development system where specs and tasks live in your repo and never drift from the code.",
+        "description": "The spec-driven development system where specs and tasks live in your repo and never drift from the code. - syabro/mdtask"
+      }
+    },
+    {
+      "id": "4432",
+      "title": "mpiorowski/late-sh 🔗 https://github.com/mpiorowski/late-sh #github",
+      "description": "mpiorowski/late-sh 🔗 https://github.com/mpiorowski/late-sh #github",
+      "url": "https://t.me/pdzeng_talk/4432",
+      "publishedAt": "2026-07-22T08:40:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/mpiorowski/late-sh",
+        "siteName": "GitHub",
+        "title": "GitHub - mpiorowski/late-sh: A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.",
+        "description": "A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. - mpiorowski/late-sh",
+        "imageUrl": "https://cdn4.telesco.pe/file/kgnmiFWlYH0daCes5AdrlvV8XMrf_NvCAzGsWZ6JzYVLyZQGtuCN1nVI2wR3uur2eMs8LDGfVLgi2jyzILyeG-zPnodLKoWNgeOecML8sXYtsjGRU6rQ98fCGaAN7eMuHhVz0wRPVkrzx2nHXuJQWbQdbiNnASijJnjDQ75-59L0nwCXu5PUUbDfyLIuvvi5x00LOzJvDSoZncHGND2M-UTk_9hvQqlYnXFWbk9-osKgNlyUt4DreyYcQ_hlQE9lLjv1Tnuqjbh7xWGSogIWb_3x2OPh9Lm4Cvn0eHRLDoRycOUnkQloYrPZJgjjOlk6s1dEiK1-uV0fgOkTRi-mEg.jpg"
+      }
+    },
     {
       "id": "4431",
       "title": "用 AI 快速整理并发布了一篇关于 Pi Agent 内部机制分析。 这篇文章的核心精华在于 Session（会话管理） 与 Compaction（上下文压缩） 的设计思路，文中附带了完整的源…",
