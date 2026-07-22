@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T00:23:09.000Z",
+  "updatedAt": "2026-07-22T01:02:03.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4427",
+      "title": "https://x.com/cerebras/article/2077822555159945507",
+      "description": "https://x.com/cerebras/article/2077822555159945507",
+      "url": "https://t.me/pdzeng_talk/4427",
+      "publishedAt": "2026-07-22T01:02:03.000Z"
+    },
     {
       "id": "4426",
       "title": "https://pickmycard.app/",
