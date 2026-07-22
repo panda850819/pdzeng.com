@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T02:14:45.000Z",
+  "updatedAt": "2026-07-22T02:38:03.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -781,12 +781,28 @@
   ],
   "x": [
     {
+      "id": "2079757837954318637",
+      "title": "是的，你根本沒辦法從這些中去 graph 或是去找出點什麼\n定期減少積壓才是正確道路",
+      "description": "是的，你根本沒辦法從這些中去 graph 或是去找出點什麼\n定期減少積壓才是正確道路",
+      "url": "https://x.com/PandaZeng1/status/2079757837954318637",
+      "publishedAt": "2026-07-22T02:38:03.000Z",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/bladescepter/status/2079587272115286355",
+        "siteName": "X · @bladescepter",
+        "title": "陆西园",
+        "description": "obsidian的关系图谱是它最唬人也最没用的功能。只要是思维正常的人类，就绝不可能从这堆乱得像犹格索托斯的玩意中获取什么思路或者灵感。无论用llm来生成还是人类自己记都一样。"
+      }
+    },
+    {
       "id": "2079722322291052942",
       "title": "關於釣魚網站還是挺多的 @moonshot \n\n他們通常會做很好的 CTA 去誘拐你，例如說你的帳號正在被登入，然後你看到這個就會下意識想去點擊查看狀態\n\n但可以培養幾個好習慣\n1. 不隨意點…",
       "description": "關於釣魚網站還是挺多的 @moonshot \n\n他們通常會做很好的 CTA 去誘拐你，例如說你的帳號正在被登入，然後你看到這個就會下意識想去點擊查看狀態\n\n但可以培養幾個好習慣\n1. 不隨意點擊 Email 上的連結\n2. 先查看寄件者（這寄件者很明顯就跟 Moonshot 無關）\n3. 可以把信件上連結拉出來丟給 AI \n\n以上 https://t.co/aAUn165caV",
       "url": "https://x.com/PandaZeng1/status/2079722322291052942",
       "publishedAt": "2026-07-22T00:16:55.000Z",
-      "replies": 0,
+      "replies": 1,
       "reposts": 0,
       "likes": 1,
       "preview": {
