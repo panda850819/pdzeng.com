@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T02:38:03.000Z",
+  "updatedAt": "2026-07-22T03:43:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4429",
+      "title": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "description": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "url": "https://t.me/pdzeng_talk/4429",
+      "publishedAt": "2026-07-22T03:43:09.000Z",
+      "preview": {
+        "targetUrl": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/?utm_source=tldrai",
+        "siteName": "Charlesazam",
+        "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal Help? - Charles AZAM",
+        "description": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.",
+        "imageUrl": "https://cdn4.telesco.pe/file/aFx2mUyQyDIwwDbNa7Pr9bR94dqNa2jwsulyQzOIsP1TfKZWOHng178SH-TSdpEB7kp6xRyKTBoptll_iq39BK97HB29LtxDf2xGTclEdieSlGFTsOcuhgT5IU_r1Zs8MLKyGfmFSISMsPppfSvu3lQVAOhyOismWgpLlTklIk_d3qMzoPRJJYyFCBeFyOikhWo6sDLj266PlH1PV8lVsJAQToR_06xio1xQZz5nTdwf57ui2NXPAtTES7AyvA9Q3lrGFVgzPvqGG-QDA3l3qkqGiw8Otns61rnAMRZHSlfRURGn8xRN52AeRq18wZnYEw1HceXV6etYCXu0EBdo7A.jpg"
+      }
+    },
     {
       "id": "4428",
       "title": "https://x.com/claudeai/status/2079595988998554047 claude 回頭 shout out chatgpt",
@@ -217,7 +231,7 @@
         "siteName": "GitHub",
         "title": "GitHub - panda850819/i-have-adhd-zh-tw: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
         "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. - panda850819/i-have-adhd-zh-tw",
-        "imageUrl": "https://cdn4.telesco.pe/file/I4Ch1yPN3RYkTBMCZo1EQx1TeoWDw3nhOFdvmacAdtgZrN3RolHT0gDo83T8PV2TAxcQavKULhxDaCzYkwcyW9sgcfMr2YwLBXf5Sirkii6K-lQxEuA4Jw2R9LRlaFhy9-IyK4BD74_59v-r0UujJ6tgyjk3G2VXKo8PwkV0kMpHPUsHDsqBuFWG3m25w8_nYBPiDJCJth86X1_TMKw39E4JmMaGiDjOO3OtETWtYoOK_xHpFOEn2EXZ7Y8t8RL9ZZ5_y9r9mBskMurwvAJ6IH9SKbJ_8fd0p26Fmfa1asUxyFiWQYpdW4rEbi7eeIKTnmHRri4Sqsv8zx-29D1RLA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/eP1HrCzcRHJqw0oFRgsZn-ktkol7BApp8mPIWdBsOcTy9NHi0ZP25m1KQqKLrpy8dV9ubaDmYbO6dy8Nol4XQ8WNS-c3jgupmQBx3yuxAIiCZFJsKGVBZ6X8_5sXZNpFLXORlp0d8XSSDu6Xm0dZml_Ug-x5P99z9dX4k6qgYFDT6NfDB5Jdhv9wxN_kcVO4IdsFPoICF01EHPxPaG1lyPcn4ncCBjaS83wCzQHNhzbZr2xdfAU0iklbyak1vVgBfuxiyJTTAJewnV585bVKORTvTz_gGO2EnwJYU52MjwIrZpb49pWfvrZDZEpafBKoroZ3ncx7AucaKzEeaADzYA.jpg"
       }
     },
     {
