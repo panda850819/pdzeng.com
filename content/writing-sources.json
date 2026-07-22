@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:56:34.000Z",
+  "updatedAt": "2026-07-22T11:17:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4436",
+      "title": "allen-hsu/hush 🔗 https://github.com/allen-hsu/hush #github",
+      "description": "allen-hsu/hush 🔗 https://github.com/allen-hsu/hush #github",
+      "url": "https://t.me/pdzeng_talk/4436",
+      "publishedAt": "2026-07-22T11:17:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/allen-hsu/hush",
+        "siteName": "GitHub",
+        "title": "GitHub - allen-hsu/hush: Local, agent-safe per-worktree secrets for macOS — keep .env values out of your repo and out of AI agents'…",
+        "description": "Local, agent-safe per-worktree secrets for macOS — keep .env values out of your repo and out of AI agents' reach - allen-hsu/hush",
+        "imageUrl": "https://cdn4.telesco.pe/file/p_8kB7YarLiBJQTIHy6n2fEs_ZgHTS2KQsutaFuBIcj33V5XueZSJBh91YZL7TzfXYom_UlEwp4PFJDjr-tbvK6d8-KsFvRq_HMr2E7eVEhJrXGWu10B44UvBQQ6iFfu3HqOrbRpd0zUcP8oTuuSNG_cbIP2-UwiuQtzN_0q3glf4-va_ccpM15IBwssDm13PINPB_jukx6T2XYIHFi2tXEsHivx-T6mAABzxcnZa7FBu0hkiYVxy8B7tqHWOtjMbRdM7Oxmre2sRTmd4hY7zRBLR_8xAr42f_kOuWJYq-wkzzdDG-fzgjX8-IdtgVGC-6Z5RXpWiJVZcNnf-5cw1A.jpg"
+      }
+    },
+    {
+      "id": "4434",
+      "title": "继续分享最近开发时做的一些周边产出，今天给大家推荐我写的一个工具 + skill: envops https://github.com/reorx/envops 如果你会使用 agent 来做…",
+      "description": "继续分享最近开发时做的一些周边产出，今天给大家推荐我写的一个工具 + skill: envops https://github.com/reorx/envops 如果你会使用 agent 来做运维，那么强烈建议你安装 envops, 它会强制 agent 在处理与 env 文件相关的工作时，全部通过 envops cli 进行，使得重要的 secret, k…",
+      "url": "https://t.me/pdzeng_talk/4434",
+      "publishedAt": "2026-07-22T11:13:55.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4434",
+        "siteName": "Telegram",
+        "title": "继续分享最近开发时做的一些周边产出，今天给大家推荐我写的一个工具 + skill: envops https://github.com/reorx/envops 如果你会使用 agent 来做…",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/f74aWwaXXK5HSauiIKA6qH3MIaKm8mijyZIXMaCQ9YKWllzCuPrMXajkb9q82dNR4QTIs5q1Xtu1GZKwERylaJ2zfcRcYAVbyJq0Y3yDzHnbrHYHNP77v4-9U2sNn9Um7Leq8BS9m2vR3-JitdwfDd40lljd1PaBR14_0l9lX3_DVgOXp2oDSXMLeYeag2hfjxJ4F6v6-5FtY-G_zTVIBHTU8hm2LWsE6TWpF4siq28mAEfsWGUVoNT1PPeF3JTuozmSxHyPtsVj9EgfT6DD1oGzFfJQpVs5C6EB2nKwAwa7Z0YKYgXL4TecBkxk9076Ues9VMFxV2iCUe67sMonLA.jpg"
+      }
+    },
     {
       "id": "4433",
       "title": "一個很酷的東西，可以看看 syabro/mdtask 🔗 https://github.com/syabro/mdtask 🔗 https://mdtask.dev/ #github",
@@ -257,7 +285,7 @@
         "siteName": "GitHub",
         "title": "GitHub - zarazhangrui/reading-block: Save articles with one click; every 5 saves books a reading block on your Google Calendar.…",
         "description": "Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension. - zarazhangrui/reading-block",
-        "imageUrl": "https://cdn4.telesco.pe/file/O5H982mMsufYs-kr0c9Ilyf5oGwsaScmnwQYoNXSrAhY73qZ2RNueU3KsqJfN66zt4GjdZYy_r6dDggUEonPznAnHRDthI_OXkBrEImBooUW0baRyouYUXlzMsCaqXHtKmXnMn-TP-QKFhcmcoBWv2IoRInoUt_sH5LD2mmu4_SQjO1np60jTE7IFuwaxqmPNE_BBq9ZtY8yesxCCAP1XTkOvUdm4fjqPkJnfJhS6IBtXHdlvF5aoUJTeptr2CUkrF6egK8heo5SEgt32WMxmbQbtvWflZWOmfvREm7X0JycKDRAlhpK5Mb5ud2yQtqFuhsWmwqjqf5e9yt9kg2eGQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/ut9cjaQXXDC_rllkhqwdDHCmmq1XebIq93TwXa242BsWysff1tLfybIqFxov_Gu4xAEd44ZLBIPWmcru-Vbi9XC5qvqA4kfNi63pWZp3u_6zkg2Gk98uP-xbekcc-mpTM6zgINmmrnYxy9KXkWvgeOi9qJgPpbSPoeqQRpM-kd_vWcM1aTFBedb0RM0hcVP7axbrG9eGDDWzyoc3RIBmTjYnTY4ACocDVB3lfbAOUMCzwSNcOfL7EeEK2IdbIqga2-MMeoXhMZxs1GR-f_sJD_52duWaPhXKNvXnDJPoG3OB_JKoxRD36B8xrsaCOvdJTDhaH8kqR_WAQSVSTcN6Ow.jpg"
       }
     },
     {
@@ -271,7 +299,7 @@
         "siteName": "YouTube",
         "title": "I built a Chrome extension that puts your saved articles on your calendar",
         "description": "\"Read later\" usually means \"read never.\" So I built a Chrome extension that turns your read-later pile into dedicated reading time on your calendar. Every 5 articles you save, Reading Block automatically books a 30-minute reading block on your Google Calendar…",
-        "imageUrl": "https://cdn4.telesco.pe/file/A3pFEqBMHMiA7cMrbqB9ReJW73GFkk1kDsXiUXMrAavx98c1dcHbadM5bkuAH3JFtdTaW9IH4OEZE_NTTu3CS3y0jp47ZURQA_hvLHUaNIlakcIB-SX8SEXp9UAfEZt6jPoI-9xn8KYR-TlNL7XT5lnjSC6zKKk1iyaG1Gh4tYUqS98hWdSUYHx0t1d-l7LGtwABj7crYf33Qn7fYzczHQjyqqTOyv9CizdD9KvWPn6F5VKhttjWUHchtQdy6p5EN03eM-6Vb1B6bMFIyH6qRtkPxOvFXkS2RhKJaNCHkLpslkJ6Sj3tcBDmDhj_NTGJfNePMJS0FcseVgOClNtkzw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/OzHW_YFci18C0u1Nh0vMy9h9Fc53ZJzkpEwe3ocD5-im0QBnN7QSYGiVnMkC0hzdequ8WO56uf0ZUdL1GW-iDL-KCmxRHNjq98Fh43p-YE7xcNBcV-hFfN-CuScqHdQmajd-MMxtpW5fOtUkjFXJ_YyEWf11wGgyiftgmAAz1XTU9SDdSDfi-qdVKGjFQnkb9H-ODtPf-arIqFiOc9qFzchTOVoivPc4KVn8Ez8JDPbI27vd7wG6SnPC5deg01IKlab7_dwQQDpSEcYiKjRyG41Iv8hRlFzG6agrlVvQmEspPWOSJb6W2A4g-3Tua8LUj86gqx1kHsSKQuhNru8gdw.jpg"
       }
     },
     {
