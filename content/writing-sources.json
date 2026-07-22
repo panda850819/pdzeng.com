@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T03:43:09.000Z",
+  "updatedAt": "2026-07-22T05:39:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4430",
+      "title": "langfuse/langfuse 🔗 https://github.com/langfuse/langfuse #github",
+      "description": "langfuse/langfuse 🔗 https://github.com/langfuse/langfuse #github",
+      "url": "https://t.me/pdzeng_talk/4430",
+      "publishedAt": "2026-07-22T05:39:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/langfuse/langfuse",
+        "siteName": "GitHub",
+        "title": "GitHub - langfuse/langfuse: 🪢",
+        "description": "🪢",
+        "imageUrl": "https://cdn4.telesco.pe/file/fhODvUGwEEH4dOzvyDd3QvFIIao9EkI-3oaiMYMkHNYj70eY9E28p8wwii5_R0guxcRl0YuFttBiMCGNWgOjFWBbJytRONqiy2lk0rJPYrdW4OL62HHAOY9ISCGzElmcofwMdvriGmwM4t5KFz6UkTjrDNprp5Fn4WYF3dX8nUcD0OlrKeA6lw0gZWUZkhhdvORcB92_gi2NuxkXmoe4M4TZyZQbW5ER-3CBJrWgg_PvC3dl7L9380zU2-UwEjguqL40H3CX2qucV9IDm2_nwUicdPxB3fPrzxfEN3ANqOjnDbOdGt185DMV0hJ2gYnlibqUxXvlIhA6URo8rc1Fnw.jpg"
+      }
+    },
     {
       "id": "4429",
       "title": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
