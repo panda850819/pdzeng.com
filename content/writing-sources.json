@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T01:02:03.000Z",
+  "updatedAt": "2026-07-22T02:14:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4428",
+      "title": "https://x.com/claudeai/status/2079595988998554047 claude 回頭 shout out chatgpt",
+      "description": "https://x.com/claudeai/status/2079595988998554047 claude 回頭 shout out chatgpt",
+      "url": "https://t.me/pdzeng_talk/4428",
+      "publishedAt": "2026-07-22T02:14:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/claudeai/status/2079595988998554047",
+        "siteName": "X (formerly Twitter)",
+        "title": "Claude (@claudeai) on X",
+        "description": "New in Claude Cowork: teach Claude a skill. Record your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. Available on Pro, Max…",
+        "imageUrl": "https://cdn4.telesco.pe/file/mQCP8dFAr81XGNqb-wP1R5-NHiGjNYgHWv0KTKnVXoK3a-tsiPUF0xI2XmmkN10ikBAKD8TWzJwhbhGkqJ3ihSbUjXvQrLkxC5uXXQRv5uuBSDSJf7WGyC40nncMhQSrzcv7UwfhB_hjwJZ4cIWUpjmWoxX4yeRFTT0RvTlNufpWzPN6jmdFLyljoViWOtp8AO_alqABI7BjTZi-oMgAtIuk9aV8GXQPAFX0Cv22RRgDPIsmsvQX4CARbpsOpyUO0jJ48Uj1ES3trrei6gMn0tIzSV-0kFAHclbj_ui_FaUbT2UhGN1WasSJYCKbe7BTHgmUPioV6drhzlSBHm3Ogw.jpg"
+      }
+    },
     {
       "id": "4427",
       "title": "https://x.com/cerebras/article/2077822555159945507",
@@ -328,7 +342,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Claude (@claudeai) on X",
         "description": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been…",
-        "imageUrl": "https://cdn4.telesco.pe/file/CANyznUVrQGVpXHjOj7fop3QWAOpTMATBPDGc9eKCTubHRwFguWhux95oGejDwWn_Tcdx8Vm7nz8FCNT3zWWJyb5skVNZO3HNdS60psjcjGuc5pe0IWyTtHdI0RZZ5RRFRLweSsiAlvnM0xe0yyDZsqQVkG8B0yK5ritT1lbIZnpa9kWB3fbLinuyw_kK8lCVCmf1MNqQV8XjQeDELR8JgOiMI82ZTjy7BpGjcapJmW6WhLOriw6N2vsh1G0Vw5RvhNMSXQuURukMPGc5XIm5LGqcyhhUEvIytl48AA9W2gEedntd17sC6EHq8jO7KhIMGATVo73-cuFDSYRPkUAxA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/pXOWkpeH3NAoAE_xrE8x-e6y56Mb3v3Hs0HewWJQi2FXNHC5s5axDeAcYUyVB2ZZeOg71QrX8E6cbzDSf-SYjF9THpg_3ahXa-gDNiwQoIreVdQDyXBUC7-hL96VFnUPK8O6gOYw6Tbc7m-tBD4A2pqkYQvVXm0YB7tvvHUx4SfO1OF4AgJ4kwUNMoB_V9OMSqsGclSEP0Np7eDMn7URcfyRJzKvvc63xvQarK22fGVhrG-e5JoI3OE_XA-vjJB7s95qQHLuGuqmqSYcyJv-wB5NjxZjHHui1Z9DQGcA63DfvNNcE4Olgx2TMYIxEBuADfkBOOQiic5FzE2YyYYckQ.jpg"
       }
     },
     {
@@ -774,7 +788,7 @@
       "publishedAt": "2026-07-22T00:16:55.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 0,
+      "likes": 1,
       "preview": {
         "targetUrl": "https://x.com/PandaZeng1/status/2079722322291052942",
         "siteName": "X",
