@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T11:17:35.000Z",
+  "updatedAt": "2026-07-22T15:40:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,48 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4439",
+      "title": "block/buzz 🔗 https://github.com/block/buzz #github",
+      "description": "block/buzz 🔗 https://github.com/block/buzz #github",
+      "url": "https://t.me/pdzeng_talk/4439",
+      "publishedAt": "2026-07-22T15:40:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/block/buzz",
+        "siteName": "GitHub",
+        "title": "GitHub - block/buzz: A hive mind communication platform",
+        "description": "A hive mind communication platform. Contribute to block/buzz development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/FdtJ60gQ5nlVeMInjOjdoTk-X_JHzI5oPYxShKNaX3Nt59mDE92NE-FbWo7XP_ppZW-iH5bsUCuYqB509ftFK-LOzYZG6Q4iqnAODyaHkBYzxGVQB-xEqVFjMXpW8NIjIN99Ixq6DPgzLJBIWhkhRAchdgPgCJpOziG-Jm7K0WCYdZwb64tvT5Dy72fZwtRB1ja8piNoh3fG6hI7mdKa9s4SVx8GhumjBAc7_ccmIBh3aaimnOFpBccFwH_UiNPQe0cfAAztUHZekDIRsn1bPZ0wL5_18idkv8DIm_I0Hh7F43kvWh1Ek5ejq4orTziHkR4mRvqzVq-QCdjrqfeQLg.jpg"
+      }
+    },
+    {
+      "id": "4438",
+      "title": "frank890417/open-dictate 🔗 https://github.com/frank890417/open-dictate #github",
+      "description": "frank890417/open-dictate 🔗 https://github.com/frank890417/open-dictate #github",
+      "url": "https://t.me/pdzeng_talk/4438",
+      "publishedAt": "2026-07-22T15:39:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/frank890417/open-dictate",
+        "siteName": "GitHub",
+        "title": "GitHub - frank890417/open-dictate: Local-first Traditional Chinese dictation for macOS",
+        "description": "Local-first Traditional Chinese dictation for macOS - frank890417/open-dictate",
+        "imageUrl": "https://cdn4.telesco.pe/file/MNYBkEIjdBdARSZFgJq04xUH_tsSnne93-Lc-Jqs20MXjkwDUKmxS1ViUKnWDcOYIjukeLvJrWxlXrbi98RAjCcpMkZT1WKBOIyaER8I4wESNBzpeXafy6FurAbyRq-MTjGccDYZkoykbqohjd4Sf6nzajxLd7JyFS3v5U97dfhBBiPy0rAjZMhle4hMxDVSSSHSCPpZl8wAJ7vPWuvWvtJSlIe3XuU8VFFq8WPkJGeJcyb6e38cVtX1GR-jzVgdTSklow_DSlATDDR8j9co8ODG7I87Vp7GnQXxWRyFabTJqHGXonK3oEb5nIg7y68QTsfaVmhtAkHRC1Lh2AWh_g.jpg"
+      }
+    },
+    {
+      "id": "4437",
+      "title": "schollz/croc 🔗 https://github.com/schollz/croc #github",
+      "description": "schollz/croc 🔗 https://github.com/schollz/croc #github",
+      "url": "https://t.me/pdzeng_talk/4437",
+      "publishedAt": "2026-07-22T15:39:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/schollz/croc",
+        "siteName": "GitHub",
+        "title": "GitHub - schollz/croc: Easily and securely send things from one computer to another :package:",
+        "description": "Easily and securely send things from one computer to another :crocodile: :package: - schollz/croc",
+        "imageUrl": "https://cdn4.telesco.pe/file/sZVmWNxoTp_ada_OlZ-cPO_EULpc911NZdKN05T4VAGQBj-UfcVTCo8eBCnPO4Ss8OW-XgkEHhrkjxZgN_DM4tU1wX6nDxzH19RgUGTF8NakJFlPO0nkA7tZnnaZfW7IYmp85oxk65ksj0Oi35PTWWTiDbqvTW5M9fcaY_Tkg5gNi60EZMwy4Qyjf29zaTK-PnxykW5pcPrDpVSsOkxw8TPibPAuN1AhSpn3mg78QmtmXo1cthKHj7exraCCZ_kuZCn9deJjaoP7plvI6Yxlcz-yU0fDVuGAZ6mqjXmTR-uM8tAifC2THQuNfkToV6NebcFyWbkaHPQGro5bwSFhbQ.jpg"
+      }
+    },
     {
       "id": "4436",
       "title": "allen-hsu/hush 🔗 https://github.com/allen-hsu/hush #github",
