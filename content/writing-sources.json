@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:06:30.000Z",
+  "updatedAt": "2026-07-22T00:23:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4426",
+      "title": "https://pickmycard.app/",
+      "description": "https://pickmycard.app/",
+      "url": "https://t.me/pdzeng_talk/4426",
+      "publishedAt": "2026-07-22T00:23:09.000Z",
+      "preview": {
+        "targetUrl": "https://pickmycard.app/",
+        "siteName": "pickmycard.app",
+        "title": "信用卡回饋大師 - 一鍵找出最高回饋卡",
+        "description": "解放腦力，聰明刷卡！消費前一鍵找出最高回饋信用卡。幫你記憶卡片、卡片分級與管理配卡組合，免費使用。",
+        "imageUrl": "https://cdn4.telesco.pe/file/cjESeI8YcvEWaEop7pAOnBSRdsrZIlJ_zbZY6BQRghCj9u56iGyiSMNAEUrEMvT1YHp6b5-EhHYHGUPdpImipeLyJW3-hPAh7JPPJJq9KxaaJwSKgvbzCc13lXj_WHLnz6SXf7soFPEtdwcwyIZyPsyfrbnq3fNVR9otzQ1u5JhR7CQg-MQe_hBCEjRl2zrFaRoqAXrv9BouIbZXhVjvj4ezAVrpMNU7yv24Ko5IV5spwz-LM4fAqCl_Y0UYS5lkeIT1IyCXNbFG3QiGXyaLvOUVhjHVR0CHQzBZPLfc9YAz5pxmWyLkCA-4DeTW1IE8qqJm4homT2RAw2N_zsh8FQ.jpg"
+      }
+    },
+    {
+      "id": "4425",
+      "title": "cocoindex-io/cocoindex 🔗 https://github.com/cocoindex-io/cocoindex #github",
+      "description": "cocoindex-io/cocoindex 🔗 https://github.com/cocoindex-io/cocoindex #github",
+      "url": "https://t.me/pdzeng_talk/4425",
+      "publishedAt": "2026-07-22T00:03:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/cocoindex-io/cocoindex",
+        "siteName": "GitHub",
+        "title": "GitHub - cocoindex-io/cocoindex: Incremental engine for long horizon agents 🌟",
+        "description": "Incremental engine for long horizon agents 🌟",
+        "imageUrl": "https://cdn4.telesco.pe/file/MhILPAvQFzu6pwtWmo3pHbbHhesypG3FXVG1ngudKxjRQtcCg7U-iTmM7UpwFG971UQFtxKs-WhIrIpCnaBhFleFp26DI_U7Wdq7OwuYijHE3TpJSxSHSWjPO1r6D9qys23zTSi9JVDgfXrI6CoHfKuVIZ43w4yDSyEHTb49n9byDoMhmmgHHgIIH6l0Q-Gb-BMFMvkTZlHknWIvkqUahl5unYelmyWmC8gf016gZIDFiYM5pKW9df9BZYyVB1E2CPvd2lZjOxcca-Eev_tTh7-EkP-pSJYFMBgVCFh1TQ5nF516SYV1xR8BxsedLCREamQG5IBLXliuJgtEhu3yAw.jpg"
+      }
+    },
     {
       "id": "4424",
       "title": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
@@ -731,6 +759,23 @@
     }
   ],
   "x": [
+    {
+      "id": "2079722322291052942",
+      "title": "關於釣魚網站還是挺多的 @moonshot \n\n他們通常會做很好的 CTA 去誘拐你，例如說你的帳號正在被登入，然後你看到這個就會下意識想去點擊查看狀態\n\n但可以培養幾個好習慣\n1. 不隨意點…",
+      "description": "關於釣魚網站還是挺多的 @moonshot \n\n他們通常會做很好的 CTA 去誘拐你，例如說你的帳號正在被登入，然後你看到這個就會下意識想去點擊查看狀態\n\n但可以培養幾個好習慣\n1. 不隨意點擊 Email 上的連結\n2. 先查看寄件者（這寄件者很明顯就跟 Moonshot 無關）\n3. 可以把信件上連結拉出來丟給 AI \n\n以上 https://t.co/aAUn165caV",
+      "url": "https://x.com/PandaZeng1/status/2079722322291052942",
+      "publishedAt": "2026-07-22T00:16:55.000Z",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2079722322291052942",
+        "siteName": "X",
+        "title": "",
+        "description": "",
+        "imageUrl": "https://pbs.twimg.com/media/HNyn4gqbUAENt6m.jpg:small"
+      }
+    },
     {
       "id": "2075831346208108661",
       "title": "短短的一天帶來的是 fable 重置一次 codex 重置三次",
