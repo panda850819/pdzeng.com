@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T15:40:34.000Z",
+  "updatedAt": "2026-07-23T06:45:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4440",
+      "title": "每個反對的聲音都是如此的尖銳",
+      "description": "每個反對的聲音都是如此的尖銳",
+      "url": "https://t.me/pdzeng_talk/4440",
+      "publishedAt": "2026-07-23T06:45:27.000Z"
+    },
     {
       "id": "4439",
       "title": "block/buzz 🔗 https://github.com/block/buzz #github",
