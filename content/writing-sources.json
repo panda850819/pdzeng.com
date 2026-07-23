@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T06:45:27.000Z",
+  "updatedAt": "2026-07-23T11:59:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4441",
+      "title": "uv 用 Rust 写的， bun 也转向 Rust， Oxc、Rolldown 还是 Rust。 然后： - uv 背后的 Astral，团队成员去了 OpenAI； - bun 背后的 O…",
+      "description": "uv 用 Rust 写的， bun 也转向 Rust， Oxc、Rolldown 还是 Rust。 然后： - uv 背后的 Astral，团队成员去了 OpenAI； - bun 背后的 Oven，被 Anthropic 收购； - Vite 团队成员去了 Cloudflare。 这么看下来： 想被大厂盯上，先学 Rust。 想被收购，最好用 Rust。…",
+      "url": "https://t.me/pdzeng_talk/4441",
+      "publishedAt": "2026-07-23T11:59:20.000Z"
+    },
     {
       "id": "4440",
       "title": "每個反對的聲音都是如此的尖銳",
