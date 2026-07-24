@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T11:59:20.000Z",
+  "updatedAt": "2026-07-24T22:46:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4443",
+      "title": "unclebob/swarm-forge 🔗 https://github.com/unclebob/swarm-forge #github",
+      "description": "unclebob/swarm-forge 🔗 https://github.com/unclebob/swarm-forge #github",
+      "url": "https://t.me/pdzeng_talk/4443",
+      "publishedAt": "2026-07-24T22:46:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/unclebob/swarm-forge",
+        "siteName": "GitHub",
+        "title": "GitHub - unclebob/swarm-forge: A simple tool for coordinating several AI agents.",
+        "description": "A simple tool for coordinating several AI agents. Contribute to unclebob/swarm-forge development by creating an account on GitHub."
+      }
+    },
     {
       "id": "4441",
       "title": "uv 用 Rust 写的， bun 也转向 Rust， Oxc、Rolldown 还是 Rust。 然后： - uv 背后的 Astral，团队成员去了 OpenAI； - bun 背后的 O…",
@@ -313,7 +326,7 @@
         "siteName": "Geoffreylitt",
         "title": "Understanding is the new bottleneck",
         "description": "Agents can write code faster than we can absorb it. Here's why it still matters for humans to understand what they build — and some techniques for doing that efficiently: explainer docs, quizzes, micro-worlds, and shared spaces.",
-        "imageUrl": "https://cdn4.telesco.pe/file/dcpTUhf1yRleHcFeW-chSy44VtE-AvqSTMTEXDoaX_wnNYp0D51yKfIzo4DwJb-ffR-2qGqY2_TcAxSFocPZSDW0UgTVp3bq-zZCe1t_6BZ5YUeDSQC7PR-2TAVivm0bQcmA06726vU24Y0EHiAJbZcH06mGNxc0n5QOsc9l7BE6GC-fQHkk1_akBerKbNpDkKImEkHTOOzJhfG0OTtqgTcp4Lz7CMX9UQwpiIMeyTv4Xjay-sHwhH9-qCICDvv7npIpt4qCiMqNEcnkjqPxhhj4MUSPb8jCoKI03kt_eqLk_rqVl-Beo1sRtT0pv4ZR5F8BsmOv4lRHDUViuxzgAA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/VMEvSh2ZDt28vV3emlRPblWcyRWAJuKQ0BgO2gvbRII-dW3E-ppNUmKyFFNaJjVh7YyTqcxNPejn5G-nth3G0AAZbfMHDRlUer42JUeBERE-A4pZlLhxQ0FowruURKkCvy-tIUlClPVM0MJeR74aWj3wEdJkM4HjZMBLxbNjrVpyjtSfhkoQ7JGYn1AjqEqwWssN5Tlu19WFsf3uDlmeI3cydlO6jQ9466buJROfLt5zfrr1hMU0rv2jKL1ZQdt2cT9pbYWZ_-urWa6EzBEWgKoQ-79lUjMkDIsBC2h5R3leSl8q-wIU4I0X2mY8XmevdgyTZnfujiHacUVPHewJ0Q.jpg"
       }
     },
     {
