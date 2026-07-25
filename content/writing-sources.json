@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:50:46.000Z",
+  "updatedAt": "2026-07-25T16:44:52.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4445",
+      "title": "新家整理進度 65%",
+      "description": "新家整理進度 65%",
+      "url": "https://t.me/pdzeng_talk/4445",
+      "publishedAt": "2026-07-25T16:44:52.000Z"
+    },
     {
       "id": "4444",
       "title": "https://offline.tldraw.com/",
