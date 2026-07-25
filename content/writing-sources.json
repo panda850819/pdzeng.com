@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:46:34.000Z",
+  "updatedAt": "2026-07-25T15:50:46.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4444",
+      "title": "https://offline.tldraw.com/",
+      "description": "https://offline.tldraw.com/",
+      "url": "https://t.me/pdzeng_talk/4444",
+      "publishedAt": "2026-07-25T15:50:46.000Z",
+      "preview": {
+        "targetUrl": "https://offline.tldraw.com/",
+        "siteName": "Tldraw",
+        "title": "tldraw offline",
+        "description": "A local, file-based desktop whiteboard that your AI can use too.",
+        "imageUrl": "https://cdn4.telesco.pe/file/mQkCQDWWjloTs5bJz72wFFOJfjwk8TyY99zf5MV6zDGDEiXd_Qi6V1JwcovQMB40_Vtj1ZAbOVNl4l-khBsNOeos33XwCjolizgiRij_U_eQxqPuBsUU2KZmQTz-ntZDqZaA6LIKRgn7c09t2TCmlDOgFeEcRwsPeVtN3PlJcfeGknpgnYN20KgvjEt7hb0Tr0YWGLmxFHfdheldxR_GkBkIDakCEy88aJ-07fdKrrQfKudv4rSyM1vMft_2em89PZQ21eNWGzyQ1QaIjxPLTOPuJvnCAbbwSJF5Ucz4YcmPrBHSXTS51WXq3aTY5TZYJh---uIsBPaGvwjEKWSksA.jpg"
+      }
+    },
+    {
       "id": "4443",
       "title": "unclebob/swarm-forge 🔗 https://github.com/unclebob/swarm-forge #github",
       "description": "unclebob/swarm-forge 🔗 https://github.com/unclebob/swarm-forge #github",
@@ -138,8 +152,7 @@
         "targetUrl": "https://github.com/block/buzz",
         "siteName": "GitHub",
         "title": "GitHub - block/buzz: A hive mind communication platform",
-        "description": "A hive mind communication platform. Contribute to block/buzz development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/mUy2I_y2OX-VLw5MVv_6kmfG2S0negZn9ZCzS3dnox7cI1BDvh_ltirtfOSK3AV7fp4Nye8dfPYCBMenObZbChOtWl3fADv2YUwVvCAbWx_D7Z7Goj0QICK0rHUCi0soqKD4ZVdqvQRoYGlYkI9g4qh6iOPSZlguv-Q6OkDRpWJRkaflj3Cd2UjTreY8ba21bGW4dKpfxYEIgPqxpw722bcU-YlIvgMeAWBSmUuNil2UWGxBCxrhRNsHidoyaXySnDvZP9kJeKIWwf7nV_UA1CeALA42wDjS3stFdDY5Fa4_-wqVXsRZRD4Mt05OTPJi9yzUV-xFTwGQxv7yrBR-fg.jpg"
+        "description": "A hive mind communication platform. Contribute to block/buzz development by creating an account on GitHub."
       }
     },
     {
