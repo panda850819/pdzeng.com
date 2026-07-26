@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T08:42:34.000Z",
+  "updatedAt": "2026-07-26T14:36:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4449",
+      "title": "這時間也是挺尷尬的",
+      "description": "這時間也是挺尷尬的",
+      "url": "https://t.me/pdzeng_talk/4449",
+      "publishedAt": "2026-07-26T14:36:50.000Z"
+    },
     {
       "id": "4448",
       "title": "MoonshotAI/kimi-cli 🔗 https://github.com/MoonshotAI/kimi-cli #github",
@@ -216,7 +223,7 @@
         "siteName": "GitHub",
         "title": "GitHub - frank890417/open-dictate: Local-first Traditional Chinese dictation for macOS",
         "description": "Local-first Traditional Chinese dictation for macOS - frank890417/open-dictate",
-        "imageUrl": "https://cdn4.telesco.pe/file/Ew1CRbJnOuIddllOHrqnS5ix77GMUVuyIueuOdQ6pXLvwwu7xGzmpOiTv8wGLLq9aD_BeioWqVMbjFRV08Ws1uakKfIJ7WtyGpMOuGEQblS8SXpKGX0SfsfDX7xegSRCk3ZY5movtXlNqPz3D6URXWpk2b1SFQHVPk8G5CCEcH_NDXrlUrpAFg2qaMdYKApf2xhiaGt3FtGCykgWJmMf-4JjCcNlfW0zO4wTwhbj5Os0meTf2VaprionRS3kz06dTwYqbxZQ6QV1X3Cotd6V7FDfHfNG3we_KyT2wSjVazIwgH44tq38qOLEdr-VzjjOvLUjnUzC1KDcDjXqiASc8g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/WnOSUf8orV3-CyHKb-P4AxLktctoVsBbIi8AcXmRXkXJdm9G7PdxDwsQYMeOG30AYcfDqg2aP0PPqL7LPJfYEbMQ0liyP2oBQYPAVZO7DrdkWZP6LcWJUyTDhxmS6-i_k3NRO2BFvFErRAI-xPwoIla_nEeR8z-Rmrq6DqMVNM4yBkV1t4Ct7ZO30HDmBp38YftARXGa4K2g3sZSU30i7o4y72Wfca-6eBIjit8K8m3BwPRbqPtsHwqJVsca8H427CLDoes06nG5iZwXEuuQBSn4YlXoSGhojZpvjOBKs63L7UM1rWsFB65H6k4hfThFimuchf-xTjJlCKpWk8D-iQ.jpg"
       }
     },
     {
@@ -230,7 +237,7 @@
         "siteName": "GitHub",
         "title": "GitHub - schollz/croc: Easily and securely send things from one computer to another :package:",
         "description": "Easily and securely send things from one computer to another :crocodile: :package: - schollz/croc",
-        "imageUrl": "https://cdn4.telesco.pe/file/iVIFllvyK_EfDrfnel_JdJFhxG6yxxSiUyQHJldLJKS5htxEa36XX98V9VRTz0leIG0ShAT1CbRsmHstjw6qKvTLqkiIW6ruf0YEEhrGebqmdC34iI8J0WdX14zFeJmVeUzb6ob5VZHADJvRqVPkCHNORBnuODRQaijRZDBZ9t7ePXCm7OP3DDTYbtG2mKgnzTDFfll5ga-d4caI40HFOgcQ_BBbuV4SO2hFp2b9rJDzzrO43z1xIKKxoG7Dwet2opBk319znQrC8S-kWHXYGFeW0jekGImMI9YZ1UXXMPPi3GBUiL6fbsNj0M9PK5e_QNydHAaydKZP26wyyYHSIA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/UX2I91TnGz1eetTuSbnA_9F6LvPglf3Kicksu2x_Mvgi7KJ_RbC4oRj8sW7N285QXohxXt56SsxmwiX83G-JCRfsTpXD08-W1L4m07sI2gmnenK6jf82Dn4pK66uoZpKDUTfEAlxDDd6_hh3MgxYPbSpGiYc08VNwZ7-ZA8ZeqoTg9KdrWpf7gQEwd0UYutOQIbH033pXPm_edANbd1CyN1GtgvP45A-OQIPp7kWlinoEtRb1qble7vMHZUpNMj1EVMc4BUJHhEEf818bDzHwD3InRaGlCRHQFBjUm1qFg2v3J2KtQ-zO9MK0_N_JZGzwWljb2v-u2jsbWfG-KUcKg.jpg"
       }
     },
     {
