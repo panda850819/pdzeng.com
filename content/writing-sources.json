@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T16:44:52.000Z",
+  "updatedAt": "2026-07-26T08:42:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,48 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4448",
+      "title": "MoonshotAI/kimi-cli 🔗 https://github.com/MoonshotAI/kimi-cli #github",
+      "description": "MoonshotAI/kimi-cli 🔗 https://github.com/MoonshotAI/kimi-cli #github",
+      "url": "https://t.me/pdzeng_talk/4448",
+      "publishedAt": "2026-07-26T08:42:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/MoonshotAI/kimi-cli",
+        "siteName": "GitHub",
+        "title": "GitHub - MoonshotAI/kimi-cli: Kimi Code CLI is your next CLI agent.",
+        "description": "Kimi Code CLI is your next CLI agent. Contribute to MoonshotAI/kimi-cli development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/AwW8Dk-CmV4OVp7WPRRoqCrPR3YGqptGktf-_PLVemEeZjrFIMjGNfZFDR3RDTLIyCx5ge43HsWlBjjyeigjDdBA46y47B9cud9rqQqJkLWvv9SnektjWoejO_MEBwy6UYojSQAU2a5KBO_oVeRwpE3jtHtw6aw5YxeTkmm4BC52RR8vz5oPsAqd9o0y-2AEnUVh11Yes3KOpxOifcZ58CoLM4A9XssQFqdBXNWVPQtGw-4hJ-ggX2Oq8nxIIMAtMVG2pQqVHrJQLbbpS39-S5mVeUPfIG-80mbOdORy5YW-_7tDd7RWpbMLk4UbcK1hIm0O04KSEbM32koakpQx8g.jpg"
+      }
+    },
+    {
+      "id": "4447",
+      "title": "stablyai/orca 🔗 https://github.com/stablyai/orca #github",
+      "description": "stablyai/orca 🔗 https://github.com/stablyai/orca #github",
+      "url": "https://t.me/pdzeng_talk/4447",
+      "publishedAt": "2026-07-26T08:41:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/stablyai/orca",
+        "siteName": "GitHub",
+        "title": "GitHub - stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription.…",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. - stablyai/orca",
+        "imageUrl": "https://cdn4.telesco.pe/file/apjZBPkBftypcpPdv5bE_PytmWvuXGq5Mzg9s8a5oMN-2e2M33d1J4eRgTGHjgqv83WZlPjraPIWnRmCSW2vC6Y54p0SuQEoo1uDuSfudzP5UjzRkDR1bYVm8OSKA7gVjlrAs0DxHgkFWj7uGLiTLowuzzIHZza88YrLejdDZvc8Fe4FGCR-DXkxrJnDUPGDqRu0viJNTF4kX9NiWujgz3N5ghATlBw78YuHIlDWVXukfq09BdMDpvGomTUml_LqEPT_GOzfuZlUCacMEVttxakEXFzgRQ8b8lATJzr44ITM402aexuNqsQ6nVqnrGLN1GGwmhQlcHjw_Pj0QEmQLg.jpg"
+      }
+    },
+    {
+      "id": "4446",
+      "title": "every-app/open-seo 🔗 https://github.com/every-app/open-seo #github",
+      "description": "every-app/open-seo 🔗 https://github.com/every-app/open-seo #github",
+      "url": "https://t.me/pdzeng_talk/4446",
+      "publishedAt": "2026-07-26T08:41:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/every-app/open-seo",
+        "siteName": "GitHub",
+        "title": "GitHub - every-app/open-seo: Open source alternative to Semrush and Ahrefs",
+        "description": "Open source alternative to Semrush and Ahrefs. Contribute to every-app/open-seo development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/f-JIn13IPofcSl_6l5f7F4ux1oCa62K8muQX0DkpoVz3ZnojRdOQQhn8pa6bSjNU8hTNLw4lADd_en91g8XbPyRNfyC0nJs-yJjHGDgnp8UkTMje0RBe_Iis1cn2LSI_lDwB1v8Z4UkQ3ri1KKmiBTgk9YK9huAyDSQGSzA1x3PcUJGAIdFBGkkdc1p-EYA16JxNjtXSRxEVJGoH6X27wHd8nL22OvLbfLWUfZlatavGCt-d1nG9s6FZcR39RfUTu0ngAL5HlIk7BWYabAK2nqmb0Pq9l92Gvg7kwXAczViC7neatsmFkmpg3YThq_0FmepmfgxCN58TfV3Fgc20-A.jpg"
+      }
+    },
     {
       "id": "4445",
       "title": "新家整理進度 65%",
