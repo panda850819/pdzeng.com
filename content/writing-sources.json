@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T12:39:48.000Z",
+  "updatedAt": "2026-07-27T14:06:32.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4454",
+      "title": "原來我的 dd 又快要50% 惹",
+      "description": "原來我的 dd 又快要50% 惹",
+      "url": "https://t.me/pdzeng_talk/4454",
+      "publishedAt": "2026-07-27T14:06:32.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4454",
+        "siteName": "Telegram",
+        "title": "原來我的 dd 又快要50% 惹",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/RW3VD1bIzo5LN8hjRJhDK-pJJaugBIMUX5P9Zabv0viXOwbwQt3phW-nt8tLWKokD7ViL1pJi8-npbYjiqX0wO9O26A0hE5LxDEPdvttDs9-qUrS4k24VUf07H6Hb0lfaRQ-CXDbhe0X1J8B63isVeUj7beTtU5fRli8-3OEETspGmSRX0gYUGUEPoa18LnauSectkCufPsn_GY9YbIFCoekCuf-49PatxaC4EiTV3kSLfD9V_x2Layo5lar-IaCuRJgK8JZgFgXRpeFhrtdbCd4RjkLIfcuTMp7TYm6G_nKGutOkSgp9mtBbKCTuQ0x9mAnhqSuHjvLZdnWs-RIaQ.jpg"
+      }
+    },
     {
       "id": "4453",
       "title": "飯很好吃",
