@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T09:14:34.000Z",
+  "updatedAt": "2026-07-27T12:39:48.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4453",
+      "title": "飯很好吃",
+      "description": "飯很好吃",
+      "url": "https://t.me/pdzeng_talk/4453",
+      "publishedAt": "2026-07-27T12:39:48.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4453",
+        "siteName": "Telegram",
+        "title": "飯很好吃",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/nFKv6o40UusyS7QEbK0Ig5hl_CNvjrAIeVivDQ6Qwd4FpMrdsQ5_X880_t1axeJqPxBaHBefftcj-vuls50GP50TIBojuPBO-kyYEl8vHtzN6ApxjFwbe93U36xGHBWRuuiw04ezwX_-DBrYRxJaoMfrCdQcD1wVTkS-O-TlHz0Qonu9OL46H2maJcKHbP1RcSuvLZh1YbuUP9rjTGGsgB6P1SiUMFEVjMmE5iaJdXNF-4Khjo49ojC9vEOKWMqzBJUkZoZM9vjI4wwdfMrq_W3HWeJkGGMYp942yZ0hWl70mpRlebFVwn3fEK04VJfVkxBwEuz00czJeHxMMLkgLg.jpg"
+      }
+    },
     {
       "id": "4452",
       "title": "runesleo/claude-code-workflow 🔗 https://github.com/runesleo/claude-code-workflow #github",
