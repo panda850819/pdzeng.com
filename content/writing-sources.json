@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:01:34.000Z",
+  "updatedAt": "2026-07-27T01:29:17.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4451",
+      "title": "https://vector-3d-muscle.pages.dev/",
+      "description": "https://vector-3d-muscle.pages.dev/",
+      "url": "https://t.me/pdzeng_talk/4451",
+      "publishedAt": "2026-07-27T01:29:17.000Z",
+      "preview": {
+        "targetUrl": "https://vector-3d-muscle.pages.dev/",
+        "siteName": "Vector",
+        "title": "Vector · 3D Muscle Explorer",
+        "description": "See where your muscles are before you train. Click any muscle on a 3D body for the best exercises, with equipment, steps and demo GIFs. Free, no signup.",
+        "imageUrl": "https://cdn4.telesco.pe/file/NLoWa6kYWavX54TaaIWs1OrcDA8B4c3emlms2SV8xVBJ9SXyLIEQa_e4sFWIjhVsFGwbWWDzF2rQqa4-_S65cSp_q6hc6E_L98o2m9_SVNj4m39wfjSTa5osACvnoJizD2XmlCepT6HgBUk8p9sTzI53AeURQ_2TN2_s4h8at5s2BCY1bd--2O2wzQUKUvZyjNcBNge37eY-xb-l0ah1HqVwd844dFt9XguKrxd0WJfIJ1nA_xq7zMgyZPItl2yYfc1f_uv_TcPbrqwQekJFwE19PlWhrHinoBw2Bs2E6Zit4jem1DGPWdVTQOin1pzYM-kSgtClWjxNeA5ZaNKHlA.jpg"
+      }
+    },
     {
       "id": "4450",
       "title": "pinojs/pino 🔗 https://github.com/pinojs/pino #github",
