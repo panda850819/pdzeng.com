@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T01:29:17.000Z",
+  "updatedAt": "2026-07-27T09:14:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4452",
+      "title": "runesleo/claude-code-workflow 🔗 https://github.com/runesleo/claude-code-workflow #github",
+      "description": "runesleo/claude-code-workflow 🔗 https://github.com/runesleo/claude-code-workflow #github",
+      "url": "https://t.me/pdzeng_talk/4452",
+      "publishedAt": "2026-07-27T09:14:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/runesleo/claude-code-workflow",
+        "siteName": "GitHub",
+        "title": "GitHub - runesleo/claude-code-workflow: QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统",
+        "description": "QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统 - runesleo/claude-code-workflow",
+        "imageUrl": "https://cdn4.telesco.pe/file/tVnIbkmDwqchivfa3XOM_pzWctoaZxS6rlJInBUaQPAoncpxfYCfYfve23WRd15Tn2NdPLfJLJFGH1yBZ6hysmdgrtdhYmsZZQB_kCG5vBIp2h2W8DloKqsuOu7pwhbNZvNshyGgZ2VAqXjPZFPbQyg2V-2nHoEiCpD3Bdhdo4twd-mZC1FpfAVXXPIKxOoofM9jMbeoo7vigB6pR8MFlmO_ojcoQnjKflyvkeXuD8lOFeAubCXueJUhCJjoxf753d9bpdgj_tncHmBOxzFBGKTGRHaXTkRwXSgTLQXWhh5dqRVNVaHGbFUckPPE4IFBVTuHI6hXQ7RX68q0TKexBQ.jpg"
+      }
+    },
     {
       "id": "4451",
       "title": "https://vector-3d-muscle.pages.dev/",
