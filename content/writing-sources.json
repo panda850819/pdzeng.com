@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T09:39:51.000Z",
+  "updatedAt": "2026-07-29T11:14:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4461",
+      "title": "kvcache-ai/AgentENV 🔗 https://github.com/kvcache-ai/AgentENV #github",
+      "description": "kvcache-ai/AgentENV 🔗 https://github.com/kvcache-ai/AgentENV #github",
+      "url": "https://t.me/pdzeng_talk/4461",
+      "publishedAt": "2026-07-29T11:14:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/kvcache-ai/AgentENV",
+        "siteName": "GitHub",
+        "title": "GitHub - kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+        "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale. - kvcache-ai/AgentENV",
+        "imageUrl": "https://cdn4.telesco.pe/file/eGLnsQ21XnUH3c9iKfmtDnJWQO_gfHbb6PT8q5pOeZ7YZSyCclY7y1T-rqFPmRDChmsn_RFC0RrMnp3lAyHLYSirwjwyGKFGUdZPleDIxWrr_Aoa0WU5QYiCyh4HOjZQ-GKPcv-P1rjSxuixVK7xOjqeZfQfAOYms_2BET4OudgKp5AX7_ZcKXntRfpb7UdXmcRFfEeFDZzBFQz0qLFhkXLLvc5gUgfyoJ9XeptECo3w3D6yAFfDgRjlf0Zzz312_eWYvxfU7ArE298hzlC6754_ntZa9YLlZ_Yys49tUoDL3tFYpyyn__f-D-VBhIuvcso_B-R3DZ0c9GnyTYIKKA.jpg"
+      }
+    },
     {
       "id": "4460",
       "title": "正在試用 buzz",
