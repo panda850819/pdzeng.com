@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:14:34.000Z",
+  "updatedAt": "2026-07-30T13:22:51.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4462",
+      "title": "啊？",
+      "description": "啊？",
+      "url": "https://t.me/pdzeng_talk/4462",
+      "publishedAt": "2026-07-30T13:22:51.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4462",
+        "siteName": "Telegram",
+        "title": "啊？",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/nt0NWteyS38CSicM5YVdXMKM3aazCDAnTJy1K6CN0OGMqJgs9hdzFGR0L2EeHFvMwI4RiOZW-gUqw7JlHCoyvIOPyiz7FjTmNLbTOxCWCm2OCQeSEXqGZ-NeXUaEd3b7A_tCB0VRsfrGiP4y1LOilCgS53bFcSGOCmyHfVDPjNGhPsol5wIlH5YKII2bYMsGq-6pxh8aQBJxqhcxHZdjXAlowmu77sQF2nIrIrkEQP8sKM9gTs8NyYGK64f8JD9mKdyk81gmlH1fh_Mk_CkkJ-CUH-Ffw4XE9xSCeHVbzfH9RQFHae_CNjdjIwuqNWNDUIt3xw5kjuv7aToUjdYvjA.jpg"
+      }
+    },
+    {
       "id": "4461",
       "title": "kvcache-ai/AgentENV 🔗 https://github.com/kvcache-ai/AgentENV #github",
       "description": "kvcache-ai/AgentENV 🔗 https://github.com/kvcache-ai/AgentENV #github",
@@ -196,7 +210,7 @@
         "siteName": "Telegram",
         "title": "原來我的 dd 又快要50% 惹",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/gaC1W5fYSDiuzZwhQdGu-NKB2Ar0yE7xZOmYlfqcdTYYZMaGvUdOlzmZohhGsLe2vGM1o5pplATCZESlqMnU9z0nNA5HCOWY3tRDVA4PW7kF8aAVv4kNLp8Ru_mBJhR0f0-BX0CqE9kdoNmJu-NF7TuurPlMsxxCMMpNrNHOlYLdUN1DOu2xpJkaTPqFgbg8-rnBWo2TbhmzLIk-mvZYIrIUWkqHf-HuRiENNIbRzQwyGj9nDHMATBn3IAG8nfHC90yX1Wj8CC5R5rjPt06iHRsYv8lz3gcxC40PZ3KbJS5OsGvuAwI2Z_gNyi1hF2nG7wyoyd9uWtqpvJUTINhD3w.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/vddrZ-RkgJgvkecippiTP0pA0Qz_qMlpJ0o5uk1C5xAE2EG5HrqXXfNJNw6hRn5iV8fHS0XMMw_n9SF6hwjQW2rP4aKim2-bLj1UA88M7CjBQUVr9XaBbUSJ1PoRWgSPDKO2fiLRMsIhHQzagxwl4ONbqLrvYSi5ECdbWia1Ma_pIXyqmquJ2iWMgrn_d_jPkkotVkUmjsuD_t_QLVmX_7LzRxmPmDBFAxF1ASnijjGGS-QSTXZbnxsYfcn5BmGP0Bjf61qZ2VKYZvvRlFim04ndvHTrbo5B87XNTlaBpKUDdUv4vUOyz2GrQkbhW3H3mvAh6DJBVsKgBjOoqBN7wg.jpg"
       }
     },
     {
