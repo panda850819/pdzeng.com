@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T13:22:51.000Z",
+  "updatedAt": "2026-07-31T09:22:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,13 @@
   ],
   "telegram": [
     {
+      "id": "4463",
+      "title": "人家為什麼用而非添加 notion tasks 這種東西進來就是因為那東西太亂了 如果真的想不到要用什麼東西管你的 ticket 就在 github / gitlab 上面管理吧 比你花里胡俏…",
+      "description": "人家為什麼用而非添加 notion tasks 這種東西進來就是因為那東西太亂了 如果真的想不到要用什麼東西管你的 ticket 就在 github / gitlab 上面管理吧 比你花里胡俏的東搞搞西搞搞來得好",
+      "url": "https://t.me/pdzeng_talk/4463",
+      "publishedAt": "2026-07-31T09:22:20.000Z"
+    },
+    {
       "id": "4462",
       "title": "啊？",
       "description": "啊？",
@@ -140,7 +147,7 @@
         "siteName": "Telegram",
         "title": "正在試用 buzz",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/Oj8J5TM5YBJP8m8MQfFCmtdFPJgvW23tGNsnpOUEk2N_vZ6bewYJvSW_RKXaGMgVIES_Swbkl7Vjeq3bGe0bwAHFLJSM9b3M947tMPrGlK7HYG8cgHMME6n8sZXS9vj8R7vPM_vYKhUdibSDh01J7fzeu-A-mLG1muLaGks1S5mIrGSAPWBpWiSK5YW37jJih5lU-1iIrPOIOlqr-CV3IUAOtA9qqYNLlHP6TM3DFeLjxrchXNpjf-64e4HN59hN-x9ieJnyWns2nMSsSptsa-OdBTxMRb6JGJtSawPSlwoEr5DC3i4z2etAkFXtnf-NqZB8mugnb83fGKUwEjtfNg.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/p28OEDBc15ijlaxgAH_it2mdIl8g_x9i3e2ES_BOh4VrrRIlxlJhPr24CiY_XipkMFLy_El795bVGwlbnJ-KAMae2-XS6puWcRHVTQvNCPaynAt-9IvejKjkxygTPSrGIJ3VH-ZGFd192vvjS2-_EnKIbDFFgocyA51VrlDZ3qB04driO9nq6dj1tX_-XvaJimy1D-GOt6GfO0l4KRU1zwRPhjpgLSFFJA6rdtEHK8jlcesgrXa2REEuq28Q_iL2iXTb6kJaj9xeB_ofKr7imaZjzd7WnaE3jlbdHC7LbSCpbJRoHnqmPQHhN0pBATLe-l4HebwzfUMumBq66MRB3g.jpg"
       }
     },
     {
