@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T04:25:03.000Z",
+  "updatedAt": "2026-08-01T04:37:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4473",
+      "title": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
+      "description": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
+      "url": "https://t.me/pdzeng_talk/4473",
+      "publishedAt": "2026-08-01T04:36:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
+        "siteName": "X (formerly Twitter)",
+        "title": "Bitmart HQ (@Bitmarthuanqian) on X",
+        "description": "BitMart不是经营不善倒闭，而是一场提前布局的用户资产转移跑路",
+        "imageUrl": "https://cdn4.telesco.pe/file/I30z82WrZxnCDFIQnKjM3Qie4Aedhe2zx3-vYwxFg52usa7Qhdshtq_Pzs7ZdjgLV0zM-s__KWVfNXiBZPVKz7ufck1fvOgL2irmHfXt1I5ao3ZPUloaPpHc5PKlG2KJyRjyf4eSfzP0AaMh7lS_i5Yu0wfTdU5X0QESxHng4UlsdYh12XR5UMSUTEWFPmjtA4nS5gzCgzTXQ3s80oHQGN6-4GB6MCy5oMkU7xrDYVIylE-ioQ0NRZReLMaKLAwCWyvACqE2zxJPK47fzjqjtNoamTlDDILvJSGKFeKIEWOjBg39r4pah0PJWQmre0K_5Wi6jtBkFaDjVbWem6T9Og.jpg"
+      }
+    },
     {
       "id": "4472",
       "title": "Error: Retry failed after 3 attempts: Codex error: Our servers are currently overloaded. Please…",
@@ -1273,6 +1287,22 @@
     }
   ],
   "x": [
+    {
+      "id": "2083411829397881121",
+      "title": "鬼故事",
+      "description": "鬼故事",
+      "url": "https://x.com/PandaZeng1/status/2083411829397881121",
+      "publishedAt": "2026-08-01T04:37:42.000Z",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
+        "siteName": "X · @Bitmarthuanqian",
+        "title": "Bitmart HQ",
+        "description": "BitMart不是经营不善倒闭，而是一场提前布局的用户资产转移跑路"
+      }
+    },
     {
       "id": "2083183997723754499",
       "title": "不能同意更多了\n\n溝通只是一個行為，很多人盡力解釋，但對方根本不在同個頻率上，解釋再多也是有點對牛彈琴",
