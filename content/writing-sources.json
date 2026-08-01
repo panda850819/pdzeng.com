@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T05:54:34.000Z",
+  "updatedAt": "2026-08-01T15:00:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4476",
+      "title": "mackt/pi-language-tutor 🔗 https://github.com/mackt/pi-language-tutor #github",
+      "description": "mackt/pi-language-tutor 🔗 https://github.com/mackt/pi-language-tutor #github",
+      "url": "https://t.me/pdzeng_talk/4476",
+      "publishedAt": "2026-08-01T15:00:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/mackt/pi-language-tutor",
+        "siteName": "GitHub",
+        "title": "GitHub - mackt/pi-language-tutor: Learn a foreign language while you code — a pi extension that reviews your prompts for spelling…",
+        "description": "Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations. - mack...",
+        "imageUrl": "https://cdn4.telesco.pe/file/Yz4xNrvARf-R1yCNWEyHpabjaoiEnF0p3tUyMcoRp81yiTsXDgqHFaBxr6frq8z0Fo0D-9NJ9zGDye-EMBMeLzVEc4Q0hgX15KSlxsonGjDuUzv1k113kk3aObF8FdUwr4P5H-G3UUtZKjaYRzgcOg1jkQS3WRigPwsQ76IAhSNqY2HtRTrGp8SQ1gaE6dRSQ2oKtwwjDswWGqpJhhqOxePb017nqcf6Dm7FkiIqcdgk198-BnbJ76fLi1nbr2Ell2WGX_vKyCAmUamcPiE5U42asfJ3g4ZWg_A1wIJHtsevIiVXHWFrFNfHGbazFPFLRDjSKSDM_d3thYxo3OpK8Q.jpg"
+      }
+    },
+    {
+      "id": "4475",
+      "title": "jakubkrehel/skills 🔗 https://github.com/jakubkrehel/skills #github",
+      "description": "jakubkrehel/skills 🔗 https://github.com/jakubkrehel/skills #github",
+      "url": "https://t.me/pdzeng_talk/4475",
+      "publishedAt": "2026-08-01T14:47:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/jakubkrehel/skills",
+        "siteName": "GitHub",
+        "title": "GitHub - jakubkrehel/skills: A collection of agent skills that help with various parts of building a great interface. From animation…",
+        "description": "A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing. - jakubkrehel/skills",
+        "imageUrl": "https://cdn4.telesco.pe/file/hny07oDqS64uG1DsdiB2lApy8T7cicz6Ass4qE_sfobYMOEw5RlJ6hvD4JmlsH0KWuqVPsfLk4oHvLolCGY3zi0AoiBpMpqlw-ns8C8pxSoWD4HY9AhuxVMGTwQ18CUpX1l3cFzO18UQu3oLu2ggyFfzULGvrbgQHTZyPBqaoDigQEU5Jl0DNrmDyU32mhTrJEqbWBORV58QKMHlafEQwXI-EiMa4a0zAIpIt98NVFQgblI6CrvuCfRK9tFAljUzi_LCPOrMhFk8tjyD1j_02oPt5CX9J1BGN9-xeM2k3E9E2aRrqMm0V9wQRmjzAfVQ_Ql4aI5lNz2ztoJvMBii9A.jpg"
+      }
+    },
     {
       "id": "4474",
       "title": "thinkany-ai/dscode 🔗 https://github.com/thinkany-ai/dscode #github",
