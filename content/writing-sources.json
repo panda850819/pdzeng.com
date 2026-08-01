@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T04:37:42.000Z",
+  "updatedAt": "2026-08-01T05:54:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4474",
+      "title": "thinkany-ai/dscode 🔗 https://github.com/thinkany-ai/dscode #github",
+      "description": "thinkany-ai/dscode 🔗 https://github.com/thinkany-ai/dscode #github",
+      "url": "https://t.me/pdzeng_talk/4474",
+      "publishedAt": "2026-08-01T05:54:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/thinkany-ai/dscode",
+        "siteName": "GitHub",
+        "title": "GitHub - thinkany-ai/dscode: Coding agent powered by DeepSeek.",
+        "description": "Coding agent powered by DeepSeek. Contribute to thinkany-ai/dscode development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/kJ99w5urONwCrLBH4qAcbKQcYjOSHUAJ8LSuKr1vECUQr0QQhZt37iEjV6h6OYuUBFsXUBQ2uYiUL1M96gNyyI0i7cP948hHZJTVmCJjwe15qVX8CHG20tqT3TNzB5uy4kLQVJuD19bBnHyNrX4PaKBienmLi_BGVv3y_RGlmutB1xD33HAV7LnJTju9d31zwDZysliq5RjnmPbOz1_OTcbBma7JijdwSmj1IuSjBKmC89dqZES3K9wWH27iEpsqxZJbONIIlH3hm2uAn9Xlcqxwn2JuaZOtSiEPq611Eg-1rjahyM38zi2WxrUHXNHpaiSLhFAytbwIDafng_es5A.jpg"
+      }
+    },
     {
       "id": "4473",
       "title": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
