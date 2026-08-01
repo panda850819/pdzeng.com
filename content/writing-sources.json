@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T03:53:34.000Z",
+  "updatedAt": "2026-08-01T04:25:03.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4472",
+      "title": "Error: Retry failed after 3 attempts: Codex error: Our servers are currently overloaded. Please…",
+      "description": "Error: Retry failed after 3 attempts: Codex error: Our servers are currently overloaded. Please try again later.",
+      "url": "https://t.me/pdzeng_talk/4472",
+      "publishedAt": "2026-08-01T04:25:03.000Z"
+    },
+    {
+      "id": "4471",
+      "title": "有什麼毛病嗎？又重置了 = =",
+      "description": "有什麼毛病嗎？又重置了 = =",
+      "url": "https://t.me/pdzeng_talk/4471",
+      "publishedAt": "2026-08-01T04:04:26.000Z"
+    },
     {
       "id": "4470",
       "title": "can1357/oh-my-pi 🔗 https://github.com/can1357/oh-my-pi #github",
