@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:00:34.000Z",
+  "updatedAt": "2026-08-01T15:07:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4478",
+      "title": "https://capexcycle.com/",
+      "description": "https://capexcycle.com/",
+      "url": "https://t.me/pdzeng_talk/4478",
+      "publishedAt": "2026-08-01T15:07:50.000Z",
+      "preview": {
+        "targetUrl": "https://capexcycle.com/",
+        "siteName": "Capex Cycle",
+        "title": "Capex Cycle · AI Capital-Cycle Monitor",
+        "description": "Hyperscaler capex → $1T. Free-cash-flow scissors vs chipmakers. The depreciation wall. Who gets paid. All from SEC filings.",
+        "imageUrl": "https://cdn4.telesco.pe/file/unRb-mfEwgrf5ACw7ZSnJKAYItv-BM3aDTapbfbSwO8rlMvXNeBVRSRby8hM-diYpYuDFDee0IU0C4lQTrA8hRfix1PYJHd5e4mPEGTJfOt3rWiE8jC8sAAtaK5ZcETgTPWSzv74AW_g3HnbrQ2YrOGkXYk61yAijosdM7ZEwWOVX1RL0Dhws2vkUJ8DzIu7k9gU2m16i0Ke3rcdkFwj1p_b2eo4wr7aTLjNRg0vynIXT3LHtfpat42DMWvqGnHeT0Z4esBemIjTrSMMGh3yOYocY0538zkSQX9iCtsLL9Sck1s5_IAYOf2PhQfKZUPlGpvyrBoltctWYcuTn_pbAw.jpg"
+      }
+    },
+    {
+      "id": "4477",
+      "title": "TraderAlice/Auto-Quant-V2 🔗 https://github.com/TraderAlice/Auto-Quant-V2 #github",
+      "description": "TraderAlice/Auto-Quant-V2 🔗 https://github.com/TraderAlice/Auto-Quant-V2 #github",
+      "url": "https://t.me/pdzeng_talk/4477",
+      "publishedAt": "2026-08-01T15:05:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/TraderAlice/Auto-Quant-V2",
+        "siteName": "GitHub",
+        "title": "GitHub - TraderAlice/Auto-Quant-V2",
+        "description": "Contribute to TraderAlice/Auto-Quant-V2 development by creating an account on GitHub."
+      }
+    },
     {
       "id": "4476",
       "title": "mackt/pi-language-tutor 🔗 https://github.com/mackt/pi-language-tutor #github",
