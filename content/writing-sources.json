@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T03:30:06.000Z",
+  "updatedAt": "2026-08-01T03:53:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,47 @@
   ],
   "telegram": [
     {
+      "id": "4470",
+      "title": "can1357/oh-my-pi 🔗 https://github.com/can1357/oh-my-pi #github",
+      "description": "can1357/oh-my-pi 🔗 https://github.com/can1357/oh-my-pi #github",
+      "url": "https://t.me/pdzeng_talk/4470",
+      "publishedAt": "2026-08-01T03:53:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/can1357/oh-my-pi",
+        "siteName": "GitHub",
+        "title": "GitHub - can1357/oh-my-pi: ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser…",
+        "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more - can1357/oh-my-pi",
+        "imageUrl": "https://cdn4.telesco.pe/file/UylPZCQtRP70IpkgthUCIX_QIlyBN4hYnHJb77AQlG5QKD8aqX1fY9I95U-qXvIMeaGuMNfkygadsgnNTTBwG7kFVpftrppTKseTGMqPVDQkQMQdNAfsz8HEbQO0YHIq-sgxxE3dKarKPCdkX-9MN1PyJ-xpOtvYy6OFxrJsfHbd869kLJVDB4wd3TOHrEAgShWL0roPdgGq1IlhR_MVqDPLPcrk1lpVNZHS0eEL1pAnXQYwc7PHhod0uUgzm_ESpmSg5Jw4DL7JTaGV-FOektF3dBanblx-6K8bj8Qblzh23mvCSXDAHSiG9V2385qbtfDM32LJeU6DL0tCWTmLlA.jpg"
+      }
+    },
+    {
+      "id": "4469",
+      "title": "pi vs oh-my-pi 有人玩過了嗎",
+      "description": "pi vs oh-my-pi 有人玩過了嗎",
+      "url": "https://t.me/pdzeng_talk/4469",
+      "publishedAt": "2026-08-01T03:52:33.000Z"
+    },
+    {
+      "id": "4468",
+      "title": "關於 gpt token 的一些成本小建議 1. gpt-5.6-sol：最貴，約等於 GPT-5.5，同級但有 cache write 成本 2. gpt-5.5：第二貴，input/out…",
+      "description": "關於 gpt token 的一些成本小建議 1. gpt-5.6-sol：最貴，約等於 GPT-5.5，同級但有 cache write 成本 2. gpt-5.5：第二貴，input/output 跟 Sol 一樣，但 cache write 是 0 3. gpt-5.6-terra：中間，約 Sol / GPT-5.5 的 50% 4. gpt-5.6-…",
+      "url": "https://t.me/pdzeng_talk/4468",
+      "publishedAt": "2026-08-01T03:44:53.000Z"
+    },
+    {
+      "id": "4467",
+      "title": "yc-software/qm 🔗 https://github.com/yc-software/qm #github",
+      "description": "yc-software/qm 🔗 https://github.com/yc-software/qm #github",
+      "url": "https://t.me/pdzeng_talk/4467",
+      "publishedAt": "2026-08-01T03:31:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/yc-software/qm",
+        "siteName": "GitHub",
+        "title": "GitHub - yc-software/qm: Multiplayer agent harness for work",
+        "description": "Multiplayer agent harness for work. Contribute to yc-software/qm development by creating an account on GitHub."
+      }
+    },
+    {
       "id": "4466",
       "title": "「不要把所有冲突都当成“沟通不够”。很多时候，不是你没解释清楚，而是对方根本不在同一个规则里。」 https://x.com/PandaZeng1/status/208318399772375…",
       "description": "「不要把所有冲突都当成“沟通不够”。很多时候，不是你没解释清楚，而是对方根本不在同一个规则里。」 https://x.com/PandaZeng1/status/2083183997723754499?s=20",
@@ -203,7 +244,7 @@
         "siteName": "YouTube",
         "title": "【你以為健康】其實天天慢性發炎@DrGrace",
         "description": "✚ 訂閱頻道 http://youtube.com/c/DrGrace?sub_confirmation=1 ✚ 到IG追蹤我 https://www.instagram.com/itsdrgrace/ ✦ Dr. Grace 保養系列｜強化肌膚屏障，同時有效抗老 我們的配方核心在於「溫和卻有感的抗老修復力」，不只針對發炎舒緩，更從根本強化肌膚健康、減少老化。 全系列不含香料、無刺激，使用專業級成分，連敏感肌都能安心使用。 ⭒ 極致 0.1 視黃醇精華｜溫和也能有感抗老 🔗",
-        "imageUrl": "https://cdn4.telesco.pe/file/GfD4Fyj4x66-gs17UXWtI3a-p-zCrKBoEAGvEFxT_xkk3XRPzc1J2prLASkN9dXg7-6eavdhoM0jZ9Ol5YBZXz0p6eAa1OBi1Q2-ItF9CNTYQwKGC2nW8g4IqhNoDE_OdjEjn-T77UbOr7Hmz_sswuWlvPkJgDCJC0ZruMEmdeSBhBPkLHZK8dQ2OdvxzSlZ72sTAQsUDEe9FF2cBdIs9J46d1jN1AvrDYsZGoMCg90kl2WTbaBAKuS4OEwEgNLSdwGW2WY5-WFjwq39pwkbWSLS-4bbqb-JVIms2NSh3qqf5gx9hIwVFQTPHYNCom1Qu-_HzNzB3PH9sfTEuAv93Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/V_jIpALCnNlfKSQvhIWgXJ7RhFTNiAE2cDMhEX0joa97Zcbhspxmx8-olTEmio31b-HctIjZMcF0U71WuFeN8FnTviPHlebVy4NRUqUkQ3YhETHNXz9Ai1YE49yOm2TeCxcWxU5rABoS_NptmeTaT4jEIoU4s1Q4FTVWeVBFiD_7uA1pm1xi8hcpuKI7cYuajV6hf_K5SfNS70So4O6b0FscpflWiSsqqGfaaiVZTrf6r681-6TECQRwhrW1_EqSBOoUkz7l-JGWDrs81Noa9RXIQnnuPxSC6JTtNB8f3r3RvvkxsOfe2ckI_HPD2qYM4fDvOSxT22UQyX02qURnAQ.jpg"
       }
     },
     {
