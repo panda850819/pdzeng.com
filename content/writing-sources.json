@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T00:55:34.000Z",
+  "updatedAt": "2026-08-02T11:01:01.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4481",
+      "title": "我其實也還在思考要不要全轉 chatgpt https://www.threads.com/@nyanako0129/post/Dbdd45AlNsl 但不管怎麼說，現在 claude 我是退…",
+      "description": "我其實也還在思考要不要全轉 chatgpt https://www.threads.com/@nyanako0129/post/Dbdd45AlNsl 但不管怎麼說，現在 claude 我是退訂了 100u 之後在思考要不要升上來或繼續使用",
+      "url": "https://t.me/pdzeng_talk/4481",
+      "publishedAt": "2026-08-02T11:01:01.000Z",
+      "preview": {
+        "targetUrl": "https://www.threads.com/@nyanako0129/post/Dbdd45AlNsl",
+        "siteName": "Threads",
+        "title": "Nanako Tsai (@nyanako0129) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/EbYM1TdWWEvOWKJ2Tl7gXloiU2xV3LmDO2bmqnSUoXltEh3baK2G-O3_Vsugw45J9UsNnJQvUDVPunnEutoOwz1KWyBEUWgA_dFTJGAqPhwC3JOTa68VXR04TlEowS051B6Gdw2CB8rWsYQ042uZVmmNVKFEDTtyG8O7N5-FMeMRjZB0IdQTKdS1FUmr-XWPo3khHy9v_QZYuUUDrFbcC64nOpwkKTncx7nh9J9WI5UtSqEeTzHelfynC6Z5bAtI13pd0cEoBZluwcK6AMLLxaUXcRVneEeLbgvrJZzE_DRVLN7tPZ03hQ7k3lKBRmxBeSS1HMzeavKe0I9Lo1QWWQ.jpg"
+      }
+    },
+    {
+      "id": "4480",
+      "title": "ParthJadhav/app-store-screenshots 🔗 https://github.com/ParthJadhav/app-store-screenshots #githu…",
+      "description": "ParthJadhav/app-store-screenshots 🔗 https://github.com/ParthJadhav/app-store-screenshots #github",
+      "url": "https://t.me/pdzeng_talk/4480",
+      "publishedAt": "2026-08-02T10:38:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/ParthJadhav/app-store-screenshots",
+        "siteName": "GitHub",
+        "title": "GitHub - ParthJadhav/app-store-screenshots: end to end app store screenshot creation using AI",
+        "description": "end to end app store screenshot creation using AI. Contribute to ParthJadhav/app-store-screenshots development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/ox2DcowAdwORgAo-vrYW7X2U9Nb7VAmmUcyFjjFPg7yE62DNMt_HGmD4vGc2yIZnzeVzi-AAVb7NN0sLFh-lpvE_gSUuEytepnonse7nrNKy392Ga_03cLbMRWWoknRWGJMoUAtlRRQaEUjps_cRD9NEmNH9Z-0RS4ccW5_on99b6KoPZaYNCsAbPpJzjJpferjq07I_CbjNtIAbRKC92x-grAYPkNq9A6oCP3jJIlRrXSmi3xjlgZbhDG0E7pInEor-BOcmrI18_XcDrITlvBaj-KikO7PxnUxHfPJC46gUVEfMx1TCQPGCPaV0UJNDnqBwNJYB45o7bMPshOODBA.jpg"
+      }
+    },
     {
       "id": "4479",
       "title": "catcat222222/twchips 🔗 https://github.com/catcat222222/twchips #github",
