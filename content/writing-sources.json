@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:07:50.000Z",
+  "updatedAt": "2026-08-02T00:55:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4479",
+      "title": "catcat222222/twchips 🔗 https://github.com/catcat222222/twchips #github",
+      "description": "catcat222222/twchips 🔗 https://github.com/catcat222222/twchips #github",
+      "url": "https://t.me/pdzeng_talk/4479",
+      "publishedAt": "2026-08-02T00:55:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/catcat222222/twchips",
+        "siteName": "GitHub",
+        "title": "GitHub - catcat222222/twchips: 台灣市場籌碼資料的 Python 小工具：期交所日行情與三大法人、證交所三大法人與融資融券",
+        "description": "台灣市場籌碼資料的 Python 小工具：期交所日行情與三大法人、證交所三大法人與融資融券. Contribute to catcat222222/twchips development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/YAQSubtIXUKsRTM11SCpd0eqTkM8b9CEhgbhElHYgSwbxjmPCIsxnVoXsW-MRz1ZVHGtA-gviQO1mY-c5JcG9CqGgwriopsE3gxshz7QL_KBcIGWEr_zx9XWclh9397fFhXwKrelQc6o0r6tuTpki0B0CNSqDZmh9EEU5KgHGWhY1EUaxRYaTZkbXbs6WmGQ3nbCAUGaQHXV_iyr8cteOAR_PTII2hyjn7AAqGIzTAVDDWhVmEVJaWKsZTzt-cyTSeW4GSxBSoLZl-fwxnCEMpWjeQaSeqOLR38d2DqBLUl6BzoN-O_aIYl-vJVUUwcISZ0yUjUYKBktEwXRo0e_Jw.jpg"
+      }
+    },
     {
       "id": "4478",
       "title": "https://capexcycle.com/",
