@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:01:01.000Z",
+  "updatedAt": "2026-08-02T14:35:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4482",
+      "title": "Numpy 看起來真不錯 https://www.threads.com/@hiiiiiiii__hiiiiiiii/post/DbNDrh0k3FI",
+      "description": "Numpy 看起來真不錯 https://www.threads.com/@hiiiiiiii__hiiiiiiii/post/DbNDrh0k3FI",
+      "url": "https://t.me/pdzeng_talk/4482",
+      "publishedAt": "2026-08-02T14:35:15.000Z",
+      "preview": {
+        "targetUrl": "https://www.threads.com/@hiiiiiiii__hiiiiiiii/post/DbNDrh0k3FI",
+        "siteName": "Threads",
+        "title": "Helloooooo (@hiiiiiiii__hiiiiiiii) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/e-ivmICOPj64u255od3KCjtRjd4F4LHMPnWhihRXM55GjoC_At1pLYjx0ylmsOJd9IyVGE3ZdTJ_jBia0hsG4P2PVPX2CFeKGvgmpvNPCWP56orJH2x6rZ2Wl0wfmU0O0N3-B3tNk3Kn9Jvtm7Q6RkxD9ScElGo9wbC_Muvt_OBkoxeFJp3YyosRaiU5GjIvxamXjmt9bgQENstW0gNbKjZa0bUBlC8hxJrRGVzh-d3wBXdy58SumR7ET7oyt3H1Wl2gYahtCRV9eqIBzHj5cQeQYYX6Cgnrqyd0NN13HuGYAu2W1ZHi2wBabyjwSmVPNsgMiCaLSLGyLogiS5UJXA.jpg"
+      }
+    },
+    {
       "id": "4481",
       "title": "我其實也還在思考要不要全轉 chatgpt https://www.threads.com/@nyanako0129/post/Dbdd45AlNsl 但不管怎麼說，現在 claude 我是退…",
       "description": "我其實也還在思考要不要全轉 chatgpt https://www.threads.com/@nyanako0129/post/Dbdd45AlNsl 但不管怎麼說，現在 claude 我是退訂了 100u 之後在思考要不要升上來或繼續使用",
@@ -154,7 +168,7 @@
         "siteName": "Capex Cycle",
         "title": "Capex Cycle · AI Capital-Cycle Monitor",
         "description": "Hyperscaler capex → $1T. Free-cash-flow scissors vs chipmakers. The depreciation wall. Who gets paid. All from SEC filings.",
-        "imageUrl": "https://cdn4.telesco.pe/file/unRb-mfEwgrf5ACw7ZSnJKAYItv-BM3aDTapbfbSwO8rlMvXNeBVRSRby8hM-diYpYuDFDee0IU0C4lQTrA8hRfix1PYJHd5e4mPEGTJfOt3rWiE8jC8sAAtaK5ZcETgTPWSzv74AW_g3HnbrQ2YrOGkXYk61yAijosdM7ZEwWOVX1RL0Dhws2vkUJ8DzIu7k9gU2m16i0Ke3rcdkFwj1p_b2eo4wr7aTLjNRg0vynIXT3LHtfpat42DMWvqGnHeT0Z4esBemIjTrSMMGh3yOYocY0538zkSQX9iCtsLL9Sck1s5_IAYOf2PhQfKZUPlGpvyrBoltctWYcuTn_pbAw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/E0j_Dg_du2xF0AiAllpTrDpK2zGjbgGS82XiHSq1X02mDMRNY8FwHF5YF5fOjQEhTRuP1PkynSJnlcpK9tN1nKGX3ifhIo9qqes2LODGdX-Hi8V4qkhymC_U2YU-xSXK4_m2FrJaUbR0rC4d4NGa1eQ2gQxvSLTv4_Q0r4sIkFyUSEie4NiJ-UFz6_YIWbJV60uLTtPdJhdSJNyZbYAfecNfp88Gk67He_9vY-bQ-SEW1xnb5EKgEMSL534GCRQp3hZunr0FUtXv6Qv6OOdwR5wW1HnwurP4I21w4_6X9sDtYxc1yGAcH9Tx_yuLNsvoUoE3PjHbVyXwT6IpjpO2lQ.jpg"
       }
     },
     {
@@ -195,7 +209,7 @@
         "siteName": "GitHub",
         "title": "GitHub - jakubkrehel/skills: A collection of agent skills that help with various parts of building a great interface. From animation…",
         "description": "A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing. - jakubkrehel/skills",
-        "imageUrl": "https://cdn4.telesco.pe/file/hny07oDqS64uG1DsdiB2lApy8T7cicz6Ass4qE_sfobYMOEw5RlJ6hvD4JmlsH0KWuqVPsfLk4oHvLolCGY3zi0AoiBpMpqlw-ns8C8pxSoWD4HY9AhuxVMGTwQ18CUpX1l3cFzO18UQu3oLu2ggyFfzULGvrbgQHTZyPBqaoDigQEU5Jl0DNrmDyU32mhTrJEqbWBORV58QKMHlafEQwXI-EiMa4a0zAIpIt98NVFQgblI6CrvuCfRK9tFAljUzi_LCPOrMhFk8tjyD1j_02oPt5CX9J1BGN9-xeM2k3E9E2aRrqMm0V9wQRmjzAfVQ_Ql4aI5lNz2ztoJvMBii9A.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/PPuHRTXZllLQRrP8LsiVPePjO-HAtA18J_nCPNeYBbB0owLzEzc_ay6Rk-VmYizTd6ExfwvNMxxbZHwgiUJOAcPuR48vKzbwFjWyXHCHR6MqfaTXLv_3juSgomC0gk5HvzdXHU_oyoEubuQ62ui4PdjFZI8Kex0YZ3_eshl50n6vvnYjhp1JYVifrasPobsvmgEPF9E116MCd5XGvZgg5j5GDCFTPOhuOf8XcD71F7y_cE1cZWg0WnFMRWHGajTnIOHXmLmDAV7gfiHEzaWLtUW8jDfqzwaJg_drmdzgELmZCPxqMNzf1sjZ9cYiSwW-w6crRCUf0YP-noE28s9HlQ.jpg"
       }
     },
     {
@@ -251,7 +265,7 @@
         "siteName": "GitHub",
         "title": "GitHub - can1357/oh-my-pi: ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser…",
         "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more - can1357/oh-my-pi",
-        "imageUrl": "https://cdn4.telesco.pe/file/I_0MVcOFVVnCpp7ckvRyc0R_HyWeWHLsV1uEYNXin1fjN9camRYwrncOnHYu-utwswa9OMduEPWgfWSMzXrdbs08Q0fHSjiNz2aKfP8k7wYtntFrwWCJEi5q1NOMdo-dPkfm2E_aT6-V-86Aoh2b7qJgdtTe9dRSsr6Ej4coTC8jP3uk7qDRn99BJa05kdZSJPdBlfFZbPeS9Ghwav2x6rSyfxJ9m6HGJ_lGXq7zjgLUZrwyYTai2Jo7gSfejcWehsposPZfqop7_On-QFcINTn006Pa-bNzZ6eSIOGapYKTL2LccVOrXgVosnT5nAzmkrRINeAETYIvh8_aHLb2tA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/P8nYGdDAF1cN-EpzChTe3Ie8c8d9CBSsLpkwzOGl5n-5qJp24td7zKajCrNxZfSwmVac_20hiNcUcCfEBVGGVL1vrGCOgU3mR1cXAzfBZ9alxTfH0dvzbkDjoqbDAfeIjcDMkPxGpUC2Ns0Ri1wcaf25xJdootSl25b3gd3Bj24LUubY47DcYuDC9Iwl5L0D6xnKYrMA_Jvc5zn1sPl9PxoNWuq_sNOXuS9Uz7rW6ho3PKvjFd7m5jIQSdmB-AtU9kemiA1_OI5rRRS5gJ8Wu3CRJBpIj0JMKJ43Wjbs14p5Sgv4b7vkevLGBh0bDFzRlJshSEOw7ZpsNFL76MJcwA.jpg"
       }
     },
     {
