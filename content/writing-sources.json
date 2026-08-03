@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T08:56:34.000Z",
+  "updatedAt": "2026-08-03T10:45:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4491",
+      "title": "pi / omp 之間我也還在取捨，目前是不想一口氣裝 omp 這麼重的東西，反而從這個階段好好的思考一下，自己在使用 ai 上需要哪些功能並且去取捨，可能也很好",
+      "description": "pi / omp 之間我也還在取捨，目前是不想一口氣裝 omp 這麼重的東西，反而從這個階段好好的思考一下，自己在使用 ai 上需要哪些功能並且去取捨，可能也很好",
+      "url": "https://t.me/pdzeng_talk/4491",
+      "publishedAt": "2026-08-03T10:45:05.000Z"
+    },
+    {
+      "id": "4490",
+      "title": "不得不說，我現在的開發用 pi 切到 gpt-5.6-luna / max / fast 使用量扛扛的 一個下午 weekly 1% 都沒消耗到。。",
+      "description": "不得不說，我現在的開發用 pi 切到 gpt-5.6-luna / max / fast 使用量扛扛的 一個下午 weekly 1% 都沒消耗到。。",
+      "url": "https://t.me/pdzeng_talk/4490",
+      "publishedAt": "2026-08-03T10:43:40.000Z"
+    },
     {
       "id": "4489",
       "title": "oomol-lab/open-connector 🔗 https://github.com/oomol-lab/open-connector #github",
@@ -209,7 +223,7 @@
         "siteName": "Threads",
         "title": "Nanako Tsai (@nyanako0129) on Threads",
         "description": "",
-        "imageUrl": "https://cdn4.telesco.pe/file/EbYM1TdWWEvOWKJ2Tl7gXloiU2xV3LmDO2bmqnSUoXltEh3baK2G-O3_Vsugw45J9UsNnJQvUDVPunnEutoOwz1KWyBEUWgA_dFTJGAqPhwC3JOTa68VXR04TlEowS051B6Gdw2CB8rWsYQ042uZVmmNVKFEDTtyG8O7N5-FMeMRjZB0IdQTKdS1FUmr-XWPo3khHy9v_QZYuUUDrFbcC64nOpwkKTncx7nh9J9WI5UtSqEeTzHelfynC6Z5bAtI13pd0cEoBZluwcK6AMLLxaUXcRVneEeLbgvrJZzE_DRVLN7tPZ03hQ7k3lKBRmxBeSS1HMzeavKe0I9Lo1QWWQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/bMLVVN3WqpZNVM_XOMRnJrgKs1e9kstuThhj5iTO8U8FCkguJNKRU8bgdYUtnO1KdFwnrgf93GFucbA17hlXLv2MNF8S4OlVbM0_v3oj486rehMAmsnyB_6PQvsTd0emrZu6ahiJKHu7_Oh83B2JBS_IEqMLFJOvTxTk86hf5oxwNDUshKBhHiJiqAVc6OrmEh7uTfYdBUcJ303J3vsFshROxU1cZifnqaSSs0mam64t_9wCoZf8kL_npewxkwUYF_75o3KVUtVhhgPh2EgAkXtWwzcgfsUpLxUahdW88Un284PsXpFDYSC1J44K6YXo7yyjyqCgMz8mGKLqyFfvTg.jpg"
       }
     },
     {
