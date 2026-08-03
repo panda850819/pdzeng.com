@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T02:15:34.000Z",
+  "updatedAt": "2026-08-03T08:56:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4489",
+      "title": "oomol-lab/open-connector 🔗 https://github.com/oomol-lab/open-connector #github",
+      "description": "oomol-lab/open-connector 🔗 https://github.com/oomol-lab/open-connector #github",
+      "url": "https://t.me/pdzeng_talk/4489",
+      "publishedAt": "2026-08-03T08:56:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/oomol-lab/open-connector",
+        "siteName": "GitHub",
+        "title": "GitHub - oomol-lab/open-connector: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP…",
+        "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. - oomol-lab/open-connector",
+        "imageUrl": "https://cdn4.telesco.pe/file/EWvIsPrPahzjoJcis6u1804IvO_BP2tmGzgrIyu_sX3OupOIt-Vi4c6l7BggTlmWWq1BaN9PM0eqmkXlf2fXp-Ri-AKfmll11hfwddki83YkV85rK0n4oI-xfgdwh2n9UxYDs9x1xwytzKbgIJeghhGeNgWhwhrhXKArslP4g49ZdYyN5TDbk4KuRfMOF6_99jTuSQVVgHoKkfVYM-Q_ws1WPKBnOjVs09qf6OpHp1muweBa-8nsK-KTu3o_365BuDZV8Af2vucA8INnz4Jz249aU8rrzx4vRgujqFylQT6ELUzyP7tuBEYqzdZ6R0kOisz6mBM9kNLNpILy3HnScw.jpg"
+      }
+    },
     {
       "id": "4487",
       "title": "YTwsy/OpenSurge-for-Mac 🔗 https://github.com/YTwsy/OpenSurge-for-Mac #github",
