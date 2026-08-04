@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:27:14.000Z",
+  "updatedAt": "2026-08-04T13:12:58.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4493",
+      "title": "PLTR 一大根",
+      "description": "PLTR 一大根",
+      "url": "https://t.me/pdzeng_talk/4493",
+      "publishedAt": "2026-08-04T13:12:58.000Z"
+    },
     {
       "id": "4492",
       "title": "標普 500 ATH",
