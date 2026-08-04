@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T15:57:04.000Z",
+  "updatedAt": "2026-08-04T16:04:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4496",
+      "title": "tradecatlabs/curated-ebooks 🔗 https://github.com/tradecatlabs/curated-ebooks #github",
+      "description": "tradecatlabs/curated-ebooks 🔗 https://github.com/tradecatlabs/curated-ebooks #github",
+      "url": "https://t.me/pdzeng_talk/4496",
+      "publishedAt": "2026-08-04T16:04:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/tradecatlabs/curated-ebooks",
+        "siteName": "GitHub",
+        "title": "GitHub - tradecatlabs/curated-ebooks",
+        "description": "Contribute to tradecatlabs/curated-ebooks development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/pNA2SL-j-20sXbprYBe7G9ZrRSDai8CwtQZBTF3Sr7vVkfvVB64toUwv1koNg9ED-nPNimkLv0hobjYS3muNhTp88x4_lHz4ZtlcjqmVKA1nKvqfYgHlCZ7KIE-l1hciOVlqBGie6UhAn3UlKGVGHp7LPfW5rNL-7y5prXrr4Q1wJE_9jFJTf6Mq69BYhNiv8-q21OTE2dVtgbkUqCiaD1vP35T0VMZcPXPIbYhkcTNE9g5taYfOWAb28cou1pleGRTA6BrT8gZGtabTqcbyVi7nHnbkc5k8a0yd05QYSdS69oXWjI5fqO7iSth56WyU27W7INeVEjKeKLD45fRgRg.jpg"
+      }
+    },
+    {
+      "id": "4495",
+      "title": "https://motion.dev/docs/react-animate-number",
+      "description": "https://motion.dev/docs/react-animate-number",
+      "url": "https://t.me/pdzeng_talk/4495",
+      "publishedAt": "2026-08-04T16:01:29.000Z",
+      "preview": {
+        "targetUrl": "https://motion.dev/docs/react-animate-number",
+        "siteName": "Motion",
+        "title": "Animate numbers | Counters and countdowns | Motion for React",
+        "description": "Animate numbers in React with a 2.5kb component: counters, countdowns, live pricing and stats, with locale-aware number formatting.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Q_udTBIWerU36tFlFb-y460u5Z_h_a11POC8cRMi8yqOz7Xcot86Qo-mhElZQnUEKHaCZC0_7H_npLBtE2nK226jUWoKA4giaYzzuvv5x1qT786qAs_FSUF446g4vagTP73vYNvl7PU3F50GJn7ivnT0PHBGhAK3Qxqxp1kzPNVGxdwy7QXZO9qrVqArE1sxiusgR2d-rBqhvGqZDPxjxxjtTM46ME0Dp_8cOh5yKWHbysQr6JfHeZWBGu5jki4RGJqeKWv1_Zv_5KHqhvwXSZvL5amRtQ_4areAH1030YxZ_9qYpVHytWSDjnD5X6DxvK-ttISDWaLcESXB24HqVA.jpg"
+      }
+    },
     {
       "id": "4494",
       "title": "課程連結 👉 https://hahow.in/cr/freddy-biz-rsch 專屬折扣碼：freddyfb88（88 折） 首波 NT$2,880，用碼後約 NT$2,534，8/1…",
