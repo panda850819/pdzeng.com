@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T10:45:05.000Z",
+  "updatedAt": "2026-08-04T06:27:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4492",
+      "title": "標普 500 ATH",
+      "description": "標普 500 ATH",
+      "url": "https://t.me/pdzeng_talk/4492",
+      "publishedAt": "2026-08-04T06:27:14.000Z"
+    },
     {
       "id": "4491",
       "title": "pi / omp 之間我也還在取捨，目前是不想一口氣裝 omp 這麼重的東西，反而從這個階段好好的思考一下，自己在使用 ai 上需要哪些功能並且去取捨，可能也很好",
