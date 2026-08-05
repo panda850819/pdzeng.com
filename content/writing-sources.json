@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T01:27:25.000Z",
+  "updatedAt": "2026-08-05T01:56:24.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4500",
+      "title": "https://cloudflare.pay/",
+      "description": "https://cloudflare.pay/",
+      "url": "https://t.me/pdzeng_talk/4500",
+      "publishedAt": "2026-08-05T01:56:24.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4500",
+        "siteName": "Telegram",
+        "title": "https://cloudflare.pay/",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/MJW6LQ1BJZ0uw-C38hdCnMdTl_9pjkELsz2eX6_3HQ-rhhqqoYzJmnTdrxoMFb7aVKpSbCh-9SS02-Mv0RPIVAsaLAk-5TbRKZGcLZ2mkhPHcdQrGdAvats4IhYMlRlysDRn6p1UeVozOVSjsV3Kaiqnhd0yO3taoPZOgMN1S0XAaWt5zzzs3fJQq5sVOujP54pUSPid5Ru4pmWyUObNgPP5WpyPfozt3ufQaoBeC1Qq-7XSh-sGp1JGBh-U3MsdKLALqCW90UiEBpV53gGYU5BRKubR_Wd2iIjHGPangt7ZsteV8w4q0jqtWiosXjtf79GB1o46b-VzDXKlw2qeDw.jpg"
+      }
+    },
     {
       "id": "4498",
       "title": "▶️ 如何理财，如何爱人，如何破产 #youtube https://www.youtube.com/watch?v=ihy4w9UJFu0",
@@ -224,7 +238,7 @@
         "siteName": "GitHub",
         "title": "GitHub - YTwsy/OpenSurge-for-Mac: Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS…",
         "description": "Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace. - YTwsy/OpenSurge-for-Mac",
-        "imageUrl": "https://cdn4.telesco.pe/file/KDvNUhjUQA6Q6DbYDPv1Gq18Q4eYdh8KqWxkLNvWBpxCeDPFE60L6BMT2rE316KQxUczifsRWAxR9VjNxvOROzy9_DsE-4VlVzL7XTOdXSPYUMc5lHj_pHzE-rtlJTtkO72XsJAP75FRzfEQ-lvJRAC_k-2mlLJ4EyUGh7T8zdAFdyIaKJh0G9BNCoy0AYtD_pHJhLKsya6DMq8yXQma6Hxl9bhhaKc3o3ygju05o6sxIW_zqHD3CYwIKgzU8h66L8F2DUrd7A28RSvoGHn-46cFny6VWdWpIr0hhfqN-jcTKv1OlFViiBlDzpcAbostFqBF8iDKWLwMB8VKhr_Sog.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/cYWlZioTXRO3J6w4uq11JeGjhnzbEiBXuFUXPlRrbUQCz97yVw7tjMVcAJl5mgYubW_o95E5NW4ITgQm1izvbizMFok3qS3NVkhOY3XYK06nHhP_DS7CWCfsJd6CziolrV-pEj3Gklh8fmaPgXu4TMHpZhq51esxqkNjvBy-iezQrJ_A0tG1qMru_XwuKyj-VJyxsD9mzp0OrS7U4U_ZhPhXzSjG3gxrFsnYo_uHFtltoKv4G7CDltADh70YVENxMMRTWI5Omril7uMAqIeP1EjQHvMzEmeOIjQ9vBcDIEnJ-I8Cta75UnWDBpRsZmtGwosK8y5NyPfJhvjFpUBSvg.jpg"
       }
     },
     {
@@ -238,7 +252,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "WquGuru (@wquguru) on X",
         "description": "OpenAI 技术面试全拆解：一份地狱难度的工程师进阶清单",
-        "imageUrl": "https://cdn4.telesco.pe/file/eExfqkqwXG9ogaqUza3k-ivUQvcJTz2gd0ojbrhAZArW7d7_VUuYtGFSToXc3g1AWZ90OK-gUnXXPPCMwCsrfp7k_8wSJ3mta-joujaHKqpBmj3-JoRZYd0QSn0ByYChW3EQxMsS-sLMik6PL2M7Aodp734qF2MrO2WDGYxFgOz90fYJmPuCEcC2kvWD8bfKSpy9NiwohgElDvvnITdu9Cie9IDrGhCYqnm8lM-E7lUj-7Wwh104JmSxAqlSo0xhlThFvMCo3-jgOEJkH_CHJyd-TqRzOf-Br2hK8WIExv1guIPlZqnGCV-9Eo98OASWMsvKUnYuWJIJWmVWV92srA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/TuElpzpPupMcPSex60v40XnjZHMWr8EZrQ0cBT14f-YVMQLxHqkzEfnUcDxRT_eTWgKYqvvu52VoJIFFlmb8u61gAdtQ7uNCS5Pcrb5NptE45Zhp6bBm476t2zlrUQnVzFVVj88w6cdxRgQDw00u1vuweSFMtHSD9HukroIpZ4RypZlbYaYEOCwr_-GKH7HCZyOu0v31Y_I9sX0QFK6tbQMo-K1bz0LMYuTfqKNuB84383-59AljZBLh9viaSYCL6Br6rREAnVvNP0dU9BK4AiTusYiZVmzPGd1auKI8dVLYh_MebBHlIL0luY2Y2z7bq3fZzhP9pOXiNwQRF0WNAQ.jpg"
       }
     },
     {
@@ -252,7 +266,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "freedom (@B5642Free) on X",
         "description": "bitmart黑心老板的另一家交易所wooxpro的来龙去脉",
-        "imageUrl": "https://cdn4.telesco.pe/file/ajCUvbFhz9VHT2qyfYrCGvyhyuHjcLJGmaj6Bf96ndegH9M2Sf8UJPt-IEOzgrv_3HwUr0v1hhp50y1qqZu7JvevdIrrH18EC5lBqcta49CZW09WuiXjmYYW0FXbAjUxLW4EuUdTCCRzkkePTWuxmjfrcQh1t9GuTuQys3D17t6xw1Abkg7au9D80AJ7FTElSXX85rStwQWCVxvIspS3vGVcWEc-4r1lYCjzunYEnH0QNOq6a0hqJd1gUf9iw0HjSTZVe4cK3X99LbDkYH5f46pi2rDbXkdUrA8Om_1nTKdt5fruSWgInoxKq8sgg1SP9Z5vNvyYRxNhB1HN41Xtxg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/k2Yn5ANhIGoUBAiHqTreYec2a8WqOyv3tdz1lcoeloyL4F_lFM-2eiCCQ-kJ5qGbvZdndfXtFaJZkRQgAUg5QkLnIGdC9WdLtxFLyGVj-kCqZSV_JTSDwgw8Y1pK2Og2b2GcUNfbLT-f1UmISiNABvgJ5F7rkt1l3KVmEPSl5itLsiV-J4iI_L6y0yzrBdt47m8XvebTzSco8_z8Yj1U1lmxoZZ2vG8N0Bi65ToGIRvimVyA7cVCw19gzpPTwtOt_MOlTWpoZu1MXSDw5et4V1qloSUTkok4ZhhtE0yKpr1Xq3sWiRA6fhSr07Fv19dQKwJq6s_Fb_9KfYFefdNF8A.jpg"
       }
     },
     {
