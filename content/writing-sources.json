@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T16:04:34.000Z",
+  "updatedAt": "2026-08-05T01:27:25.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4498",
+      "title": "▶️ 如何理财，如何爱人，如何破产 #youtube https://www.youtube.com/watch?v=ihy4w9UJFu0",
+      "description": "▶️ 如何理财，如何爱人，如何破产 #youtube https://www.youtube.com/watch?v=ihy4w9UJFu0",
+      "url": "https://t.me/pdzeng_talk/4498",
+      "publishedAt": "2026-08-05T01:27:25.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=ihy4w9UJFu0",
+        "siteName": "YouTube",
+        "title": "如何理财，如何爱人，如何破产",
+        "description": "理论与实践之间，往往隔着一道巨大的鸿沟。 所以与其枯燥地向大家讲解各种理财知识，这期视频更希望通过一对小情侣，因贷款买房，和犯下许多常见财务错误后，在银行发生的故事，带大家看到那些生活里最容易踩中的理财误区，以及一些看似基础的财务理论，在真实、复杂、混乱、充满情绪的人生中，究竟如何运用。 咱们频道观众主要是 16 到 36 岁的小朋友。大多正处在人生财富积累、消费习惯形成，以及理财观念建立的关键阶段。 因此，尽管这期视频耗费了创立以来最多的时间和精力，也承担了不小的舆论风险，我们依然觉得非常值得。…",
+        "imageUrl": "https://cdn4.telesco.pe/file/WTfCu09V9WP9yZdROvh4eHlK4UulQZlZuFztM0Hbf_FQAW1VQSW5quPjbGzolgfFJGat7At9B89LhJ0ze9Ey6DQM83AzH1Jzrl4yPGtAtTcs9QdcapDdY5APo0QnF3mPxblGLbkScHE_B_zx9z4G-zdk1WwULrX-gyjJJWvILIdk611gpAUhE9JycdeT7D23Eq3xPAoi1d9a3pTVkDrSgVhs3CFcgawsjwDyahVDTr0RKYDlIccCUtVbaTHtDuOMPnTs12fUOJtGzHC_VHbpKJdpTsqky2tMSRUi7aytMCAVsZo7y7Mixt_seeL2MRJgMUtCA7vsETlGVRBzb4gBgg.jpg"
+      }
+    },
+    {
+      "id": "4497",
+      "title": "好像是又一個瀏覽器 citrolabs/ego-lite 🔗 https://github.com/citrolabs/ego-lite #github",
+      "description": "好像是又一個瀏覽器 citrolabs/ego-lite 🔗 https://github.com/citrolabs/ego-lite #github",
+      "url": "https://t.me/pdzeng_talk/4497",
+      "publishedAt": "2026-08-05T01:07:36.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/citrolabs/ego-lite",
+        "siteName": "GitHub",
+        "title": "GitHub - citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser…",
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero c...",
+        "imageUrl": "https://cdn4.telesco.pe/file/UPeAeGv5JDeWZcSOs1VxqOq9HRzoh8socquVBooyyrcTWv_zQi88FXup1o3PvmdTVALCxy02hpDFLQrrXwKVtPJdiWXeNlSpEpjctDHqkcZhID6ex6xujqdwPN10erYvLEpeNqW8Q_CqlTybLRtt79h3s2c5s0JLr9c0MxKH5tIZnjSXLzvjNJOkM7B_CbPHVPtDsXNpjEjeXMkjo2zob77ACidNRhLW8JrEAjmtGZWffm1E7v0e7tyeDZPwvS9RUK1eLnqM60uFqqq3Nfg7tNys_BusVMe9CyMcrnmJpJEjPswIGgaqPl1erl82x2SZji4OtGXBAfPd5YUSnUCNAg.jpg"
+      }
+    },
     {
       "id": "4496",
       "title": "tradecatlabs/curated-ebooks 🔗 https://github.com/tradecatlabs/curated-ebooks #github",
