@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T03:28:48.000Z",
+  "updatedAt": "2026-08-05T08:19:19.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4503",
+      "title": "https://orbs.jakubantalik.com/ https://beam.jakubantalik.com/",
+      "description": "https://orbs.jakubantalik.com/ https://beam.jakubantalik.com/",
+      "url": "https://t.me/pdzeng_talk/4503",
+      "publishedAt": "2026-08-05T08:19:19.000Z",
+      "preview": {
+        "targetUrl": "https://orbs.jakubantalik.com/",
+        "siteName": "Jakubantalik",
+        "title": "Thinking orbs — Animated thinking orb component",
+        "description": "Dotted thought-orb loading indicators for AI and agent UIs. Nine hand-tuned states, two sizes, auto dark/light theme."
+      }
+    },
     {
       "id": "4502",
       "title": "https://projectraftel.dev",
