@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:25:46.000Z",
+  "updatedAt": "2026-08-06T02:04:13.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4509",
+      "title": "https://x.com/marcoshernanz/status/2083954734487212511?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/marcoshernanz/status/2083954734487212511?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4509",
+      "publishedAt": "2026-08-06T02:04:13.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/marcoshernanz/status/2083954734487212511?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Marcos Hernanz (@MarcosHernanz) on X",
+        "description": "After doing ~60B tokens, this is my full AGENTS.md",
+        "imageUrl": "https://cdn4.telesco.pe/file/ROVohf27uz6TsEKrrqOtGbqUqmtlNnehbk0bGHz3WZIN6q4xY-M4ZKEy-xs2aE2gf-uesMwOeQ9Sn8Q6Dc7al873mo3BmZIZSZTgictQtgM3ByBUIJPIx8vicx41_EeoMwZqVWL2hLNDzjjhfP-20DC-8vXlXw57xqL_BahoJSWCV7X2fIPmX_l8Gzm2QGj4QQyOc5UNQQssksbmOFG5zT1lpB2aRskKKsArpSN1xeKoD46WhwBg9hj2Oe7gfT88193PNODocgUGc6MddSnjZGr8yepL2WtPo69hfXNzWrwYsNSg85rs9plkOTMInD2PgReIzmm8GhgwUM3cPu4btQ.jpg"
+      }
+    },
     {
       "id": "4508",
       "title": "https://github.com/dbeaver/dbeaver",
