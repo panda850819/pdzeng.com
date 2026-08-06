@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T04:38:20.000Z",
+  "updatedAt": "2026-08-06T07:30:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4514",
+      "title": "好青春，在咖啡廳開會，旁邊聽不知道是女國中生還是女高中生在旁邊分享他們的學校生活和戀愛史",
+      "description": "好青春，在咖啡廳開會，旁邊聽不知道是女國中生還是女高中生在旁邊分享他們的學校生活和戀愛史",
+      "url": "https://t.me/pdzeng_talk/4514",
+      "publishedAt": "2026-08-06T07:30:41.000Z"
+    },
     {
       "id": "4513",
       "title": "https://fangfrancis.github.io/culture/2019/08/17/Directly-Responsible-Individual/",
@@ -279,7 +286,7 @@
         "siteName": "GitHub",
         "title": "GitHub - citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser…",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero c...",
-        "imageUrl": "https://cdn4.telesco.pe/file/Lm24vwhQgcbVyhMEVstIKdq1VaMwTZWUXlW735pvMhVpKAuhNxRD8ouoiGRgyj-GXC9EvNXRyNogRbln3LX2Vy-PAGR1UGENnQC32WLKcLAgjsmsDac_x9IVZEbqKZAm4UjfgWxvjD80ZLkniqIlCf6o8cOeyo_QuhVZ08eE3LEojB6zi4Wa_hXglrrbXtAm-5PBF0QIvx0GBFPb9fFY2XZT_GC-prvL9Iyc4uGPTusFHNMQ6PCYDFu_vDleG7ZT0yjV8SSBI4A0TPIHLN1j0u0N9GlNc8ccgsDcUJb0PThpnAaIvuLwcJqY9r1sRW0_7vOlvDWGmAonH-NHmz7SPw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/IQTHNkhbyEQedZ1ptOLXm3lp6jkiFg9SdDERxkBPYkbtL5G-cZomKSok8AAQolykxDFoTay76k9RBM_-onimKedTn0-Jg02wayAOH7SNhZri71_oomH0BCwf1JCwIFDkl6IKt7f86Wx9vWEyRgc-Ds3fHTpXKwREqtGGJ1PGDsuu5ix7hJHlFlqLEVbfg4RC69_0bLOMu5X0cFv7ZibUKfKrwfQWcNsG_xf8HDcP10yIYVeZsGUlnPRhQuK9eBcgsJCUL0j1Hdmzz2n7XcXZE25-Bqf9Sh3SpBMzdXQgh9O2-pcP8sr775SsyRdcZuKsDjS-59wq4p_baL9a6_NxNw.jpg"
       }
     },
     {
