@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T04:04:34.000Z",
+  "updatedAt": "2026-08-06T04:38:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4513",
+      "title": "https://fangfrancis.github.io/culture/2019/08/17/Directly-Responsible-Individual/",
+      "description": "https://fangfrancis.github.io/culture/2019/08/17/Directly-Responsible-Individual/",
+      "url": "https://t.me/pdzeng_talk/4513",
+      "publishedAt": "2026-08-06T04:38:20.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4513",
+        "siteName": "Telegram",
+        "title": "https://fangfrancis.github.io/culture/2019/08/17/Directly-Responsible-Individual/",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/ep0jibyKZpEy0wGF8SRbSZpJ70_68opHezv4iUxPCMk_0TeVGUcalwH0AKWnbLuwKD9SNCOQfS4qntDlPfb3Nxch9knJR4qIUT2SiMiUSj1DYdxP00wX83k6LRQuC1-8HgRhK4IoO_BUp04N2bBx-XNE-mFxIcaXMEjJk8NZusyj59EX8Pt3sIjEBF8q3q8OsNhyUbBMQ_uivgN8wxbqvi5pad8aG2w9AiXRhJZt3kXfGRjNIftCndg5kVonj_2hC9mhqqb8FKZZt9Nubb_1Bu1bvHtGj2pCrRa6WYLO97w04jqjLapdtJGqqzymG4p8VwXClsyjMJH-J6VGibDwKQ.jpg"
+      }
+    },
+    {
+      "id": "4512",
+      "title": "#博客 更新啦~ 📰 标题： AI 不会带来超级组织 📅 日期：2026/8/06 ✏️ 摘要： 发一篇职务写作，给 AI 赋能组织浇浇冰水。 2025 年之后，“AI 裁员”终于从一种饭…",
+      "description": "#博客 更新啦~ 📰 标题： AI 不会带来超级组织 📅 日期：2026/8/06 ✏️ 摘要： 发一篇职务写作，给 AI 赋能组织浇浇冰水。 2025 年之后，“AI 裁员”终于从一种饭桌上的猜测，变成了公司公告里的正式理由。 过去的裁员通稿通常很讲体面：宏观环境变化、组织结构调整、提升运营效率、聚焦核心业务。话说得越圆，真实原因越像被塞进了抽屉。 A…",
+      "url": "https://t.me/pdzeng_talk/4512",
+      "publishedAt": "2026-08-06T04:37:55.000Z"
+    },
     {
       "id": "4511",
       "title": "cloudflare/cloudflare-os 🔗 https://github.com/cloudflare/cloudflare-os #github",
