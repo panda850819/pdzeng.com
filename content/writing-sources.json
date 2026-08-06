@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T03:49:31.000Z",
+  "updatedAt": "2026-08-06T04:04:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4511",
+      "title": "cloudflare/cloudflare-os 🔗 https://github.com/cloudflare/cloudflare-os #github",
+      "description": "cloudflare/cloudflare-os 🔗 https://github.com/cloudflare/cloudflare-os #github",
+      "url": "https://t.me/pdzeng_talk/4511",
+      "publishedAt": "2026-08-06T04:04:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/cloudflare/cloudflare-os",
+        "siteName": "GitHub",
+        "title": "GitHub - cloudflare/cloudflare-os: Agent workspace built on Cloudflare Workers for creating documents, building apps, and running…",
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - cloudflare/cloudflare-os",
+        "imageUrl": "https://cdn4.telesco.pe/file/TvuBD-7hEfM-1WJ5ZQrvRE1rp_Om0GLfVaZ2QNDH2xoJxMtCW3E2vpNoD7gg8f7jpZov1A2OIMEw2hiptFhLCjTaWhuVMqwzSmZ7NCbTX6XrxjPVmhtCfee3rNHicS3g-9XwJ2krMdw7GWHe_45ZJbHOV9DH420Q4OcF0okoMAKbVy6JZltFHozEYHIIgGG5CkBYYfiWCcKyX4XOXDusYxnzk0EgpLPJNAzqybe9JAT_7lMpkeZMBjlCHHb0nKemutqcROJUCm8MtPWFR_FmMrMVM4HkR3i_U16BNYWT5BVLZSFcEhxuoAjRhIRQ65H0NjD5DVrTXloLOWXNj5F3vw.jpg"
+      }
+    },
     {
       "id": "4510",
       "title": "能從工作中找到成就感跟快樂很好，找不到也還有可以讓自己覺得可以的牛馬費，如果都沒有，看看工作好的地方學習，壞的地方謹記，下班做自己喜歡做的事情，想辦法可以自給自足",
