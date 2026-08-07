@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T02:18:40.000Z",
+  "updatedAt": "2026-08-07T02:32:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,13 @@
   ],
   "telegram": [
     {
+      "id": "4520",
+      "title": "想去按摩了",
+      "description": "想去按摩了",
+      "url": "https://t.me/pdzeng_talk/4520",
+      "publishedAt": "2026-08-07T02:32:54.000Z"
+    },
+    {
       "id": "4519",
       "title": "hardness1020/awesome-agent-architecture 🔗 https://github.com/hardness1020/awesome-agent-archite…",
       "description": "hardness1020/awesome-agent-architecture 🔗 https://github.com/hardness1020/awesome-agent-architecture #github",
@@ -195,7 +202,7 @@
         "siteName": "GitHub",
         "title": "GitHub - cloudflare/cloudflare-os: Agent workspace built on Cloudflare Workers for creating documents, building apps, and running…",
         "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - cloudflare/cloudflare-os",
-        "imageUrl": "https://cdn4.telesco.pe/file/lZzJ8CHl5KeYTv0ZqpwKpUpYxi5GYP1Nvnsc0e8aFu05_lbEljYvAUZhfCTGQIYRME3jfk43X3t0pLgVtzKqwZIGZpOsvxUj8VVod31KSexkFlWLnHYHBV0JIlU14bhwLJY_pSqjdiAtuy_hMmLxZCDAJnLafiF5thYifoI7YhOVsRGF-ohuODVpILDG-7SRmtEvqWiDVE9OS1HhUZDw_4JV1vnjiANo9zQUDhkETLnVG-MQWACRA0tOpxyoiii0B0we8ccyoXuD6PJrrvd9K-kpak0QmL84v2IG9lS3NLfPFgRH_bmY_Jzbq6JMJL364b9ElWlagPXNs7NvxqPn-g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/ZIiKzR-0kna6b3BgRHwgRc_3HtBDvu2YmN5L11cyJ3tj36zkv1Opup-iUsxVfVCPqvlCn4OtDAabcHIXizAsXiC95yDfd6bY6uW4QCxiXOutTZ6PSwzCW5vPQKxJPIZRMwrJjFRPqMaejXL02Nbz6n6WvmIto803r-gl42I565kIGv7dT8DPVKQu--ats60GKmdfgZb3sBrOZqkuVMu53t7_VB6XZOPi_fi9YwAaefRWjC4_Rn10enWyJ7Gu89wL2Q07oXIICqheUW1FuNY772JtYgHlpzZGFQNRABZd8F8987Ml_LZc4_gaq2Eb6kmuufQdwfaMIJIkib97BKYVZw.jpg"
       }
     },
     {
