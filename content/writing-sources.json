@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T02:32:54.000Z",
+  "updatedAt": "2026-08-07T05:13:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4521",
+      "title": "KKarsyline/Collar_watch 🔗 https://github.com/KKarsyline/Collar_watch #github",
+      "description": "KKarsyline/Collar_watch 🔗 https://github.com/KKarsyline/Collar_watch #github",
+      "url": "https://t.me/pdzeng_talk/4521",
+      "publishedAt": "2026-08-07T05:13:40.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/KKarsyline/Collar_watch",
+        "siteName": "GitHub",
+        "title": "GitHub - KKarsyline/Collar_watch: 让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。",
+        "description": "让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。 - KKarsyline/Collar_watch",
+        "imageUrl": "https://cdn4.telesco.pe/file/DNEShuamFOZYfRReRyiy1Yxq8_hRLYAtXOetQouFcRT1T4CnIIjuf8nby4fFxtDo24ZIIo9IyITFzOtTeZMxclWVaLgLUxB-kwQ80RYLBVdn5Xr007pDQDqWJsziCJYEkSFFccSBP9D1PPOZusFwD3Bxl6KIIOxKntYkrhD97fnXkP-DgiRnjaCk5mYZRtn8O8zGR8c1_dZY2MCYZzT_BBgYaIFpuZUgceLp1WEoAkI_2A2bLR5rGeP21NW4-KZU-EoAXuofa5JnSjDUqfS4KTRAsA6-isk8reXB8PNJocsssqeb9MPKBL2qurLRcYsWZg1fLMIO63E0Ch2Y0mso-A.jpg"
+      }
+    },
     {
       "id": "4520",
       "title": "想去按摩了",
