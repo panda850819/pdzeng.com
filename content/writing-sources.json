@@ -151,9 +151,9 @@
       "preview": {
         "targetUrl": "https://github.com/KKarsyline/Collar_watch",
         "siteName": "GitHub",
-        "title": "GitHub - KKarsyline/Collar_watch: 让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。",
-        "description": "让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。 - KKarsyline/Collar_watch",
-        "imageUrl": "https://cdn4.telesco.pe/file/DNEShuamFOZYfRReRyiy1Yxq8_hRLYAtXOetQouFcRT1T4CnIIjuf8nby4fFxtDo24ZIIo9IyITFzOtTeZMxclWVaLgLUxB-kwQ80RYLBVdn5Xr007pDQDqWJsziCJYEkSFFccSBP9D1PPOZusFwD3Bxl6KIIOxKntYkrhD97fnXkP-DgiRnjaCk5mYZRtn8O8zGR8c1_dZY2MCYZzT_BBgYaIFpuZUgceLp1WEoAkI_2A2bLR5rGeP21NW4-KZU-EoAXuofa5JnSjDUqfS4KTRAsA6-isk8reXB8PNJocsssqeb9MPKBL2qurLRcYsWZg1fLMIO63E0Ch2Y0mso-A.jpg"
+        "title": "GitHub - KKarsyline/Collar_watch: 让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。2026-07-26 更新：AI端可主动发起实时心率测量。",
+        "description": "让 AI 能读取到你的health数据。从数据采集到MCP读取的完整链路，以及更实时更稳定的health数据采集和上传。2026-07-26 更新：AI端可主动发起实时心率测量。 - KKarsyline/Collar_watch",
+        "imageUrl": "https://cdn4.telesco.pe/file/oinez2h-la6X4e5UeZAzkyV2yEBvNheQQDmK9aDfgNdxrIVRhnVFRGRIvjZO92LYCVcuo0FwZ5v7v8_4MDww2FldPFd-XnKKyO-WV8WznewxTl-6LacrG27WGKlN4P_UraRZIuerSN1UNgQzgzjKZvTIUW3cEkwPPgZUOluQIf86hrL_I5AejepshaOV748JiXdq_kTZZAV-SROQnjzVRsNUok5t_hjswHAcYc-QY3552i3lkd4yJL2zaQQ7QCAnIrOWbady5r2o9B43SKIXGgXEpk0vM2qEsHh2zb4TFBSwHe42RmscJVBYQxRxTC2GHzIFA0yvZAyGu2e2hv453Q.jpg"
       }
     },
     {
@@ -255,8 +255,7 @@
         "targetUrl": "https://github.com/cloudflare/cloudflare-os",
         "siteName": "GitHub",
         "title": "GitHub - cloudflare/cloudflare-os: Agent workspace built on Cloudflare Workers for creating documents, building apps, and running…",
-        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - cloudflare/cloudflare-os",
-        "imageUrl": "https://cdn4.telesco.pe/file/Uc2Xweo7ND2UvZUjhleb9KX40o3MeXG3ZnYmUZF3Sl6iAJKNZ6MKKZaQSd3CUXEzrJDV2rdmoX_L5GzMRPy014LaeWzW_C8lziBCsJ2IjbPGm16LhMP-89Wv9OdjmfSj6HzYJycLS1GRYcCxiNR4XP_RaQGnCQB_oox4YGjfZNGXpq688CGAW738qOWt3g8RZ543I6-xQvsmhbHzjU2UqCMi4Y2VzFcb6wXKCSEBNbYrE7LxV6a6hmMf_vIewvaENKxY9FdyyjO5EwgTwbKny7sAj35vRutE1cMrJFeldSlehJ9ZcZRmki7C3r6o4G68DzL6IorMp642Ba1NjUw_vg.jpg"
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - cloudflare/cloudflare-os"
       }
     },
     {
