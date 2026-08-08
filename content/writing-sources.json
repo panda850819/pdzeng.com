@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:45:37.000Z",
+  "updatedAt": "2026-08-08T23:17:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4529",
+      "title": "https://x.com/thsottiaux/status/2086188036493344823?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又重置了",
+      "description": "https://x.com/thsottiaux/status/2086188036493344823?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又重置了",
+      "url": "https://t.me/pdzeng_talk/4529",
+      "publishedAt": "2026-08-08T23:17:41.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/thsottiaux/status/2086188036493344823?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Tibo (@thsottiaux) on X",
+        "description": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. Have…",
+        "imageUrl": "https://cdn4.telesco.pe/file/SfsPEaoHvJgAz9F6XpkwPa9BVM_I-gNw46rgfiUxoIrkEMN-pnZ_MQi15s9LIv5K-SDmjOF5H_xRRrkRTlyxQ8fnCQTu0UZffnCN0Vf0jFpAT6aou5jVD_TUk_-FtrJVZggGq8XeIKfmOT6CAaa_ZAMtmid4rUcKz-NFCV6joRXrJKQRrVOcaqjudbMMwhcg-M-lOl23SF4p_SeTtTHhLseyU8OcLKDXLMoGno63IUhhO0OyrusiTSyJ57hn33vVRUaOzNu7DFWzsfNFQ7QY3ojMEKDYHzX2m02Zo5yO3Wt_sip2LodrdPuhQKMqzfkaHb_GEJSRlsNb2HjwFRksvA.jpg"
+      }
+    },
     {
       "id": "4528",
       "title": "PrimeIntellect-ai/prime-agent 🔗 https://github.com/PrimeIntellect-ai/prime-agent #github",
