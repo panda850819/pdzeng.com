@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:16:34.000Z",
+  "updatedAt": "2026-08-08T12:45:37.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,48 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4528",
+      "title": "PrimeIntellect-ai/prime-agent 🔗 https://github.com/PrimeIntellect-ai/prime-agent #github",
+      "description": "PrimeIntellect-ai/prime-agent 🔗 https://github.com/PrimeIntellect-ai/prime-agent #github",
+      "url": "https://t.me/pdzeng_talk/4528",
+      "publishedAt": "2026-08-08T12:45:37.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "siteName": "GitHub",
+        "title": "GitHub - PrimeIntellect-ai/prime-agent: A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. - PrimeIntellect-ai/prime-agent",
+        "imageUrl": "https://cdn4.telesco.pe/file/kiuTCsfPD4M99fqAf9FjmytH3EQ_eYX6J73-OeNmD4LxwAhbWaYNPGYFxfokmlxHfY60jYfas4-cnYUyiMw0Mt7nW3lQIAenPAGSbj3FsnXyv2wXCiq1ITltksd7IMK8V1l51kAUkvws612GXQZgW6jzCx7Me9sUVoZabG-1ANIyrghzIrv5P5QjLQPpRzDiVSRL72VE9LiluTw8VBYHmZrKL6Ci80O2mzk2_m1eh2YM5By3SxplTFg7gB74QzP2V7mPZ9-ZGhlrOnZfq3j-9ccmxjbtJs-8UQEp1drz4dovae17WIqvt4iZ8TYvV09M9NF883bLX7LOfNOrARH1Kw.jpg"
+      }
+    },
+    {
+      "id": "4527",
+      "title": "vercel/vercel 🔗 https://github.com/vercel/vercel #github",
+      "description": "vercel/vercel 🔗 https://github.com/vercel/vercel #github",
+      "url": "https://t.me/pdzeng_talk/4527",
+      "publishedAt": "2026-08-08T12:45:36.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/vercel/vercel",
+        "siteName": "GitHub",
+        "title": "GitHub - vercel/vercel: Develop. Preview. Ship.",
+        "description": "Develop. Preview. Ship. Contribute to vercel/vercel development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/hHldT2BcukGFZP_CnFkm8dl2PhF4HJ2I7SlXoQnld-GkFOVyxkymJ-4xDpKz58dFzY8iRQCliJEotbF5fVR4F6dEQZHAlgLnGOuLg_bhVzt-nuSTems-gxn5J6E7VeBpDQUa1RJ2Wos-Jl0sxJ7JpgxMjsWE1NhIDhrJ0B_aRCzo1e2r-n-mPkVLHmJdZWbD5HjpRaifRw4-wMW1QnX8yjb3VDKcprWYD8JDkGaYWIirqOPIrgG9bl4oKkPHauWZt9f4eoViQ5JmPmiOE2KLsQpiiFatLn9j_ok0dtNwG_2KbjjgDVc3dm6CGRDOfd0jMPPv7i316rIsE1RdG2vU2Q.jpg"
+      }
+    },
+    {
+      "id": "4526",
+      "title": "andyrewlee/awesome-agent-orchestrators 🔗 https://github.com/andyrewlee/awesome-agent-orchestrat…",
+      "description": "andyrewlee/awesome-agent-orchestrators 🔗 https://github.com/andyrewlee/awesome-agent-orchestrators #github",
+      "url": "https://t.me/pdzeng_talk/4526",
+      "publishedAt": "2026-08-08T12:45:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+        "siteName": "GitHub",
+        "title": "GitHub - andyrewlee/awesome-agent-orchestrators: List of agent orchestrators",
+        "description": "List of agent orchestrators. Contribute to andyrewlee/awesome-agent-orchestrators development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/nxxqbBDc7buoYS2htt5--TFSKeBq9LgTkCvUvBPVWMPGA9r5vQHRgl9fDZjAAzD9rVihSlWT01AYVmth7e74B9j6_jCPMcOKw8VvkTuuhsAXWA7Dywoan6Ghm9UK9buu1tqCaV7CwFAxAWvp4j1wHgLIJ7MLvqmk0be0G3R331SAt3nBJ-DayGTcb_2EQfKOnGUc3Dd-ke0UxeCXwczf2epfndk1kUbW7lidnoN8_Ijrz0Bnp-vuPoD59KIEr6XvL0HzLe624iDytTcBcxDffDB35Ph8kdzkJQTVAbeVFid8AyVNEjTJ3idMzkBVlwV-YUQG0K3qddhHbZMFgT7T2g.jpg"
+      }
+    },
     {
       "id": "4525",
       "title": "herdrdev/herdr 🔗 https://github.com/herdrdev/herdr #github",
