@@ -2043,7 +2043,13 @@
       "publishedAt": "2026-05-20T15:23:17.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/karpathy/status/2056753169888334312",
+        "siteName": "X · @karpathy",
+        "title": "Andrej Karpathy",
+        "description": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&a…"
+      }
     },
     {
       "id": "2055510170709770749",
