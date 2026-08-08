@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:05:45.000Z",
+  "updatedAt": "2026-08-08T09:16:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4525",
+      "title": "herdrdev/herdr 🔗 https://github.com/herdrdev/herdr #github",
+      "description": "herdrdev/herdr 🔗 https://github.com/herdrdev/herdr #github",
+      "url": "https://t.me/pdzeng_talk/4525",
+      "publishedAt": "2026-08-08T09:16:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/herdrdev/herdr",
+        "siteName": "GitHub",
+        "title": "GitHub - herdrdev/herdr: the runtime your coding agents live on",
+        "description": "the runtime your coding agents live on. Contribute to herdrdev/herdr development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/nS8-VCq_W7AiK2hICdiMbDDp8D-N04nJH7Z7VFHdyjHJ2yu-UW17s0anjT70mzzNlRO4TBss9vzyTI8ywh9UaHSgfoeRskuODaZMz41Qe8z3md1YAfaaE2hsbq9LN7IEkJ-PFYK0oosoh1awaKPWfelO9NR0afJp5Hrn5_raNWzBgVe9_h9LMcbNNmWsU0-LzQq-VPx-xlvkD4J6X3lJHGMSCV4HUsCjzgyuRuBsyRXRmVs_WNcbRPIK3FL7r9X6OxJv9IObEfytVhWtmA5ORqk4ad2xSXdswUmk4hkB7qU76v0SbQKvVENgwM5wdIpo1dG_kirCZlmv_csJvuU9Tg.jpg"
+      }
+    },
     {
       "id": "4524",
       "title": "Herdr 推出之後，Claude 首先做出來了，後續可能優勢會變更小了畢竟他只是個終端機，但是他可能會變成一個標準之類的 😂 也具備重大意義 目前終端機/ADE - 以美觀來說，Kaku…",
