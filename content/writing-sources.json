@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:23:59.000Z",
+  "updatedAt": "2026-08-09T10:17:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,26 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4533",
+      "title": "Ok 在颱風天發燒了",
+      "description": "Ok 在颱風天發燒了",
+      "url": "https://t.me/pdzeng_talk/4533",
+      "publishedAt": "2026-08-09T10:17:40.000Z"
+    },
+    {
+      "id": "4532",
+      "title": "https://github.com/garrytan/gbrain/pull/3921 不知道何時會被 merge 😂 這樣也算是支持大開源專案了嗎",
+      "description": "https://github.com/garrytan/gbrain/pull/3921 不知道何時會被 merge 😂 這樣也算是支持大開源專案了嗎",
+      "url": "https://t.me/pdzeng_talk/4532",
+      "publishedAt": "2026-08-09T10:16:40.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/garrytan/gbrain/pull/3921",
+        "siteName": "GitHub",
+        "title": "v0.42.80.0 fix(sync,facts): absolute repo paths at every ingress; durable facts-absorb at exit drain by garrytan · Pull Request…",
+        "description": "Summary The final combined wave (5+6) of the sequenced backlog plan. The two cluster audits found 38 of 40 remaining items already fixed on master or deliberately declined — this PR ships the two s..."
+      }
+    },
     {
       "id": "4531",
       "title": "每个想自己写OS的建议看看一下，非常用心的文档： https://yuk1i.github.io/os-next-docs/",
