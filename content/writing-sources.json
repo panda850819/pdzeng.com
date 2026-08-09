@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:17:41.000Z",
+  "updatedAt": "2026-08-09T02:15:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4530",
+      "title": "cathrynlavery/diagram-design 🔗 https://github.com/cathrynlavery/diagram-design #github",
+      "description": "cathrynlavery/diagram-design 🔗 https://github.com/cathrynlavery/diagram-design #github",
+      "url": "https://t.me/pdzeng_talk/4530",
+      "publishedAt": "2026-08-09T02:15:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/cathrynlavery/diagram-design",
+        "siteName": "GitHub",
+        "title": "GitHub - cathrynlavery/diagram-design: Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows…",
+        "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. - cathrynlavery/diagram-design",
+        "imageUrl": "https://cdn4.telesco.pe/file/Lu_B0ZWbvN4I7QwhJzxv_yGe3aNwrZP7xWj3vAfxI-_gn13YOk2ecRBuvt1Bj7YrpAqe08QjkdUHgCJmLEKNuYCCidfYLPoHuBIelXJ5-VKTW1Te4nBTYi-dxEgKHSeGcLmBZj4X7RqRekTkXXnTFGxRuznBojRS7nXSI0P2-cjG-P-W07qjhdVVp70jTZSoOijzQYo5o7He_hTkVA5K_H2MRLTyddTe3paNqymGrAiP2-fFD21hnLzyn-mQfjX_pB53CeX9Snutl3D7z6AKwfitcbTBnVH4odzcdOkm5nNDQPCAoYaUemv_5hae4izEbWxwyB8wc2BmIn6bipiURw.jpg"
+      }
+    },
+    {
       "id": "4529",
       "title": "https://x.com/thsottiaux/status/2086188036493344823?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又重置了",
       "description": "https://x.com/thsottiaux/status/2086188036493344823?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 又重置了",
@@ -126,7 +140,7 @@
         "siteName": "GitHub",
         "title": "GitHub - PrimeIntellect-ai/prime-agent: A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. - PrimeIntellect-ai/prime-agent",
-        "imageUrl": "https://cdn4.telesco.pe/file/aKtXHTPbnTCFvbIlc8ZgZdZHZ5EyKpQ71sYrOyR_bZyhZ-KkGZ8RYYZ6wn4BOHJ0QSYDZidlkc3t0oSa3ej064SuuAcBdTW-lvzYHT6_4U6h0H1XTWprNSt7QS8fTEHjoTqn-_xx-snAwBRcdg8cSnEMPehwXpNSrSFsG_yGGSX7huNMwLwSLOTJ3KRg0tSQhaj4odzQYU8JgGvVtwMz8MlLXKJBw0ELJjUv50HefwUJKgwnGyhFhnrlvPf39peQT7b3Hc8RzQpRYegXtN4GI4LxziknSM_KFO96nb5HWJAues2S5giYeFLIAK4ZusLTbNr-cQDH6W2G7dizA2_hyA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Ma2AkMlI_fxOmVE1PYhkZbLVw_v3aJIPWdtp4szqFW_UXOFy23Xna5mtH6p3nBbn7rLcmYXmxIn1eSxnNAqL1gJvplBDR7ofYL5yOcpzUa_sB4kBvQYxV5d2CPoy2-E5emKqsw2y2e4kp01Af9K-0vXtt1iYZEgT2-V9II8CLNBRqw8aRXpbUw5f0nSgmh4QWlP-PQT4DQg5-4tV3fQtSw6Sm2vvs-73kBbhBBL33M8P87LIw1klPg-TbtU9xCpunH52iX7VPI4SKYYYatrU2E7x2n_tOy7XpELsa-hDkgnIZSBjd_ORX6bJpb4loVPdIe0SGpB2cUF9_REx_lZOqg.jpg"
       }
     },
     {
