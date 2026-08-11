@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:03:01.000Z",
+  "updatedAt": "2026-08-11T05:59:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4542",
+      "title": "satnaing/shadcn-admin 🔗 https://github.com/satnaing/shadcn-admin #github",
+      "description": "satnaing/shadcn-admin 🔗 https://github.com/satnaing/shadcn-admin #github",
+      "url": "https://t.me/pdzeng_talk/4542",
+      "publishedAt": "2026-08-11T05:59:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/satnaing/shadcn-admin",
+        "siteName": "GitHub",
+        "title": "GitHub - satnaing/shadcn-admin: Admin Dashboard UI built with Shadcn and Vite.",
+        "description": "Admin Dashboard UI built with Shadcn and Vite. Contribute to satnaing/shadcn-admin development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/MsIS6b6URuj1BqFo57ol4vCId8ExHcDGmLT1ZBxvqNVNPz5guijTEHk6FJhnS8guqCkDc09otBVQ2FyFYBWfHXwJH7Wo8wpqCK3To_e2QREpTi9gFQahFZlWkQTFTRH6ioTgoG4nMrj8W4_HPyco5kwU2svZ1aRXnghUN4pvnGOboyF7IbXkTcQVlfmKAN99aHN5D5lTdQi9DkfaTt9alP9Kf8XJ4TXE6hgcBpX-uvBTpiDVjRFhBBp7VxkamaOVirVCqOLIHM0oUpZ82Q5OU_1P1XnHTtwMzRhRBWyvHXHb7cqaKVNjdc8fzkF_Rrg8n7tJ4IPorMVKPnlBX6Xbvg.jpg"
+      }
+    },
     {
       "id": "4541",
       "title": "codex 手動重置怎麼全部都看不到了",
