@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:59:34.000Z",
+  "updatedAt": "2026-08-11T07:23:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,41 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4545",
+      "title": "antinomie-lab/pi-book 🔗 https://github.com/antinomie-lab/pi-book #github",
+      "description": "antinomie-lab/pi-book 🔗 https://github.com/antinomie-lab/pi-book #github",
+      "url": "https://t.me/pdzeng_talk/4545",
+      "publishedAt": "2026-08-11T07:23:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/antinomie-lab/pi-book",
+        "siteName": "GitHub",
+        "title": "GitHub - antinomie-lab/pi-book",
+        "description": "Contribute to antinomie-lab/pi-book development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/R4KnVpzllzAuY3d8JAGf06vg6V4uX5kjmHirK9ggY6uN5oWIBHZyjwZ7XQLGhHuTiMP-JDXfbBY6K1Ep4nlFqYb-q_i8CwcKLtschKEWzsP9jdHZid7zWwvUKEFVNZ-bwLf2ISxCIBmO1jHAlQyBn_LGM_g5X8Hd9LBdznKl_fjEw1qTFV7CZMBzrXw15nGXgnhq5rjr9ZVOxVQi8BJv39AzPUoIfmCv0CHkZQyXqpftB1MUcyncN4zxlUE4MFg8wglZ7rc9FmHsgNQCrQkNOAthUu5F2apEEdnGJ65Y2LrSxbAUpGIIpg2kFsWVoPAXxsFyG4u789hKs_hqkD1H-A.jpg"
+      }
+    },
+    {
+      "id": "4544",
+      "title": "https://books.antinomie.org/pi/",
+      "description": "https://books.antinomie.org/pi/",
+      "url": "https://t.me/pdzeng_talk/4544",
+      "publishedAt": "2026-08-11T07:18:28.000Z"
+    },
+    {
+      "id": "4543",
+      "title": "https://www.youtube.com/watch?v=_fMFb2Lv7rI 剛剛看到卡西哥在講這個 這也屬於隱寫術的一環，剛好也是我碩士時期去比賽的題目之一",
+      "description": "https://www.youtube.com/watch?v=_fMFb2Lv7rI 剛剛看到卡西哥在講這個 這也屬於隱寫術的一環，剛好也是我碩士時期去比賽的題目之一",
+      "url": "https://t.me/pdzeng_talk/4543",
+      "publishedAt": "2026-08-11T07:13:54.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=_fMFb2Lv7rI",
+        "siteName": "YouTube",
+        "title": "SynthID – Watermarking and identifying AI-generated text",
+        "description": "SynthID watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video. In this talk we will explore SynthID for text, how it works, its open source implementation in HuggingFace Transformers…",
+        "imageUrl": "https://cdn4.telesco.pe/file/K8bfc7WyKG3lTiCM_HfFO3WctqTYRvtX1ZKZ1x9ZJorvxlUCxZT1Tk-_kpDwffOF6JeA-Ie1yz-okz6UOOC19ggUjdqJjNpweNc0wicwsOzkDjhMrt8fnQvuSUIMZz8ykmj5sDaUoq9xjzX7dAlay5ka8yTELgYiVuXO64LY1tGbzwekCxqCT0Vc8y3R1B5VLf51fdWWcr_JNZ2SaNRC1rXFfsF6lHfHN51fUt08kWy9kfRtBTcXvoEdyf1tP5pVJbEobS49UbtqxuBhdONechrG_-6tsXKxNTYGQBHvvHCrOyYxMpjmgFq0GQkHQ5tv9c_nZw5VhqysoI8U6frXKA.jpg"
+      }
+    },
     {
       "id": "4542",
       "title": "satnaing/shadcn-admin 🔗 https://github.com/satnaing/shadcn-admin #github",
