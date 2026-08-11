@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:39:37.000Z",
+  "updatedAt": "2026-08-11T03:57:51.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4540",
+      "title": "https://x.com/ryolu_/status/2086854498639822942?s=20 果然 ryo 離開了",
+      "description": "https://x.com/ryolu_/status/2086854498639822942?s=20 果然 ryo 離開了",
+      "url": "https://t.me/pdzeng_talk/4540",
+      "publishedAt": "2026-08-11T03:57:51.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/ryolu_/status/2086854498639822942?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Ryo Lu (@ryolu_) on X",
+        "description": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with gratitude, but also with the feeling…",
+        "imageUrl": "https://cdn4.telesco.pe/file/YC6L83WydHvOjlXtCR-xuMDTuuekorYgckZYamA-JCPLwOTIBX656LWaUxctI0lDwwnh9_0kg5RTWSOxhU3ALn3o_T0UR6bPRTRI36cFDP4QI0aZO1v3mW5wubmuKC-5QpjxsGZyrGyWaN7yZhu7TkoghbPjG12vkFqnU29IuvA4hBXhN4h4lpgM-1y5qICul79muYsBtvl-vGPxvlGeFhna7M07PkTwCalTNLvzU5SjGiHG1FCQN9Ye8PnYPWyM0nH1Muz6e14o3inwZLP1j6Op-_9JOPTaa4osu05rzklrWgnzn3_DSbzDk2Z7pyO4q-QpDvfVb2TOZRVWPZsT8Q.jpg"
+      }
+    },
     {
       "id": "4539",
       "title": "https://kitesurf.cloudflare.app",
