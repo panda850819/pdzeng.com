@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T14:29:34.000Z",
+  "updatedAt": "2026-08-11T14:54:26.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4550",
+      "title": "貼心提醒，Codex 明天凌晨五點多有一個手動重置喔",
+      "description": "貼心提醒，Codex 明天凌晨五點多有一個手動重置喔",
+      "url": "https://t.me/pdzeng_talk/4550",
+      "publishedAt": "2026-08-11T14:54:26.000Z"
+    },
     {
       "id": "4549",
       "title": "steipete/sweet-cookie 🔗 https://github.com/steipete/sweet-cookie #github",
