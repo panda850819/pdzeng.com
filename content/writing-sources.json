@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T14:54:26.000Z",
+  "updatedAt": "2026-08-11T16:23:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4551",
+      "title": "panda850819/xbird 🔗 https://github.com/panda850819/xbird #github",
+      "description": "panda850819/xbird 🔗 https://github.com/panda850819/xbird #github",
+      "url": "https://t.me/pdzeng_talk/4551",
+      "publishedAt": "2026-08-11T16:23:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/panda850819/xbird",
+        "siteName": "GitHub",
+        "title": "GitHub - panda850819/xbird: Unofficial, script-friendly X CLI powered by Bun",
+        "description": "Unofficial, script-friendly X CLI powered by Bun. Contribute to panda850819/xbird development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/mpSPkEmM6eU-2eMTfmiH2UygKdCumwiRHSQe1XTwOdQOcktsJk-FalhDafezV0xpbshNNnGy1EP_mP6Eo_eLM6tsMbNnYibU4YsZGi0Exk4tzBgd54QwLouRsIa-y5zj6z-vlPPfe9yyfdr3W8aY1je-v-XsiOytA0LVhZ7sfGHDaUqa6s-RpsleHNvO7S3R8xfqRNIDhtOl_48tqsViH26rb729mXvZWngBl-IHWxWdTJw-ATABA1S5jHHRMkykepSl9TjJZ4cHzyF2hM8VmZRR25aQySbraGSfXxXZcZks3xAfOHd8sKxdMTIfGo4K2iwICkkPBukY6JB5G1k4DQ.jpg"
+      }
+    },
     {
       "id": "4550",
       "title": "貼心提醒，Codex 明天凌晨五點多有一個手動重置喔",
