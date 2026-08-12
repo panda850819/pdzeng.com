@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:24:45.000Z",
+  "updatedAt": "2026-08-12T17:58:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4561",
+      "title": "睡覺",
+      "description": "睡覺",
+      "url": "https://t.me/pdzeng_talk/4561",
+      "publishedAt": "2026-08-12T17:58:14.000Z"
+    },
     {
       "id": "4560",
       "title": "https://x.com/leon7hao/status/2087446456311697745?s=20 真實應用 免費的機器",
