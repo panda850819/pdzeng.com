@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T10:23:46.000Z",
+  "updatedAt": "2026-08-12T15:52:28.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4555",
+      "title": "正在把 last30days 修成 bun 能夠編譯的版本，python 版本有一堆東西要替換我的本地 cli 太痛苦了 AI 在做一些架構上的重構，只要方向範圍定義的夠清楚，通常都沒什麼問題",
+      "description": "正在把 last30days 修成 bun 能夠編譯的版本，python 版本有一堆東西要替換我的本地 cli 太痛苦了 AI 在做一些架構上的重構，只要方向範圍定義的夠清楚，通常都沒什麼問題",
+      "url": "https://t.me/pdzeng_talk/4555",
+      "publishedAt": "2026-08-12T15:52:28.000Z"
+    },
     {
       "id": "4554",
       "title": "沒想到 gemini 連做 google sheet 都比 chatgpt 慢，這模型誰愛用誰用",
