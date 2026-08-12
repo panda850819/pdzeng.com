@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:10:29.000Z",
+  "updatedAt": "2026-08-12T10:23:46.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4554",
+      "title": "沒想到 gemini 連做 google sheet 都比 chatgpt 慢，這模型誰愛用誰用",
+      "description": "沒想到 gemini 連做 google sheet 都比 chatgpt 慢，這模型誰愛用誰用",
+      "url": "https://t.me/pdzeng_talk/4554",
+      "publishedAt": "2026-08-12T10:23:46.000Z"
+    },
     {
       "id": "4553",
       "title": "如何靠 AI 月入千萬？",
