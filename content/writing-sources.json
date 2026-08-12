@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:52:28.000Z",
+  "updatedAt": "2026-08-12T16:24:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,68 @@
   ],
   "telegram": [
     {
+      "id": "4560",
+      "title": "https://x.com/leon7hao/status/2087446456311697745?s=20 真實應用 免費的機器",
+      "description": "https://x.com/leon7hao/status/2087446456311697745?s=20 真實應用 免費的機器",
+      "url": "https://t.me/pdzeng_talk/4560",
+      "publishedAt": "2026-08-12T16:24:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/leon7hao/status/2087446456311697745?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "leon7hao (@leon7hao) on X",
+        "description": "Grok Bot 最好的使用方式出现了，8+16 的配置用来当做 VPS，在上面启动 @lody_ai 库库干活哈哈哈。",
+        "imageUrl": "https://cdn4.telesco.pe/file/OjmL359kUnLsIaP2d1spoeeuPqOtC4K5kXTdmAM78CTeTQYjtWt3PDk8e7ybx2hJqUSGlXNKTYsLINazI-lcMrTXQynbG-32u-wqc9RgSl3Z-dJMdCBPJWOAe_1Fiv7N2pSgrqOvV4mWJZ5pb-nUJNZLUklqB-h8rQAnDU1IXwdRwITkjHKsUnduk_bdPBiDg40U6f68iMcXnB7htOARd4Z8qmYEPw3jxd_8Yba4nYteiqA4JFUky1eQAGIzWKMdgPzfPToeDAJHnU__LhuoDJpV9dKJjWZJMwu_614NbIvG5dUIPhjdKA8rInYG2oXVbt8QGmjtWcVhstciT9J7tA.jpg"
+      }
+    },
+    {
+      "id": "4559",
+      "title": "egoist/waku 🔗 https://github.com/egoist/waku #github",
+      "description": "egoist/waku 🔗 https://github.com/egoist/waku #github",
+      "url": "https://t.me/pdzeng_talk/4559",
+      "publishedAt": "2026-08-12T16:20:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/egoist/waku",
+        "siteName": "GitHub",
+        "title": "GitHub - egoist/waku: ⚡",
+        "description": "⚡",
+        "imageUrl": "https://cdn4.telesco.pe/file/TNFdoQm-m-T-zIf-F_wHoLz0fY1RP6v-MjmuULb92W0v7UbFcRa-RZ1gNMESbd-vmEuXGiBz89CLxAf7dBICBO8P1W2fyDSkU2YeMa4waBfcYF-O9h5SQ34ZX5eJzyMc1Xc4X8oXrFqKfwSuSFt8f5em2y6htMwHeZrTRZgPw43rc67Gsmd2FMlJ55fKjusi47YYtIuzVklI0FhW7eQymzKF3dSz3Vtstiay3sgM3bVfDd-WBALwT3iqjbG96rZrLJ4oSRYB9dVpgq7yGjs2cccK61W5pKsIOuwCQJ54gNjXUuZ5ewydcO-sfPhboo_ZpDfegZDW-WLjol7tF1VI6w.jpg"
+      }
+    },
+    {
+      "id": "4558",
+      "title": "https://waku.sh/",
+      "description": "https://waku.sh/",
+      "url": "https://t.me/pdzeng_talk/4558",
+      "publishedAt": "2026-08-12T16:19:42.000Z",
+      "preview": {
+        "targetUrl": "https://waku.sh/",
+        "siteName": "waku.sh",
+        "title": "Waku — one native app for all your coding agents",
+        "description": "A fast, native app for local coding agents. Amp, Claude Code, Codex, Cursor, OpenCode, Grok, and Pi — one timeline, entirely on your machine.",
+        "imageUrl": "https://cdn4.telesco.pe/file/GFI0jB1qymlU2BSXmSK6nGKNczl4bfuCGGv0zVk5oKdSYwDbwjBIQKvjTp7Ln5Zv3irZkqtSs3sjxxU6em717UAiM9ngQUaMfcFcLY7KLhDZDQ86Sa7PgAKCQ4uWA-HqLy1Ux4pgb6CMmHzbX5o4ehugVEJY0psCA6XMYeLvbEVAFCLBg3a6fuL73BjCtzR2l16MrmrACSaMgVRR014rWcHusgzU-o_bEOIVvyNR9kAw9FjVD05ClW2eN7uVc5LOvZQHQKO1SldidNkXMgzYZQ46uqGNLh0hSsDjS3bGNzAW6kpljmFLiQvoU8q7oXtYWMjXI8s2Inm72_kxHcexCg.jpg"
+      }
+    },
+    {
+      "id": "4557",
+      "title": "https://aicodex.it.com/",
+      "description": "https://aicodex.it.com/",
+      "url": "https://t.me/pdzeng_talk/4557",
+      "publishedAt": "2026-08-12T16:13:06.000Z",
+      "preview": {
+        "targetUrl": "https://aicodex.it.com/",
+        "siteName": "It",
+        "title": "AI codex 智商测试",
+        "description": "AI Codex Radar，基于 current.json 的 Codex 模型跑分、额度和重置雷达。"
+      }
+    },
+    {
+      "id": "4556",
+      "title": "等等又要手動重置了 ... 今天才花了 30% 左右 btw 我感覺明天 tibo 又要重置了 能花還是趕快花一花吧",
+      "description": "等等又要手動重置了 ... 今天才花了 30% 左右 btw 我感覺明天 tibo 又要重置了 能花還是趕快花一花吧",
+      "url": "https://t.me/pdzeng_talk/4556",
+      "publishedAt": "2026-08-12T16:01:10.000Z"
+    },
+    {
       "id": "4555",
       "title": "正在把 last30days 修成 bun 能夠編譯的版本，python 版本有一堆東西要替換我的本地 cli 太痛苦了 AI 在做一些架構上的重構，只要方向範圍定義的夠清楚，通常都沒什麼問題",
       "description": "正在把 last30days 修成 bun 能夠編譯的版本，python 版本有一堆東西要替換我的本地 cli 太痛苦了 AI 在做一些架構上的重構，只要方向範圍定義的夠清楚，通常都沒什麼問題",
@@ -147,7 +209,7 @@
         "siteName": "GitHub",
         "title": "GitHub - panda850819/xbird: Unofficial, script-friendly X CLI powered by Bun",
         "description": "Unofficial, script-friendly X CLI powered by Bun. Contribute to panda850819/xbird development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/mpSPkEmM6eU-2eMTfmiH2UygKdCumwiRHSQe1XTwOdQOcktsJk-FalhDafezV0xpbshNNnGy1EP_mP6Eo_eLM6tsMbNnYibU4YsZGi0Exk4tzBgd54QwLouRsIa-y5zj6z-vlPPfe9yyfdr3W8aY1je-v-XsiOytA0LVhZ7sfGHDaUqa6s-RpsleHNvO7S3R8xfqRNIDhtOl_48tqsViH26rb729mXvZWngBl-IHWxWdTJw-ATABA1S5jHHRMkykepSl9TjJZ4cHzyF2hM8VmZRR25aQySbraGSfXxXZcZks3xAfOHd8sKxdMTIfGo4K2iwICkkPBukY6JB5G1k4DQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/UWK4VBjNhT8sU8FA1EfPZdMyfIMwE338bhWLNCqNRYYxeaoio16UHRpqdE9YJi5prBUmeJ9xp1KDFMdNreTVD0USILvdWbiGi0xOJ8agrNBzpzL3-C2s-eiZUYYxjEIcXV7nC3iIn7hqPbLj0bfyx15sZzAZZ24kTnoXCKvqvIMx4El00hWCZ63ji_DYQc7hJf9oJfO7Yj-D5Ue7SapXqs4WJFlC4YR5lZbtCY1nyER61Ap0-SOp2VxlpI48R-IYnwYTMU-I5hzhhaP-tdsxYuhr4knDHxRXdC-s2tx6LvLakAngMPHaPJcjtb0rWPgCEFdRFtyZrTnFTnnZ2AM2CQ.jpg"
       }
     },
     {
