@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:58:14.000Z",
+  "updatedAt": "2026-08-13T02:27:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4563",
+      "title": "panda850819/last30days 🔗 https://github.com/panda850819/last30days #github",
+      "description": "panda850819/last30days 🔗 https://github.com/panda850819/last30days #github",
+      "url": "https://t.me/pdzeng_talk/4563",
+      "publishedAt": "2026-08-13T02:27:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/panda850819/last30days",
+        "siteName": "GitHub",
+        "title": "GitHub - panda850819/last30days: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web…",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - panda850819/last30days",
+        "imageUrl": "https://cdn4.telesco.pe/file/W8bmOPlAbuTYYXepaCvIWqvg7oEEEcKzmUKeAbgYJiMV2wRsphQVgC1RGM9W4URkFavP8NU1I8GxErPYcG97m3cjP8vJc1AxJeW0Mc3cxVMPkj3OONATdwhh-X9zO_Zh3xzIAD5OZLGvC_YCQrFwStRpdKidqN9ksdlcybvN5LMZyhuga54E68XfCJEB5RSs6k188IdTI-7ku5fOJCfp-UY1FsiclhtKANWgXKATNGuGrjNDq0qhcVaanDfbvO6kTdIzCccto7rMaGmYNgIeTasqSpYb_HdtdYVjIL9MN5YLLSr6_5K3OgWZC9ArJFtwem40SuGnOnh379vXrNDhkw.jpg"
+      }
+    },
     {
       "id": "4561",
       "title": "睡覺",
