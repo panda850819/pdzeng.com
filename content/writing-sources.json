@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:48:48.000Z",
+  "updatedAt": "2026-08-13T10:51:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4565",
+      "title": "https://t.me/informavore_channel",
+      "description": "https://t.me/informavore_channel",
+      "url": "https://t.me/pdzeng_talk/4565",
+      "publishedAt": "2026-08-13T10:51:09.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/informavore_channel",
+        "siteName": "Telegram",
+        "title": "▲ 信息动物 ɪɴғᴏʀᴍᴀᴠᴏʀᴇ",
+        "description": "▲ 尝试以信息为线索重构过去、现在与未来 → 自动化日志 @informavore_log → 通讯专栏 @cyberclip_channel",
+        "imageUrl": "https://cdn5.telesco.pe/file/jIUExU_vZJSTc4S2coGQXwND16lgGCA-HYomR3y-9nbVjWGETXzcRwAMgyUoQH-k9UGDFueluBM2eTa2cugyJIVHQn11Fdkc_HOmmMt9RWJE59cEGMlbYfOzzc8W608hSQ5JITI-wo5qZoxVH9lEPmf5Vy1evdN_hDmutDMPr2v6f6Fki3HRkjeTU2iM09frifvJ3fvEIyuBTx6Ca_N5iJHVvY6yWUddHiMfC0md7FCc79yBNapzGLUpe3dXRfTO_FsaokAq167bADiPzW-CJCnURfx58GPiwAVubsmAFcq8dipTbPpeuqcUjLrxApZ_o5MsPUh3KPhi8HgkdC_vRw.jpg"
+      }
+    },
     {
       "id": "4564",
       "title": "跟我猜的一樣，昨天手動重置後又重置了一次 🙂",
@@ -286,7 +300,7 @@
         "siteName": "GitHub",
         "title": "GitHub - tommy0103/obelisk: Every past session, subagent, and workflow -- queryable by your agent, browsable by you",
         "description": "Every past session, subagent, and workflow -- queryable by your agent, browsable by you - tommy0103/obelisk",
-        "imageUrl": "https://cdn4.telesco.pe/file/qZ__Xc-WLUe16D-ojokZCugUKJeezx5JBplJIPdWfJXUy4QNhqEarANlYsFXFg_ZIb-wkRVRLGo8u9JHW8KOFYYlCDB2cJpfEG5anLSOL2E09LKOLeMez4MorZAfimD0axTy6dYJZ-fhKk38rcz5VkgxqvBZdsr5gnbxMYRSHrsS3evH83xWLajzF49j5gR7DUwDT1EKIp8aVJcwre8h9OUOf8NSwsViyIR993cgZpIjqR5Hp0MQBraYnp5ebQvl_po1UrAD-ZIYAF3fpDv3WPrQ8m22t7mvtpN8lN5x3SpRaeSJXdvNU74iL--MHokja7BX6A4rlND0j328oESHAA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/EDME9-hHF-M_7kSoO1U-63BBdcAb82qXgFX5q2uhHw_ov-8yqDEaYcg-B6WBRUepUCllQkAMZoBPh6VGMdCOXT6K6G5vqHycfPW5a6j0SkPlHUixyhqdx6n7qSBUDdOZUqPWVYhmQ9m_NN0h7TRqxhH3OX8zE1RV8c_BXxDtm7l3sFSOV1K6ikOTuBQr3ovBsr7Y4G1k2yibyXShHg7OW2R2hpzIP_KzudlRuJigi6BEtesBAop9Pz7Ry0Jf76ErI3Q5tvogCAgGh0KgH2IDDOZ2eeF-3J7UIq0QGdYlRCRh3eJ2-1Kn6xrIQ5f04-JWXUgH9mkFbMkUEMP6fzuy7Q.jpg"
       }
     },
     {
