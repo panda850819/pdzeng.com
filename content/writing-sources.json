@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:30:13.000Z",
+  "updatedAt": "2026-08-14T10:39:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,19 @@
   ],
   "telegram": [
     {
+      "id": "4569",
+      "title": "deepseek-ai/deepseek-harness 🔗 https://github.com/deepseek-ai/deepseek-harness #github",
+      "description": "deepseek-ai/deepseek-harness 🔗 https://github.com/deepseek-ai/deepseek-harness #github",
+      "url": "https://t.me/pdzeng_talk/4569",
+      "publishedAt": "2026-08-14T10:39:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/deepseek-ai/deepseek-harness",
+        "siteName": "GitHub",
+        "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+        "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub."
+      }
+    },
+    {
       "id": "4568",
       "title": "https://local.ai/pdzeng/invite",
       "description": "https://local.ai/pdzeng/invite",
@@ -147,7 +160,7 @@
         "siteName": "Telegram",
         "title": "▲ 信息动物 ɪɴғᴏʀᴍᴀᴠᴏʀᴇ",
         "description": "▲ 尝试以信息为线索重构过去、现在与未来 → 自动化日志 @informavore_log → 通讯专栏 @cyberclip_channel",
-        "imageUrl": "https://cdn5.telesco.pe/file/jIUExU_vZJSTc4S2coGQXwND16lgGCA-HYomR3y-9nbVjWGETXzcRwAMgyUoQH-k9UGDFueluBM2eTa2cugyJIVHQn11Fdkc_HOmmMt9RWJE59cEGMlbYfOzzc8W608hSQ5JITI-wo5qZoxVH9lEPmf5Vy1evdN_hDmutDMPr2v6f6Fki3HRkjeTU2iM09frifvJ3fvEIyuBTx6Ca_N5iJHVvY6yWUddHiMfC0md7FCc79yBNapzGLUpe3dXRfTO_FsaokAq167bADiPzW-CJCnURfx58GPiwAVubsmAFcq8dipTbPpeuqcUjLrxApZ_o5MsPUh3KPhi8HgkdC_vRw.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/nCpJIdPCordNnGoPU8wiUe-a1Smn6uAf4gf-hsS91mj5_DMQKe8EejJsAUO5m9dfQsziUPLQ00lHfll5mNKVpnu5mXIM4uJ2jQiKhmhU6oGqK0gggynuyfcHGWcDwcg2IpNlpb-qyKUlIor_sBNUJgmEc9nsdwCH6xp625EhuVLsYvAlFOQYYoCDAOXZUjEP-qHX-7PNLMI70Ew9HcYKPIUpms1qDX0Gn-6QsYEmpwQDALuaF7h3pyaFwa1_A7-14kFPXNjayzo9wB0WBav-pVreq4lVGuz8X_N8zBVCWElJvoMWz7Sqf_P5MpTRUatzNQPUVtD6wkK9GJjDdGMvNw.jpg"
       }
     },
     {
