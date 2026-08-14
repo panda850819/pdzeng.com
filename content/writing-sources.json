@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T04:38:17.000Z",
+  "updatedAt": "2026-08-14T10:30:13.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4568",
+      "title": "https://local.ai/pdzeng/invite",
+      "description": "https://local.ai/pdzeng/invite",
+      "url": "https://t.me/pdzeng_talk/4568",
+      "publishedAt": "2026-08-14T10:30:13.000Z",
+      "preview": {
+        "targetUrl": "https://local.ai/pdzeng/invite",
+        "siteName": "local.ai",
+        "title": "I just claimed local.ai/pdzeng. Claim your name.",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/v7n3ASGNtjiEqA7JV-eCeZ9jQBRWnS43vay3v-RIY9kmqClWuJc2-OPC07gajGu_458j53UYjJ9plNRvf7mypS15MUb55KYNPQyL4MPJKC-uI_oktUAX_XN7orJ8YX1OV9OH1G0PIWZwnxLzdpaPm9AWFvd7FQ7-CIzcbjKV8qHTZkXF8JXU9DMtp4eHg0NLUOpHTayJR-06J0OqjuAsSEi6gW2fWfa5TT_9T5mHfBuAXhM1nEwHc99IYS0EgRPhXsIGb8HZOsOmU5VGo46YJ0DKc-_F0N0BJg4xmedwlSZDf2Qhc-PmdJrt7FJTpvPiST1-rBnPT-rnnVjulpYhhg.jpg"
+      }
+    },
     {
       "id": "4567",
       "title": "我不會通靈，你丟一張票給我上面沒有任何任務描述然後也沒有壓任何時間 然後轉頭問我做完沒？ 誰愛做誰做",
