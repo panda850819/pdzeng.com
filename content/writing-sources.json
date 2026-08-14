@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:39:35.000Z",
+  "updatedAt": "2026-08-14T12:02:32.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4570",
+      "title": "▶️ NYSE 和 NASDAQ 真正的賺錢邏輯 #youtube https://www.youtube.com/watch?v=5cw6j5EfQSU",
+      "description": "▶️ NYSE 和 NASDAQ 真正的賺錢邏輯 #youtube https://www.youtube.com/watch?v=5cw6j5EfQSU",
+      "url": "https://t.me/pdzeng_talk/4570",
+      "publishedAt": "2026-08-14T12:02:32.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=5cw6j5EfQSU",
+        "siteName": "YouTube",
+        "title": "NYSE 和 NASDAQ 真正的賺錢邏輯",
+        "description": "00:00 NASDAQ 為什麼願意為 SpaceX 破例？ 01:48 NYSE：華爾街的希臘神殿 04:41 NASDAQ：為打破黑箱而生 08:35 交易所真正的賺錢方式 15:53 加密交易所端出的 24/7 戰帖 19:24 買一張 Apple 股票要經過幾手 21:29 真正的戰場：通路與結算 24:15 老大哥的區塊鏈布局 28:28 未來半年三大追蹤重點 收聽 Podcast 音訊版： Apple Podcast: https://podcasts.apple.com/podcast/1784659353…",
+        "imageUrl": "https://cdn4.telesco.pe/file/UYzj2nQ-7mQHO0AqmCo0FEfWkP5PEn0Si3uh9k2MQIrU0-In_BP2C6KevRFrcapnXNqzv6uKsF3mHI_F2jkAAFw2NGQhh-2rW8X8VJpauQOd7wu8Q3NwxbQ0zdF51JBnkC_BkKHZKFKYPLwMQ5DUMaLfMTHQzecGBvTEz0eeeogfD1itYOStWAE6eqa2aZCvTJqCX8pqFbeDOvjyhVmzkPV7q8qIaa_Kg1crgXEec9-DQvhKiCTn0_HvGVm7kkvf4wi5n5KtO-ZaM7sMrQeryUR-UA1x52u69QGT6TBYO-yUThnseSQ8ryZgaodW6qaklsAT3usE7DbjLbdkK0m5Lw.jpg"
+      }
+    },
     {
       "id": "4569",
       "title": "deepseek-ai/deepseek-harness 🔗 https://github.com/deepseek-ai/deepseek-harness #github",
