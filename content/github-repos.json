@@ -1,11 +1,19 @@
 [
   {
+    "name": "curio",
+    "description": "拾跡 Curio — collect curiosities, trace your path",
+    "url": "https://github.com/panda850819/curio",
+    "stars": 0,
+    "language": "TypeScript",
+    "pushedAt": "2026-08-15"
+  },
+  {
     "name": "verbs",
     "description": "personal skill pack",
     "url": "https://github.com/panda850819/verbs",
     "stars": 5,
     "language": "Python",
-    "pushedAt": "2026-08-13"
+    "pushedAt": "2026-08-15"
   },
   {
     "name": "xbird",
