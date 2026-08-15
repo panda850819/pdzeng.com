@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:34:34.000Z",
+  "updatedAt": "2026-08-15T14:23:09.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,13 @@
   ],
   "telegram": [
     {
+      "id": "4576",
+      "title": "https://www.inspora.design/ 牛逼的東西",
+      "description": "https://www.inspora.design/ 牛逼的東西",
+      "url": "https://t.me/pdzeng_talk/4576",
+      "publishedAt": "2026-08-15T14:23:09.000Z"
+    },
+    {
       "id": "4574",
       "title": "jhochenbaum/herdr-hunk-diff 🔗 https://github.com/jhochenbaum/herdr-hunk-diff #github",
       "description": "jhochenbaum/herdr-hunk-diff 🔗 https://github.com/jhochenbaum/herdr-hunk-diff #github",
@@ -173,8 +180,7 @@
         "targetUrl": "https://github.com/deepseek-ai/deepseek-harness",
         "siteName": "GitHub",
         "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-        "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/P43M1YydXcR2sAAU4y1ujZGe6KoOR5LYYmZTDU9C-UmAPybOrly1NgUhycFxpomBUj6iCjOY6ow9sceR1-EQ775kC9Nzqgf3lIG9I7utRc0n1b-FglmPQRBE3S413GCV2lJ5a3chkSb92eZHWz5M4jIm2vtmmGAKeNe4jFojorZuy1GZzOWAmBoUPT9tup6mkRTlhXXIMTxrg88ECd568vWvP_vM85zoBgoTHXci5pEkbQmfVQ6l3o7xhLq8ZaCdCbIpYn3knxlxnw5yZMgtgRImeq52W5f8_cxy6mTmZlDpnsgin16J3SnxlFysycftish4LgPNBWFdFRCV1yiVug.jpg"
+        "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub."
       }
     },
     {
