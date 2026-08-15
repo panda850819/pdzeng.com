@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T12:02:32.000Z",
+  "updatedAt": "2026-08-15T07:30:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4572",
+      "title": "macro-inc/macro 🔗 https://github.com/macro-inc/macro #github",
+      "description": "macro-inc/macro 🔗 https://github.com/macro-inc/macro #github",
+      "url": "https://t.me/pdzeng_talk/4572",
+      "publishedAt": "2026-08-15T07:30:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/macro-inc/macro",
+        "siteName": "GitHub",
+        "title": "GitHub - macro-inc/macro: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together…",
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. - macro-inc/macro",
+        "imageUrl": "https://cdn4.telesco.pe/file/qbVUCWanaqq1ms0xfiNXc2KJOjMH1ODknF_CPyjgtDykytBKHQqRkUkI0RfCdMTKWkVFM2XxlQj2P446gORPyZ8vH5DdIvixxGlfiE5j5eVxv946s6MTMbCx8trl6JUpPkkLZ471q9wzLG19QaoknwXkiM2Je0HfFJxua2sN9FzRWyfufH1zfVaqebyG0pT1x2SDtZVzj32DfT5wp4sjcKiMBpkGCClS-wkjSEB44aDIr-tHXCaBcqxr2hbBO3ds7HWqcIpgAx64pK5PHWYdhThRQG4IvoBZmjcFmwVYSr--xfEyuJqys4cwvA3cHSJenVV2fdkeOV-O-V13R-kPZQ.jpg"
+      }
+    },
+    {
+      "id": "4571",
+      "title": "https://shopee.tw/m/seaxopenai-hackathon-tw",
+      "description": "https://shopee.tw/m/seaxopenai-hackathon-tw",
+      "url": "https://t.me/pdzeng_talk/4571",
+      "publishedAt": "2026-08-15T07:03:07.000Z",
+      "preview": {
+        "targetUrl": "https://shopee.tw/m/seaxopenai-hackathon-tw",
+        "siteName": "shopee.tw",
+        "title": "蝦皮購物母公司 Sea x OpenAI Regional Codex Hackathon 台灣站開放報名",
+        "description": "蝦皮購物母公司與 OpenAI 聯合舉辦亞太區黑客松首度登台！集結熱愛 AI 開發的創作者，運用 Codex 發揮創意、完成作品，與 OpenAI、Sea 及業界夥伴共同交流。"
+      }
+    },
     {
       "id": "4570",
       "title": "▶️ NYSE 和 NASDAQ 真正的賺錢邏輯 #youtube https://www.youtube.com/watch?v=5cw6j5EfQSU",
