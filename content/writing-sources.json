@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:30:34.000Z",
+  "updatedAt": "2026-08-15T08:08:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4573",
+      "title": "看了這個頻道的結構，就讓我想到 之前有訂閱的 readwise 這樣的服務 除了 save it to read 的功能以外，還有自動去追蹤這樣的作者後續會有哪些作品，這件事情本身是讓我期待的…",
+      "description": "看了這個頻道的結構，就讓我想到 之前有訂閱的 readwise 這樣的服務 除了 save it to read 的功能以外，還有自動去追蹤這樣的作者後續會有哪些作品，這件事情本身是讓我期待的 所以打算來造輪子，看看能不能再搞一個類似的東西出來，然後他的功能很簡單 就是貼連結給他，然後判斷是不是可以被 fetch，如果可以的話變成類似 rss 或是 xml…",
+      "url": "https://t.me/pdzeng_talk/4573",
+      "publishedAt": "2026-08-15T08:08:27.000Z"
+    },
     {
       "id": "4572",
       "title": "macro-inc/macro 🔗 https://github.com/macro-inc/macro #github",
