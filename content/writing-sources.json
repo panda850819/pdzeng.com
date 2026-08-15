@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:08:27.000Z",
+  "updatedAt": "2026-08-15T09:34:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4574",
+      "title": "jhochenbaum/herdr-hunk-diff 🔗 https://github.com/jhochenbaum/herdr-hunk-diff #github",
+      "description": "jhochenbaum/herdr-hunk-diff 🔗 https://github.com/jhochenbaum/herdr-hunk-diff #github",
+      "url": "https://t.me/pdzeng_talk/4574",
+      "publishedAt": "2026-08-15T09:34:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/jhochenbaum/herdr-hunk-diff",
+        "siteName": "GitHub",
+        "title": "GitHub - jhochenbaum/herdr-hunk-diff: Review agent-authored changes in hunk from herdr and send inline comments back to the responsible…",
+        "description": "Review agent-authored changes in hunk from herdr and send inline comments back to the responsible agent. - jhochenbaum/herdr-hunk-diff",
+        "imageUrl": "https://cdn4.telesco.pe/file/pIt0-AbLMCMn0Xtb312YNj6GXb3fgnhaXCvo60hXAMzVbe_SEDDy1Kiop0_tEKVNuY7KJvuP0oqFstPLCWcMkLs5dqCE5A8Jr_BnadHYWn_UecGqhSxYsBmWfALalw3CpaEkD6J4G97i-ClwuB59QlGYt9sgg5I0K0I-zrovij_RRI72WvpVRdnuw0ZT0BscdN4jm7mri6Ixh4TtDVkCVKyxN2nXl7th3yrFlIAd_tOT-brnCddT3J5k-dV05SET9PPiCI_G2OBJKlDjQfUGaHmFltH3MJ4_YaFjbxlTqSDCZwN_yNHNVzbXBJumOrNvHjUvaGkvVMWvdLOwt8FWGQ.jpg"
+      }
+    },
     {
       "id": "4573",
       "title": "看了這個頻道的結構，就讓我想到 之前有訂閱的 readwise 這樣的服務 除了 save it to read 的功能以外，還有自動去追蹤這樣的作者後續會有哪些作品，這件事情本身是讓我期待的…",
