@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:39:34.000Z",
+  "updatedAt": "2026-08-16T07:28:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,33 @@
   ],
   "telegram": [
     {
+      "id": "4580",
+      "title": "HQBase/hqbase 🔗 https://github.com/HQBase/hqbase #github",
+      "description": "HQBase/hqbase 🔗 https://github.com/HQBase/hqbase #github",
+      "url": "https://t.me/pdzeng_talk/4580",
+      "publishedAt": "2026-08-16T07:28:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/HQBase/hqbase",
+        "siteName": "GitHub",
+        "title": "GitHub - HQBase/hqbase: Your team's email workspace. On your infrastructure.",
+        "description": "Your team's email workspace. On your infrastructure. - HQBase/hqbase"
+      }
+    },
+    {
+      "id": "4579",
+      "title": "https://x.com/caiyue5/status/2088656344194900153?s=20 笑死了",
+      "description": "https://x.com/caiyue5/status/2088656344194900153?s=20 笑死了",
+      "url": "https://t.me/pdzeng_talk/4579",
+      "publishedAt": "2026-08-16T07:18:15.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/caiyue5/status/2088656344194900153?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Yue (@caiyue5) on X",
+        "description": "牛来都能上映，你的产品还在因为追求完美不发布？",
+        "imageUrl": "https://cdn4.telesco.pe/file/s6P1rJsoYkKLG07HIxI1Rwz1uEhI_K_i5Qd7XsQVP5xO-xbc_PRP8HLoeCq8potoZSvR-ieNoFi4FWcSipN6qshTycT7L-pIF2RzF0zq6ByuUA5tdnLV9IDuqclpaT8tF36xZNAJl10S5Q_zSKhe-sq3n8nyyBC5Ddhp4uZfRGxFETz6LuC2jlhQjMGhq7xfbxOGbv9fAx2_A6O_CJW4SeR4MyQuXD0E4CnZNkaSz5bxhCRw82OE8FpjiJrUS6IkrLyYH3e6eXkFjIT6tx0h8DTg3DMXZcWx52TKosFMGQi7o3toOhgfh0Zk1tsFy80hExtaHgUCJzJdqdYLjw4Mnw.jpg"
+      }
+    },
+    {
       "id": "4578",
       "title": "fitchmultz/pi-codex-goal 🔗 https://github.com/fitchmultz/pi-codex-goal #github",
       "description": "fitchmultz/pi-codex-goal 🔗 https://github.com/fitchmultz/pi-codex-goal #github",
@@ -168,7 +195,7 @@
         "siteName": "GitHub",
         "title": "GitHub - macro-inc/macro: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together…",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. - macro-inc/macro",
-        "imageUrl": "https://cdn4.telesco.pe/file/qbVUCWanaqq1ms0xfiNXc2KJOjMH1ODknF_CPyjgtDykytBKHQqRkUkI0RfCdMTKWkVFM2XxlQj2P446gORPyZ8vH5DdIvixxGlfiE5j5eVxv946s6MTMbCx8trl6JUpPkkLZ471q9wzLG19QaoknwXkiM2Je0HfFJxua2sN9FzRWyfufH1zfVaqebyG0pT1x2SDtZVzj32DfT5wp4sjcKiMBpkGCClS-wkjSEB44aDIr-tHXCaBcqxr2hbBO3ds7HWqcIpgAx64pK5PHWYdhThRQG4IvoBZmjcFmwVYSr--xfEyuJqys4cwvA3cHSJenVV2fdkeOV-O-V13R-kPZQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/pg9suCGRfVPoNJvMNAn_2Pt0dTzvslH2ZHp8nGb5XwiInnmkUEcKcr1e8NGQ8azDfXBaF_-oC_EKBJ2AqZlp8CX8uIeoSyyBliBCrjiyPXUbZ9GFzZIrnKF9SdlLGVNNgGHa--4eoKVLnbdMhG4jD-LTkOa1e1G6DFp1uOiMUelXoBQPOtUQ8iTuwTZxjeV2iL56m5EuBoEXRi5reZTfe-cbz-7b9yqOzmpdYW-vTkmZMCUAEj6V_jzMA7Iuuw0kdV9rk09Np5tbM7qHW2-JAK6pPycD9hAj2ud4czbrpPxIEnDgCrFDiiQiLbYnJL4p-NxxF_Kt0fIdbi4uKGYIFg.jpg"
       }
     },
     {
