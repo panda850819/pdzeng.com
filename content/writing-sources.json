@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:10:05.000Z",
+  "updatedAt": "2026-08-16T13:53:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4583",
+      "title": "jdx/mise 🔗 https://github.com/jdx/mise #github",
+      "description": "jdx/mise 🔗 https://github.com/jdx/mise #github",
+      "url": "https://t.me/pdzeng_talk/4583",
+      "publishedAt": "2026-08-16T13:53:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/jdx/mise",
+        "siteName": "GitHub",
+        "title": "GitHub - jdx/mise: dev tools, env vars, task runner",
+        "description": "dev tools, env vars, task runner. Contribute to jdx/mise development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/al19t_r_4xhkw9o8wDPUanvEM31KcH-p9Ahjp6ljf8i-58_wGbDLy9fgPyw1gY7eG-oS-CSmQjz4qTSkel23KY57jbutVwia_GvpkNEekz2SoV6RMWe33n5qAG_NqGQPzCVkaPCLEO2xRJ3g6tAlNSxR4nbEv4xeEBe3jS_ZEqlTTlEpCeYmeOF9GhdX_PP1sNxdG7rcWoimfm6wHhGOsx0vOmpQ9e-S5vFFD_caWkDdZW-s_3RCNxgzqBSL8AC5oWPBD2EuAOXZM2EyojHhXfHKnSkAYXwSmoZA9yd7acjDPDURNzt19JEuxhfW875fAI_AI3_FPr__G8jV5j6wXw.jpg"
+      }
+    },
+    {
+      "id": "4582",
+      "title": "https://t.me/pdzenglog 後面就會陸陸續續開始把一些要監聽或追蹤的東西自動推播過去 如果有什麼好的來源也歡迎分享 😂",
+      "description": "https://t.me/pdzenglog 後面就會陸陸續續開始把一些要監聽或追蹤的東西自動推播過去 如果有什麼好的來源也歡迎分享 😂",
+      "url": "https://t.me/pdzeng_talk/4582",
+      "publishedAt": "2026-08-16T13:34:17.000Z"
+    },
     {
       "id": "4581",
       "title": "https://basecamp.com/managers/manager-standards",
@@ -246,11 +267,11 @@
       "url": "https://t.me/pdzeng_talk/4569",
       "publishedAt": "2026-08-14T10:39:35.000Z",
       "preview": {
-        "targetUrl": "https://github.com/deepseek-ai/deepseek-harness?utm_source=the+new+stack&utm_medium=referral&utm_content=inline-mention&utm_campaign=tns+platform",
+        "targetUrl": "https://github.com/deepseek-ai/deepseek-harness",
         "siteName": "GitHub",
         "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
         "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/uCff8HlMZvV8TI0nAf_og5H_KNpLyOxKIh4OIyHDdzNYMddO4-sSJdFmD5LCI5v50HodeIuw6eJwcet9WceVKGxXrtnSzS_-A-N5P4GI1NUeHdcM215JIyXPZlraFLpvpHavcKRkVln8FilRCrN_cIhBIjU9Ww7KpzKN5wJSJius8W8FUf4tqWv18-dVipfFRBpaIj74Bn8C8cZ_Z03YlksmBl5VqdiJo6db7-8FcYeEq-OkHB_MiPbKpa18uTEuS8mmuPy1qQBDa6ks8HFJT79QVwt_-VVy4auXHtHsGFPnu8nau1AgDdSnrGz--7VfCnI0Orb9UOctTqcBQh2MWQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/MBloQg5wRH1xmpxNv2hvU1nEP9CAetUd3_kA1ItXaj__qguPpNtO-XlcW9on3JXwc6danpM6Yq2tjjBhHEcBtPJF_AhlQvrpxuUszjbzQJPC9WeL2IRqo4STdFXpnG7TkqB033-A1F98zPvB-P9g1ab7T9NVLZFm5GrJju7AnhN_mkdL4T8H81dXOYjGTLJZ4aDYBqDywbM6YN4uJihkY0Lip5ueRSTh__pkPecmQ70ON1jYp70J0MpOW9juodCBwNkoFvrso6HHIWBplfLzkzUe61o3K8Z2VuuJzZcQc-HXduvuzYxzjQHAb8aUZeEbq9mTnLcopxbC-hy6Dk1RSA.jpg"
       }
     },
     {
