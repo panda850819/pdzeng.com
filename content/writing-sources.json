@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T13:51:02.000Z",
+  "updatedAt": "2026-08-17T15:24:47.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4594",
+      "title": "啊？送錢了？",
+      "description": "啊？送錢了？",
+      "url": "https://t.me/pdzeng_talk/4594",
+      "publishedAt": "2026-08-17T15:24:47.000Z"
+    },
     {
       "id": "4592",
       "title": "GitHub 休息了 https://x.com/githubstatus/status/2089346523926560974?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
