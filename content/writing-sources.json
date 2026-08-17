@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:53:34.000Z",
+  "updatedAt": "2026-08-17T02:11:10.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4585",
+      "title": "https://www.youtube.com/live/9JNg6S3xELk?si=FfR1D5yMvsVfwoq6",
+      "description": "https://www.youtube.com/live/9JNg6S3xELk?si=FfR1D5yMvsVfwoq6",
+      "url": "https://t.me/pdzeng_talk/4585",
+      "publishedAt": "2026-08-17T02:11:10.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/live/9JNg6S3xELk?si=FfR1D5yMvsVfwoq6",
+        "siteName": "YouTube",
+        "title": "賣0050改買正二？台股正二未來10萬路徑分析",
+        "description": "📍",
+        "imageUrl": "https://cdn4.telesco.pe/file/tzPQ35FBd7Axaz-rECVtjl_wsOkLr3heCExesYcJCjRYKA_ZKvMNH93x5itKe5AXg9uxMsBp6n83x3BSgIr3KZ9irzOfZH_JfVimCpkyQ8nckAy49whOwLvhczCyzQGh9ntpmBVbDwGe5b0BmydzL-9X4u_t5PMgIJfFBJKW9A3gQAY6ZBhZTXNGI8FhaWgIlS1cPYcy_zRVbgThZ_E1qfJ1JjFxkKh-vAv85L2kzWVSP-xV6ug_Sd5GtU_GqHBjPqdPmdinZl7Zt9NWreRRmZyeoDrEXp0Zu_gg3UUqc4ABz_i_bfFQRc_eb3TzUZdS0ESD9xlM-VMvijpQEALZtg.jpg"
+      }
+    },
+    {
+      "id": "4584",
+      "title": "https://scenecap.app/changelog 卡西哥好佛",
+      "description": "https://scenecap.app/changelog 卡西哥好佛",
+      "url": "https://t.me/pdzeng_talk/4584",
+      "publishedAt": "2026-08-17T02:04:19.000Z",
+      "preview": {
+        "targetUrl": "https://scenecap.app/changelog",
+        "siteName": "scenecap.app",
+        "title": "版本紀錄 — SceneCap",
+        "description": "SceneCap 的版本紀錄：新功能、改善與修正。"
+      }
+    },
     {
       "id": "4583",
       "title": "jdx/mise 🔗 https://github.com/jdx/mise #github",
