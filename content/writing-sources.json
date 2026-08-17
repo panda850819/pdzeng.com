@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:27:40.000Z",
+  "updatedAt": "2026-08-17T06:42:02.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4587",
+      "title": "雖然介面看起來都大同小異，但也總算是把輪子蓋好了",
+      "description": "雖然介面看起來都大同小異，但也總算是把輪子蓋好了",
+      "url": "https://t.me/pdzeng_talk/4587",
+      "publishedAt": "2026-08-17T06:42:02.000Z"
+    },
     {
       "id": "4586",
       "title": "https://x.com/thsottiaux/status/2089143488696705077",
@@ -313,7 +320,7 @@
         "siteName": "GitHub",
         "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
         "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/lXjO7122s2km053HE2vDRj916GtAtzrX183Z9q4t38Gaqu6z9Uf9l51-RqjMq0rngjMEjVBb08LHJIUrh2pl-cHzY4T1OMv51aVOJW2hCQ2Z3NkdN7kEbsFEj5F37Rv02a_tboVYqb3I1ex3QF56G9eYeOQw_k7IsY-j5Y9Fn2HsNl7Jn0BoVQxpSSMWhe9uCIAmUjkM78PMkW5EmmlrUr48ZXNE1YwTypeHixj78_E2BcWlezrgALbFHg8PztJUXWA-1f5V-jQaJv5yTdoOZtkU_zYFsksxbQIVV11JhETwBvz8pHn3cpu15Ax6Gqdtuiitwd8DfdegYjDRBSgVow.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/qZTOPO9wUeoYXLy5Jei4lroEeHbYbxGThcbQZ_S4wo-xuleN7gD1hxkNRrRCdnWfIc66esHWBqoamUbdz8z7sdHUdVTCjzfuHR8t_DTIEBOeNYt2pCzYFgnA1igJWwd1tE0sBBCuZFNXEkywaqFTXDfn3ECDtldgNNDwOGJfaOmjk5pSlM5fzKtyxN0tYqHZLAJdtl4llAUr7bWsm99TUN7aDZJ7rUkv0OtmryatzSy8NS9XIQ6b1nVvndLd2WWLmbVzzhDl0bmpC4PLku2rMt4Ql41srVF314WU9wg8lSkh3vIdpI5yxSH7ohcSdf2CfP0bD-fOdO9ALRMWUif3JA.jpg"
       }
     },
     {
