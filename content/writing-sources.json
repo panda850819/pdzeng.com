@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:41:29.000Z",
+  "updatedAt": "2026-08-17T23:30:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4602",
+      "title": "$CBRS https://t.me/pdzenglog/124",
+      "description": "$CBRS https://t.me/pdzenglog/124",
+      "url": "https://t.me/pdzeng_talk/4602",
+      "publishedAt": "2026-08-17T23:30:45.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzenglog/124",
+        "siteName": "Telegram",
+        "title": "熊貓隨口說 Logs",
+        "description": "拾跡 · 美研芒格君 美研芒格君 (@Kay2289123) · 2026年8月18日"
+      }
+    },
     {
       "id": "4601",
       "title": "https://x.com/tinyray1314/status/2089227009029509258?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
