@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:28:15.000Z",
+  "updatedAt": "2026-08-17T13:51:02.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4592",
+      "title": "GitHub 休息了 https://x.com/githubstatus/status/2089346523926560974?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "GitHub 休息了 https://x.com/githubstatus/status/2089346523926560974?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4592",
+      "publishedAt": "2026-08-17T13:51:02.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/githubstatus/status/2089346523926560974?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "GitHub Status (@githubstatus) on X",
+        "description": "We are investigating reports of impacted performance for some GitHub services. https://t.co/WB8TquG3GM",
+        "imageUrl": "https://cdn4.telesco.pe/file/s9011Oyivhh0Esm5X-df1aeszlw842uwU7KkG1HxNBatKhvl_QQXs7-G_QRRjvCyUjAyfjSOG4IOa5X-Yk2FnoZIdax1t2uytUNyIbMFXSoquN4g0mIjLJXQqLfTD97wX7c048lE4r632bCho_FQVsE-PGRid2gEtuEhRsvu3GmMhEtkQCdEq4Lt7tpA0XETPm5ALmx5Pgkf-edSeTgu6fFYaLp4TrK3u_okaqJPwmHEftpXzMBIuqKpbUrTLvbT_FRUV-oBhfp3cb_8cH884zdCxQQZNeBe_C6avEujc8TIf_2y1UGwIjL9bCmBQPHY-94bRR-To0EpJy7vqvkOcw.jpg"
+      }
+    },
     {
       "id": "4591",
       "title": "https://substack.com/@irisinclouds/note/c-302088851?r=14erib&utm_medium=ios&utm_source=notes-sha…",
@@ -209,7 +223,7 @@
         "siteName": "GitHub",
         "title": "GitHub - jdx/mise: dev tools, env vars, task runner",
         "description": "dev tools, env vars, task runner. Contribute to jdx/mise development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/al19t_r_4xhkw9o8wDPUanvEM31KcH-p9Ahjp6ljf8i-58_wGbDLy9fgPyw1gY7eG-oS-CSmQjz4qTSkel23KY57jbutVwia_GvpkNEekz2SoV6RMWe33n5qAG_NqGQPzCVkaPCLEO2xRJ3g6tAlNSxR4nbEv4xeEBe3jS_ZEqlTTlEpCeYmeOF9GhdX_PP1sNxdG7rcWoimfm6wHhGOsx0vOmpQ9e-S5vFFD_caWkDdZW-s_3RCNxgzqBSL8AC5oWPBD2EuAOXZM2EyojHhXfHKnSkAYXwSmoZA9yd7acjDPDURNzt19JEuxhfW875fAI_AI3_FPr__G8jV5j6wXw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Q91QpEB6_yNLSktb5vC-SHRy_KvZthuGQADHl8SvynybNMkL2IAINo4xJ0HSzSDJ2wt0sZGyCF5es6tajrkqHHIqqK0CvxwvAVb_PM1M43cIfsKrq9DniKwnBp22SBAvCDH2WT2AkyKeERsuOmBwqkEKOt72IblhqpIrq-1Z0gKbLYrwnJLAOn1Zu1AEQeWqMKiId5feYN_E0iYzCNEqX-qTICXGW2VWBeFIMobm9CNP4gwH8uCHdf_jKZbnMykiM6Uzyp1ZY-Y2qd2iZhwu_2EFXhSO05B6T1IaUNJmcyx8t83V0-GjVPiLN4vYvEkLbMWmR6NzQ329ximB5TeSDQ.jpg"
       }
     },
     {
@@ -2645,7 +2659,7 @@
       "publishedAt": "2026-08-01T04:37:42.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1,
+      "likes": 2,
       "preview": {
         "targetUrl": "https://x.com/Bitmarthuanqian/status/2083135539381964958",
         "siteName": "X · @Bitmarthuanqian",
@@ -2661,7 +2675,7 @@
       "publishedAt": "2026-07-31T13:32:23.000Z",
       "replies": 1,
       "reposts": 0,
-      "likes": 2,
+      "likes": 3,
       "preview": {
         "targetUrl": "https://x.com/shirleyusy/status/2082885361454522568",
         "siteName": "X · @shirleyusy",
@@ -2677,7 +2691,7 @@
       "publishedAt": "2026-07-22T02:38:03.000Z",
       "replies": 0,
       "reposts": 0,
-      "likes": 1,
+      "likes": 2,
       "preview": {
         "targetUrl": "https://x.com/bladescepter/status/2079587272115286355",
         "siteName": "X · @bladescepter",
