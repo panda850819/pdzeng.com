@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T07:14:50.000Z",
+  "updatedAt": "2026-08-17T12:28:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4591",
+      "title": "https://substack.com/@irisinclouds/note/c-302088851?r=14erib&utm_medium=ios&utm_source=notes-sha…",
+      "description": "https://substack.com/@irisinclouds/note/c-302088851?r=14erib&utm_medium=ios&utm_source=notes-share-action",
+      "url": "https://t.me/pdzeng_talk/4591",
+      "publishedAt": "2026-08-17T12:28:15.000Z",
+      "preview": {
+        "targetUrl": "https://substack.com/@irisinclouds/note/c-302088851?r=14erib&utm_medium=ios&utm_source=notes-share-action",
+        "siteName": "Substack",
+        "title": "Iris J的不專業閱讀筆記 (@irisinclouds)",
+        "description": "《隨他們去》 The Let Them Theory 難得讓我想電子、紙本雙收的書 ✨",
+        "imageUrl": "https://cdn4.telesco.pe/file/RjAz3fgUS_Ids6X6CsVGAxELenqb5XkdycjmvJELOTcbOAwkaiZ-st6Dw7aJI7NfY0-5NqFI3j1P4Ru_FZRMxB-xZQsTvCHXoeYxTRbMIWVmVvnjmFag6MDHr-3G3yfqTRFJp8W-cWDop7Q28yc64rDQH1YkLnK6Uk8i2WUH3PP7gc1BzaT7K2uxcf4J0qWBLl-3Zuj7FjfktIKyNZ_JebKhn3NtxQTX0v9lj4XBR1i4PSmNQ7djBG9NOhUFxilXDyGtpCdwogitxuTHJthuDj5EG5DDV8t9pclCKbqKJVNOjUQEngTHP6iqh0cyALwFqz4It0Zy2ouN3S_Wsqn-Dg.jpg"
+      }
+    },
+    {
+      "id": "4590",
+      "title": "https://x.com/xchenevan/status/2089268107269529657?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/xchenevan/status/2089268107269529657?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4590",
+      "publishedAt": "2026-08-17T12:17:19.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/xchenevan/status/2089268107269529657?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "沉梦昂志 (@XchenEvan) on X",
+        "description": "DeepSeek harness @tianyi 崔神主导的 project 里面有这样一个 skill https://t.co/r15B4Roq0r 整个开发过程每提交数个 PR 之后就会使用此方法进行一轮简化，累计删除了数十万行代码 我让 codex 将其 deepseek harness 特化部分去除后修改为 https://t.co/ADvXqorsv4",
+        "imageUrl": "https://cdn4.telesco.pe/file/iZ8KibCdZwhbHNLVr-bok9Ab79wEdvzSgYWOTV_R9F5maYS7fEAZdZSvbeAbUBrU0_RBclrtXbGsuTEz0sqqFtsY-eUUkJOspPE-Q5wewF5WqTTfe9-myX5j5KWIzbt_eeSXKBzQQvpVl0qAKbCsqMX8iCXwjLEsdnWFzUx1O2hXI2puzJBIidn-FcjD_BZ9k21R-y1jYy6NpIAwJqyWg0EBiBckDNnHMZoKWl15qpbwLv0FkNqBgXgZqV9ZUChCjAT9LmakpgmoY70x9Q2DQH6b7SSp9gliqydWpC6jEg_s3yksDhK77Pq4TD73Ok4eQsI34BvhkaSqGBit_kVvgA.jpg"
+      }
+    },
     {
       "id": "4589",
       "title": "現在 notion 可以接外部 mcp 了",
