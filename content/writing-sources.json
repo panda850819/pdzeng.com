@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T02:11:10.000Z",
+  "updatedAt": "2026-08-17T05:27:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -102,6 +102,20 @@
   ],
   "telegram": [
     {
+      "id": "4586",
+      "title": "https://x.com/thsottiaux/status/2089143488696705077",
+      "description": "https://x.com/thsottiaux/status/2089143488696705077",
+      "url": "https://t.me/pdzeng_talk/4586",
+      "publishedAt": "2026-08-17T05:27:40.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/thsottiaux/status/2089143488696705077",
+        "siteName": "X (formerly Twitter)",
+        "title": "Tibo (@thsottiaux) on X",
+        "description": "GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too. The same warning applies, there is a reason the current context length is the default, we have tuned it to…",
+        "imageUrl": "https://cdn4.telesco.pe/file/Qz8BKK6ZqjsZJJ192sBDxLwUxJ-kPI3OvAEAQA7l-zSzYfhwxLppgTcGMRbNAlzI2duJ5swPomIxRnRmFSbpInoFPeCypQ71xHsCk672YBoAPIP_k6XDIGCJr1tl7aoQ5VNGsWXr1c3qOhhf6AmzFFLiOOn4gIksfyYDe6ZQUC1rEDQDv9T6qM3haryNv3qh1vBsQiTAVY63pxY5vPOXmxKatSpCVYQD1dFF0pLH-xVQ532VTJCwdEwTVL8PBXGfOghV2Kr2uBJJN8dK5ktlb7iy3Hnlh5eY3kd2sOlaHo0KaV0V1WiD_X26gbDGxaUueLOPSClHDPzg9TgODpgMSw.jpg"
+      }
+    },
+    {
       "id": "4585",
       "title": "https://www.youtube.com/live/9JNg6S3xELk?si=FfR1D5yMvsVfwoq6",
       "description": "https://www.youtube.com/live/9JNg6S3xELk?si=FfR1D5yMvsVfwoq6",
@@ -202,7 +216,7 @@
         "siteName": "GitHub",
         "title": "GitHub - fitchmultz/pi-codex-goal: Codex-style goal tracking and continuation for pi.",
         "description": "Codex-style goal tracking and continuation for pi. - fitchmultz/pi-codex-goal",
-        "imageUrl": "https://cdn4.telesco.pe/file/PvIdIbDjs98qGJgo3rlJewzIz9FWqhQ3lFt9P_ofxKdh5caiwqv59gV0zh6ugIidQK8-ddb7CutpjlW4jIoWAoURZO4bK1t5Q_v5rz3N1svqR7hAAw3VCTV-roks_ShW_GGb5gUOSWsHLxoy0JrrwLJhNSxG49XPnUU1g2VUf_QkPDiRbudHV8uPSEF0MFIRfHCBjBSUKmOwaAXw1mSaxAgg6A_2Uv-XYKwA1EmLvJnLYWKcJl9rDL39VsfcR6dmqhMy-uemwylG6PwLHNbHNu6Bn6t3l1iLB55Z9v3a_xqvnH0_-SMFi2S3jKbLrddtlSFY2XmWEsgufb5Z0IwmnQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/cZEglkqz2tse38LBeat0JNwdolzrlgOcnxM_G7dAHh28p2GNGgDi19AtYdimnFbsONPNmN-dbBjZITaQBtcy0Shxq4p_PFw-lfYcMkDy6tecq9iFpMTeRiesyZ-pbODOkyYOQQGlv6IWOGN5tgDx4kH7fmNHKdQJTBmGHWgTWBHUkTTQBF3K0fZeaXuDqhjAj5jfN-XpV_Vi4zdWZmKaWkoOGWH6R2Btt3jz6s6ZnCf3RhPUFNGPyKh3TJqkbRLlxbUHw84piIay41lsH5ruWsNeF0ugRdcXHPDpqq_W09c4f_9QIlshV17nILCmq2N7DTsEdItOgCh3btR-YuAyKQ.jpg"
       }
     },
     {
@@ -299,7 +313,7 @@
         "siteName": "GitHub",
         "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
         "description": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/M_ARS7TIxGZhM4Q1me1r6D2OqU3X1iQ8bwcnSvO9xt3rP4cZc_LeSbWL8sn7nVMpg1kph4bSZ_UfFU_WuNKKy2zq_J-TzNuHL6_pqg3jjSgR9dLYvTtebbwxqxnMYWHDKTgz4ixln8Z8OVFWSvkcI6_OutZAJ9LmieywFIr0xBPHmheZb0oySlJkEq9-tPiWUVapoXFkSc7GqrrL-K3pZmuUhQyWcMJ8nU9BlTgYSBwdnX8nE8a_F5KD2wQLMhgikWY-bHOQdFvGX-9_LnvlpY0FZFH04pdVKjfF2BiSl9ICvhN1nY3Agyt2XqAcjHA4gARGqT3Aa3x2HRF1joCDLQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/sjfukQAYrbfGkdrmFI63o1FQVqOQ1aC3m2Z-NZtuP1Jjeb8UN0NWp22qbF7aUsMfnz3Glmd8a7Rtd6jcwXyyEuh-jScV3BE_vI65xlpMqXjM7izLUBT-Aqs4WJkz8ZAGHjMySobk_3ic-huZvH5VX_4avHNint4Ix3_C7uKmy5yoFKj86mhGhfu5xPCuyFPNPmGjZpRkfVVJwAQiRZNrg3zY85cMUbZyDIzSbvYp36l-Ygg8jzZXzsei4gdFJZ0DVOc4lQai3soxR28hbuV8yp4WVveGU9uNOzf9egLQ3BVrehXxNgCaUpNf7MgtQbzxhfX7PjPfgWuPdgnBnHkTIQ.jpg"
       }
     },
     {
@@ -334,7 +348,7 @@
         "siteName": "GitHub",
         "title": "GitHub - gloom-sh/gloomberb: Finance terminal, in your terminal.",
         "description": "Finance terminal, in your terminal. Contribute to gloom-sh/gloomberb development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/W78e9XE50hoS7E8lx6MKiO-eCmzd9rxOdvvXL05KqR7SzGGVcTMNsM785nfcDiMgqe41bVC7u3igQguHgdfvAK0zOd4YTu4QwZYgm2FyR7hnBKvpsnFz_cLCyZ3tam9UJmSR03Zm5jQ1DETjLQoW0dPp1b3BFSW7PYikZ13tA3aNnGIxkyUsN6E9y-kCdaZtD83CWG4_D-ZCW3c9lkIc4XHMJurj3SMwabkMzdbMNRmG6mwyUvj-rC0EvKVXOWj1APbXc-Z3zsuE2iVOEEYW24rvr10a3nixdr2Q_hDzTq6zbXRnIoxYLjl64I6Lt_nf69o95DZiPY-i1e_ibBrmBA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/GAoNgOgEPHeoxIpn9QUPDkDqG7O2nLj2gFI4MlXH_1LkMZF5WrYbEZG7P5X4aYg-3QI3Dn2vxkGssw9FXXzwHy4QCZWaonUujMVJXF8S3EcPwJmFz1jBEDfwYXGx4fm1-vYHT5GOm0q9LlIJXf5wV9t2ZnltHcLwAb_25CIMK2yRHdQkQLhVszYnRm5xaZI2tY6XjoQHF2cy185IM5u0VW6fpvhoP1z7Gs7qWkhmtpv69nZ8IcuWvVJbv-MibwELkr-5rHcVjZePFkHRrTXkrzfI_In4RrcLob6-lWnrzzw6rnPxPjodFpnC6yI0NSIhuqBsno2Oj_PB_bjdV0PjQw.jpg"
       }
     },
     {
