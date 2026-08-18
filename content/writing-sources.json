@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:16:21.000Z",
+  "updatedAt": "2026-08-18T05:51:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4605",
+      "title": "我已经见到两个我关注的频道主失业在求职了",
+      "description": "我已经见到两个我关注的频道主失业在求职了",
+      "url": "https://t.me/pdzeng_talk/4605",
+      "publishedAt": "2026-08-18T05:51:45.000Z"
+    },
     {
       "id": "4604",
       "title": "https://t.me/githubtrending",
