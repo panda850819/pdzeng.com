@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:33:59.000Z",
+  "updatedAt": "2026-08-18T01:16:21.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4604",
+      "title": "https://t.me/githubtrending",
+      "description": "https://t.me/githubtrending",
+      "url": "https://t.me/pdzeng_talk/4604",
+      "publishedAt": "2026-08-18T01:16:21.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/githubtrending",
+        "siteName": "Telegram",
+        "title": "GitHub Trends",
+        "description": "See what the GitHub community is most excited about today. A bot automatically fetches new repositories from https://github.com/trending and sends them to the channel. Author and maintainer: https://github.com/katursis",
+        "imageUrl": "https://cdn4.telesco.pe/file/dCOZLXUQeRD4VAFg7xyTm4pf4SsrLm5cOJNHo61DpkJcK81Bc-VaJc-wqwkwkwIHbd4KTTF6z0Tt1HAbvvtqFrENwhrWTAINZNNggaG_lGsLbJDIvJw_PEEwoJQjT0nOVO9Pk1bGAEK_CzTwgjkz0Kf8_25sniuawfuC-qh1BTzsOX2tUc2Kpjbq2jA6Kt40VEvd50fwOyHJ671_CUnyX3P3qE9mKdzNd7ry7IgqoA1mu3FnG1yMIIDDcF2jKQamm5aUZIXwdcM8RTcHIAf3h-wPHWaXLX8I9GkFGpBLP_8la8GO4RYiJRanE8t7ii1A9rr91pJjX0C9CjW9NNDjOQ.jpg"
+      }
+    },
     {
       "id": "4603",
       "title": "https://x.com/NousResearch/status/2089429432612147572?s=20 雖然看不太懂但大家都在講 Bots",
