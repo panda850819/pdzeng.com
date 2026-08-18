@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:14:16.000Z",
+  "updatedAt": "2026-08-18T07:17:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/0af",
@@ -101,6 +101,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4607",
+      "title": "這種時候就別內耗了，外耗吧 嘻嘻",
+      "description": "這種時候就別內耗了，外耗吧 嘻嘻",
+      "url": "https://t.me/pdzeng_talk/4607",
+      "publishedAt": "2026-08-18T07:17:34.000Z"
+    },
     {
       "id": "4606",
       "title": "30 歲的生日總要做點衝動的事情",
@@ -300,7 +307,7 @@
         "siteName": "Vercel",
         "title": "Agentic Infrastructure - Vercel",
         "description": "The autonomous stack for every app and agent.",
-        "imageUrl": "https://cdn4.telesco.pe/file/P1SjNfO6uFXDQKdalP0vP07nO5AhKJtqt9Ejo1kr4DvhJwjKGriOhYpK43aYISUUL-Cc9kX3PYZ7scQR92sQmQtOdVberwXWg1OqMrDPwvG2QrBczQf1h5yw3vIDq-nEcFqyXco5LL_K0COl6QsJZRX55Yt5OEhnn_oUrKQ-ypsfyhTZWU-miep4fnd7mDIUfRn7YBw_PKr_gKtemCTByj8tnBvhUJvhmcLoaKd8FWQoAwki6qktYMzbI9IRiY9yonhQi9v3RRpoqyeD-wJaqaJ1pc6RaP-sxE1mwLn8oXdKm_4eklMG8S2MAFH-6yZaHBWzqK1fvwCZ0vRQc0B85w.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/p0mez4dal1IJkstDOzV-Ucvnkt4TKLqAOUIDhbM6FUjFl0UW9fResb0kJMfdN0Kl7kwjUa25z0JppHiU799iUqc9Sz_aqadnujcoddpkaafcg3AbZz5jmrlG9OeCO2DQV_FBc_HY_uVZLRnCY-IYjVakcrCVKsXIX0GzzoXU8CqgjBRuXri9qi40Az_EmeD2fs9Ji-uG4EUFloGzFoAdy7_lqutR4y8UFijHmmcARGJepKg4VO9zlLU-kfLKecme4_GKO6mHnO5eU8-a1wEecjIFiatUyvjLrD5qXDelXkeFgsJmiHyzFvTybFaMyEwl8GoZZu1sXK8X5455fL9zxA.jpg"
       }
     },
     {
