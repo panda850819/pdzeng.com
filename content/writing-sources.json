@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-18T07:17:34.000Z",
+  "updatedAt": "2026-08-18T10:35:22.000Z",
   "substack": [
+    {
+      "id": "https://pdzeng.substack.com/p/29999",
+      "title": "29.999",
+      "description": "你有想過 30 歲的你是什麼模樣嗎？是什麼狀態？",
+      "url": "https://pdzeng.substack.com/p/29999",
+      "publishedAt": "2026-08-18T10:35:04.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/29999",
+        "siteName": "Substack",
+        "title": "29.999",
+        "description": "你有想過 30 歲的你是什麼模樣嗎？是什麼狀態？",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!_tVm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3710335c-ace9-4823-bac0-7f5f3e08bbd6_1254x1254.png"
+      }
+    },
     {
       "id": "https://pdzeng.substack.com/p/0af",
       "title": "龐龐 - 我們永遠的可愛寶貝",
@@ -101,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4608",
+      "title": "https://pdzeng.substack.com/p/29999?r=14erib&utm_campaign=post&utm_medium=web&showWelcomeOnShare…",
+      "description": "https://pdzeng.substack.com/p/29999?r=14erib&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "url": "https://t.me/pdzeng_talk/4608",
+      "publishedAt": "2026-08-18T10:35:22.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/29999?r=14erib&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+        "siteName": "Substack",
+        "title": "29.999",
+        "description": "你有想過 30 歲的你是什麼模樣嗎？是什麼狀態？",
+        "imageUrl": "https://cdn4.telesco.pe/file/dF6kQMjfcpv-ZW27XHAtRkp3wpAbgiyxCk9cDJGSvTHx52MmVDkT5-ZdtpVONKTfBGPoUUkw7hFgApG2wxj41mF7iDGXYs94qRkpGcQ5P3kl8aVnq0CRuz_ElPxoLJSRdmKO64K4Bqbtvg9c7M91KWo0RHOP1Ebt2wxnJOnkqmW7MLCrbwtj5VUY5MkrRsg_GGKJsv6M5nRQfoDcvF8QGhA-dHGsdjmN2yM7VY8C5ZUhpzxsyM_Y6AqkowsPTJtMP_lOkpeSkswSKTiPBoNQZTJIZfWWMXZmi0ngUNaL1hnAHD24PsGh2vEWc6EjTyaBoBgr0KGdSrPBOffhscuGJg.jpg"
+      }
+    },
     {
       "id": "4607",
       "title": "這種時候就別內耗了，外耗吧 嘻嘻",
