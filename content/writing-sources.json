@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:17:36.000Z",
+  "updatedAt": "2026-08-19T08:44:01.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4612",
+      "title": "https://graker.fehey.com/zh",
+      "description": "https://graker.fehey.com/zh",
+      "url": "https://t.me/pdzeng_talk/4612",
+      "publishedAt": "2026-08-19T08:44:01.000Z",
+      "preview": {
+        "targetUrl": "https://graker.fehey.com/zh",
+        "siteName": "Graker",
+        "title": "Graker · 菜单栏里的英文语法检查与翻译",
+        "description": "选中句子按快捷键：语法改好、译文出来，格式不丢。用你自己的 API Key，文本直达模型服务商。免费，macOS 13+。",
+        "imageUrl": "https://cdn4.telesco.pe/file/XZG7RRovgfWYGTis3h-FryRnQNGal30qu6d7PHgkVLazJD3KwT6QuAGSTLitt1-25fdL72qaooEN3tGVvWcO6AottD0ZNfhvgzUJzA-6vSxPTrwmRqG3-azkIcJpUOdbeMTpJ8rOW_OcOrez6scPtqrGnQlOX-KHoS6L-M54ji7DiUmriB4Lu6nQXiTCX9MxF6Y8H7qfVeMw2ofemjvKz1Re6sqG2t6qPF9yTks2hVO-uYfv1-Qij1giTl4J2zDBjBIAJa65b5Fjj8AWqSIpg6oCtEJQ3OH_rjkVmn9Q5Nd7eQAqhlD9fXh0mWd_b5JzR_ABG5RtfO5xXDYMvLgCeg.jpg"
+      }
+    },
     {
       "id": "4611",
       "title": "▶️ Reol - 煽げや尊し[Live at 新式浪漫 Neo Nostalgia Tokyo] #youtube https://www.youtube.com/watch?v=P_fsL…",
