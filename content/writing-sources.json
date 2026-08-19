@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:44:01.000Z",
+  "updatedAt": "2026-08-19T09:16:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,48 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4615",
+      "title": "s1dashu/ip-as-logo-skill 🔗 https://github.com/s1dashu/ip-as-logo-skill #github",
+      "description": "s1dashu/ip-as-logo-skill 🔗 https://github.com/s1dashu/ip-as-logo-skill #github",
+      "url": "https://t.me/pdzeng_talk/4615",
+      "publishedAt": "2026-08-19T09:16:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/s1dashu/ip-as-logo-skill",
+        "siteName": "GitHub",
+        "title": "GitHub - s1dashu/ip-as-logo-skill: A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. - s1dashu/ip-as-logo-skill",
+        "imageUrl": "https://cdn4.telesco.pe/file/u2Vtm_mT8pLgzaw12e5D2WMvW6B6D1KzIVvGqJItxbrGc6OyPiytjQdcNk1mLESZ_8pFuitcDFdtvTyQOBjwSBxH9SJNiDVRnWH0pjfutqEUq62my9B2AK-W7imfq1YxV-3HZRKZoEfI2saY_yFtlp6TszaFVwuSygLuBkSn8TF0SgZJ3no1skiw7fBc_Bpjo_0VLHT6PlkYNlK0-NFUEzOFkc68KvIfp9X7aw46rE8g41Jn0n_96qBLdw8BhuhfxVFGRW_1RCH9eB27eevcmZyUfmjgML6NnjhAZvM3QbJGGTBdKpktfh0CVPwD4iNNI33R7xhMVIg9WRNbUwQdnQ.jpg"
+      }
+    },
+    {
+      "id": "4614",
+      "title": "https://hermescn.org/best-practices",
+      "description": "https://hermescn.org/best-practices",
+      "url": "https://t.me/pdzeng_talk/4614",
+      "publishedAt": "2026-08-19T09:08:49.000Z",
+      "preview": {
+        "targetUrl": "https://hermescn.org/best-practices",
+        "siteName": "HermesCN",
+        "title": "Hermes Agent 实践案例与真实工作流",
+        "description": "汇集 Hermes Agent 中文社区的真实使用故事、前沿工作流与项目实践，帮助个人复用经验，也为企业 Agent 场景提供参考。",
+        "imageUrl": "https://cdn4.telesco.pe/file/io1xuT0P_sBwitEmz5KOK9RrcJIhpHy5Ym8GvEgUPPQZtrI9DRzDSVLEpNjZ2OfPgrQlUsRQpS9A6nEuWZJUg1Oy0sBiDhAl6fZJP7zlNYYWR8BVBvH7rbp6CChbfhZsc9xNIMKlAta-1CwROeDVX-Da47ep0Sf_PFpLeksBM765BRnOJKsSFMT3ieixk7BYHY_NKb4ORmCwBHSNUs5EK4bYfmqkO8aM7QL5CHtt-Ob_to4PMh68_KI0t_Tu9zCHeZu9I1q8G4dEBcMWT4GKhOCKeBJJ5NZ8mjkEfeO81OoUQfJsnqeB0W2q-Hr2J9sRxObnGmCRu2TFH93VCkovQw.jpg"
+      }
+    },
+    {
+      "id": "4613",
+      "title": "https://x.com/Kay2289123/status/2089928894623502819?s=20",
+      "description": "https://x.com/Kay2289123/status/2089928894623502819?s=20",
+      "url": "https://t.me/pdzeng_talk/4613",
+      "publishedAt": "2026-08-19T09:02:52.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/Kay2289123/status/2089928894623502819?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "美研芒格君 (@Kay2289123) on X",
+        "description": "最近很多朋友问我，怎么从 SDE（Software Engineer）转到做 AI Infra 和大模型相关的工作？ 或者普通人想做 Pro 级别的 AI 投资者，零基础怎么扫盲，怎么搞懂这么多术语？给大家推荐两个免费的入门友好的 AI 相关学习网站（课） 如果你要做基本的 AI 投资，看完第一个 Stanford CS336",
+        "imageUrl": "https://cdn4.telesco.pe/file/s1CtJPHhBD1P5_iEaLUIW0QLLS-5YYnvJhfW6UsgEoHuGk6tl5z2i0BhGalsCiMDRvyOUZjHOvXdqO9qNeJB1_5K-EuJHAjfXT9MIfZe_ZEGa61J9Kiq22wrN4aj5EWE5Fo7bilqvJ7Uzk3BbRaWz8soTRyoryiYAlEpozCrGX3UTEdlXlwsOUIrKAurWWzxVYlI3PaqW3H1te45hrneTWSmMm6KU1QtYEa9fVZyXigh5IOwetrBkXTMp36icjfn4gvktKfm7AY6zD1ZfxPelvL0C2eQ43DdrdZBWv0QRX8bkpgGFp1VSIDyhiqE7RCGL0-beG1seqO_HwgNtrVetg.jpg"
+      }
+    },
     {
       "id": "4612",
       "title": "https://graker.fehey.com/zh",
