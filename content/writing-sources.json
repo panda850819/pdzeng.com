@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:08:23.000Z",
+  "updatedAt": "2026-08-19T05:48:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4610",
+      "title": "agent-substrate/substrate 🔗 https://github.com/agent-substrate/substrate #github",
+      "description": "agent-substrate/substrate 🔗 https://github.com/agent-substrate/substrate #github",
+      "url": "https://t.me/pdzeng_talk/4610",
+      "publishedAt": "2026-08-19T05:48:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/agent-substrate/substrate",
+        "siteName": "GitHub",
+        "title": "GitHub - agent-substrate/substrate: Agent Substrate: the core system",
+        "description": "Agent Substrate: the core system. Contribute to agent-substrate/substrate development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Z4KuBSbv6DY2I_vy2e2PzmSaDyJszvA-Ks1JwGbbcy4gGe7YcaT4U3PBSakhETDC8xcWiGEkXir8c63ymFj8SWOLu5CzRYd7F3zA_MvRcOymdORysw8-0S6igoErByEv9lN5HsXpiw6LMDpWbbLcJu-OGGqMsvm3ALQPS6LnrN6KqHoA-5-_xwytbcUZmHhaGQ5H3FJ-s7AVIUbKwxYfBN42m7EK9hHUKI7dT6Lr3XmIpLNpi5TC30WQkiI9FGPqKIPHdd3nY8qLgK4DtjvlHG36OTz7VObDmHF6I2mqYXs9GXCvaW6JkMUEs6ZIZ622p82HVUoQHg0pTYK-PhSQig.jpg"
+      }
+    },
     {
       "id": "4609",
       "title": "把手上的正 2 出了，換了些 正股",
