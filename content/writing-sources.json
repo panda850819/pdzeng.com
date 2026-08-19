@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:48:34.000Z",
+  "updatedAt": "2026-08-19T08:17:36.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4611",
+      "title": "▶️ Reol - 煽げや尊し[Live at 新式浪漫 Neo Nostalgia Tokyo] #youtube https://www.youtube.com/watch?v=P_fsL…",
+      "description": "▶️ Reol - 煽げや尊し[Live at 新式浪漫 Neo Nostalgia Tokyo] #youtube https://www.youtube.com/watch?v=P_fsLKbdWtA",
+      "url": "https://t.me/pdzeng_talk/4611",
+      "publishedAt": "2026-08-19T08:17:36.000Z",
+      "preview": {
+        "targetUrl": "https://www.youtube.com/watch?v=P_fsLKbdWtA",
+        "siteName": "YouTube",
+        "title": "Reol - 煽げや尊し[Live at 新式浪漫 Neo Nostalgia Tokyo]",
+        "description": "Live at TOKYO DOME CITY HALL 2023.01.29 Bass : Ryosuke Nikamoto Drums : Shunsuke Uehara Dance & Choreography by Suichu-megane∞ Shimpei Nemoto, Ayane Nakagawa Directed by Shuichi Bamba Reol Oneman Live 2023 新式浪漫 Neo Nostalgia収録 「BLACK BOX」10月18日発売 ▼予約・購入…",
+        "imageUrl": "https://cdn4.telesco.pe/file/C17usIegoW1J0P0F-5INplpyJPLW7i8if37QEF3vBEZUGAl3MbV5NhPrjVBevPk1JO5oek7-UPWhx1heDsAc8L1Osf_wL-iWSQ0Bl7pUMmd9re7MjUf4lIRdE3bVLHoZmMj4TKI_hnmscdHUD8bnhPQJ_eSSmlSOGrLtBFLSRQbW7fZO8mXF_DA8JI_8GPtn7Kqw4HRgyKw6kXE-v-knQL__R7FDm2Sav1JbR2CRaZ5AMzl0qRFJXTepUZRl9b0wstvAH5iL-AwH950d0v-Pl6OictjP_MUjouOTm2fH-D3B2sw6Ut1kRQ2Odd3P27WIyx_kn29QtscMZf-D8yZncw.jpg"
+      }
+    },
     {
       "id": "4610",
       "title": "agent-substrate/substrate 🔗 https://github.com/agent-substrate/substrate #github",
