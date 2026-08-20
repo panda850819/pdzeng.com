@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:12:34.000Z",
+  "updatedAt": "2026-08-20T07:41:11.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4620",
+      "title": "https://fx.sh/",
+      "description": "https://fx.sh/",
+      "url": "https://t.me/pdzeng_talk/4620",
+      "publishedAt": "2026-08-20T07:41:11.000Z",
+      "preview": {
+        "targetUrl": "https://fx.sh/",
+        "siteName": "fx",
+        "title": "fx - Tiny, open, native coding agent",
+        "description": "Tiny, open, native coding agent. A minimal CLI written in Zig, optimized for research and embeddability as part of larger systems.",
+        "imageUrl": "https://cdn4.telesco.pe/file/u8wSKJidvgH2nspIdQ2ykbGbf-SsobqJ8XlGGhNWHg-0WE7JFZONpwGu3mHVBI0nEfcURr0k9gmJtU3r3eAv9nWXk-prS1GosevK0QYvwbM8ZjyWbdRlceXDPf9LqTt2g322J_CQRWj3Tb_Ob-8192qnkDcZQ3YrREXkm-YvP3VTMmZoFGtYeE71I27-bvV40JK8TtFe8s7hESHuzvDy4VoogllXfZARwL8bmvfCto9Xb2-HclAwcaUycROHSXvTnMioSVUJffuWBL_CJpxzvT3mfFDDNmHM1C1XovD1IyYUudinzdkv0bogcab0B2gEqyrV2hMID-5n_dATpvkAMw.jpg"
+      }
+    },
     {
       "id": "4619",
       "title": "browser-use/video-use 🔗 https://github.com/browser-use/video-use #github",
