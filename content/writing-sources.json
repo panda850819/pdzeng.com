@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T12:37:53.000Z",
+  "updatedAt": "2026-08-20T00:59:03.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4617",
+      "title": "AI 时代，知识与工程师价值如何定义 https://blog.cyyself.name/the-value-of-knowledge-and-engineer-in-ai-era/",
+      "description": "AI 时代，知识与工程师价值如何定义 https://blog.cyyself.name/the-value-of-knowledge-and-engineer-in-ai-era/",
+      "url": "https://t.me/pdzeng_talk/4617",
+      "publishedAt": "2026-08-20T00:59:03.000Z"
+    },
     {
       "id": "4616",
       "title": "摩德納是研發出長生不老藥了嗎？",
@@ -259,7 +266,7 @@
         "siteName": "Telegram",
         "title": "GitHub Trends",
         "description": "See what the GitHub community is most excited about today. A bot automatically fetches new repositories from https://github.com/trending and sends them to the channel. Author and maintainer: https://github.com/katursis",
-        "imageUrl": "https://cdn4.telesco.pe/file/fDv-BvUjPQPLZNAi0fD6zAKFtYZ9IuFyZu0YCVPVeI-YSmf9Vc9_AQdw7OB_PPhdlZZ_iOfEQXbvPDDOuQFU9B_VzEyiFKoZaNCjAB--RMx4IANsY4smgZyIkaDDYo0FitH3ucDtL_eglsiNOeFjOcT1YawywvY6fmFJRlOGfsV_iZEuqf1-IJ9OME2mFR19rx2KHBq0ohOmADUtuwsTBLDvh7l6QV_VfxYTPM4PuIMvWNfYRg9q3gneMG84E7I40yeaV69vnyHKkMMb0XAUWsf2AmYe3hG_mXcJJsAap6heeOg8l1vt8828oqNLDllL2CJs3N2pcWOUPMRg2bHzTw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/QFAQ-HmNzxWNnbs1c8YzG2OkmFl9jdW5alWiRkjSOd8mNABbiPh-pL6OTBdRBbfETL3oOICG6Cwfw66OL9KDeYpdCj1MG5tWskzWTyiIjqGDoTPjHbHNEd3_8H9GGaGya0ELYdQulnwmcFU4m0ggjDrunjvUUBSuNz56Ch-bz9oO84GBkL89B17eFnkfhtqm4mTQLdxinfY0m7YHCURPstTCDDPKCS_FaQADJHgOy_Y_sM4dTQSfp7sgdNHofDAfvI8-Zpk79zV8g9u-zrIWnrrVwndH43E4ziZ7AzvFSt7_s9V5bxwXDkjHkgx6TRHtr58t7Fdi51f8W3Ea2v-NLA.jpg"
       }
     },
     {
