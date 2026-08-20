@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T07:41:11.000Z",
+  "updatedAt": "2026-08-20T14:27:49.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4621",
+      "title": "生日餐 謝謝同學 🙏",
+      "description": "生日餐 謝謝同學 🙏",
+      "url": "https://t.me/pdzeng_talk/4621",
+      "publishedAt": "2026-08-20T14:27:49.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4621",
+        "siteName": "Telegram",
+        "title": "生日餐 謝謝同學 🙏",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/Jrs81zGvdXxpMQ5CBMVa2zcXOt5w4ilsWAzU4Iugg5vXGYFhb8rpQCIqgTzR8zbqlOhKdDFAFBVFBT_u6coVW_yZzUDOHzr-_HfOA8FBOsFGkbcIK_UrYy3fM2oavflZpkls47L10-a9gL5k8MVFznh5nCPGHnrc-uwGS_pDbOYxjdvemSHASSwN1S2EQVOeWvCCBktKROHHOlFAuEInA2I36kzDHyMVxjib1S1iGU3UeZmJ8DAMD6hBkTOZgojx3TClV-hBBbFvzNUm8btY9kyR8ZU9a3fYNUsd42b_idWXCAix8pl71E_M2q9t3OqHpGOcidWvbmydVkh6A-XfZg.jpg"
+      }
+    },
     {
       "id": "4620",
       "title": "https://fx.sh/",
