@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:27:49.000Z",
+  "updatedAt": "2026-08-20T15:30:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4636",
+      "title": "hermes bot group chat",
+      "description": "hermes bot group chat",
+      "url": "https://t.me/pdzeng_talk/4636",
+      "publishedAt": "2026-08-20T15:30:15.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4636",
+        "siteName": "Telegram",
+        "title": "hermes bot group chat",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/Q6E35aNwRswZpoiw_UqsZerQXos3ewUJYrm5A7rJlAdLrL63Ew6Cz5Jcw6cw_vJvxXTbkAYSjb5qSO5aHTM2iU84qepFXqYaMy4V6KIy5_zfOm9nblLFjQAF2eAOqQ1VUswAFX0Glo1wFx3SySj3yoD_45BCKr2mwz-KQw0kHkZH0mCHl6YT4NIRwNBW0Xu7S0NOZb6BcQstz1sF4zJPl7LChVnsEADKwMhPv_mOpEqc8adx7LpKK9QFfnZeMJqnTN_dgdeX3pSZoVSlLnRiF55hgbE_Ut65-EBwHel1YNxHkD3jTdixLzxFpgaEgi5OChBDSTeQ5w7l8dr6RbPjkA.jpg"
+      }
+    },
     {
       "id": "4621",
       "title": "生日餐 謝謝同學 🙏",
