@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T02:09:17.000Z",
+  "updatedAt": "2026-08-21T03:09:24.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4642",
+      "title": "https://nihon.zezn.dev/",
+      "description": "https://nihon.zezn.dev/",
+      "url": "https://t.me/pdzeng_talk/4642",
+      "publishedAt": "2026-08-21T03:09:24.000Z",
+      "preview": {
+        "targetUrl": "https://nihon.zezn.dev/",
+        "siteName": "nihon.zezn.dev",
+        "title": "NIHONVIBE — a procedural summer",
+        "description": "A Japanese suburb summer afternoon, generated in real time. No footage, no textures, no samples."
+      }
+    },
+    {
+      "id": "4641",
+      "title": "https://www.bilibili.com/video/BV1bH3E6cEmi/ 改善前额叶健康： 1.带着目的做事，例如买外卖想吃烤肉就点烤肉，不要一直刷，一直挑选，网购买裙子就买裙…",
+      "description": "https://www.bilibili.com/video/BV1bH3E6cEmi/ 改善前额叶健康： 1.带着目的做事，例如买外卖想吃烤肉就点烤肉，不要一直刷，一直挑选，网购买裙子就买裙子。 2.进行长时间任务时，其他事情设置成免打扰。不要在多个任务中来回切换。 3.三五原则。3分钟内能完成的事立马去做。长期有收益但短期看不出效果的事，例如运动，阅读，…",
+      "url": "https://t.me/pdzeng_talk/4641",
+      "publishedAt": "2026-08-21T03:08:01.000Z",
+      "preview": {
+        "targetUrl": "https://www.bilibili.com/video/BV1bH3E6cEmi/",
+        "siteName": "哔哩哔哩",
+        "title": "如何养回原本优秀的前额叶_哔哩哔哩_bilibili",
+        "description": "-, 视频播放量 1686513、弹幕量 211、点赞数 141015、投硬币枚数 14334、收藏人数 113692、转发人数 10278, 视频作者 同桌团子, 作者简介 要顶峰相见！ 要努力到无能为力！ pr: lsc972572321（备注品牌/非本人，相关视频：上学别跟这些人走太近，原来前额叶发达是这种感觉……，快速说出字的颜色，为什么要远离独来独往的人？，·10w+人要的前额叶纯享版它来啦！！！，前额叶能力测试，如何把清晰的脑子养回来（二），大脑前额叶皮质抑制力训练 34秒基础版，前额叶年龄测试，[前额叶训练]…",
+        "imageUrl": "https://cdn4.telesco.pe/file/cu531Y7rtGZBuW5f1L2kBPWTZ2v-RxQJ7NMaAwdjplLkLnof5V0zyUkhQAoKsqv-tudrnmcsNDgAILYfkloKV-usjlNY7tK238kD8vuABM5_C_H_MqiKy8PEwNDhfeXlN_vvdyIBw9DhRUONV_TZaL_TfKp1ubANGuE9vZtwpxx2T2PQtmvVw1zotF1xR3XZIEcWxxnObVbmDJdrMNX_DMBdlA1drm_bMblpmeRMmpabj7ZqgGQLA-iofR2Mbxbgc2fPzD9HT6c8pxtsLN9yGA5iHa89tejXF0zbkuMS7TuRH5bGwWZlYydZnCEwNaxBMwVIvi5rd9FJb57ZgSQ87A.jpg"
+      }
+    },
     {
       "id": "4640",
       "title": "plumbers.farm/#airdrop 可以檢查下，我是沒有",
