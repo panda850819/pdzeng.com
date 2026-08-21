@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:09:24.000Z",
+  "updatedAt": "2026-08-21T05:46:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4644",
+      "title": "問一下現在開始學習傳統金融股票知識有什麼建議的網站或是學習資源嗎 🙏",
+      "description": "問一下現在開始學習傳統金融股票知識有什麼建議的網站或是學習資源嗎 🙏",
+      "url": "https://t.me/pdzeng_talk/4644",
+      "publishedAt": "2026-08-21T05:46:53.000Z"
+    },
+    {
+      "id": "4643",
+      "title": "WenyuChiou/awesome-agentic-ai-zh 🔗 https://github.com/WenyuChiou/awesome-agentic-ai-zh #github",
+      "description": "WenyuChiou/awesome-agentic-ai-zh 🔗 https://github.com/WenyuChiou/awesome-agentic-ai-zh #github",
+      "url": "https://t.me/pdzeng_talk/4643",
+      "publishedAt": "2026-08-21T05:44:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+        "siteName": "GitHub",
+        "title": "GitHub - WenyuChiou/awesome-agentic-ai-zh: A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to…",
+        "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 - WenyuChiou/awesome-a...",
+        "imageUrl": "https://cdn4.telesco.pe/file/nK_ndRCvAEsFP19C1srHfxchclR0A-qRpxlwUo9viuPNK5-Q1vew-2KxgHwI10YvpNflyBHX8SMHp3IyFTPG76hli1BZwsa5jXBdkMs6In5wC1qOKf2TvBIfuRxTJmbv90AnvGkS2T1PP4hq-6mhEdDtIWMaSeKM7IlE0KRubfc0zLj4CHQs_EgQCfrH1AsUnBMMGkGI7Z5ilhvOUGuT3zNWhZJnjaW9VUudeQnh_wNQ0fGKnYXZyif_BDyvCPPMtWuUTFms6DnMMZfa4UEEbl7bwW8gzNkYvi2eFmUcpQ0lVe2elV5jygnGhCiNwu6OAGK5ckjXt8p-aDRCFiYOuQ.jpg"
+      }
+    },
     {
       "id": "4642",
       "title": "https://nihon.zezn.dev/",
