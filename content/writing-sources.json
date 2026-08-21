@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:37:37.000Z",
+  "updatedAt": "2026-08-21T14:25:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4647",
+      "title": "現在 hermes agents 的 gateway 功能也是做的很完善，desktop 可以很快速地輸入完 host 然後就快速連線並同步資訊",
+      "description": "現在 hermes agents 的 gateway 功能也是做的很完善，desktop 可以很快速地輸入完 host 然後就快速連線並同步資訊",
+      "url": "https://t.me/pdzeng_talk/4647",
+      "publishedAt": "2026-08-21T14:25:05.000Z"
+    },
+    {
+      "id": "4646",
+      "title": "MisterTea/EternalTerminal 🔗 https://github.com/MisterTea/EternalTerminal #github",
+      "description": "MisterTea/EternalTerminal 🔗 https://github.com/MisterTea/EternalTerminal #github",
+      "url": "https://t.me/pdzeng_talk/4646",
+      "publishedAt": "2026-08-21T14:11:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/MisterTea/EternalTerminal",
+        "siteName": "GitHub",
+        "title": "GitHub - MisterTea/EternalTerminal: Re-Connectable secure remote shell",
+        "description": "Re-Connectable secure remote shell. Contribute to MisterTea/EternalTerminal development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/JmQdhQwGI4vbTtGeimMRV9a3UVCxQ-RjlFpAOg7yh5gmRH4hdgDlnpS0NGxP5kCCtAsoqRQB9w958jax4M45Eso-vMcKiFEfFqqnsPNgw1OvM_aa66hcPuxHqdvGOFHA7_N8FbYZzkNss8PoBirdjriF05pwkNvFs-OzgzqbEI-OYPWCTDOZ69rqBVNYb_T_4HSFPCLWP19UvGHu7P0tGKpe_XrmljrLodkzuc_dFGQDuwru2l0heodMVyXtB2BQ6DxD4zH3zqHhmDY4jXPDAjRoJCfylUTN3VoprBaVmtwzo8Jj1sV0KcnI5b9-bhHKPQTzHo0e5ydmfr-oY8ui6A.jpg"
+      }
+    },
     {
       "id": "4645",
       "title": "▶️ 師父商學院 EP33 - 只有 2,000 訂閱卻敢邀百萬藝人？訪了 200 個創業家悟出的一件事？想創業應該先做這一步卻沒人告訴你？ ft. 查理@charlies.insight #…",
@@ -250,7 +271,7 @@
         "siteName": "Telegram",
         "title": "生日餐 謝謝同學 🙏",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/Jrs81zGvdXxpMQ5CBMVa2zcXOt5w4ilsWAzU4Iugg5vXGYFhb8rpQCIqgTzR8zbqlOhKdDFAFBVFBT_u6coVW_yZzUDOHzr-_HfOA8FBOsFGkbcIK_UrYy3fM2oavflZpkls47L10-a9gL5k8MVFznh5nCPGHnrc-uwGS_pDbOYxjdvemSHASSwN1S2EQVOeWvCCBktKROHHOlFAuEInA2I36kzDHyMVxjib1S1iGU3UeZmJ8DAMD6hBkTOZgojx3TClV-hBBbFvzNUm8btY9kyR8ZU9a3fYNUsd42b_idWXCAix8pl71E_M2q9t3OqHpGOcidWvbmydVkh6A-XfZg.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/qCxQwds0NZATU0Hb5xN1uHbbLE4LJ1BhAUh9yHMFgSoTqsbNoiCnVrWqeCcGgvLzcvLkB-o9WEnkfq8DhojvXo6WGMNP-Mkq1kfNIBgK5apGTQZwODs1VkIJpOg8WIKtBkcUxKeTVAztP6Ot1AJMgDiQQie1b4aqb1ZsCSTdUja59pMcI2YfuBRRxN3iXGnAakSKVu2XIqaKAblhiqXHNNwk4tptiAEJHrPBdrQ-cCzKD5bWMuupKGREZ486pRUsMUpUzcvbhJ5kj11zed9F-wAX0jV9aCpwcX8m9s2ZAbQUhfdXAGgTz1rsyL-gA8O-cbBftJiptb4zQwavRtz76Q.jpg"
       }
     },
     {
