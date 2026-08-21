@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T14:25:05.000Z",
+  "updatedAt": "2026-08-21T15:26:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,13 @@
   ],
   "telegram": [
     {
+      "id": "4648",
+      "title": "關於 Codex 額度降低，其實有個小技巧：你可以把一些拿來做讀取、寫入的工具做成 MCP，讓 ChatGPT 可以使用。 使用情境像是我的 GitHub Connector，或是我主要的記憶…",
+      "description": "關於 Codex 額度降低，其實有個小技巧：你可以把一些拿來做讀取、寫入的工具做成 MCP，讓 ChatGPT 可以使用。 使用情境像是我的 GitHub Connector，或是我主要的記憶功能是透過 Gbrain。這樣一來，就可以在不讓 ChatGPT 有額外 memory 的情況下，透過讀寫 Gbrain 裡的資訊來告訴我現在在做什麼、可能可以開發哪些…",
+      "url": "https://t.me/pdzeng_talk/4648",
+      "publishedAt": "2026-08-21T15:26:50.000Z"
+    },
+    {
       "id": "4647",
       "title": "現在 hermes agents 的 gateway 功能也是做的很完善，desktop 可以很快速地輸入完 host 然後就快速連線並同步資訊",
       "description": "現在 hermes agents 的 gateway 功能也是做的很完善，desktop 可以很快速地輸入完 host 然後就快速連線並同步資訊",
@@ -143,7 +150,7 @@
       "url": "https://t.me/pdzeng_talk/4645",
       "publishedAt": "2026-08-21T12:37:37.000Z",
       "preview": {
-        "targetUrl": "https://www.youtube.com/watch?v=Wgk84A-jXFY",
+        "targetUrl": "https://youtube.com/watch?v=Wgk84A-jXFY",
         "siteName": "YouTube",
         "title": "師父商學院 EP33 - 只有 2,000 訂閱卻敢邀百萬藝人？訪了 200 個創業家悟出的一件事？想創業應該先做這一步卻沒人告訴你？ ft. 查理@charlies.insight",
         "description": "今天邀請到的來賓，他是全台灣最大商業採訪號「查理的創業化合物」創辦人——查理。 兩年內從 0 衝上 12 萬訂閱，訪過柯以柔、吳淡如、滴妹、郝哥……把採訪節目做成了一門「邊學習邊賺錢」的商業模式。 這集我們聊到： ・ 查理怎麼從素人起家，靠陌生開發邀到大咖來賓？ ・ 只有 2,000 訂閱，為什麼敢邀百萬藝人上節目？ ・ 商業採訪號如何設計每一集，讓流量跟業績同時爆？ ・ 創業者為什麼要先開一間自己的獨資公司？ ・ 訪問 200 多個人後，查理最重要的訪談心法是什麼？ 如果你也想知道，一個素人如何…",
@@ -191,7 +198,7 @@
       "url": "https://t.me/pdzeng_talk/4641",
       "publishedAt": "2026-08-21T03:08:01.000Z",
       "preview": {
-        "targetUrl": "https://www.bilibili.com/video/BV1bH3E6cEmi/",
+        "targetUrl": "https://bilibili.com/video/BV1bH3E6cEmi",
         "siteName": "哔哩哔哩",
         "title": "如何养回原本优秀的前额叶_哔哩哔哩_bilibili",
         "description": "-, 视频播放量 1686513、弹幕量 211、点赞数 141015、投硬币枚数 14334、收藏人数 113692、转发人数 10278, 视频作者 同桌团子, 作者简介 要顶峰相见！ 要努力到无能为力！ pr: lsc972572321（备注品牌/非本人，相关视频：上学别跟这些人走太近，原来前额叶发达是这种感觉……，快速说出字的颜色，为什么要远离独来独往的人？，·10w+人要的前额叶纯享版它来啦！！！，前额叶能力测试，如何把清晰的脑子养回来（二），大脑前额叶皮质抑制力训练 34秒基础版，前额叶年龄测试，[前额叶训练]…",
@@ -257,7 +264,7 @@
         "siteName": "Telegram",
         "title": "hermes bot group chat",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/Q6E35aNwRswZpoiw_UqsZerQXos3ewUJYrm5A7rJlAdLrL63Ew6Cz5Jcw6cw_vJvxXTbkAYSjb5qSO5aHTM2iU84qepFXqYaMy4V6KIy5_zfOm9nblLFjQAF2eAOqQ1VUswAFX0Glo1wFx3SySj3yoD_45BCKr2mwz-KQw0kHkZH0mCHl6YT4NIRwNBW0Xu7S0NOZb6BcQstz1sF4zJPl7LChVnsEADKwMhPv_mOpEqc8adx7LpKK9QFfnZeMJqnTN_dgdeX3pSZoVSlLnRiF55hgbE_Ut65-EBwHel1YNxHkD3jTdixLzxFpgaEgi5OChBDSTeQ5w7l8dr6RbPjkA.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/qPA32BZW3x9ER0FL2v8KS4qP5KfjJYhGe1IC3ntK0Xr39RvRG_QL5xutSA5cgkzYvOPCLNqMDaAXSDq5j1dnmooAVP8k6HidM3VSU2Xxe_TYr9s5pPJk7w1gvbwEEBiHjYUoEZVGz5XCDbKLsoeUp-Oxfjl96YYMIbGnbPe-wZXhHOUTrcBPqibzACbiKZuyTWlSYuSBslenOSjSwpXnyhebF9xwF0GbsiltbEC-fNAKpg-MnGoY3rTInXcwSwtKrg93p6SojM70Mvqhx1jCLz3bh5jXr7Sa493sIbIBgd4ulw7QTES23_sZzyPQ1bOmsTBEKrQPK2QTJP7fDHOuAA.jpg"
       }
     },
     {
