@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:30:15.000Z",
+  "updatedAt": "2026-08-21T01:33:38.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4638",
+      "title": "https://terminal-code.com/",
+      "description": "https://terminal-code.com/",
+      "url": "https://t.me/pdzeng_talk/4638",
+      "publishedAt": "2026-08-21T01:33:38.000Z",
+      "preview": {
+        "targetUrl": "https://terminal-code.com/",
+        "siteName": "Terminal-Code",
+        "title": "https://terminal-code.com/",
+        "description": "VS Code inside your terminal.",
+        "imageUrl": "https://cdn4.telesco.pe/file/E68spOYUcqKhU7gMd-sMMavIF-Gl2z2X-N4IBTVakabtTVjqcZ_Z3pSw_6mCC2dHNsiI5SmFPNZjjFUYm1nUG0BCoIhuq2Lkv6y_TT3JBEoct6cFo6d9qvxyglUUpzLDwDUhtlMmnJiyb7bV810ArT_GB28hNuD4I74zrVK5aWRG8iWw-slfEq7vc3YdGZ65N68vTsnt4CchbHO-HEfj-yFPPvRoa_hGX18Z53tBQ7c_KbWsrtqPKz5dO8IBRwE7uIh0w5-yyzRq3RNojioGcte3u1cqAOrPaVVqu6eXKjp4a2R1qtpO0IvGJl4h_-YQWbG7vvh47p375BBsCe0wBA.jpg"
+      }
+    },
+    {
+      "id": "4637",
+      "title": "拾跡 · 美研芒格君 美研芒格君 ( @Kay2289123 ) · 2026年8月21日",
+      "description": "拾跡 · 美研芒格君 美研芒格君 ( @Kay2289123 ) · 2026年8月21日",
+      "url": "https://t.me/pdzeng_talk/4637",
+      "publishedAt": "2026-08-21T01:31:57.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/Kay2289123/status/2090482723106513311",
+        "siteName": "X (formerly Twitter)",
+        "title": "美研芒格君 (@Kay2289123) on X",
+        "description": "AI半导体投资第一性原理，其实就是在投 AI 变强的这条路上的瓶颈。这篇可以帮助你认知提升 我自身就在硅谷带AI 训练、推理团队。这个帖子我从一线第一性技术原理角度，解读一下过去算力、存储、互联的股票上涨原理，我的展望和布局。",
+        "imageUrl": "https://cdn4.telesco.pe/file/XEf9_KGi9pwpouk4Z7WOnyHgHteQRG5QZvXdIF9pTJbXLsmMehSGMSwDh6_s3h0qzmF5dU-o4Os-NTzAVsPuOCTv5tyvGU8v6Jab7LkdZkuu0A3EZ5SWpOyzDQ45ZtM4GEDfm7WlSnQDpseXaA3ykrLr-KYYNjQxsZOwjfa3aXKRBg_u1stC-sXGkR2DoMHQCiWvd_cvu3pMgjXGQSIPenjdWYAXWIN6GObgzq3pw2AVvFFrzLYvqe8BLD5VIWlfQRjOHS4WQLoGDQtXo2EjhulelD0hPdOb6iwK3GFHzXzU6Kp0M35UVxzWbYXYXnHHjUjqpca-62O_7uRhWz0G6Q.jpg"
+      }
+    },
     {
       "id": "4636",
       "title": "hermes bot group chat",
