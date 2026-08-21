@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:33:38.000Z",
+  "updatedAt": "2026-08-21T02:09:17.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,26 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4640",
+      "title": "plumbers.farm/#airdrop 可以檢查下，我是沒有",
+      "description": "plumbers.farm/#airdrop 可以檢查下，我是沒有",
+      "url": "https://t.me/pdzeng_talk/4640",
+      "publishedAt": "2026-08-21T02:09:17.000Z",
+      "preview": {
+        "targetUrl": "https://plumbers.farm/",
+        "siteName": "plumbers.farm",
+        "title": "PLUMBERS | Master Plumber Is Ready",
+        "description": "PLUMBERS, a fixed-supply Ethereum airdrop and old-school Uniswap V2 liquidity farm for DeFi OGs."
+      }
+    },
+    {
+      "id": "4639",
+      "title": "一堆人說 codex 額度降低了 1. codex 額度拉上去成 900k 如果沒有注意控管 context 很容易超收費用 2. 大家已經習慣 sol-ultra 隨便亂開，他會做很多無意義…",
+      "description": "一堆人說 codex 額度降低了 1. codex 額度拉上去成 900k 如果沒有注意控管 context 很容易超收費用 2. 大家已經習慣 sol-ultra 隨便亂開，他會做很多無意義的事情，然後開超級多 agents 來跑 3. 大家應該要繼續用正常的方式來進行操作，像是我正常的使用都是用 luna-max-fast 基本上是可以無腦跑的 4. 有…",
+      "url": "https://t.me/pdzeng_talk/4639",
+      "publishedAt": "2026-08-21T02:05:27.000Z"
+    },
     {
       "id": "4638",
       "title": "https://terminal-code.com/",
