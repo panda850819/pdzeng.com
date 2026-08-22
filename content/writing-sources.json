@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:12:14.000Z",
+  "updatedAt": "2026-08-22T12:29:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,19 @@
   ],
   "telegram": [
     {
+      "id": "4651",
+      "title": "https://threeui.com/browse",
+      "description": "https://threeui.com/browse",
+      "url": "https://t.me/pdzeng_talk/4651",
+      "publishedAt": "2026-08-22T12:29:50.000Z",
+      "preview": {
+        "targetUrl": "https://threeui.com/browse",
+        "siteName": "ThreeUI",
+        "title": "Three.js Components & Interactive Shaders | ThreeUI",
+        "description": "Browse high-quality Three.js hero components, 3D shaders, prompts, and templates with customizable variants. Framework-agnostic. Copy, paste, and ship."
+      }
+    },
+    {
       "id": "4650",
       "title": "https://x.com/trq212/status/2090884854590382515?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
       "description": "https://x.com/trq212/status/2090884854590382515?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
@@ -182,7 +195,7 @@
         "siteName": "YouTube",
         "title": "師父商學院 EP33 - 只有 2,000 訂閱卻敢邀百萬藝人？訪了 200 個創業家悟出的一件事？想創業應該先做這一步卻沒人告訴你？ ft. 查理@charlies.insight",
         "description": "今天邀請到的來賓，他是全台灣最大商業採訪號「查理的創業化合物」創辦人——查理。 兩年內從 0 衝上 12 萬訂閱，訪過柯以柔、吳淡如、滴妹、郝哥……把採訪節目做成了一門「邊學習邊賺錢」的商業模式。 這集我們聊到： ・ 查理怎麼從素人起家，靠陌生開發邀到大咖來賓？ ・ 只有 2,000 訂閱，為什麼敢邀百萬藝人上節目？ ・ 商業採訪號如何設計每一集，讓流量跟業績同時爆？ ・ 創業者為什麼要先開一間自己的獨資公司？ ・ 訪問 200 多個人後，查理最重要的訪談心法是什麼？ 如果你也想知道，一個素人如何…",
-        "imageUrl": "https://cdn4.telesco.pe/file/i-dXdyHzlslij9GlWcLsWfeGrinsbkdhtsS7hYnuQ3ci9uckqKE50K0X9HnH3t7L1AlGNteMQNcwlRA7_29xMNlyA1gEul8Kfinfyo6eLK3GfK9EAO_4-bQRphlupBce-nOQDXB9O5Xa-FkaJKGPLKlSemUOIBIH-at12nd3duL1dkkpy6rYHqmDII_ijP42DoP3TTNUjLhx3DcZ6fBcUj_rwRvxNO5eFaVpSTR_9tW9fKkjp1EACwNOVrpV22Sg36MHRuaTCXya9TRrUbxEt8vPtKZo1CKJpRZR4j1v1ONR1cO6qQgvSFYdqy8Onge91ZdGyn_88nZJkmI4Cn025Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/uuSHEmZuz4_V2vTLHG4Cb75D6_lFE9ToQJwuy026srFjHc1qD4jXzE4DGoyc0KiXkjY5vfC2ZJtpjO_f-0nU7TM47zd7W4BIzIzKiEhGJxpWYWPVNEoMID1MWcRCmu8Hpc_6W8iODkj9Me1b86CXwBWVDc3BXSuMzMNwDhDMwd6H15AoiVgDXeMMTmJkwtkB45Q_VgARzdT0a17T0aWcyeSctyVIGCc0jj3l0HQiltCCWfvi6rLhKKPzubDc3YkivWjsZZSz4U_W6Ouvh1DGRiUJf5cfuC-XUIrvrUeNsq85qFNbkQ-2zfg-R6CBYQRLfX6m0271og7v53tqK3rj6Q.jpg"
       }
     },
     {
