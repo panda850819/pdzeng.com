@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:26:50.000Z",
+  "updatedAt": "2026-08-22T01:13:46.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4649",
+      "title": "交作業了 我也不知道我在跑三小 好累 八德蓋捷運 路好小 車好多",
+      "description": "交作業了 我也不知道我在跑三小 好累 八德蓋捷運 路好小 車好多",
+      "url": "https://t.me/pdzeng_talk/4649",
+      "publishedAt": "2026-08-22T01:13:46.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4649",
+        "siteName": "Telegram",
+        "title": "交作業了 我也不知道我在跑三小 好累 八德蓋捷運 路好小 車好多",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/jPpZWNu_UOAske761cgLre6IANODVmPuaAblmWKG8WIvOdRH8f4R2wFMxuFx-SaGxXdiS6bCDhs_jyyfEhLG2oo4c69F0n_laiLzZpQqTdGyH6OBikOUkYaO_iQvA1LqcjTupQbWxw5MI1H7k035a295LTR9ndwpj8_WDzcwyHmicDTADKSJEmpYilJx_rhpOROHrEwxKWtB01apN5lVnc43Ol6N-DR-UKRq0vUdiYmsB8UIex7_Y9x1al_bIB6cfkgdg8t2Y23ogbk0tT0FoiHrnLeJ_kQRp2kdH3Th1mDN3xqW_DJK8Y6WIr8lZu7PHhau0bAGdDluZgqqQoaNvQ.jpg"
+      }
+    },
     {
       "id": "4648",
       "title": "關於 Codex 額度降低，其實有個小技巧：你可以把一些拿來做讀取、寫入的工具做成 MCP，讓 ChatGPT 可以使用。 使用情境像是我的 GitHub Connector，或是我主要的記憶…",
@@ -236,7 +250,7 @@
         "siteName": "Terminal-Code",
         "title": "https://terminal-code.com/",
         "description": "VS Code inside your terminal.",
-        "imageUrl": "https://cdn4.telesco.pe/file/E68spOYUcqKhU7gMd-sMMavIF-Gl2z2X-N4IBTVakabtTVjqcZ_Z3pSw_6mCC2dHNsiI5SmFPNZjjFUYm1nUG0BCoIhuq2Lkv6y_TT3JBEoct6cFo6d9qvxyglUUpzLDwDUhtlMmnJiyb7bV810ArT_GB28hNuD4I74zrVK5aWRG8iWw-slfEq7vc3YdGZ65N68vTsnt4CchbHO-HEfj-yFPPvRoa_hGX18Z53tBQ7c_KbWsrtqPKz5dO8IBRwE7uIh0w5-yyzRq3RNojioGcte3u1cqAOrPaVVqu6eXKjp4a2R1qtpO0IvGJl4h_-YQWbG7vvh47p375BBsCe0wBA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Jy5dSqtidqQQHQbo4iVPYdDuoy_HWw8PRyvZoBLIApv0HPF2Tt8Op9VdhmwdSo_3P4aMbiin0nTK2IL3pxFWUkcce9WIicAXuJs8RWWBxVkr80dY59WjDWyFyz18CnD2b8Gnxdu16pRXVC7dTMSUMhWN_bpUZkiCLieLMnB0pRwVlAtZqUMg_jUI00QrFJpS48w_sKSuPyyDeA6dC3XKzED1g3299Q2VPWnehrRPNCmQbFTQtthvBIf34OQMksw_xMtzzuK0AK9j5bmwBl5GZlI7kdcaGFzpXKEDEpP8SsZXAp3Ojz1vpVJWWWl5LBNs4gTGd_IaW4-cRpqmQ92iqg.jpg"
       }
     },
     {
@@ -250,7 +264,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "美研芒格君 (@Kay2289123) on X",
         "description": "AI半导体投资第一性原理，其实就是在投 AI 变强的这条路上的瓶颈。这篇可以帮助你认知提升 我自身就在硅谷带AI 训练、推理团队。这个帖子我从一线第一性技术原理角度，解读一下过去算力、存储、互联的股票上涨原理，我的展望和布局。",
-        "imageUrl": "https://cdn4.telesco.pe/file/XEf9_KGi9pwpouk4Z7WOnyHgHteQRG5QZvXdIF9pTJbXLsmMehSGMSwDh6_s3h0qzmF5dU-o4Os-NTzAVsPuOCTv5tyvGU8v6Jab7LkdZkuu0A3EZ5SWpOyzDQ45ZtM4GEDfm7WlSnQDpseXaA3ykrLr-KYYNjQxsZOwjfa3aXKRBg_u1stC-sXGkR2DoMHQCiWvd_cvu3pMgjXGQSIPenjdWYAXWIN6GObgzq3pw2AVvFFrzLYvqe8BLD5VIWlfQRjOHS4WQLoGDQtXo2EjhulelD0hPdOb6iwK3GFHzXzU6Kp0M35UVxzWbYXYXnHHjUjqpca-62O_7uRhWz0G6Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/sr6CL0Gk2LIomSnynK3bOgDqQuVBuJqDzZT6_JNly6H4RhhUEGcCILj5uISaGNah50sWaVEieNRTzfVy0BE5tbWH5mNHFPRn6m4YQE-mV0wR-ECOZLLEFgPs7S7r1UsSPdh_-AB412lqGvaIVxXRdf0qR5xu9QDLSCYQwmyihwlbRq3-WktBnv2YjhBfbzo-yM8ILV70c678GB8Vqv0HY18CxuAPZHO6oXXGUL1gLve6jRPWgquMHg6H08NDMcSs_xTtI3NEIgKX7NFELKwnctlj9TnMPkee8YC7tqePbU1KsDSHtTHx3Miy0cWFetRARrbkM5EQfadObwRqa_oVQQ.jpg"
       }
     },
     {
