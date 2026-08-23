@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:23:21.000Z",
+  "updatedAt": "2026-08-23T02:10:56.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4656",
+      "title": "https://github.com/earendil-works/pi/blob/main/packages/agent/docs/harness.md",
+      "description": "https://github.com/earendil-works/pi/blob/main/packages/agent/docs/harness.md",
+      "url": "https://t.me/pdzeng_talk/4656",
+      "publishedAt": "2026-08-23T02:10:56.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/earendil-works/pi/blob/main/packages/agent/docs/harness.md",
+        "siteName": "GitHub",
+        "title": "pi/packages/agent/docs/harness.md at main · earendil-works/pi",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI - earendil-works/pi",
+        "imageUrl": "https://cdn4.telesco.pe/file/hglyAMSw_Oa3tR5tkejiWG8wPaKK6TKerK91cCiY4LUu7b6iFwCFaXyGukMfdCACAK6XDuQAeAPDnjw3LRWWs2OyGIHZNo1JiFf7qNJ2h_AlCOTyiWy5AT6RRyymKfqhu5BjQ5m8lINpzdb9xi2v8G71gDa1x7Qww-125Z68oPEQDIU7xk3Rg8Qq7_ng0QfpAGhUdhi9f4EiZLUzvP1RQgcXy5jc1sZEXG1fJLUZrLyc61FlmsYSuJZlr2h6222tGdPfIl2PheIq3l2SVIDTyGrNhuKBT62rmyo2G1ADE5kH0q6NcQwjFYcb6503P5b6H8W-ceTK1EhNpTuMPyL94g.jpg"
+      }
+    },
     {
       "id": "4654",
       "title": "https://github.com/anthropics/claude-plugins-community/blob/main/eli5/skills/eli5/SKILL.md",
