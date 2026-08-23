@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T12:50:38.000Z",
+  "updatedAt": "2026-08-23T00:23:21.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,33 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4654",
+      "title": "https://github.com/anthropics/claude-plugins-community/blob/main/eli5/skills/eli5/SKILL.md",
+      "description": "https://github.com/anthropics/claude-plugins-community/blob/main/eli5/skills/eli5/SKILL.md",
+      "url": "https://t.me/pdzeng_talk/4654",
+      "publishedAt": "2026-08-23T00:23:21.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/anthropics/claude-plugins-community/blob/main/eli5/skills/eli5/SKILL.md",
+        "siteName": "GitHub",
+        "title": "claude-plugins-community/eli5/skills/eli5/SKILL.md at main · anthropics/claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. - anthropics/claude-plugins-community",
+        "imageUrl": "https://cdn4.telesco.pe/file/ZXWy2Nhj9GVUm7oza83NM3ki2VxM47JsAnc0145zd6CCNzUP_SkNGcEnOsgjkJQLmsS-hmwXD47I5dBBp7VOnBpgI30YiCy1u9qFRZDic_VWe7YInLN1JPNGPuVRJQuCfJY3LlhDXj1Xectm9WvTgCZ6VYqhUTAwAFbqGdNvt7kgl2Dk3-pHNeIp2u5bq4yHe82ksESlHEJ1Be-y_tZBdQgEA2B05RVtmiIfwsMggwzIp2Ps5lWZjK0WuzYXE-xON4O_6kA_4rtVvhXYqov7EkckYR4xdtKdvlx_oB4UJYffpnTVrdtDjs8K6912VPqph29BXi1R8CdbunQlKH7kqg.jpg"
+      }
+    },
+    {
+      "id": "4653",
+      "title": "https://jaechung.net/writings/starting-a-quant-trading-firm/",
+      "description": "https://jaechung.net/writings/starting-a-quant-trading-firm/",
+      "url": "https://t.me/pdzeng_talk/4653",
+      "publishedAt": "2026-08-23T00:14:17.000Z",
+      "preview": {
+        "targetUrl": "https://jaechung.net/writings/starting-a-quant-trading-firm",
+        "siteName": "jaechung.net",
+        "title": "Starting a quantitative trading firm with 0 experience — Jae Chung",
+        "description": "How Manifold found its first edge in CEX-DEX arbitrage, and what happened to it."
+      }
+    },
     {
       "id": "4652",
       "title": "▶️ 【 😎 纯享】张峻豪ICE那奇沃夫《My job(老本行)》劲爆快嘴展示天资 | EP09 说唱巅峰对决2026 The Rap of China 2026 | iQIYI潮综艺 #y…",
