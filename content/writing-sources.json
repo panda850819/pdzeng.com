@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:10:56.000Z",
+  "updatedAt": "2026-08-23T05:03:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4657",
+      "title": "cjpais/Handy 🔗 https://github.com/cjpais/Handy #github",
+      "description": "cjpais/Handy 🔗 https://github.com/cjpais/Handy #github",
+      "url": "https://t.me/pdzeng_talk/4657",
+      "publishedAt": "2026-08-23T05:03:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/cjpais/Handy",
+        "siteName": "GitHub",
+        "title": "GitHub - cjpais/Handy: A free, open source, and extensible speech-to-text application that works completely offline.",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline. - cjpais/Handy",
+        "imageUrl": "https://cdn4.telesco.pe/file/fFyapoIXXvTinYQzX1Vjuqp4RYigc60ZtuFSmzVUyYBTiTLRDFLrb6dTbGbuuXmdrOq_jjcyxypHOwxLt5ohExY5B4Omn_LJ6cJ_hG8cdfshHc98UKLvnryPI_XdmdYV5b_5VCVQQGOXGpALxjST7UH6KFOGArJK7t0wm7Kd8F3--VoO5tH84qleprCDj4rACi4htlzKdH5Nflgh__fSsH6Yp01_hesPKoVss73BvH9L3AfuOFv4aSt2xLCrEOj6_35VyAMRdzzzZ8LLZYEPqxjnA4mj4Os2GWpjOHoVV9sFUOU8kBpM9ZgPlhIaNUIXujZFSBzhKzmnOf3OaZjQEQ.jpg"
+      }
+    },
     {
       "id": "4656",
       "title": "https://github.com/earendil-works/pi/blob/main/packages/agent/docs/harness.md",
@@ -271,7 +285,7 @@
         "siteName": "GitHub",
         "title": "GitHub - WenyuChiou/awesome-agentic-ai-zh: A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to…",
         "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 - WenyuChiou/awesome-a...",
-        "imageUrl": "https://cdn4.telesco.pe/file/s90ZLoqi6hOxnHV9GAgM7rlm4PqHl0ea5AYe2zSq532o-Jrxtk3e17mMwv8Oq1q9H4NOxZeZCzUvA2KQG0zyK3XykszCa9dfFtV4H3x_YEDzmoC1YtjwdREY6cilzN8U8TFmDlHxC06boXdqzGgMlicXKP1mvfaRG4wDWGNros8afd_65627ZcqkHg4J54VeseBFt7TwMSzfZ9uh37Q1HsvXAcGaERGu63QISSg3r7AwmRxxOsGr0yKf-_mXrKXN1iwl6qhBNAKDjWurzEfMeGsKCDsBwThMAfpL83xjlGr2Rkcyz9RpFQVeATnN9m-tnCIHdOuRHpSoRcjopXLn-Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/p351xYg6GN4N4bk4M49GZ3pY7rbCmacr2IR6n0tFtInzJolk8t4zlyeyak80Fzmi2VqVcd31T32kf5whXe5dBNFkUqmAtZZJz_g4Q-o5ECSXRS1cMCD66f39vfzWaCafj75Ba4Wqs64KygCLuvsLk-_p4Lj0wrQdXFn187zA9PYYwekFY2m-dkradCbOs3FplZ0hk-CY7hGhWBeXOJDKnqVooCKIYHNpr9XTagFIDQ1BZfHPhOYgf0BODlGxl3vjKUvj6ocxjyr3QCMVXuCrNd9OJmiw6Ye63jd28FqjiLaUNWN-OZMOw5DcMlYedkTWST4A6ibKjMq4JDQd95hD0A.jpg"
       }
     },
     {
