@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:48:42.000Z",
+  "updatedAt": "2026-08-23T11:15:02.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4670",
+      "title": "瀏覽器現在從 chrome 換成了 ego-lite，基本上就交給 agent 們了",
+      "description": "瀏覽器現在從 chrome 換成了 ego-lite，基本上就交給 agent 們了",
+      "url": "https://t.me/pdzeng_talk/4670",
+      "publishedAt": "2026-08-23T11:15:02.000Z"
+    },
+    {
+      "id": "4669",
+      "title": "剛剛用了 sol-med 跑了 1hr 的任務噴了 10% weekly 看起來還是只能用 luna max 來跑",
+      "description": "剛剛用了 sol-med 跑了 1hr 的任務噴了 10% weekly 看起來還是只能用 luna max 來跑",
+      "url": "https://t.me/pdzeng_talk/4669",
+      "publishedAt": "2026-08-23T11:07:58.000Z"
+    },
+    {
+      "id": "4668",
+      "title": "最近把爐石下載回來了，多了一些功能，像是預備啊、然後倒轉 用手機玩超級忙的，還要想還要看一下手牌什麼的",
+      "description": "最近把爐石下載回來了，多了一些功能，像是預備啊、然後倒轉 用手機玩超級忙的，還要想還要看一下手牌什麼的",
+      "url": "https://t.me/pdzeng_talk/4668",
+      "publishedAt": "2026-08-23T11:07:01.000Z"
+    },
     {
       "id": "4667",
       "title": "https://x.com/fomo fomo 的產品體驗做的真的很好",
