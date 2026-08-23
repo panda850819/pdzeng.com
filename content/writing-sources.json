@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:16:40.000Z",
+  "updatedAt": "2026-08-23T08:48:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4667",
+      "title": "https://x.com/fomo fomo 的產品體驗做的真的很好",
+      "description": "https://x.com/fomo fomo 的產品體驗做的真的很好",
+      "url": "https://t.me/pdzeng_talk/4667",
+      "publishedAt": "2026-08-23T08:48:42.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/fomo",
+        "siteName": "X (formerly Twitter)",
+        "title": "fomo (@fomo) on X",
+        "description": "A trading app for the rest of us",
+        "imageUrl": "https://cdn4.telesco.pe/file/DoRZKrxAmIXeiSPVP7Y2PvpPieTxCOtvgh8dcsBTH18b6uDtmC2jf_uzBSOsC2n3ocYv4QQ5x9UTvvE1mK24pAWa2YmMQgbm_sru-UZ-CSh9a3_ZrBMQFV5kpYwWsBt3Ry1FxS7Ye5rje5gQ_h6jH7-2JkvRBjmgDcyq3RjPAVcFSKpxZ3y6nKtxpo9HhZ2kWoLswJsxaI0E0g7sYW3E44Gaw08wufPNdEbc5zbHO-p5pO1F7iMsq9nF468MvECGtN7V6XqVj-zTrVc1WeJyQS0tplbcg98RpPwnhfi4NmO0qPOOivacWk2Wcuk93OUZj4zgpyIoJYSrchzlhTpCsQ.jpg"
+      }
+    },
     {
       "id": "4666",
       "title": "为了补偿最近的流量问题，Codex 将在北京时间周二（8月25日）凌晨5点进行 Reset。但是我观测到，官方已经把 fast mode 降级了，也就是说 fast 开不开一个样。可能是为了避…",
