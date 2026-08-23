@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:36:34.000Z",
+  "updatedAt": "2026-08-23T08:16:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4666",
+      "title": "为了补偿最近的流量问题，Codex 将在北京时间周二（8月25日）凌晨5点进行 Reset。但是我观测到，官方已经把 fast mode 降级了，也就是说 fast 开不开一个样。可能是为了避…",
+      "description": "为了补偿最近的流量问题，Codex 将在北京时间周二（8月25日）凌晨5点进行 Reset。但是我观测到，官方已经把 fast mode 降级了，也就是说 fast 开不开一个样。可能是为了避免流量冲击。",
+      "url": "https://t.me/pdzeng_talk/4666",
+      "publishedAt": "2026-08-23T08:16:40.000Z"
+    },
     {
       "id": "4665",
       "title": "MengTo/threeui 🔗 https://github.com/MengTo/threeui #github",
