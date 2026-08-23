@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:18:04.000Z",
+  "updatedAt": "2026-08-23T06:36:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4665",
+      "title": "MengTo/threeui 🔗 https://github.com/MengTo/threeui #github",
+      "description": "MengTo/threeui 🔗 https://github.com/MengTo/threeui #github",
+      "url": "https://t.me/pdzeng_talk/4665",
+      "publishedAt": "2026-08-23T06:36:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/MengTo/threeui",
+        "siteName": "GitHub",
+        "title": "GitHub - MengTo/threeui: Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source. - MengTo/threeui",
+        "imageUrl": "https://cdn4.telesco.pe/file/fgQUiR-CtkjP0HSXHLgyPheAcWPKZy4OjVM0OzaxEB04WIIe2mBCoM6xync0t89t8t86-tYbckQJCk4IMD_6E6nm7FhFXohACwF-aLcB_LF3y2nGOk1TWAOQ-5hRpjWrF1xnnLqfAXt6-23rHJETQYzNVlsVDT-G2BQUTfZU5Xusu9KH5n8WFTXsn-rO1dMSwR_RmCfX472Y86Mhk3u1gL2FiVMm6Gwrhh-H9tO-5uros78N6aYzAMG01tidb2QJpnEHm2T79KwF6DraOK2yzmQs6QlCdd6_8UAIZvE4beemelP6BWjxobI3sjmEnzTWXVv5kXin-4BM4JejpKPhVg.jpg"
+      }
+    },
+    {
+      "id": "4664",
+      "title": "https://x.com/entropyIO 有人已經在搞了嗎？",
+      "description": "https://x.com/entropyIO 有人已經在搞了嗎？",
+      "url": "https://t.me/pdzeng_talk/4664",
+      "publishedAt": "2026-08-23T06:34:59.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/entropyIO",
+        "siteName": "X (formerly Twitter)",
+        "title": "entropy.io (@entropyIO) on X",
+        "description": "Trade the world's most important assets.",
+        "imageUrl": "https://cdn4.telesco.pe/file/fTDo6gUeqb_fkHr-VLSOQ8vwnHJgHOzHBpF5eA_bpppfDfHGYy7re12cqGKHLLzzbtfX_ZjMORJyWk2bvOHasq37qOom2UVFR2ZQDxryANMaDcj-OWWQEekc0YmjPirAPv7yArSJGwTdqakYveoynTx__MMbpSiCcaeP11_KTIl_itm6PHtp9QTQK7Q9qZiRRbvhiYRUSM863PpyNquyIIV-un9sfUgEaEw9qKvL4l4Ra6_yxJRGW9KfixBfsGCQFckf7Z4Gi6MRxYoYw2_mqB-laZMJ9lePdngtLvvntPWLs2LMZywq2uwCyjLXcC1fqjCYWjcg0QdMedOdw_GzhQ.jpg"
+      }
+    },
     {
       "id": "4663",
       "title": "拾跡 · Paul Graham Paul Graham ( @paulg ) · 2026年8月23日",
@@ -264,7 +292,8 @@
         "targetUrl": "https://threeui.com/browse",
         "siteName": "ThreeUI",
         "title": "Three.js Components & Interactive Shaders | ThreeUI",
-        "description": "Browse high-quality Three.js hero components, 3D shaders, prompts, and templates with customizable variants. Framework-agnostic. Copy, paste, and ship."
+        "description": "Browse high-quality Three.js hero components, 3D shaders, prompts, and templates with customizable variants. Framework-agnostic. Copy, paste, and ship.",
+        "imageUrl": "https://cdn4.telesco.pe/file/VbJoX_BSB9RR66LkSqtAJku49KjksFnvdnbmZIoSOYJa75u-B_peUZ_xSU1E4IWnDU93RwkHkmJQx_dz246orXOnM_gxAuis1IXtvEPmXCySe5k3coZRuV8g3Kl6EBcOxm_i7ciepCH8PJq2zz4ExfcUZ6Wr3CCpCsH7vbpXdV46qkKOsEU8iRYYwhcKQuwGGrwbEyzkuy0cCr74_Jxtx5yJWqGawcR4Ihm1PnhXFlO_hcXj0Y4yHA2y9CYjocN35xgWe1zYmfHM7lBb9eGmqsD5Ti7Nwi2j1l-ChtZEdeP8r75wTwZeWN9EOoKeYmKjANlz6xH7lYFER5o71EFKEg.jpg"
       }
     },
     {
