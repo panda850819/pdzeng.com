@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:34:34.000Z",
+  "updatedAt": "2026-08-24T03:22:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4683",
+      "title": "fayazara/Screendrop 🔗 https://github.com/fayazara/Screendrop #github",
+      "description": "fayazara/Screendrop 🔗 https://github.com/fayazara/Screendrop #github",
+      "url": "https://t.me/pdzeng_talk/4683",
+      "publishedAt": "2026-08-24T03:22:41.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/fayazara/Screendrop",
+        "siteName": "GitHub",
+        "title": "GitHub - fayazara/Screendrop: A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.",
+        "description": "A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free. - fayazara/Screendrop",
+        "imageUrl": "https://cdn4.telesco.pe/file/BFTu8d2pUWfN-hCD2R2KosGS0NEb0A1N9WP6oE-MjFATuT_AaNq7j_EuMV6Y-nqao9u_Nl2P4bk_TdE64_GoyeH0oWl6nXkMFpShO6rtQd6YOUSt1PDvWqxaHYWuiDp96IGRq-0KGMkFp8S86Rgt8xEPKO1F-aUXdEU6nzxZU20-jk1fk4eZnPr0tD1UbyBwiT2IhnH0CwHTvVA86NPWnYlgwiNfCd_9jEG2mIHoeLfnBImR3IGeAM-j1tYxhXrzoElLlJSynMjl240BvuNwWYU3sdinFHu4q7RBC37yaSmve8khTKk8Kg4ULy8wHFVSxTtbDLZLIhqhPKk9t1lYBw.jpg"
+      }
+    },
     {
       "id": "4682",
       "title": "https://www.auditlog.dev/",
