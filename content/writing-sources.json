@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T07:31:45.000Z",
+  "updatedAt": "2026-08-24T07:54:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4686",
+      "title": "pixlcore/xyops 🔗 https://github.com/pixlcore/xyops #github",
+      "description": "pixlcore/xyops 🔗 https://github.com/pixlcore/xyops #github",
+      "url": "https://t.me/pdzeng_talk/4686",
+      "publishedAt": "2026-08-24T07:54:41.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/pixlcore/xyops",
+        "siteName": "GitHub",
+        "title": "GitHub - pixlcore/xyops: A complete workflow automation and server monitoring system.",
+        "description": "A complete workflow automation and server monitoring system. - pixlcore/xyops",
+        "imageUrl": "https://cdn4.telesco.pe/file/rmJM_GAveQqzCLzKp481GKSYymHaTCCUkuqPdsvC_92zjPukwVcv2UUgqyxkddt-HMHdLU1d_m2LptIubSGDeB8Tu2HlVIve6-BI5hm8JysZnDTirIs-1ZR_44Z2dKKZuPYbzBGses1MjduSANlRMOz_RXCIeBolBfpFbtpKu2wX-W2xngLmmBCQXJQyWrEb-weg9Y7Z2cL3N5xgfPQ3o9ASYJ7ip68IUNiGi7KNyS9FkOgqFM1szxIzbOjUgnXa7-9ct0tDAkTDup7AE369ajq1MN1r5khUODKnT90BnZEy6CF4v_MBJcgWUh1VOUgWsOiPHzgbOhqN_knL_a5BVA.jpg"
+      }
+    },
     {
       "id": "4685",
       "title": "拾跡 · 美研芒格君 美研芒格君 ( @Kay2289123 ) · 2026年8月24日",
