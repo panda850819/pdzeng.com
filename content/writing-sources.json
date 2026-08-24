@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T07:54:41.000Z",
+  "updatedAt": "2026-08-24T10:46:37.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4687",
+      "title": "oneworks-ai/avatar 🔗 https://github.com/oneworks-ai/avatar #github",
+      "description": "oneworks-ai/avatar 🔗 https://github.com/oneworks-ai/avatar #github",
+      "url": "https://t.me/pdzeng_talk/4687",
+      "publishedAt": "2026-08-24T10:46:37.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/oneworks-ai/avatar",
+        "siteName": "GitHub",
+        "title": "GitHub - oneworks-ai/avatar: OneWorks agent avatar preview and GitHub Pages site",
+        "description": "OneWorks agent avatar preview and GitHub Pages site - oneworks-ai/avatar",
+        "imageUrl": "https://cdn4.telesco.pe/file/tAbAcxUCEI_tXO_FcDMmCsukAb5pySsn0ePjptt-VUdbgNNTcbsTuxLgmpyfk9A1SGXXQ-mb6NBCPIqedfbVQ5mYktRiKv98t3PZ3Q6pieH1LLUKO0lrJRWDc7ZhpgKYuoO5h7VzK42XFBq21B3JZQV4tKDAq572qjyxF5cQa4QKLFxR47paDkpAnkuuuO6LBApvFVXfHNSwFvSmyOF2lEfDjJGo5niLu74lwmj033_EX0VvW122IXSSWy2OyghHRF-kVZrG89OacHnfldf02BffDVYSt0u6Xxpj2nSH72gZ8mGtTdopx5-LK_N97MTteq0h8eOQ-M2SEXiffmxClw.jpg"
+      }
+    },
     {
       "id": "4686",
       "title": "pixlcore/xyops 🔗 https://github.com/pixlcore/xyops #github",
