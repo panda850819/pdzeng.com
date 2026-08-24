@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:15:02.000Z",
+  "updatedAt": "2026-08-24T00:55:01.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4671",
+      "title": "Codex 又重置了…",
+      "description": "Codex 又重置了…",
+      "url": "https://t.me/pdzeng_talk/4671",
+      "publishedAt": "2026-08-24T00:55:01.000Z"
+    },
     {
       "id": "4670",
       "title": "瀏覽器現在從 chrome 換成了 ego-lite，基本上就交給 agent 們了",
