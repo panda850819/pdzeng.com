@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:20:39.000Z",
+  "updatedAt": "2026-08-24T01:51:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,117 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4680",
+      "title": "https://okara.ai/launch-library #growth",
+      "description": "https://okara.ai/launch-library #growth",
+      "url": "https://t.me/pdzeng_talk/4680",
+      "publishedAt": "2026-08-24T01:51:41.000Z",
+      "preview": {
+        "targetUrl": "https://okara.ai/launch-library",
+        "siteName": "Okara",
+        "title": "Launch Library: 450+ of the Best Product Launches on X",
+        "description": "Browse 450+ real product launch videos from X. Search by company, filter by category, sort by views, and study the launches that earned attention."
+      }
+    },
+    {
+      "id": "4679",
+      "title": "https://xiaowenz.com/blog/ai-performance-on-company-level.html",
+      "description": "https://xiaowenz.com/blog/ai-performance-on-company-level.html",
+      "url": "https://t.me/pdzeng_talk/4679",
+      "publishedAt": "2026-08-24T01:50:12.000Z",
+      "preview": {
+        "targetUrl": "https://xiaowenz.com/blog/ai-performance-on-company-level.html",
+        "siteName": "三杯过后 | Xiaowen.Z Deployed",
+        "title": "每个人都快起来了，公司为什么没快起来？",
+        "description": "每个人都快起来了，公司为什么没快起来？ 把 AI 发给每个人，可能是组织提效最贵的一个错觉 过去一年，几乎所有用 AI 写代码的人，都会说自己变快了。 问任何一个开发者，他都能给你举出具体的例子：十年前需要写一个多月的项目，如今在 AI 辅...",
+        "imageUrl": "https://cdn4.telesco.pe/file/oviEtO52ql-tfFbbrgqB1AeMg2rMXgjH4gLOVr5s0VVgKnefkjjF07Z5IGU1oLwIsmbAjNhNZRtgGM9yFjKzg2L7GwsjQ_6GdDJpgnnhp9pgwHc5xs_bhhlAQyy9GE93GCkQxH3SFaRemQOlMXjdR1IkXNv6-2xFASRb4oqQ6mKIU3x_vE-JX2jbCdEOgkxdopaxfiBsU3PNo-Pv439hDspjVTL2LrzVGuek0T_nyf6Mzrl54epROBjyTLoxgYJ_Hvgs3ug_yuJMrdePwR4rZMfY6UDMzPB3lIS-MZbouHIapz9d3jvaCTWLRw8uFcU_jK3prbS3mp3bOItww2hhGw.jpg"
+      }
+    },
+    {
+      "id": "4678",
+      "title": "https://perpdexlist.com/arbitrage",
+      "description": "https://perpdexlist.com/arbitrage",
+      "url": "https://t.me/pdzeng_talk/4678",
+      "publishedAt": "2026-08-24T01:47:22.000Z",
+      "preview": {
+        "targetUrl": "https://perpdexlist.com/arbitrage",
+        "siteName": "PERPDEXLIST",
+        "title": "PERPDEXLIST: Find a Perp DEX to Trade or Farm",
+        "description": "Compare 50+ perp DEXs in one place — volume, open interest, funding, fees, price arbitrage and best execution routes.",
+        "imageUrl": "https://cdn4.telesco.pe/file/auptfZ54CZwxcGayqFfvzeTjMFXsLB_NYLqlEATn5m1Sbhl35FnjbdR9dwGXO3V1fw-vvkkja4W6p1jUg4g_NrlWjhCOo9Ph2HQkzl5NTZUmiHqN04AQWZ7BrELXUK7O82BuOcwfXvbRREw30uQuh3z2xnWDzR43L_YpifKMkQR8yXdlHRVtQjVk0oyz32JmFF6Yl6gSqPIy_6Sn6qgQYHuWP2ts3sKR3m7Y4lCRvSlkihe1OsM9B5BDGSNFlPgve9xwLgO_oO6wRptqs5GAE5l34CoqlWqYzX9-iTG-voqrCvhixPWFVZ0UQNsip1-zA6xe6UlFNaUkdNNTyxbc0w.jpg"
+      }
+    },
+    {
+      "id": "4677",
+      "title": "我其實也蠻好奇 Pi Agent 團隊的開發配置 https://x.com/gittrend0x/status/2091413059550220324?s=46&t=1LAyoawP6LK1…",
+      "description": "我其實也蠻好奇 Pi Agent 團隊的開發配置 https://x.com/gittrend0x/status/2091413059550220324?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4677",
+      "publishedAt": "2026-08-24T01:45:33.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/gittrend0x/status/2091413059550220324?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "GitTrend (@GitTrend0x) on X",
+        "description": "Pi 生态必关注 🔥",
+        "imageUrl": "https://cdn4.telesco.pe/file/l0EIstzGQdF7najFLXSNlxpc1GFimo9Zua54E0tr1oPPawPz3aUbEr4dpAm0SpVRRXj5etlw_RbxEye4rLb1gwCgdZtll05PUH90ZV6i5NUTTJRXeYwonXUhdGIh0-OLQjxp4-UgzHoWPDWDzLqYMaz61tuLqFZmkypYcYEKnm_Uzd1Dx_zaJMPhqoRnjo-0B21rc2ySd7SPNu_QVxvt72wRjKmLw80fnCJlrD9W_FfiPaxAWYJ6QSAUHw3PwWaIh5z_XNi69ZimCQTwjfY7tDlZiOmW7wUF1_PJC0qo2H7TvTMo-p6oTspjzjLuAYjsSQtRkISTiZEc1AZaNf5orw.jpg"
+      }
+    },
+    {
+      "id": "4676",
+      "title": "https://x.com/bruceguai/status/2091411762138755448?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/bruceguai/status/2091411762138755448?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4676",
+      "publishedAt": "2026-08-24T01:42:20.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/bruceguai/status/2091411762138755448?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Bruce Guai (@BruceGuai) on X",
+        "description": "关于招聘的思考 这两天 flowith 开启了新一轮的招聘。每次招聘，我会越来越把这件事情当作一个和增长事件来进行。也想分享一些我关于ai时代人才，招聘的个人观点，希望能帮到在这个时间同样在招人的创业者，或者是想加入ai时代的求职者们。当然也欢迎大家加入我们！ 大概三年前，我们还短暂用过一次",
+        "imageUrl": "https://cdn4.telesco.pe/file/SCWDQh9jPHnU1tN_1oi4Bu9C5KHIirHCruqh4Yn4teQqPM2TBXJBFfFg6OfplVxRFaT5lkRcaWqYXeUbCkf4Xpz_yPAstIELCwxGvXPJjwxET-KwfpdPGR2nQLhvGwz7a9059-I5rajzLGTAZC_2VzVEglhUMw799EdFpNbO1c8C25gyT5YQRgTTZkgoavn7eXaJz50yXP638Ky-oX4p7zGRmq2srpQo9QkCB9V9N1ZlbA10wTesWD30HJzWi10qKIWJ7hXU8GPBge_Ofl7JH1f-ieoQY7mA3APJ9HJ0Px0w-1WgJX0TyfzDErOgIbvZhXp2L2rRryKqkQs0MT1OfA.jpg"
+      }
+    },
+    {
+      "id": "4675",
+      "title": "https://x.com/brucexu_eth/status/2091455215367250367?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/brucexu_eth/status/2091455215367250367?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4675",
+      "publishedAt": "2026-08-24T01:34:32.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/brucexu_eth/status/2091455215367250367?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "brucexu.eth (@brucexu_eth) on X",
+        "description": "用 Telegram Desktop 管理 4 个 Hermes 并发任务是我目前最顺手的方案",
+        "imageUrl": "https://cdn4.telesco.pe/file/Jcxgg0CLs8TA-9SnIiVUOkA05rdOsBpRjUhjvaTru6NfqB-R6ycVz41YCLIanAFUS5meewwaZ6AgokX_51mSlMO-iM2U6oikKB3AUIGFnWdNGYCYDQSNo4zJqYgsh7g_cvoTp4bm-h2f55o0n2NpEMpEeoZbCzFWb5mAftd9pOSlHo8YugPrRMcZKCOPxrQvHILP6Gov7q_WnzHCzXbbnuRv_2HjTdb-zwL9SZdzuVZGh5bVuDBW1rND-pKrij8pmRhI09Toru83aYr_FTZLBDAFwRiIalYaQ6IvECcbGlzRRkoBMTjukqtyGo_tiUr_fTac1j-YZn7DRRpJUJC7EA.jpg"
+      }
+    },
+    {
+      "id": "4674",
+      "title": "https://x.com/maxforai/status/2091513944351670475?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 哈哈哈哈哈哈",
+      "description": "https://x.com/maxforai/status/2091513944351670475?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 哈哈哈哈哈哈",
+      "url": "https://t.me/pdzeng_talk/4674",
+      "publishedAt": "2026-08-24T01:33:09.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/maxforai/status/2091513944351670475?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Max For AI (@MaxForAI) on X",
+        "description": "神了，有人已经开始当Codex的星怒了 😂",
+        "imageUrl": "https://cdn4.telesco.pe/file/koDTEd-8osctuUrSlD_wlIHIFxbowNyvlhjQ3b0RzO_QFPqzlJeI6W0jQ3UAspjjM7wskFjs3yaX8V6bdDbOxqG4SR9Tf4EoE_Of_TQSI-JfFHBgQTdm7b4v2GasuXSuHmJ8oL3sMZjNYJ2qJWKQQS5_ZhVw65EmIS8sJvtal3gAXT5TsIL8m-wdVWeuWZW_bPEGumasHQiNXeIGFed0CV3TXfcnPe8OpqDhl-Q5Om17Hw_Y0ax9sLSeeS3SQNByvYPr9r8wDLlXXnktppr8GkjCgu3uKfgQCrg32pZu41anysbN07y3SvPlFWNS6ClZokxO_v-2KH-uRVXmjoIOdQ.jpg"
+      }
+    },
+    {
+      "id": "4673",
+      "title": "https://x.com/steipete/status/2091650136506327253?s=46&t=1LAyoawP6LK1AbrwCvLGqQ team.openclaw",
+      "description": "https://x.com/steipete/status/2091650136506327253?s=46&t=1LAyoawP6LK1AbrwCvLGqQ team.openclaw",
+      "url": "https://t.me/pdzeng_talk/4673",
+      "publishedAt": "2026-08-24T01:32:40.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/steipete/status/2091650136506327253?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Peter Steinberger 🦞",
+        "description": "cli is nice, having UI visualizations and your team where you work is nicer.",
+        "imageUrl": "https://cdn4.telesco.pe/file/nEFz1X9wM5SZsvYk9366llJhXh_yVYy18xTpyFgTJYM9Sse5Hc4_HD9Dq2_r4xABIvYxQeB0FkbY1L8RJsEID4FhQ64Y_5EBBkJBrL_SMBHdg9lp3M_8U_oTj8jLoLRIIScct2jIQCCtoVfcBjFUcfinXYmKdxqA6_xT6yfl9iWPRfBa_czMYkW5a80ou-f9_gXmTuw1QCywt2HXJTjHURxoLPMZq8H7ASibxKqJsrdxG9VWNBvV2djTkLN49DfijRpeDWwcAkf5FtkT2-zKY7W_sVfnoWrbTpdcsKZM7kcMrSUkd1RtEj3hJJ2MKc3_phVB3-0LWkB9uuLdx--8CQ.jpg"
+      }
+    },
     {
       "id": "4672",
       "title": "▶️ 為什麼肝病幾乎無藥可醫？ #youtube https://www.youtube.com/watch?v=oDUhb1E_bPQ",
