@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:22:41.000Z",
+  "updatedAt": "2026-08-24T07:31:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4685",
+      "title": "拾跡 · 美研芒格君 美研芒格君 ( @Kay2289123 ) · 2026年8月24日",
+      "description": "拾跡 · 美研芒格君 美研芒格君 ( @Kay2289123 ) · 2026年8月24日",
+      "url": "https://t.me/pdzeng_talk/4685",
+      "publishedAt": "2026-08-24T07:31:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/Kay2289123/status/2091706494849081420",
+        "siteName": "X (formerly Twitter)",
+        "title": "美研芒格君 (@Kay2289123) on X",
+        "description": "值得一读 @AndrewYNg 发布了2026年当前，如何成为AI- Native的人，或是转型AI的工作",
+        "imageUrl": "https://cdn4.telesco.pe/file/irCisjsFhd93KcV910_ISiGOwGPrFkqhG4IVEh9K-ZvgKBRUDHBdfRsedrBVonUcvxtnQQHrSiVJesEUZyXSTqkx7iCRAopZSEmwsFzPJrlynn5twPFuLNby9qbtOmWcGGiDENVOixAm9j3DvkbX2a378_70KIdVNhwjL7NoPbRcpShLksP4f5nZ934wQlUICxOGlVGUHD9KAlkX7uu-IrIhJoHKSWpXfgoIb0b9ddX6_MO0Z-powMLgFMOJS4F3svwBgICanUmvvbijE8DkEU184_r0Pn_wFBrCR5RNuea4YEP2CsSaqjYz2bBPBvwTjHC4oyj4Su5BJHHqZvNwww.jpg"
+      }
+    },
     {
       "id": "4683",
       "title": "fayazara/Screendrop 🔗 https://github.com/fayazara/Screendrop #github",
