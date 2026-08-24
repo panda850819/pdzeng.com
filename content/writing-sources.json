@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:51:41.000Z",
+  "updatedAt": "2026-08-24T02:34:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4682",
+      "title": "https://www.auditlog.dev/",
+      "description": "https://www.auditlog.dev/",
+      "url": "https://t.me/pdzeng_talk/4682",
+      "publishedAt": "2026-08-24T02:34:34.000Z",
+      "preview": {
+        "targetUrl": "https://auditlog.dev/",
+        "siteName": "auditlog.dev",
+        "title": "The Audit Log Page",
+        "description": "An audit log has two readers. Most logs are designed for the wrong one. Five theses on product audit logs.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Z83UkrE96y7wjKoLvY9ohJmZOVGnZwKOCpLoQ67bR8guU9-zXypyuc-Nzh_nL5V2QGLiH3cfF6U0CZ8RnsiUFVi6itlppPMFnsWPG87UsIGq8xdn1DywzZq8Li05i-8Tzj-KPgrw7PpbADT377WvSV43rFZJ-Pyy8_JuG6AgTAw-pvAENdnhrBLy79msg6OdGJaB3QBckKxdF7dZPJkZdE6AtoKock_qUc_skVMlokwyYC4jCUqkg3ZZAG3uuOnSjm87_qGWZnJKaxFE7hVeqLtSAvDjI9gIr-du0AL92OBX8bVnSQ3guq1mFowVkd36JiBOL7k_G8m9ot0gauwFKA.jpg"
+      }
+    },
+    {
+      "id": "4681",
+      "title": "https://kentaro.tools/",
+      "description": "https://kentaro.tools/",
+      "url": "https://t.me/pdzeng_talk/4681",
+      "publishedAt": "2026-08-24T02:33:54.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4681",
+        "siteName": "Telegram",
+        "title": "https://kentaro.tools/",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/SN5bE1uZ0D9dfy_Fgl0d7vdYFbr1xwJKIfgK93SExBKemi_xtK4cyHjSbFAgu_uJVz5G9F4o_Utl150Mvpz-WgEoocWJRW5MfFTKY3hGBEytFRPXl6Yy2NYy0CtIDPNb46vMI_Nzptlr__acNMM36tl10n2kcvpRO0kSwF6dz3EzJnTTKmQkey07PPP5VeZpn4XPzg-9YMRJfNe-8m6tOByGyxMq8g8tdxi_9tqJL6BFCS8UJVYEwhJqVIYEPa9j9Sc3B_saUnxZ5lzxzCA37v9S2_sknFkwiDTUdX5w9Z1XDb6_DL9yvDMjzT_8SnezCcrdwzYgYHSS3hwWmITaYg.jpg"
+      }
+    },
     {
       "id": "4680",
       "title": "https://okara.ai/launch-library #growth",
