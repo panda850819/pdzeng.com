@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:19:27.000Z",
+  "updatedAt": "2026-08-25T15:43:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,62 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4702",
+      "title": "https://x.com/mev15_eth/status/2092228360571150450",
+      "description": "https://x.com/mev15_eth/status/2092228360571150450",
+      "url": "https://t.me/pdzeng_talk/4702",
+      "publishedAt": "2026-08-25T15:43:45.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/mev15_eth/status/2092228360571150450",
+        "siteName": "X (formerly Twitter)",
+        "title": "青十五 (@mev15_eth) on X",
+        "description": "零经验开始创办一家量化交易公司【译文】",
+        "imageUrl": "https://cdn4.telesco.pe/file/YkYMR-XdpFdWuoXw3-PkyOFkpGujnEnY6xlli9gF3BiScYRBdb6beN2jl5_2pQBDosP7-uZd7Dur1lWXg7fiFoOpnzG-MHPwNuT-Wvyf9HWOpK6u_KH2TUKnuYEM47GacmJnCqvVS36clZxLk0JT1dg7I2UTmwP02C8VCaYgRHwoYaINpoYWuMxBc7BRgZQvonfagqjApLR5HDsrP_AgFW5byKQUGSWStW4E4SJEzhim-6_rpgAqe8XsbFRoz7de33aJciPu-4NM-NJgrwIh6ndHRVGpxRr_-gfY3MUbbE-zLSDgI0mOwFN78_ZMu_9KFrtvIe8oy30cN7bxeHzbBg.jpg"
+      }
+    },
+    {
+      "id": "4701",
+      "title": "b-nnett/grok-bot-0 🔗 https://github.com/b-nnett/grok-bot-0.18-reconstructed #github",
+      "description": "b-nnett/grok-bot-0 🔗 https://github.com/b-nnett/grok-bot-0.18-reconstructed #github",
+      "url": "https://t.me/pdzeng_talk/4701",
+      "publishedAt": "2026-08-25T15:41:34.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+        "siteName": "GitHub",
+        "title": "GitHub - b-nnett/grok-bot-0.18-reconstructed: Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+        "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS - b-nnett/grok-bot-0.18-reconstructed",
+        "imageUrl": "https://cdn4.telesco.pe/file/ChubEGKWS7x9WxmBDsRav1Uw9OD-la-YTUEw93cLwb6LyXi7iy3nKPueAETntsb3bG1d61XjF2-V-8jPvXYXuKzrYRJXaH6jMI39XGwBerpqQYIyTEiwLIR0GUDMa-l7FxURAlZVtx9NnF9JjNoadl-qtFpiIo_GBk79_T9KMh3NU1Pi-Jp-QMHW9RBx0pI-GcrvO79mmLrmGvhQ3AEkOnUUg10KBRGbQ-LlU1BbAIcpW2zvS-7uS8hU4eBv-b9CLxQdmtA4P3qj4WoZNUZ2Q9uh7Sp9-TvkkHvJT-HZewKWlpxxEBfwUMmyGJDZjqAtPUe4QMhrK8FSB6LVQBLw4Q.jpg"
+      }
+    },
+    {
+      "id": "4700",
+      "title": "https://x.com/brucexu_eth/status/2092150459096310188",
+      "description": "https://x.com/brucexu_eth/status/2092150459096310188",
+      "url": "https://t.me/pdzeng_talk/4700",
+      "publishedAt": "2026-08-25T15:38:16.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/brucexu_eth/status/2092150459096310188",
+        "siteName": "X (formerly Twitter)",
+        "title": "brucexu.eth (@brucexu_eth) on X",
+        "description": "套利共学｜套利周会记录：从 Taoli Tools 实操、TUT 爆仓和捡尸体到链上机会发现经验",
+        "imageUrl": "https://cdn4.telesco.pe/file/jxdj1lQvHEstU0mz7ccd-VDpg6kcVdx_yeiCBIA0FvIFSwvRpbnv4awhmbBkuzITtl9ib2XV6zgGdRahQC61MmdfK0KlUsgnMotw0xpuhYOJasJTb4iwtGuf887HWxQSqZU4RVtMDM1qi6ygsJLZd6lfNCOfMIZQJ5NEcLkuEYY8WJ67WXwSfpIjo5T_AtOVnQpmYQKyTZoPdOSTkB7TO7is1m_v2MLvHk6H6rAYajpevbw8MHNwEA7Lm3EEB8s1K3Y5Jq4VF1I1nbMKbDFtC0z06kwkwVjamnPRyGWMSSEqJRkSSLQAYPpGiESXCXoMHp1sEPO6AWl4GxjWW8HuBA.jpg"
+      }
+    },
+    {
+      "id": "4699",
+      "title": "FradSer/pi-packages 🔗 https://github.com/FradSer/pi-packages #github",
+      "description": "FradSer/pi-packages 🔗 https://github.com/FradSer/pi-packages #github",
+      "url": "https://t.me/pdzeng_talk/4699",
+      "publishedAt": "2026-08-25T15:35:36.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/FradSer/pi-packages",
+        "siteName": "GitHub",
+        "title": "GitHub - FradSer/pi-packages",
+        "description": "Contribute to FradSer/pi-packages development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/FkRIVqm1zAyioP5ur8od6MnridHjbcNYFuv3_LRg4o2k-KvGGSzwxAt3A1zQGjJg9ALXhGkWamyglwFqgYWq_LlzxUSCdCAd0kNkstIOpoz83EBOWwP7PydHt30dPsqdxtRt9v4YunaVrjY8r6955oruhWVsX_AgjYOH6QkLWhpWRBeY8a85zq-3j4P3tqSseto7VFWnYp2EjNXgVbOFpEGVtz6AU9ajWdZ0S-pd0fgir8j-MCmP5YcuPN5mP4gHfV773eE5uY11foirA-6ujtZLg-NFaCNyOdbCOgkA0nyfTjguKg2e6v_DJ9s80c4wgcWjsFqoHxeBpo8wRslGAA.jpg"
+      }
+    },
     {
       "id": "4698",
       "title": "https://x.com/entropyIO",
