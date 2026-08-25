@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T09:43:32.000Z",
+  "updatedAt": "2026-08-25T13:28:13.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,55 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4695",
+      "title": "https://square.lndevui.com/",
+      "description": "https://square.lndevui.com/",
+      "url": "https://t.me/pdzeng_talk/4695",
+      "publishedAt": "2026-08-25T13:28:13.000Z",
+      "preview": {
+        "targetUrl": "https://square.lndevui.com/",
+        "siteName": "Square UI",
+        "title": "Square UI — Open-source shadcn/ui layouts and templates",
+        "description": "A growing collection of beautifully crafted open-source layouts and templates built with Next.js, Tailwind CSS and shadcn/ui — copy, paste, and ship faster.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Oia4-RB4nld-4gMifqxGUp_6zbE06GIt_1k_Hl_-QHxS0gbfVoZ-Hplmr7__hHNky2-rR2NSAzZidhSskIKOM_01WlN0-Xp17zI8tY-kk7fczWO_yKnBLH3Oq8lJ9BFTORgYozSFBaw0gWXh5b13V5Xx7d37elxhqvo-EBJWzsHig0e2r4ZIFnm0FMip_weDjiDHHh3JTaghvM-fSlHQxAbB7QHLzNME1shAVQKzTltqVsun0Q2PDS_6ReG-XC-BZnK5l0l8q-AMY4fhQ11t0tVJcwBboZMpdm5-da6_AU_00F8AwIsAELuGUFDO2uKG91EhYZA66CEvEsJo4ZHnVw.jpg"
+      }
+    },
+    {
+      "id": "4694",
+      "title": "https://www.openstatus.dev/",
+      "description": "https://www.openstatus.dev/",
+      "url": "https://t.me/pdzeng_talk/4694",
+      "publishedAt": "2026-08-25T13:26:18.000Z",
+      "preview": {
+        "targetUrl": "https://openstatus.dev/",
+        "siteName": "www.openstatus.dev",
+        "title": "https://www.openstatus.dev/",
+        "description": "Ship your status page before your SOC 2 auditor asks for it. Communicate incidents, prove compliance readiness, and monitor uptime from 28 global regions. Open source and free to start.",
+        "imageUrl": "https://cdn4.telesco.pe/file/QYY9Znc_guwjkRDi01W5tN4oYAKWnodwjqV4miaXKQZh52XNqJkPScD3eZaJI_VvWg1d_GFAccVpBfLjYQsAQraHOIzTUo1Cyw4Jh3E8mVQNOAE5sx4DFic51FQFKh455lJ_sF1oGI291LjT6lRElDJTJ9mR4FpqG_4I9rRlFbw-sOGfDrPao5y6ZeLQGBjTAHtq4QfFPLnToTvgutXQvcXikyANlnv7lJgswxZFk_gp8OesaF51rgTRP8B4eTvcjn4qSv25HJk1YolYE9zKLaQq8XahYEwaseTcAlfx_36kaxRyK6xYZPBWo8pIhZxqgnnvsOA77zkEtuCrmTc7DQ.jpg"
+      }
+    },
+    {
+      "id": "4693",
+      "title": "離職後，同事或朋友問我的下一步，我通常都會說變得更健康 然後我會想以我自己出發，做一些我覺得有趣的題目或是分享 像我現在做的 curio 我就覺得很棒，儘管是沒有美感的我，也可以在體驗上感受很…",
+      "description": "離職後，同事或朋友問我的下一步，我通常都會說變得更健康 然後我會想以我自己出發，做一些我覺得有趣的題目或是分享 像我現在做的 curio 我就覺得很棒，儘管是沒有美感的我，也可以在體驗上感受很好 一個單純的 rss 閱讀器，然後開通接口讓 agents 讀寫，就能夠協助幫忙訂閱跟更新狀態，適時地轉發做成圖片，太好了 ☺️",
+      "url": "https://t.me/pdzeng_talk/4693",
+      "publishedAt": "2026-08-25T13:13:33.000Z"
+    },
+    {
+      "id": "4692",
+      "title": "https://x.com/yetone/status/2092167573483971022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 原生家庭的痛：post-traini…",
+      "description": "https://x.com/yetone/status/2092167573483971022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 原生家庭的痛：post-training",
+      "url": "https://t.me/pdzeng_talk/4692",
+      "publishedAt": "2026-08-25T13:04:53.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/yetone/status/2092167573483971022?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "yetone (@yetone) on X",
+        "description": "所以我的 AGENTS .md 里只有一句话：会好起来的",
+        "imageUrl": "https://cdn4.telesco.pe/file/AK6sYI6BJCwMa37NIV8ECwRkYtvNYEIoHoncR4ryVz14XKqo2Uda7lEzrxwiBnK7NyWJRKVEJRmpaQFjRhkl1vFxp6c8XyJB0NfQBUMvz8Rgth_xJKtyiKawBpjP3hkLk2DCrA-OIJrW5Sl6mNB7p3VO8etv_fBIJMwZ_u8kHiYivV84w2LnfVS4teWnrYclEdxPiayN8GGXYNU3SijjnNTpmDjx22YoSoiFXO4P7ifxIpnfWmT8wzPQcRG9noxrVA8-R6ifG1Sh-oLTUATz9OCmUwLW_6V2OJ-gpNMAFQ69Ky_FqAwaQoXv9gYP3xy2W116KN5fj2vqFg4BcP6bnQ.jpg"
+      }
+    },
     {
       "id": "4691",
       "title": "剛剛突然想到我還有網域在 godaddy :/ 這也太坑了，轉移到 cf 只要 10u 大概是半價或是 6 折",
