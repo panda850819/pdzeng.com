@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:35:02.000Z",
+  "updatedAt": "2026-08-25T15:19:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4698",
+      "title": "https://x.com/entropyIO",
+      "description": "https://x.com/entropyIO",
+      "url": "https://t.me/pdzeng_talk/4698",
+      "publishedAt": "2026-08-25T15:19:27.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/entropyIO",
+        "siteName": "X (formerly Twitter)",
+        "title": "entropy.io (@entropyIO) on X",
+        "description": "Trade the frontier.",
+        "imageUrl": "https://cdn4.telesco.pe/file/MbGhzwJyCZqmTfJYT4rfh6fOnywpG5YFmwmf1XCIVlFKnAtsYvdr91kVcbaj5SpxGGt1Y6WC4jApdNlAcy0kMP9Fg2mhOaPYIon52sBf2RYIWnYmi1xD_gObeWXZ1kfP7YkAWnegPAJV_sRBJkHZTkLPaemluRHVuPfzVu67NyM_24NGcmgw4IHIZmjBO4XizyE32QFIHNR3nj96EpRsZ6OWqH1FMtJVa9k2msXPqF01eRlHK9oVtR0_hkfPhHYXxthabTKFe2GNrX8i35mG5AsivLO41LPCrTJ8y_39QebXarpSJETaGxJJSB0wru0IWICdBnQbvLJ2rq7u7rmmsA.jpg"
+      }
+    },
+    {
+      "id": "4697",
+      "title": "herdr 的體驗確實比起 tmux 跟舒服了點，搭配 kaku 整體看起來都很舒服 工作心情賊好",
+      "description": "herdr 的體驗確實比起 tmux 跟舒服了點，搭配 kaku 整體看起來都很舒服 工作心情賊好",
+      "url": "https://t.me/pdzeng_talk/4697",
+      "publishedAt": "2026-08-25T15:03:10.000Z"
+    },
     {
       "id": "4696",
       "title": "啊？ https://health.tvbs.com.tw/nutrition/365460",
