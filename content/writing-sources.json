@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T07:43:24.000Z",
+  "updatedAt": "2026-08-25T09:43:32.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4691",
+      "title": "剛剛突然想到我還有網域在 godaddy :/ 這也太坑了，轉移到 cf 只要 10u 大概是半價或是 6 折",
+      "description": "剛剛突然想到我還有網域在 godaddy :/ 這也太坑了，轉移到 cf 只要 10u 大概是半價或是 6 折",
+      "url": "https://t.me/pdzeng_talk/4691",
+      "publishedAt": "2026-08-25T09:43:32.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4691",
+        "siteName": "Telegram",
+        "title": "剛剛突然想到我還有網域在 godaddy :/ 這也太坑了，轉移到 cf 只要 10u 大概是半價或是 6 折",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/o0S6xQbhNdhzcSIXYGcu2GOL5JKi-xd4RjcaV0loNMyjudHIa51Ge8VflfTxIXTWqG1QgfC76fpWv1s_s_Vuxvb5LKIXCniD7QZpTuWuh1ZKeqXJ6NiFtUL-Z9N_ZYiL0D55OfJfbr8OGljEGFGuwFkD_zzM5wBj76bBZ0TZUh7Wa1eEeaoDHLRausI6waImqQ_nq4Cy_Emrx2oIsPSdkLICSFQe2pO6oeP-INU6MRnwreu8f6CTpzAR8ETN5kHwHnQctFozV1IHuS1HDAFVcFWKYOOGcv681DxhTzceMJa2c9pD-27TAouc1lsYulIxBLHpFAuzx-q6NyB-R8xmMw.jpg"
+      }
+    },
     {
       "id": "4690",
       "title": "https://zhenjia.dev/posts/the-deepseek-of-deepseek-harness",
