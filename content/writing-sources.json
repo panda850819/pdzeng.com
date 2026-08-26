@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:21:49.000Z",
+  "updatedAt": "2026-08-26T11:34:31.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4716",
+      "title": "做了个好玩的二维码工具 https://tree.ssgoo.net/",
+      "description": "做了个好玩的二维码工具 https://tree.ssgoo.net/",
+      "url": "https://t.me/pdzeng_talk/4716",
+      "publishedAt": "2026-08-26T11:34:31.000Z",
+      "preview": {
+        "targetUrl": "https://tree.ssgoo.net/",
+        "siteName": "tree.ssgoo.net",
+        "title": "Magic Tree QR — 3D 二维码艺术生成器",
+        "description": "将任意链接转换为可生长的 3D 艺术树与高可识别度二维码。"
+      }
+    },
     {
       "id": "4715",
       "title": "https://x.com/BarrettDream/status/2092402857433841852 白嫖 kimi k3",
