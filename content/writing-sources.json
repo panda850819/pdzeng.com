@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T00:15:41.000Z",
+  "updatedAt": "2026-08-26T00:46:47.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4706",
+      "title": "https://herdr.dev/docs/agent-skill/",
+      "description": "https://herdr.dev/docs/agent-skill/",
+      "url": "https://t.me/pdzeng_talk/4706",
+      "publishedAt": "2026-08-26T00:46:47.000Z",
+      "preview": {
+        "targetUrl": "https://herdr.dev/docs/agent-skill",
+        "siteName": "herdr",
+        "title": "Agent skill file",
+        "description": "Install Herdr instructions for Claude Code or another coding agent.",
+        "imageUrl": "https://cdn4.telesco.pe/file/OYIzfu_ahUXAjyLoCEosOi2O1_JiVhYkDbee-4dwJ2wmVhUWhsqFLdF2L5h1s1zYBr4sFJ50vXp6b-uo6D66aR1oCdl4-yeOhiAGOtH6xQJSuCvu1PE3iIh64EHbYGVvc2uxwr5HCB80ctaz0gkao-8HlBjZTrnDWLNmVcKW4-XhHpgalNoFR4qExmm_kcdDfXJfoc8Mrfd4yaiEOKg2jSY9gFTV0b9heR1tV1IEYudNWOcpz_T2mYQ09WJ9gGAxaWAYr50nbwn2VFquk71CX0irmCGi69JwCSd1aziY2xDXSS6RmEIx2dDLRZI9XCm-91ClFfL-Ez_V2jJrisLN5w.jpg"
+      }
+    },
+    {
+      "id": "4705",
+      "title": "等等要去吃公司送別會ㄌ，出門前先有氧一小時吧 Q_Q",
+      "description": "等等要去吃公司送別會ㄌ，出門前先有氧一小時吧 Q_Q",
+      "url": "https://t.me/pdzeng_talk/4705",
+      "publishedAt": "2026-08-26T00:44:42.000Z"
+    },
     {
       "id": "4704",
       "title": "▶️ 曹氏宗親會到處集結，人類到底對“人妻”有什麼執念？ #youtube https://www.youtube.com/watch?v=J34nV_Hg72M",
