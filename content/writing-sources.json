@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:34:31.000Z",
+  "updatedAt": "2026-08-26T13:40:13.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4717",
+      "title": "今天跟同事聊到一些關於行事曆與會議的事情。 假設每天正常工時是 8 個小時，理論上就該在行事曆上 book 好各種工作時間，例如 focus time、During time、availabl…",
+      "description": "今天跟同事聊到一些關於行事曆與會議的事情。 假設每天正常工時是 8 個小時，理論上就該在行事曆上 book 好各種工作時間，例如 focus time、During time、available time 等。另外，工作上也需要建立邊界感，像是打電話、text 我時，應該要怎麼樣跟我合作或溝通。把「個人使用說明書」這類原則建立清楚，對未來跟遠端或跨部門團隊協…",
+      "url": "https://t.me/pdzeng_talk/4717",
+      "publishedAt": "2026-08-26T13:40:13.000Z"
+    },
     {
       "id": "4716",
       "title": "做了个好玩的二维码工具 https://tree.ssgoo.net/",
