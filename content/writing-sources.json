@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:02:54.000Z",
+  "updatedAt": "2026-08-26T07:01:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4713",
+      "title": "getagentseal/codeburn 🔗 https://github.com/getagentseal/codeburn #github",
+      "description": "getagentseal/codeburn 🔗 https://github.com/getagentseal/codeburn #github",
+      "url": "https://t.me/pdzeng_talk/4713",
+      "publishedAt": "2026-08-26T07:01:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/getagentseal/codeburn",
+        "siteName": "GitHub",
+        "title": "GitHub - getagentseal/codeburn: Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code…",
+        "description": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn - getagentseal/codeburn",
+        "imageUrl": "https://cdn4.telesco.pe/file/jG0xF4A6_ngDQByJbkUniFk8RYuqrx3Er66ADUPGkYX7qaFCzsMqkkYlCY-KtwZ2Rj0v5cJDBZ31LQWLqM5mSir9RdEM4qAwI0YAs_C3M-Mw4sz076nJwTceWIOp2fu95QSdNsedS1ZwGnBaPFLMXRTNO032q9sODOxXtJhuPVIaUcAV-vOgicxa6LqS6vGSm8kPjRIMg_AQNzcDEggXtUV-kAbZqxnHib9NDxMOjOk1Xa_9YkBSNblhVvjrPjW6IKCzDQkgNfSFU_hsEVK66RO5nzEWifhkceZcbmCXZdbraaK_MLV1svhtZF6A3UtBCTP26s1oAkd_npNBchfSiA.jpg"
+      }
+    },
     {
       "id": "4712",
       "title": "拾跡 · Vincent’s Substack Vincent Cheng-Wen Yu 余鎮文 · 2026年8月26日",
