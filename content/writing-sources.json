@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:40:13.000Z",
+  "updatedAt": "2026-08-26T14:00:48.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4718",
+      "title": "更舒服了，Hermes 透過 Herdr Skills 就可以透過 Hermes 管理 Herdr 上的 Agents 狀態了",
+      "description": "更舒服了，Hermes 透過 Herdr Skills 就可以透過 Hermes 管理 Herdr 上的 Agents 狀態了",
+      "url": "https://t.me/pdzeng_talk/4718",
+      "publishedAt": "2026-08-26T14:00:48.000Z"
+    },
     {
       "id": "4717",
       "title": "今天跟同事聊到一些關於行事曆與會議的事情。 假設每天正常工時是 8 個小時，理論上就該在行事曆上 book 好各種工作時間，例如 focus time、During time、availabl…",
