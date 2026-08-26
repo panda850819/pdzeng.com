@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:00:48.000Z",
+  "updatedAt": "2026-08-26T23:27:55.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4720",
+      "title": "https://youtube.com/playlist?list=OLAK5uy_kkTQwYaiPG7MpPbOY3KkgGalAdX9wTvMg&si=C3eSbcAUeP7uA5KO…",
+      "description": "https://youtube.com/playlist?list=OLAK5uy_kkTQwYaiPG7MpPbOY3KkgGalAdX9wTvMg&si=C3eSbcAUeP7uA5KO 這是我的神",
+      "url": "https://t.me/pdzeng_talk/4720",
+      "publishedAt": "2026-08-26T23:27:55.000Z"
+    },
+    {
+      "id": "4719",
+      "title": "▶️ 麻枝 准×やなぎなぎ「無敵のSoldier」 #youtube https://www.youtube.com/watch?v=s5_quqY91iY",
+      "description": "▶️ 麻枝 准×やなぎなぎ「無敵のSoldier」 #youtube https://www.youtube.com/watch?v=s5_quqY91iY",
+      "url": "https://t.me/pdzeng_talk/4719",
+      "publishedAt": "2026-08-26T23:21:41.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=s5_quqY91iY",
+        "siteName": "YouTube",
+        "title": "麻枝 准×やなぎなぎ「無敵のSoldier」",
+        "description": "麻枝 准×やなぎなぎによるオリジナルコンセプトアルバム「終わりの惑星のLove Song」２０１２年４月２５日リリース！ そのミュージックムービー第三弾です。 無敵のSoldier Lyrics & Music:麻枝 准 Vocal & Chorus:やなぎなぎ Arrangement:高橋 浩一郎 Illustration:浜弓場 双 Movie:yama_ko 公式サイト:http://flaming-june.com/001/lovesong2 公式ブログ:http://flaming…",
+        "imageUrl": "https://cdn4.telesco.pe/file/r25jL29ShKcW-4_99xDO6cpYPBLt2pbV-APBLyKXDpiUXWAKjz3cOhEfdnn89-KcKBkoZ9JY3WWJAcK87DWjH1rfzIpMuoVuH6JRbK9wD9v-_jKidi8YNLv0R_h5CxkcwBS03qDE5wTZERKpAO1Kcs89_-Wg7qTlxM9nlMB2AjasUn5mRZiIURYCTvXBOsKpCoDTPFcCcRz87wxVOOrcIazJoEOwp_02emM11dNng7YUrHqCOGUKAWe67ruV0hEby5UhqoGbSQ-9mmP-RgLOFypMNatq6Npq6rUtvcgmzehbhuk9-hSPrv_IU5kJvISJxBxeUnKSEwO-tstZhxmJIw.jpg"
+      }
+    },
     {
       "id": "4718",
       "title": "更舒服了，Hermes 透過 Herdr Skills 就可以透過 Hermes 管理 Herdr 上的 Agents 狀態了",
