@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:01:35.000Z",
+  "updatedAt": "2026-08-26T07:21:49.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4715",
+      "title": "https://x.com/BarrettDream/status/2092402857433841852 白嫖 kimi k3",
+      "description": "https://x.com/BarrettDream/status/2092402857433841852 白嫖 kimi k3",
+      "url": "https://t.me/pdzeng_talk/4715",
+      "publishedAt": "2026-08-26T07:21:49.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/BarrettDream/status/2092402857433841852",
+        "siteName": "X (formerly Twitter)",
+        "title": "霹雳游侠 (@BarrettDream) on X",
+        "description": "sk-kimi-vGV9uazZ1SUNbOkPUayffKyErnZFhL3RoR91fctNUgooRkut9sauBgUpMpC7cLeV sk-kimi-ytS1FLTRK71gaOwDsO02ShUjV6VLFu5sctsvzEx2k2QgxWKrRsychMtdLTzXdwui 送2个Kimi的coding plan api给X上的推友体验 月度套餐是真用不完 明天才到期 不…",
+        "imageUrl": "https://cdn4.telesco.pe/file/ltsYYACTEf_72Ajju8dOqH9aKkzwH7kWotgF5bLN2td4EOOshazxMHukUjmVBdKC9-XrhowfJH0AJaelWn-kfZACx2xPmug3udV6BQHHWucYTy9QOrKOa_ZetfnJDHIgvjHq2WMDQB3JMJQ_Rxmc-nHBDtiCT5DfCJQrLNhkOQ6i2u1OChIyssPO20LMifROWsKFL6Y5cjoB2PTHaqlFTM6RXY1ctNlJogwjYHn-wAQEsIIfpEFAQkN86CBNu6AHLDzStea_KWGFjuc_ACx8kB8GxGvDs3Vyq4TCE6sKpINo0Mqg25a3AN-0beRL07QcjI676FE2L2FXWTTWSmqQgw.jpg"
+      }
+    },
+    {
+      "id": "4714",
+      "title": "Hermes Agents 的幹活時間，老實說有點太多 XDD",
+      "description": "Hermes Agents 的幹活時間，老實說有點太多 XDD",
+      "url": "https://t.me/pdzeng_talk/4714",
+      "publishedAt": "2026-08-26T07:10:34.000Z"
+    },
     {
       "id": "4713",
       "title": "getagentseal/codeburn 🔗 https://github.com/getagentseal/codeburn #github",
