@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:27:07.000Z",
+  "updatedAt": "2026-08-26T02:41:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4711",
+      "title": "https://bunca-ai.com/",
+      "description": "https://bunca-ai.com/",
+      "url": "https://t.me/pdzeng_talk/4711",
+      "publishedAt": "2026-08-26T02:41:50.000Z",
+      "preview": {
+        "targetUrl": "https://bunca-ai.com/",
+        "siteName": "Bunca-Ai",
+        "title": "Bunca 我的 AI 用卡回饋神隊友！",
+        "description": "拿得剛好，讓每筆消費變成你的無腦現金流",
+        "imageUrl": "https://cdn4.telesco.pe/file/rgbQlIInXK7J7VNzO6zaQf7jhSbfcs8opON8L4HUNG1vt7xADdrfxB2V0HU6dOSHgL027lbN3gBhAgFkaQ5u_usAll3famsk2a7yG0H15wHjYhDefYJ0rkbgsc-wz4ouSOYgmCcxNK_yAIUq9C5jEuhT75foiam8IQKNSS6lM3b1GQ8YKU5skciGFvvnctNr9DWDzdww6qMFIamWBDemD8NQqX1QJU5_x2QwwpW7zmBekjrwq4Up6mpz4M7ix0ymCAG6ZKHF3CBRJUBCLR1wAwELSwqGMXiEp8R3QuWKuQ9hKqC1ClVeUfhQa0D0gkUBzJNusLlVY0SUj4iAljfKbg.jpg"
+      }
+    },
     {
       "id": "4710",
       "title": "https://x.com/daluoseo/status/2092406101342061014 是这样的，很多来找我咨询的初创企业，我都不建议他们把主要的力气放在 search 上面。 其…",
