@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:14:33.000Z",
+  "updatedAt": "2026-08-27T14:49:13.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4725",
+      "title": "https://vps.taipei/",
+      "description": "https://vps.taipei/",
+      "url": "https://t.me/pdzeng_talk/4725",
+      "publishedAt": "2026-08-27T14:49:13.000Z",
+      "preview": {
+        "targetUrl": "https://vps.taipei/",
+        "siteName": "Taipei101 IaaS",
+        "title": "Taipei101 IaaS - Premium Virtual Machine Hosting",
+        "description": "Professional Infrastructure as a Service platform. Deploy and manage virtual machines with ease.",
+        "imageUrl": "https://cdn4.telesco.pe/file/P6w4Qrx1NbZ5t48kd8rFfqwAMYwzoDtFLz604c8FYoK-gmLJyccchqg8gEZ0SJ2LztAej-v7JWobDp3mRcnTyxxl8fSvJiwfM9H5CrXmdhxu-LSWC5qjkXcQ6fhblwFIxCeyVB8EwGguk6rxkRaGdR7Ee-zxLsXZ5ElFApBq8UlpuXtmqhVWb8Tmy5FQeS8NYIQxeJaIy6eg-z16Cz2y5BFiOG2kjTP-FQtwz6alu_NyuWMN9mL70PrdFXTmis0kMXTLovaLLBJ1rUC_iKXPVs5CTevAi3rzfwequUARWolpoN0yPuJTTvm1d9_NpW-d3SmwDGbPU6_wIHBz647dzw"
+      }
+    },
     {
       "id": "4724",
       "title": "https://www.lumar.io/",
