@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T01:21:18.000Z",
+  "updatedAt": "2026-08-27T13:52:37.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4723",
+      "title": "孫 🈹 是真的牛逼",
+      "description": "孫 🈹 是真的牛逼",
+      "url": "https://t.me/pdzeng_talk/4723",
+      "publishedAt": "2026-08-27T13:52:37.000Z"
+    },
     {
       "id": "4721",
       "title": "AWS收購了DuckDB開發商DuckLabs。 https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
