@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T13:52:37.000Z",
+  "updatedAt": "2026-08-27T14:14:33.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4724",
+      "title": "https://www.lumar.io/",
+      "description": "https://www.lumar.io/",
+      "url": "https://t.me/pdzeng_talk/4724",
+      "publishedAt": "2026-08-27T14:14:33.000Z",
+      "preview": {
+        "targetUrl": "https://lumar.io/",
+        "siteName": "Lumar",
+        "title": "Lumar – Website Optimization Platform for SEO, AI Search Visibility, Site Speed, A11y, & More",
+        "description": "The ultimate website optimization platform with tools for tech SEO, GEO, web accessibility, site speed, & more, built for enterprise scale."
+      }
+    },
     {
       "id": "4723",
       "title": "孫 🈹 是真的牛逼",
