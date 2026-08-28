@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T09:14:34.000Z",
+  "updatedAt": "2026-08-28T14:42:43.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,20 @@
   ],
   "telegram": [
     {
+      "id": "4731",
+      "title": "▶️ 從零開始訓練一個大型語言模型 ｜ Stanford 公開課 ｜上集 #youtube https://www.youtube.com/watch?v=XDy8topNXcc",
+      "description": "▶️ 從零開始訓練一個大型語言模型 ｜ Stanford 公開課 ｜上集 #youtube https://www.youtube.com/watch?v=XDy8topNXcc",
+      "url": "https://t.me/pdzeng_talk/4731",
+      "publishedAt": "2026-08-28T14:42:43.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=XDy8topNXcc",
+        "siteName": "YouTube",
+        "title": "從零開始訓練一個大型語言模型 ｜ Stanford 公開課 ｜上集",
+        "description": "大家好，我是 Jim，這裡是 AI Notebook。史丹佛有一門公開課，叫 CS336，從第一行程式開始，帶你把一個語言模型從零蓋出來。整門課有二十講左右，我會分成上中下三集講完，今天是上集，內容是前六講。這六講講一件事，成本。訓練一個模型要跑幾天，一張顯示卡塞得下多大的模型，這些聽起來很內行的問題，答案其實都只是幾個乘法跟除法，可以在一張餐巾紙上算出來。你也會發現一件很反直覺的事，這整條路上的瓶頸，幾乎從來不在你以為的那個地方。 📎",
+        "imageUrl": "https://cdn4.telesco.pe/file/pf1uBKniP90P6jag5zB9_Xp3wWnTZzSA2QnIswKOsBeHAJneo0jN8gOMrUFuwRUSIoGVOkj-sxekQDsytBK3Ihq6b98Hvkhz4ZfqZzMepyykmoTJG-THX7W64s4sRFjiHkCgNGnM7C4_WC3daAc2hA2Doi_DMl1Gz9gi3zPPtvbqmiWzHV8qjDgWLYQxHRaLh_wj9B9eAq3-YuG5_BDTFO5oFb_hjbK2CWu82pL6xjlCLHgrwFJVKhF3RKpLjTgXexmdYhVc46YMW6ZAjgz6ImQGOj7X_Cx6MuqUf7mEO42lUiVXmgBWjJCb_1ZguS1cVqjPi2cALqKROh2NnJmiQQ.jpg"
+      }
+    },
+    {
       "id": "4730",
       "title": "your-quantguy/entropy-arb 🔗 https://github.com/your-quantguy/entropy-arb #github",
       "description": "your-quantguy/entropy-arb 🔗 https://github.com/your-quantguy/entropy-arb #github",
@@ -196,7 +210,7 @@
         "siteName": "Taipei101 IaaS",
         "title": "Taipei101 IaaS - Premium Virtual Machine Hosting",
         "description": "Professional Infrastructure as a Service platform. Deploy and manage virtual machines with ease.",
-        "imageUrl": "https://cdn4.telesco.pe/file/P6w4Qrx1NbZ5t48kd8rFfqwAMYwzoDtFLz604c8FYoK-gmLJyccchqg8gEZ0SJ2LztAej-v7JWobDp3mRcnTyxxl8fSvJiwfM9H5CrXmdhxu-LSWC5qjkXcQ6fhblwFIxCeyVB8EwGguk6rxkRaGdR7Ee-zxLsXZ5ElFApBq8UlpuXtmqhVWb8Tmy5FQeS8NYIQxeJaIy6eg-z16Cz2y5BFiOG2kjTP-FQtwz6alu_NyuWMN9mL70PrdFXTmis0kMXTLovaLLBJ1rUC_iKXPVs5CTevAi3rzfwequUARWolpoN0yPuJTTvm1d9_NpW-d3SmwDGbPU6_wIHBz647dzw"
+        "imageUrl": "https://cdn4.telesco.pe/file/Lkc34BOGAhxUyMynipxWV3cYJiRo7BTuZ1f1gw4oOC-P6BrKogseXGxaYd6BcqQaOBSqCuCaDMGDyDVUlt1B9SPD79SwIyL4FITMZOLbWca8DJOwJ7wPEYVxJtu_S1F9assPx6cYX0tTh_AP_wpFZ3MEpJyD8uP59ykm_yCALG2UFHHrmmPuXh8lSMhhMZcjnT1jDQ6hJaoPqFBkvnUes6b_wwcSkTYZjwNP5IaRPZe1j-Wtez9QNs9E4WME3PafnFCY1oZdL0syqiGxfaiNeQfDQBbDx6acURR-aR6gkQqnZ5dBsSKalrXUnpzz5BYpWAPEr3oBpkk5gdDP8rURDg"
       }
     },
     {
