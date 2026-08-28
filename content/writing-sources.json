@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T14:42:43.000Z",
+  "updatedAt": "2026-08-28T16:01:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4733",
+      "title": "LodyAI/Lody 🔗 https://github.com/LodyAI/Lody #github",
+      "description": "LodyAI/Lody 🔗 https://github.com/LodyAI/Lody #github",
+      "url": "https://t.me/pdzeng_talk/4733",
+      "publishedAt": "2026-08-28T16:01:35.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/LodyAI/Lody",
+        "siteName": "GitHub",
+        "title": "GitHub - LodyAI/Lody: Share coding agents with your team on phone and desktop",
+        "description": "Share coding agents with your team on phone and desktop - LodyAI/Lody",
+        "imageUrl": "https://cdn4.telesco.pe/file/ZIehCBQvHznUbbsFubvUkaJWtT-YThCOSLgWIka71PVBVjyg5E2urytgkELLj5TY6F1KDg399jD5uidePUmgrr0al951xiZ9e3ROSqahGB2xav19qYvA7M5jIrdxs0NS-yb7Q05ydsRHuL1Yp4niAfc10XzEclmW4afP_7diWMfR4sRuYthcdw3RfLnQrKQ1l-ilp78FrDyopgakVaV54OP_-436We-bhTDaZ271UrBKm5kixxlv3dxoHGuXEgo3rv_sCwGk3rUM8HPNwRSMyWalgFn1n-MtA0yMtbEqzrC85klc4swmIvmfbT6b_RtVzAm4UQnd0vf2RrvmvRVmnQ.jpg"
+      }
+    },
+    {
+      "id": "4732",
+      "title": "https://stockanalysis.com/fundamental-chart/?p=PLTR~peForward~d~l~s&r=6M",
+      "description": "https://stockanalysis.com/fundamental-chart/?p=PLTR~peForward~d~l~s&r=6M",
+      "url": "https://t.me/pdzeng_talk/4732",
+      "publishedAt": "2026-08-28T15:47:39.000Z",
+      "preview": {
+        "targetUrl": "https://stockanalysis.com/fundamental-chart?p=PLTR~peForward~d~l~s&r=6M",
+        "siteName": "StockAnalysis.com",
+        "title": "Fundamental Chart",
+        "description": "Plot any financial indicator or metric on a chart. Useful for analyzing many data points for a single company and for comparing metrics across companies.",
+        "imageUrl": "https://cdn4.telesco.pe/file/riwPMqTvMu87dh4LE4T5CKe9tRJzv3GHLWFezWDVoYT9lHWpJJOF8nADMT1o9fbBeJ4YRcy2YsWRcw1fF4fyXj0OiHWw_NDYlTz8h3opEDVzGWkzddMeSqN3eKtDYcoD5C2SbFVVneLSsbmIC02rjq-Gbgz7jMBYm1kM9YUo934o9HHxxNR1cwnQPeVyBIOWaQNYEbWC5mX7doIMydVYVwyTgyTK33MnAuFoY6-UXbkoULEOufZp4TRcGxuix1sLfUgU__-90nLe7ydxnFxtL7j4MKxFShnEIlwBZI0JCTPCcMdbtfYiI5rCZSOHD5g_ulXf_Vf9hxgXzcZt0sqhmw.jpg"
+      }
+    },
     {
       "id": "4731",
       "title": "▶️ 從零開始訓練一個大型語言模型 ｜ Stanford 公開課 ｜上集 #youtube https://www.youtube.com/watch?v=XDy8topNXcc",
