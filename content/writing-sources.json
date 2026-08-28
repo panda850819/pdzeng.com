@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T16:01:35.000Z",
+  "updatedAt": "2026-08-28T16:03:25.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4734",
+      "title": "https://x.com/chasen_liao/status/2092963119337476137?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/chasen_liao/status/2092963119337476137?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4734",
+      "publishedAt": "2026-08-28T16:03:25.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/chasen_liao/status/2092963119337476137?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Chasen (@chasen_liao) on X",
+        "description": "当我从放弃 Claude Code 转向 Pi 并且搭建了自己的一套 Coding Harness 才知道什么叫做效率",
+        "imageUrl": "https://cdn4.telesco.pe/file/RqkEdTN5cAtJlR8Hq6yB4kA3Sk6BYuBDEk2WeFTKfdp1SSuFXhvNiMizx7sdFmowzlpedn33u-_huqxFR78M3fG8F9koi5R94Viu7OwJwS77O-kQXoCcirCGI7yu8j3iDQdRHRslrocl-sPL5LhH3r6Hobxdn12KDxnKcBhr4cMvFJUdT1q6n2VqRgRZio0mgNsQMDPCs3SRFNfEKkHYuyi701ADltdU-PK3ThE851wHyfsHxUGs7XTqB9fiHePzwqh_BR0fZEOZ-iQZ45ocumhrbalDhO_CEp0Z57WyK6r7d3SFIrpu9WQENpzXZo6_bND7LYyIw8AkYuFuUzN6uQ.jpg"
+      }
+    },
     {
       "id": "4733",
       "title": "LodyAI/Lody 🔗 https://github.com/LodyAI/Lody #github",
@@ -4207,7 +4221,7 @@
       "preview": {
         "targetUrl": "https://x.com/shirleyusy/status/2082885361454522568",
         "siteName": "X · @shirleyusy",
-        "title": "Shirley | AI & Crypto",
+        "title": "Shirley | AI",
         "description": "不要把所有冲突都当成“沟通不够”。很多时候，不是你没解释清楚，而是对方根本不在同一个规则里。\n\n你明明已经被消耗了，但还在试图通过“讲道理、解释、等回应”来换取一个体面的结果。\n\n但问题是，如果对方本来就不讲逻辑、不尊重你、不在乎关系的质量，你解释再多，也只是把自己继续留在消耗里。\n\n沟通之前，先判断对方有没有沟通资格。\n\n如果对方有善意、有逻辑、愿意承担责…"
       }
     },
