@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:49:13.000Z",
+  "updatedAt": "2026-08-28T00:39:38.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4726",
+      "title": "https://vgpu.sh/",
+      "description": "https://vgpu.sh/",
+      "url": "https://t.me/pdzeng_talk/4726",
+      "publishedAt": "2026-08-28T00:39:38.000Z",
+      "preview": {
+        "targetUrl": "https://vgpu.sh/",
+        "siteName": "vgpu",
+        "title": "https://vgpu.sh/",
+        "description": "The WebGPU library, designed for agents.",
+        "imageUrl": "https://cdn4.telesco.pe/file/YtaNlRDO8Q4zybsjiqs3-gpxEoy4ZwepPHQRLcJV9oceTONVdS5Sb4oU0je3Js8WN3GNALMfVC0mpFdexswpSu4TdyhxKy83g2pU79FBOoGSuAjw4nRw7qaeyGkWwSgV4LDsPZ6lOJmyiggiLkvH95x2McnHnvKqUz6r8NweTwwuDUvAFpdzRWdFt4G_qVvJDv9PF_-t4cRSd-K8Ix4fnWNr_6rXxu-rLrgHKO9OJq1JKDhLuT6_KYavVHkxEo2ZRMZMBNFrhZIDb5OW20EVXCbD7RxoetpFvYFLRIMr9ZIoLnG6vYuLhMru_caan0japV2ynMwDIM_hoiMdRowm8A.jpg"
+      }
+    },
     {
       "id": "4725",
       "title": "https://vps.taipei/",
