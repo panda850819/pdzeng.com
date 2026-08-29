@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T07:45:30.000Z",
+  "updatedAt": "2026-08-29T09:44:03.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4738",
+      "title": "https://capafy.ai/zh-hant/agent/hookace-前6秒留存預測與hook分析/3264203863",
+      "description": "https://capafy.ai/zh-hant/agent/hookace-前6秒留存預測與hook分析/3264203863",
+      "url": "https://t.me/pdzeng_talk/4738",
+      "publishedAt": "2026-08-29T09:44:03.000Z",
+      "preview": {
+        "targetUrl": "https://capafy.ai/zh-hant/agent/hookace-%E5%89%8D6%E7%A7%92%E7%95%99%E5%AD%98%E9%A0%90%E6%B8%AC%E8%88%87hook%E5%88%86%E6%9E%90/3264203863",
+        "siteName": "capafy.ai",
+        "title": "HookAce — 前6秒留存預測與Hook分析 - Capafy",
+        "description": "分析任何影片的前6秒，取得逐秒留存預測，了解觀眾為什麼繼續觀看或直接滑走，並獲得可立即執行的開場 Hook 優化建議。所有結果皆由 AI 產生，並參考真實影片留存資料進行校準。",
+        "imageUrl": "https://cdn4.telesco.pe/file/HEt1N1iLMaeQV5CBB8AFfdZr9vYw0YG0GVeYfHL2bSyedRzk7T3I_8hCLlspsueaEFSEyDPu5WzT_6Hmz5KkIxtELj8rMh9M6cCJMV7gKNY6u17JHFIg6iDh1hd6fWakZ_cBtsQ-Kf4h9xnpXB_WkcBZrblW8ovtW0Lhcnq9VIy5mmvkwuzs8baKXDVTBYYGkV63JldkFiG7jcxYIp-7hXS3HkLEAJkqbNMsxwNIeu6PpWi-DuEZao0eaz6Viyk-LWVCPVh9hJvWNwGCNafhEnCOY3EQMSe46HkzqTZo3G3BfuzmHkMPudeNAE_fyuQuj1zcQFF6PFNDRLi4nMQIsw.jpg"
+      }
+    },
     {
       "id": "4737",
       "title": "https://x.com/Boywus/status/2093297964047564809",
