@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T07:07:35.000Z",
+  "updatedAt": "2026-08-29T07:45:30.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4737",
+      "title": "https://x.com/Boywus/status/2093297964047564809",
+      "description": "https://x.com/Boywus/status/2093297964047564809",
+      "url": "https://t.me/pdzeng_talk/4737",
+      "publishedAt": "2026-08-29T07:45:30.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/Boywus/status/2093297964047564809",
+        "siteName": "X (formerly Twitter)",
+        "title": "Boywus (@Boywus) on X",
+        "description": "从最笨的做市商做起，最后去卖可乐",
+        "imageUrl": "https://cdn4.telesco.pe/file/FARvkw2qC-DtVxOayUp1Uxo6XT7QyWjWktzWf8Zvp9tuH8juBTixnumKm4aCUYNbo_YdWU_hUjc-HWwpRHsfHXA-HCCReGcFwphefdMrY02IrU8HsjNy8bdUE76RaDd2MTb-z1-uuNRR2NIaAlRfCK1UW0wrs3TSlgxNrFnYPkBxURgNN99DXKtocpjE4290ceD5Mnk2Xz6Ra2tkWgFKiQquk9C-CK3kaX1oBRPDiSCR3p7IwsYmDT3_NOgDYQpwRip5P6JGxuLE65-HuKehwS8BZyrF-4R1WDPU5fYjqd1GW-Nyz_51w0yvnby4n0AyAkLNounvZgC7vKXYdY78Rw.jpg"
+      }
+    },
     {
       "id": "4736",
       "title": "@everyone 安全事件說明與憑證輪替指引 我們想主動向社群說明 2026 年 8 月 27 日發生的安全事件。在完整調查報告完成前，先公開目前已確認的影響範圍與建議採取的行動。 發生了什…",
