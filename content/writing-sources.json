@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T10:28:02.000Z",
+  "updatedAt": "2026-08-29T23:18:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4740",
+      "title": "https://www.threads.com/share/BASWUj2qJB/",
+      "description": "https://www.threads.com/share/BASWUj2qJB/",
+      "url": "https://t.me/pdzeng_talk/4740",
+      "publishedAt": "2026-08-29T23:18:06.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/BASWUj2qJB",
+        "siteName": "Threads",
+        "title": "Yuanlin Lin (@yuaanlin) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/CNeP0sZgmsmfVBpujTuC6JCB7OTixOOmt5tqWvn8qjh318CxaOqMvRPtZ6hVJ6AYbfzGjCjTriBMEc2dYuWXBxQjxwoImVjmUavmOvEnov4H7jqsDQhqojZq1XNyeQ5qeYVMPEdHCiOxgXD3pw30RsCy4iL0P9n1sE3xxbGrJ0z2D-D-A9E_ORr6TTjQFQnhaG3-xDdrrWce4Bv7vi6LURy_16X1lmCiX1UFbBYU-fRsCuNrKemovfuEdted0GL6yMhfDoRr4brrlyLMDo6hG7y19ADtkBjiJVeAJLrjVmu1sFGxGXPPzjjwlO2Xv9Q1nIGXQl0k6SRwz-hwxl-Sxw.jpg"
+      }
+    },
     {
       "id": "4739",
       "title": "https://x.com/jingxin147741/status/2077122149626855549?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
