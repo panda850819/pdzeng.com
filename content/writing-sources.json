@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T06:43:06.000Z",
+  "updatedAt": "2026-08-29T07:07:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4736",
+      "title": "@everyone 安全事件說明與憑證輪替指引 我們想主動向社群說明 2026 年 8 月 27 日發生的安全事件。在完整調查報告完成前，先公開目前已確認的影響範圍與建議採取的行動。 發生了什…",
+      "description": "@everyone 安全事件說明與憑證輪替指引 我們想主動向社群說明 2026 年 8 月 27 日發生的安全事件。在完整調查報告完成前，先公開目前已確認的影響範圍與建議採取的行動。 發生了什麼 2026 年 8 月 27 日，我們的監控機制發現一組內部服務憑證遭到未授權使用。攻擊者利用該憑證連入一個資料庫，並針對儲存專案環境變數的資料進行查詢。我們在偵測到…",
+      "url": "https://t.me/pdzeng_talk/4736",
+      "publishedAt": "2026-08-29T07:07:35.000Z",
+      "preview": {
+        "targetUrl": "https://app.notion.com/p/zeabur/3caa221c948e8063a998eb44bbdd2324",
+        "siteName": "Zeabur on Notion",
+        "title": "憑證輪替指南 | Notion",
+        "description": "本頁說明如何輪替可能受到 2026 年 8 月 27 日安全事件影響的憑證。",
+        "imageUrl": "https://cdn4.telesco.pe/file/slXnp8WT9q_tDeZ62n-s5X7BP8_aHrOr6_McvLimtdQteYzTLp5wTe2JQJ5D5jebjRiHxd6hL_BouWtXExxfVheZHD5PeAKi15iYqAnGaB3On4RWoPrQ3zBXA7tGYn7_yDMfXXLezwqcZVPdCr5-0_7yMwP9dIQDOyAJRY9I4waqI-35JWxGfikzLbd0M_Xsz3Ikak3Y5txgixa3opU2vQHLeEBWyeyjjFnQ5xtzD_whGKPWHTUosnb077PuEFb2s35AYwsGa-Y0jB3JZlLzOIQroLetPB3rZpDNatW6ESs6LemZezWHxkTpIDV-DjDWkN2XXyDWxwlt0nlX8uYA4A.jpg"
+      }
+    },
     {
       "id": "4735",
       "title": "怎麼會有突然就有人登入我 apple account 的問題 tmd = =",
