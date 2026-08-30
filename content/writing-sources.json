@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:18:06.000Z",
+  "updatedAt": "2026-08-30T14:06:57.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4741",
+      "title": "https://lunataiwan.com/",
+      "description": "https://lunataiwan.com/",
+      "url": "https://t.me/pdzeng_talk/4741",
+      "publishedAt": "2026-08-30T14:06:57.000Z",
+      "preview": {
+        "targetUrl": "https://lunataiwan.com/",
+        "siteName": "Luna.Bot",
+        "title": "Luna.Bot - 你的爆文機器人",
+        "description": "專業文案，讓錢和流量一起流進來"
+      }
+    },
     {
       "id": "4740",
       "title": "https://www.threads.com/share/BASWUj2qJB/",
@@ -245,7 +258,7 @@
         "siteName": "YouTube",
         "title": "從零開始訓練一個大型語言模型 ｜ Stanford 公開課 ｜上集",
         "description": "大家好，我是 Jim，這裡是 AI Notebook。史丹佛有一門公開課，叫 CS336，從第一行程式開始，帶你把一個語言模型從零蓋出來。整門課有二十講左右，我會分成上中下三集講完，今天是上集，內容是前六講。這六講講一件事，成本。訓練一個模型要跑幾天，一張顯示卡塞得下多大的模型，這些聽起來很內行的問題，答案其實都只是幾個乘法跟除法，可以在一張餐巾紙上算出來。你也會發現一件很反直覺的事，這整條路上的瓶頸，幾乎從來不在你以為的那個地方。 📎",
-        "imageUrl": "https://cdn4.telesco.pe/file/kvvmbh-RQGUXU9hXRg1aVP_WRearQKMs2kuu0dEd-NhEMyUDpGoVZ7mFXp-Ay8X2R43nWNWLyIjQ9b_NUDrOryX1WF-LmPLahzKmSMbRYzkHXAeo2a8SvgdblYEEhMMoaKRgDRJfl5-_HzdgCDqbRi3EGZ_e-sjlba5d-mpTwquBlt-fYgk4jBOAame2YVl8trbRU6aQcPDFcTU1Y0zxcjH87k0C-zJh9iAlxw52I_2K9zN4dOkj4cjT8TmGUdONAeBlaB0mg6ckwPPgYUsZYvclk7JYy5boqJpuvDgDUMcdcMyUGSlZF4G5xq7bbjkXF3NnhbD9L-dBfdTlYcBHYA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/NT8H8_2GC87Diu_t85Fj0PXF56gZlrKxLIwiE5V6RwD0M8zNHMvn-_Xwv7-DXuWqXr_i_FszTci1smtioQFq3FjxT4-b1IET6EagIKjADgvQGZgOWNiiFh114h7zoHZRLMjYJZ2mbwAmZkuPWmQLx5pn2watfgyCEWVwNv58lUUsRX9SAXsKiykDVzp0aJNECI8zihOj_HfG8Q6-nw7z5rSNlJpBqA8bzWNCPNBjWuMhr7F2qzCx5_1F7CkxMAy55LdWiUf0cOwxzz_iuF1FS2ZupImu9QINmBIyYoGhoql32Ldree2eoMx22XSApBHOLpGF_q7xZH273IUGPckriw.jpg"
       }
     },
     {
@@ -329,7 +342,7 @@
         "siteName": "Taipei101 IaaS",
         "title": "Taipei101 IaaS - Premium Virtual Machine Hosting",
         "description": "Professional Infrastructure as a Service platform. Deploy and manage virtual machines with ease.",
-        "imageUrl": "https://cdn4.telesco.pe/file/p2dyEKg50TVtoVBrL8fN_1EjDdsnWM5ea8veUvqRy8SHpegKGEAxhxT8oeE8-qRNDaGOyhete9VsgGzHbo2bSw6evVN4bNQVemYghiRyOJKWPplryNkB2f5vvxoOdL7xms_NLxGN0wTq3EL8cSs1729va27brXIeSR1IxRXXu99WZm0rmhf3BHWTwqnxWkrOi9js6uJWA27kI9Bi43h9bLtMPBtw0LTE2K9lVBVakiWKdc4XQCifeNj2M-stTcVvRDjpBXLm5hzng0FV2PGe17p7PeZMEHGHQQTc3YpKzm-EhCKLzpKsiuRTUNqi4mBkrG9MxQKTk2_vo1kEkOCBsg"
+        "imageUrl": "https://cdn4.telesco.pe/file/K1l6FuA1P6ytsKt5dmgsGFBDHR09khoKUt4NkAJSBuv21cJh2pG1l2VSzqSj6BY1D9I3FnHGm9cSDQAXM3YKi90SLXT0p8aqBMXRFLHshUTwIToTXG9CqgAMeJCdRKmDmee08sN7YdLVIOsAB-jYEwckFsiRn2gleUC3f6fJ2burXmyfDVqhzXP71TFzOTVg9KpQVlLgfQvC9B2z-fmjUYEtsd_lAn-9eDF1M3U5NbHFIB8qf7ntjAKql4m-EMveGWNypNs80LgURLOu1jtskXN1RfSOBOirZ7oVsz2PvCrOw1HxxahgS3dxG5eW-rVKJf8uL4cvX0Zlphg78mmOYQ"
       }
     },
     {
