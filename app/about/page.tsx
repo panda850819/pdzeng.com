@@ -12,8 +12,8 @@ export default function AboutPage() {
       <h1 className="display-tracking font-display text-4xl font-semibold">About</h1>
       <div className="article mt-8" lang="en">
         <p>
-          I&apos;m Panda, from Taiwan. I&apos;m an Ops Manager at Yei Finance, working across
-          operations, AI systems, and workflow automation.
+          I&apos;m Panda, from Taiwan. I work across operations, AI systems, and workflow
+          automation. Most recently, I was Ops Manager at Yei Finance from January to August 2026.
         </p>
         <p>
           I entered Web3 in 2018 and never really left. My path has included full-stack

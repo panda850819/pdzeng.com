@@ -1,11 +1,11 @@
 export const summary =
-  "Ops Manager at Yei Finance, working across operations, AI systems, and workflow automation. Full-stack background and active in Web3 since 2018.";
+  "Operations and AI systems builder with experience in workflow automation and a full-stack background. Active in Web3 since 2018.";
 
 export const experience = [
   {
     company: "Yei Finance",
     role: "Ops Manager",
-    period: "2026/01 – Present",
+    period: "2026/01/26 – 2026/08/31",
     location: "",
   },
   {

@@ -20,8 +20,9 @@ export default function Home() {
         </h1>
         <FadeUp delay={0.5} className="mt-8 max-w-xl">
           <p className="text-lg text-muted">
-            I&apos;m an Ops Manager at Yei Finance, working across crypto operations, AI systems, and
-            workflow automation. I&apos;ve been in Web3 since 2018, and I write notes from the field here.
+            I work across crypto operations, AI systems, and workflow automation. Most recently, I
+            was Ops Manager at Yei Finance from January to August 2026. I&apos;ve been in Web3 since 2018,
+            and I write notes from the field here.
           </p>
         </FadeUp>
         <FadeUp delay={0.65} className="mt-10 flex gap-4">

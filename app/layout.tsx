@@ -31,11 +31,6 @@ const jsonLd = {
     name: "Panda Zeng",
     alternateName: "熊貓隨口說",
     url: "https://pdzeng.com",
-    jobTitle: "Ops Manager",
-    worksFor: {
-      "@type": "Organization",
-      name: "Yei Finance",
-    },
     knowsAbout: ["Blockchain", "DeFi", "Operations", "AI agents", "Workflow automation"],
     sameAs: [
       "https://github.com/panda850819",
