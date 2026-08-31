@@ -3,7 +3,7 @@ import { summary, experience, achievements, education, skills } from "@/lib/cv-d
 
 export const metadata: Metadata = {
   title: "CV",
-  description: "Panda Zeng — Ops Manager at Yei Finance, working across operations and AI. In Web3 since 2018.",
+  description: "Panda Zeng — Operations × AI, with experience as Ops Manager at Yei Finance. In Web3 since 2018.",
 };
 
 export default function CvPage() {
