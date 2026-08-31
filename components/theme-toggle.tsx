@@ -12,7 +12,7 @@ export function ThemeToggle() {
     <button
       onClick={toggle}
       aria-label="Toggle color theme"
-      className="flex h-8 w-8 items-center justify-center rounded-full text-muted transition-colors duration-150 active:scale-95 [@media(hover:hover)]:hover:text-ink"
+      className="flex h-10 w-10 items-center justify-center rounded-full text-muted transition-colors duration-150 active:scale-95 [@media(hover:hover)]:hover:text-ink"
     >
       <svg className="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />

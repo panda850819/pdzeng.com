@@ -1,11 +1,11 @@
 const items = [
-  "DeFi operations",
-  "AI agents",
-  "CLI tooling",
+  "Company goals",
+  "Operating systems",
+  "AI leverage",
+  "GTM execution",
+  "Software delivery",
   "Workflow automation",
   "On-chain since 2018",
-  "Operations × AI",
-  "Traditional Chinese writing",
   "Taipei · Remote",
 ];
 

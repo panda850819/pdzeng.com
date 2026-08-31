@@ -12,47 +12,90 @@ export default function Home() {
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6">
-      <section className="relative flex min-h-[70dvh] flex-col justify-center pb-6">
-        <PandaHero className="mb-4 h-36 w-36 md:absolute md:top-1/2 md:right-0 md:mb-0 md:h-80 md:w-80 md:-translate-y-[55%] lg:right-6" />
-        <p className="mb-5 text-sm text-bamboo">Panda Zeng · Operations × AI</p>
-        <h1 className="display-tracking max-w-3xl font-display text-5xl leading-[1.05] font-semibold sm:text-6xl lg:max-w-2xl xl:max-w-3xl">
-          <WordReveal text="Operations, AI, and the systems between them." />
+      <section className="relative flex min-h-[calc(100dvh-6rem)] flex-col justify-center pb-8 md:min-h-[70dvh] md:pb-6">
+        <PandaHero className="mb-3 h-28 w-28 md:absolute md:top-1/2 md:right-0 md:mb-0 md:h-72 md:w-72 md:-translate-y-[55%]" />
+        <p className="mb-4 text-sm text-bamboo md:mb-5">Panda Zeng · Company operations × AI</p>
+        <h1 className="display-tracking max-w-2xl font-display text-4xl leading-[1.06] font-semibold sm:text-5xl lg:text-6xl">
+          <WordReveal text="Building the systems that move companies forward." />
         </h1>
-        <FadeUp delay={0.5} className="mt-8 max-w-xl">
-          <p className="text-lg text-muted">
-            I work across crypto operations, AI systems, and workflow automation. Most recently, I
-            was Ops Manager at Yei Finance from January to August 2026. I&apos;ve been in Web3 since 2018,
-            and I write notes from the field here.
+        <FadeUp delay={0.5} className="mt-6 max-w-2xl md:mt-8">
+          <p className="text-base text-muted sm:text-lg">
+            I&apos;m an operator with a technical background and hands-on experience in GTM and software
+            development. I use AI to turn company goals into workflows, tools, and operating systems
+            that help teams execute faster and grow.
           </p>
         </FadeUp>
-        <FadeUp delay={0.65} className="mt-10 flex gap-4">
+        <FadeUp delay={0.65} className="mt-7 flex items-center gap-5 md:mt-9">
+          <a
+            href="#how-i-work"
+            className="whitespace-nowrap rounded-full bg-bamboo px-5 py-2.5 text-sm font-medium text-canvas transition-transform duration-150 active:scale-95"
+          >
+            See how I work
+          </a>
           <Link
             href="/writing/"
-            className="rounded-full bg-bamboo px-5 py-2.5 text-sm font-medium text-canvas transition-transform duration-150 active:scale-95"
+            className="text-sm text-muted transition-colors duration-150 active:scale-95 [@media(hover:hover)]:hover:text-ink"
           >
-            Read the writing
-          </Link>
-          <Link
-            href="/about/"
-            className="glass rounded-full px-5 py-2.5 text-sm text-ink transition-transform duration-150 active:scale-95"
-          >
-            About me
+            Read field notes →
           </Link>
         </FadeUp>
       </section>
 
-      <div className="relative left-1/2 my-12 w-screen -translate-x-1/2 sm:my-16">
+      <div className="relative left-1/2 my-10 w-screen -translate-x-1/2 sm:my-16">
         <Marquee />
       </div>
+
+      <section id="how-i-work" className="scroll-mt-24 pt-12" aria-labelledby="how-i-work-title">
+        <FadeUp>
+          <p className="text-sm text-bamboo">From goal to execution</p>
+          <h2
+            id="how-i-work-title"
+            className="display-tracking mt-3 max-w-2xl font-display text-3xl font-semibold sm:text-4xl"
+          >
+            I work across the whole operating path.
+          </h2>
+          <p className="mt-5 max-w-2xl text-muted">
+            The advantage is not AI alone. It is being able to connect a company priority to the GTM
+            motion, operating model, and technical implementation needed to move it forward.
+          </p>
+        </FadeUp>
+        <div className="mt-10 grid gap-8 sm:grid-cols-3 sm:gap-6">
+          {[
+            {
+              number: "01",
+              title: "Frame the goal",
+              body: "Turn company priorities and market context into a clear outcome, owner, and path to execution.",
+            },
+            {
+              number: "02",
+              title: "Design the system",
+              body: "Build the workflows, decision rules, and feedback loops that keep teams aligned and moving.",
+            },
+            {
+              number: "03",
+              title: "Build the leverage",
+              body: "Use software, automation, and AI agents to remove repeated work and increase the team’s capacity.",
+            },
+          ].map((step, i) => (
+            <FadeUp key={step.number} delay={0.08 * i}>
+              <article className="border-t border-line pt-4">
+                <p className="text-xs text-faint tabular-nums">{step.number}</p>
+                <h3 className="mt-3 font-display text-lg font-medium">{step.title}</h3>
+                <p className="mt-2 text-sm text-muted">{step.body}</p>
+              </article>
+            </FadeUp>
+          ))}
+        </div>
+      </section>
 
       <section className="mt-24" aria-labelledby="latest-writing">
         <FadeUp>
           <div className="mb-6 flex items-baseline justify-between">
             <h2 id="latest-writing" className="display-tracking font-display text-2xl font-semibold">
-              Latest writing
+              Field notes
             </h2>
             <Link href="/writing/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
-              All posts →
+              All writing →
             </Link>
           </div>
         </FadeUp>
@@ -86,9 +129,12 @@ export default function Home() {
         <section className="mt-24" aria-labelledby="featured-projects">
           <FadeUp>
             <div className="mb-6 flex items-baseline justify-between">
-              <h2 id="featured-projects" className="display-tracking font-display text-2xl font-semibold">
-                Projects
-              </h2>
+              <div>
+                <h2 id="featured-projects" className="display-tracking font-display text-2xl font-semibold">
+                  Things I&apos;ve built
+                </h2>
+                <p className="mt-2 text-sm text-muted">Technical execution is part of how I operate.</p>
+              </div>
               <Link href="/projects/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
                 All projects →
               </Link>
