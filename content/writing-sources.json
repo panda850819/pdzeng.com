@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:22:53.000Z",
+  "updatedAt": "2026-08-31T11:55:33.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4744",
+      "title": "看到很多人討論，但是自己真的太懶惰了",
+      "description": "看到很多人討論，但是自己真的太懶惰了",
+      "url": "https://t.me/pdzeng_talk/4744",
+      "publishedAt": "2026-08-31T11:55:33.000Z"
+    },
+    {
+      "id": "4743",
+      "title": "Pons 比較像： Robinhood Chain 的 Pump.fun equity proxy。 UP 比較準確是： Curve / Solidly / Velodrome / Aerod…",
+      "description": "Pons 比較像： Robinhood Chain 的 Pump.fun equity proxy。 UP 比較準確是： Curve / Solidly / Velodrome / Aerodrome lineage 的 ve(3,3) liquidity layer。 它自己稱： native (3,3) exchange and liquidity ma…",
+      "url": "https://t.me/pdzeng_talk/4743",
+      "publishedAt": "2026-08-31T11:54:37.000Z"
+    },
     {
       "id": "4742",
       "title": "https://x.com/ubereng/status/2093444169037762840",
