@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:06:57.000Z",
+  "updatedAt": "2026-08-31T05:22:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4742",
+      "title": "https://x.com/ubereng/status/2093444169037762840",
+      "description": "https://x.com/ubereng/status/2093444169037762840",
+      "url": "https://t.me/pdzeng_talk/4742",
+      "publishedAt": "2026-08-31T05:22:53.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/ubereng/status/2093444169037762840",
+        "siteName": "X (formerly Twitter)",
+        "title": "Uber Engineering (@UberEng) on X",
+        "description": "Running a Software Factory Efficiently at Uber Scale",
+        "imageUrl": "https://cdn4.telesco.pe/file/Sc2Mg0NAY3ZQ_xPca-s5sPyqTdSMwFXQXShcHXed_UxMOOvJ70mTAxZgY6klMp0E-M7vq823cee4cHGupNEBjTug0SRfveV3454G6KEL-LFHSEQv3wjAaZ0vWeW-bsoYotAYGuHKyQLU7ZhCyZoDqB4l0VMlQHtLD59kcpwsJApej9ckh6KKakCDHF-u_LF4ZNwgk9HVPggh4IZ5F8OH_CFZMyQeYP-kuTApa4DYC8cTyCGNtID7OSSPVsbHTKAHM0nwvhzKvKEZjS6P9Xr9UZKUUjSGxQFhft_lJNrDZRsR4bNGi1xzhEKMipDyJ0vrfU0U-NBidslLzTeA50VNnQ.jpg"
+      }
+    },
     {
       "id": "4741",
       "title": "https://lunataiwan.com/",
