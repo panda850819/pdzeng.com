@@ -29,7 +29,9 @@ export function Nav() {
                   key={href}
                   href={href}
                   aria-current={active ? "page" : undefined}
-                  className={`rounded-full px-2.5 py-1.5 text-sm transition-colors duration-150 active:scale-95 sm:px-3.5 ${
+                  className={`rounded-full px-2.5 py-2.5 text-sm leading-5 transition-colors duration-150 active:scale-95 sm:px-3.5 ${
+                    href === "/" ? "hidden sm:block " : ""
+                  }${
                     active
                       ? "surface-3 text-ink"
                       : "text-muted [@media(hover:hover)]:hover:text-ink"
