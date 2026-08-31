@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:55:33.000Z",
+  "updatedAt": "2026-08-31T14:41:44.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4745",
+      "title": "https://almanak.co/ 能夠自己跟 AI 討論然後把策略部署後，然後在鏈上跑",
+      "description": "https://almanak.co/ 能夠自己跟 AI 討論然後把策略部署後，然後在鏈上跑",
+      "url": "https://t.me/pdzeng_talk/4745",
+      "publishedAt": "2026-08-31T14:41:44.000Z",
+      "preview": {
+        "targetUrl": "https://almanak.co/",
+        "siteName": "Almanak",
+        "title": "Build strategies with Almanak",
+        "description": "Trade and earn yield across stocks, commodities, and crypto. Hunt for alpha, then design, backtest, and deploy strategies. Non-custodial. Private by design.",
+        "imageUrl": "https://cdn4.telesco.pe/file/YJMRY5CDojDW2miQTBzZXVGXtQySHILMettUb6sZJ04RyI2bRIU2i5GVFAqAA0kh7b-o5D78tR6m0hnHIFQ0RES37nRDWisUeKyxom9vlgLKIfY0Y5JOpZByVNH3TsSthv1ZSkuFZ7uoYumHXNTIRKxSvHLfsTDvneUbHgv9AfTnlWuKuR7A18FMmxaCGyn3vYvJ718_QGFhCAjJh-E5lOi9BI3Qobz6t1dEk-sGXGmtpSRwn3FTXMl2QTKX6Lo-JUfaQ4qJv4Z-VQZXqjsQXgiPmR_B8z4OjWwssLwaT7Tm7zrhKo04VtfHy2NMs0pEnKoSIwlthey5-4lUSS0oGA.jpg"
+      }
+    },
     {
       "id": "4744",
       "title": "看到很多人討論，但是自己真的太懶惰了",
