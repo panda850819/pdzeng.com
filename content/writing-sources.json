@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:57:39.000Z",
+  "updatedAt": "2026-09-01T16:29:28.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,15 +116,29 @@
   ],
   "telegram": [
     {
+      "id": "4770",
+      "title": "https://x.com/agintender/status/2094808127342563672 嗯第一次充錢，想說錢咋少了",
+      "description": "https://x.com/agintender/status/2094808127342563672 嗯第一次充錢，想說錢咋少了",
+      "url": "https://t.me/pdzeng_talk/4770",
+      "publishedAt": "2026-09-01T16:29:28.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/agintender/status/2094808127342563672",
+        "siteName": "X (formerly Twitter)",
+        "title": "danny (@agintender) on X",
+        "description": "各位知道 @fomo 的手续费是怎么收的吗？ 买/卖各0.5% - 一个来回就是1% 还有滑点 应该是有一个1u的固定手续费： 假设是一笔10u的买/卖 - 到手大概是8.8u价值的币（10%+。。。） 50u的话，大概到手是48.5u的币 1000u的话，大概是995u的币 -所以小额的非常伤 比较夸张的是：提现和存款都要手续费（是的，存款都要收钱。。）",
+        "imageUrl": "https://cdn4.telesco.pe/file/nNOxu6_Il90bT6Nax-Zi-HcZ1mXViMHShHxrAvNi4uqRHJoBZR-JxirnWcrqSK6yKa0VTQ7J95uw3PR1YAsUQZZKE51Xxxzgc_vD0V0a10_GhadKy2rUuOJvag6n_4zRFg7UlP9YuEKnszUar1zt7xX8uJ3PwdQc6-Ch2tmqByIM-Wqky5r_WnCUKXBbnCRMPd-RjPZ_H6VAIwdzuL1yF9X8uxQcIERrlN-WtRIXMiv3BYTFFKl0c2UROW1V-r7uA6clkJlF8FfhT94Dq5SGA0S2guNA8UCOUHR25n9ZL-QZQ-LqeZiG0J5_bDSb3O8o53i4qSdx0ACn4aWl2psHLQ.jpg"
+      }
+    },
+    {
       "id": "4769",
-      "title": "也算是完成了初體驗",
-      "description": "也算是完成了初體驗",
+      "title": "也算是完成了初體驗 https://www.fables.fi/r/bmvdrb",
+      "description": "也算是完成了初體驗 https://www.fables.fi/r/bmvdrb",
       "url": "https://t.me/pdzeng_talk/4769",
       "publishedAt": "2026-09-01T15:57:39.000Z",
       "preview": {
         "targetUrl": "https://t.me/pdzeng_talk/4769",
         "siteName": "Telegram",
-        "title": "也算是完成了初體驗",
+        "title": "也算是完成了初體驗 https://www.fables.fi/r/bmvdrb",
         "description": "",
         "imageUrl": "https://cdn5.telesco.pe/file/NvPzV_HWkdNwJOuH3JhC2vQnOZToAvyESfIB8xFFXpKwkEKMlfSXhxY9u3h3IIrdB01uSRKOpwSDFxAjUkYMWSEC0-JDo7xW56Jw6em7zx9AXpMuZCgEWtIqrN_cQqfiWobX_w9-Jckpr1Db4qTpbVy8jKbY45fvp6-nnJux7BvRnDboyCjpTN854gN6y9jGsMuScPUv7awW9Nb9PfMVjBDesllOt1cW6fjzWmuSfUx1kxkSVoZj-ZzvYAo7eoqbRSGhqFyNEVJzF3DfIWJgXqt6Sk6Ezha-nUkj_ze5wB7dOiSjR60Pv4W6Vug2QvTreDtwKByI2ePwQF68YPSTXQ.jpg"
       }
