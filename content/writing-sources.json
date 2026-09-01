@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:11:03.000Z",
+  "updatedAt": "2026-09-01T13:34:22.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4764",
+      "title": "https://x.com/silverfang88/status/2094778109408977150?s=20",
+      "description": "https://x.com/silverfang88/status/2094778109408977150?s=20",
+      "url": "https://t.me/pdzeng_talk/4764",
+      "publishedAt": "2026-09-01T13:34:22.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/silverfang88/status/2094778109408977150?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "子时 (@silverfang88) on X",
+        "description": "币安美股期权终于要来了 可惜目前只能做买方 我看机制上是实物交割期权 股票由美国持牌清算商 Alpaca 代表币安用户托管 只支持限价单 但是可以直接用 U、BNB、USDT、USDC、USD1 付 理财里的钱不用赎回也能开仓 终于有点统一账户的意思了 IBKR上期权交易很难用 老虎证券的很好用 期权交易其实最重要的 就是那个买卖方向和价位的纵横图 我称之为纵横图 因为我只做期权卖…",
+        "imageUrl": "https://cdn4.telesco.pe/file/hkZKpZ3RtGqIh3MrmyTF9RRaN9X-Lri527nOgyyjh1KFW4msVNBo3rA3sgCtNCvSquG5JYYAUtcFCvmlwLaOAmrbUYB1_fJBACCRdZnqhOA9stABABPo0u1Qep3wgZ6_CztoYqVIqgyyBImV-fyIbmU9KmUJpFsr_FXqyAuM5sp_R6b0MThami2vWNc18rSX4VGcttY40_mHzaiwOT7wC4tNWmjjv8jp1kZHU5h-VdllQFGUCzQaGCTf6Kyrc3K1H-zL0lJizXkh0UdVNKvPpUIwqhdvWxtTi5LkaVtFuISHujbwaS6oIR-Iu3slUIUvkWlQ0YopMD9ameWXHbtlUw.jpg"
+      }
+    },
     {
       "id": "4763",
       "title": "跟 AI 稍微討論了下，這是他給我的一些建議，供參考",
