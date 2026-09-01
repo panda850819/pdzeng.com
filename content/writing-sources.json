@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T06:33:14.000Z",
+  "updatedAt": "2026-09-01T07:22:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4749",
+      "title": "https://x.com/0xSammy/status/2094464115062276488",
+      "description": "https://x.com/0xSammy/status/2094464115062276488",
+      "url": "https://t.me/pdzeng_talk/4749",
+      "publishedAt": "2026-09-01T07:22:42.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xSammy/status/2094464115062276488",
+        "siteName": "X (formerly Twitter)",
+        "title": "0xSammy (@0xSammy) on X",
+        "description": "The past 48 hours have been pretty nuts on Robinhood (RH) Chain... 203k wallets now hold tokenized equities (+46% in 3 days)... an inflection point in distributing equities to new holders \"Floa…",
+        "imageUrl": "https://cdn4.telesco.pe/file/YaflODxLoFCWYj0v2WBK9aFAEmbr52amK9d9KPWPYTq39Pl57RxX2OyfKLHNVWYEQGXbWA--0FIwjG86jcGBuNSYU_YU93DQfumRvPrOJwLkqDn7jfq7ZVgHNA3dWldjQQWxunvd1oLo_cik0a7fHMnsA4NUnkS0_uVxvSjr2PwwzFuGaDdUgw297Nb0tWBkinWeppEWQ9zLI3cAmY5h7MmMOmtvzRJ9hNHMotPioZ37ZK_CQpYTRy9l9N6xlbaGxhEULSsCNZdPjlYam95NfOw0Bh7L8UqRpNENXi2iptXWyap2VbE2v7gz7T8QfmRd7znKRgUUjY39GiJMezyvYw.jpg"
+      }
+    },
+    {
+      "id": "4748",
+      "title": "現在沒工作之後，花的一部分時間就是高強度在 X 上衝浪 先快速獲取一些好的資訊源，後面再慢慢篩選",
+      "description": "現在沒工作之後，花的一部分時間就是高強度在 X 上衝浪 先快速獲取一些好的資訊源，後面再慢慢篩選",
+      "url": "https://t.me/pdzeng_talk/4748",
+      "publishedAt": "2026-09-01T07:05:18.000Z"
+    },
     {
       "id": "4747",
       "title": "https://x.com/0xNancyshi/status/2094365011628216568",
