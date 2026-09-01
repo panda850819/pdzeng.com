@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:31:11.000Z",
+  "updatedAt": "2026-09-01T08:40:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4754",
+      "title": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+      "description": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+      "url": "https://t.me/pdzeng_talk/4754",
+      "publishedAt": "2026-09-01T08:40:14.000Z",
+      "preview": {
+        "targetUrl": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+        "siteName": "Vercel",
+        "title": "How our agents build on-brand pages with design.md",
+        "description": "How we built design.md, a single public file any coding agent can load to build on-brand Vercel pages, and the eval loop that decided every rule inside it.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Gl6ZdeRg1u2arr3NbKZDjAA-iA_2Ch2ntMR9SizEXLo1mNGov68VFGkG6Fy5gNb2IR_93FDMDussWO1oNFPIu9maopmvvTSTHtbcJcScUGxIeq3c9RQnLJX5KujZcUnX32-97UzO4dfXHvgXdL9ECAIm3dyeiD4VAUvFOglUl4FypYKaYhFAD-it7Q9v3IQ4NdsPIiDjn-OGKrDsVbJzEaxm5F2lbvxGv6s7YSFjsmp6SKokTdBzpwsmGQUWBE3DR0bM-ZEJWuBQGhhrX6ny6a2mFs5EUXR65BmkVlsoi-VcOTKirhwFRmZVfXIX0nOLnPwCEjAm9Ep9boh2WZXRTA.jpg"
+      }
+    },
     {
       "id": "4753",
       "title": "labrinyang/Pendle-YT-Timing-Tool 🔗 https://github.com/labrinyang/Pendle-YT-Timing-Tool #github",
