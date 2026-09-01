@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:40:53.000Z",
+  "updatedAt": "2026-09-01T17:10:04.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4773",
+      "title": "https://x.com/nekofrize?s=21&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/nekofrize?s=21&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4773",
+      "publishedAt": "2026-09-01T17:10:04.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/nekofrize?s=21&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Eureka (@nekofrize) on X",
+        "description": "大一会计在读｜正在成为二级市场赌徒",
+        "imageUrl": "https://cdn4.telesco.pe/file/fGMhCZnJiRASfZ9gRrHLLhIBs1iqcw2w98lCGWmSfwOgl_qSRlr6DsTTACArY1SDdLNIYXaUzVzfIHGCu3GsEsgwB3tSZdBCUDEFiUxsrWiQQsO9XU7kJr9Te07EA1DPyeCLT5gt77lej8sJdbthrrgyg5oELYj3IZN5RKgg-o7IMooT110g6CgMFofgfJDhiaqvVdy4K45W001U7z7Cn7H2ANA1ox26--2MeOcKuHMAeNbOONR8dYsx0qAk9XooBuvghf9K-Tv8osRIg5dGSGD5GMqSGenIxKy1EHuOZHN0Uyvu3X-Ga-qLb2VhC8DM3xB04qHmoRX8rcY1DAee1A.jpg"
+      }
+    },
     {
       "id": "4772",
       "title": "Chatgpt App 現在還可以用 Skills 還可以搭配 MCP 🙏",
