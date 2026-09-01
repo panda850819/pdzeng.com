@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:22:42.000Z",
+  "updatedAt": "2026-09-01T07:34:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4750",
+      "title": "https://x.com/tmel0211/status/2094439022403944766",
+      "description": "https://x.com/tmel0211/status/2094439022403944766",
+      "url": "https://t.me/pdzeng_talk/4750",
+      "publishedAt": "2026-09-01T07:34:35.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/tmel0211/status/2094439022403944766",
+        "siteName": "X (formerly Twitter)",
+        "title": "Haotian (@tmel0211) on X",
+        "description": "研究了一晚上，RH链上DeFi新协议，粗略做个价值排序： Delta > Longbow > Twofold > up >EARN > Prologue/Fables > Vynex > DTF >Prism…… 1、其实价值基本已经反映在价格上了，更多是预期价值； 2、RH上的新DeFi都是在老DeFi框架之上，目前炒作意义大于实质； 3、作为纯MEME的补充，静待花开。",
+        "imageUrl": "https://cdn4.telesco.pe/file/HHjW9pFu-R9Fjjhkd9sYY5RoOoF1_bmj24_fhhaZqb9ABhbviD22n4AQHFNhSIbN7dqlG4aBsTDXB4dD_aLnfNuNaTOfoZCnGpBWbVdhWHbQ9OcTlZ79Ra4mQTROyBKuuoGFHGLLVljUMEmBA0ZL8EyyfmXvarPBxevcK3OOISTMLWBPVx7CrxwzyIaRC0KMKxqKEo4vlHm53mF05QEDPQbIz9Dar8qByxaQkJsDCcjRq_bXRIn2f_Xq-2EpssnxewwsJ4p9od-SPEYsyjaCd6cJ8ZS1ZclxxajlBau802NrMlQ7Ffpn5U2HL3m1FdifSP9rWX_LoTjY_N7cUqCA2Q.jpg"
+      }
+    },
     {
       "id": "4749",
       "title": "https://x.com/0xSammy/status/2094464115062276488",
@@ -272,7 +286,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Boywus (@Boywus) on X",
         "description": "从最笨的做市商做起，最后去卖可乐",
-        "imageUrl": "https://cdn4.telesco.pe/file/UZZO3TdnHB5eYTD3d7q04bPx7gKx4UXs-Vhhr_ZHMCixzhGPpaSdioSON2qoYOfC1ahh6AfoB3M5_or31I6DijZ9qD1RTmvV077Y1jUHxVMf9rwmFGXgEI6kIsroq2XNYS6V2XheUxd6fq2JML4Xyb3VDyqHpgTaK5LjtlezMbBegtcAQMDb4MymIBC3Dk3ic5-03iA5dE3sVQnb6djXDrED9Nz3FxRN4rF50how8mDnwSXJ-YwQllgbidsD_rP9NNk4mB4oyyv8g2xfQ8ZagCzQq0b-i5gyR1YeSIlzCwplOEFFsduZMazI5QKlTRudk5aFlFQ2RPEM8XWLeujpWA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/RozXmxWGVkzSLYehdFXXP3MvzEEQmF-_6tXMjxiO2sOicQXXwx1E5KlPa-3Q-KJZpBobZ88DOvBa9RsEni-LgeyQh-JpACiEuyrR06aaBIaWF4bLZOVYtUCXtGXBDHwP7rELoMi2VyVrLpZyf4MpyaNuxhnQf2_qN_837ZjImDzZmCU1mPbiV6cQ-uiNRD9bs2z8xaU2BQh3foDi-7THyHvdL1YIfklBFctdSco6R_lE7fjeR2Jf0-Btl_h7vkDtx2FfquB8MlC9rso0FqxvFdNcsai9ADocvakc-7GUIGbZDB-Gw_oGEYatUNradXwJW8ZfI9QTYvE1L3Jlvj_lew.jpg"
       }
     },
     {
