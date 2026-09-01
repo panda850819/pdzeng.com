@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:40:14.000Z",
+  "updatedAt": "2026-09-01T09:18:21.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4755",
+      "title": "https://ethglobal.com/events/ethonline2026",
+      "description": "https://ethglobal.com/events/ethonline2026",
+      "url": "https://t.me/pdzeng_talk/4755",
+      "publishedAt": "2026-09-01T09:18:21.000Z"
+    },
     {
       "id": "4754",
       "title": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
@@ -312,7 +319,7 @@
         "siteName": "capafy.ai",
         "title": "HookAce — 前6秒留存預測與Hook分析 - Capafy",
         "description": "分析任何影片的前6秒，取得逐秒留存預測，了解觀眾為什麼繼續觀看或直接滑走，並獲得可立即執行的開場 Hook 優化建議。所有結果皆由 AI 產生，並參考真實影片留存資料進行校準。",
-        "imageUrl": "https://cdn4.telesco.pe/file/LtbQBL4W_mkbxmLEsgq0i71sBUnL11lsTAVI5cvZuRf0kxGY9ZGbwLourJDTjXK566Aq_Pbpp9xuwc0bpeReaB7zyNI0CZsKb991ZHTcDQsoyfEjMzeGfF4aQF_eD9dVyyMxQJDmZHrIZOnJczoRAyynPth7c8F2AEurNwso6nfuWqI3hsjObY8lK2W8_ISPd0GBANNq70Eo8hTz3ON2So-BvvDrp--vcsb2HzSmnZ8tleVA-DgocU0oPu0xIIlag4h_KoFY3UTANGYd7SCDDSGWq0MZcwgHTXiy43dsATqxxsQsXTTUGb9vnzekPCFLpw2JZGclhpIG5z9UAvLthg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/UvWGmiK2d3XJr9yvbnOebLNb40iwGIDTZD_d_WxwNucfyIUvy_mRaPlTy79yHfdBNtrNZhmOhRISWuYe3iFEiGUe4zi5VCHlxilMU0TbbjCJMtsPjCkY1YU-C8HVXnigXz5EwX5ua9kc2RYywduVbdzojVaJ-OpUScMfclXZd1q3kIoCWZ1m7aVnecrssMjwavMpLpcw37twKiFF7UeHFN7PJTamwkf5B0VyhirieDjTHz1ahK-3-aESXMwUVOxQUhJ_F5CWWWjHVIYsXop2yuG6K7jL3hf3YO1GBgLnRvdcwZKRyyUS5_GGbjxfWtUeHtn4Rd1jVcEA3bbdV2eCYA.jpg"
       }
     },
     {
