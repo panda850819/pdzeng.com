@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:34:35.000Z",
+  "updatedAt": "2026-09-01T08:31:11.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,32 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4753",
+      "title": "labrinyang/Pendle-YT-Timing-Tool 🔗 https://github.com/labrinyang/Pendle-YT-Timing-Tool #github",
+      "description": "labrinyang/Pendle-YT-Timing-Tool 🔗 https://github.com/labrinyang/Pendle-YT-Timing-Tool #github",
+      "url": "https://t.me/pdzeng_talk/4753",
+      "publishedAt": "2026-09-01T08:31:11.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/labrinyang/Pendle-YT-Timing-Tool",
+        "siteName": "GitHub",
+        "title": "GitHub - labrinyang/Pendle-YT-Timing-Tool",
+        "description": "Contribute to labrinyang/Pendle-YT-Timing-Tool development by creating an account on GitHub."
+      }
+    },
+    {
+      "id": "4752",
+      "title": "labrinyang/lp-terminal 🔗 https://github.com/labrinyang/lp-terminal #github",
+      "description": "labrinyang/lp-terminal 🔗 https://github.com/labrinyang/lp-terminal #github",
+      "url": "https://t.me/pdzeng_talk/4752",
+      "publishedAt": "2026-09-01T08:25:12.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/labrinyang/lp-terminal",
+        "siteName": "GitHub",
+        "title": "GitHub - labrinyang/lp-terminal: Terminal-style LP frontend for Robinhood Chain — UP33 (ve(3,3)) + Uniswap v2/v3: browse pools…",
+        "description": "Terminal-style LP frontend for Robinhood Chain — UP33 (ve(3,3)) + Uniswap v2/v3: browse pools, manage CL positions, one-token ZAP adds, LP-based limit orders. - labrinyang/lp-terminal"
+      }
+    },
     {
       "id": "4750",
       "title": "https://x.com/tmel0211/status/2094439022403944766",
