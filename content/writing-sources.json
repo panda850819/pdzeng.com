@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T06:31:00.000Z",
+  "updatedAt": "2026-09-01T06:33:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4747",
+      "title": "https://x.com/0xNancyshi/status/2094365011628216568",
+      "description": "https://x.com/0xNancyshi/status/2094365011628216568",
+      "url": "https://t.me/pdzeng_talk/4747",
+      "publishedAt": "2026-09-01T06:33:14.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xNancyshi/status/2094365011628216568",
+        "siteName": "X (formerly Twitter)",
+        "title": "Nancy (@0xNancyshi) on X",
+        "description": "上线近两个月数据持续飙升，Robinhood Chain有何增长飞轮？",
+        "imageUrl": "https://cdn4.telesco.pe/file/It6ml7bj9u-sOXR9PHqL1bJ83TvxOSctHPoJrxPdNYNGAElM3DU6rfpQ_Kfca9Qh0QbbDIY0IiIUsuppYfvfqDLFtbKDGO3mx_YwjNawYz5S23m-rPcM08mIUB2L0dDSsdi7cHzw44kpPc6zoIfRlWpfyMRTzm0A7AFdtWQwfYPVoA7hYpHDMMSgn3rnf7DrF0HNSyVGhVQ0-P3hlUPH78JdMBY_xlbqbag1ENvjQYbIBkO3R7QrkXpu5X5WNpLuVL9g7KzifjInjkKyZXth5HgGxpQ4r29vkU17uLg9UIHxJtoN6XAPvuo__ZzTi9rEwR5_Qgi6TW_sPJ6uYut-Eg.jpg"
+      }
+    },
     {
       "id": "4746",
       "title": "沒工作之後，怎麼花 token 又越來越貴了",
@@ -251,7 +265,7 @@
         "siteName": "Zeabur on Notion",
         "title": "憑證輪替指南 | Notion",
         "description": "本頁說明如何輪替可能受到 2026 年 8 月 27 日安全事件影響的憑證。",
-        "imageUrl": "https://cdn4.telesco.pe/file/NntL8GSpLtqZmYCRFdkgsh2JrgSHW6UkQOgF3gFF3G4V_bkwaC41LyzdwH2oqPdZHwqazUQlbSvWl2KHW704fX_VBihheuq9_u_fishmr9ByAlYewKSy6lkL46j7ce0vNUwPvElR143vP85Qkn_T6A9wrxb3xbiIJW-NRflaHJdL9SGSyYrjT8ZDnS0Vu-sXm6uuJb5j7GoxsuIpZ1bLsHT-Y2fmvv07VJ_x062dn2bEpVHL3yS8uzAfH7uSNzXY7lEgJgZYhHC75Ol2DyS84UldJ9-UcpbnwAQhnXgVyjccc3i87rExnHYhnD4M1eCjqgD-5WPLAFgcD917-0OoAA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/bI_pna13YDK1Z_FdjxKgwKMpO7FWKYprpivlnRQ0rI1VKk-44t8zq75XSlO8qMGiQpHbN_wezLUGwXLhEd6WfsioVLflRFaL1jwRvCIMWhlQGUhmYSPquULX6MieyiuWrIOyMD1slwbafg95jmxuutQMnz8Pr9f5LFWFTNBnDqenoViNQ5Z2j75SXxfTpqj6TMYqfzWA74138fJuoQ8RkvCkDfeRLUIsQFupxr-fWCuAAlClbl7dsX6KhyFd-3Vr5TF4CG8Q5ekP_1OF0sVrK1aRKyiHr0rIIYG188Vr0c72I4DlscJbwRGDmtXYaiSaVnpDN0W3zIxjQd1gJIqrzA.jpg"
       }
     },
     {
