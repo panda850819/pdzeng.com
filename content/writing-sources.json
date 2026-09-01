@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:13:31.000Z",
+  "updatedAt": "2026-09-01T15:57:39.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4769",
+      "title": "也算是完成了初體驗",
+      "description": "也算是完成了初體驗",
+      "url": "https://t.me/pdzeng_talk/4769",
+      "publishedAt": "2026-09-01T15:57:39.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4769",
+        "siteName": "Telegram",
+        "title": "也算是完成了初體驗",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/NvPzV_HWkdNwJOuH3JhC2vQnOZToAvyESfIB8xFFXpKwkEKMlfSXhxY9u3h3IIrdB01uSRKOpwSDFxAjUkYMWSEC0-JDo7xW56Jw6em7zx9AXpMuZCgEWtIqrN_cQqfiWobX_w9-Jckpr1Db4qTpbVy8jKbY45fvp6-nnJux7BvRnDboyCjpTN854gN6y9jGsMuScPUv7awW9Nb9PfMVjBDesllOt1cW6fjzWmuSfUx1kxkSVoZj-ZzvYAo7eoqbRSGhqFyNEVJzF3DfIWJgXqt6Sk6Ezha-nUkj_ze5wB7dOiSjR60Pv4W6Vug2QvTreDtwKByI2ePwQF68YPSTXQ.jpg"
+      }
+    },
     {
       "id": "4768",
       "title": "https://x.com/EmberCN/status/2094793749733974089 大哥還得是大割",
