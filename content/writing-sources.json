@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:18:21.000Z",
+  "updatedAt": "2026-09-01T10:32:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4756",
+      "title": "https://gnn.gamer.com.tw/detail.php?sn=310787",
+      "description": "https://gnn.gamer.com.tw/detail.php?sn=310787",
+      "url": "https://t.me/pdzeng_talk/4756",
+      "publishedAt": "2026-09-01T10:32:40.000Z",
+      "preview": {
+        "targetUrl": "https://gnn.gamer.com.tw/detail.php?sn=310787",
+        "siteName": "巴哈姆特",
+        "title": "《FX 戰士久留美》宣布 10 月 1 日開播 正式宣傳影片同步公開",
+        "description": "由でむにゃん擔任原作、炭酸だいすき繪製漫畫改編，電視動畫《FX 戰士久留美（FX戦士くるみちゃん）》今（31）日宣布動畫將於 10 月 1 日開播的消息，並且公開了正式宣傳影片。 《FX 戰士久留美》故事描述，女大學生久留美為了拯救在雷曼兄弟事件中將家中 2000 萬圓賠光的媽媽，發誓要藉由 FX 發大財！這是一段描述踏入 FX 深坑的女大",
+        "imageUrl": "https://cdn4.telesco.pe/file/rUaCPIUNFa4hHqdMCUfE7hYqdygUstTzNTR-YAzaWLfC2d2ndAvW0LdIfb7zYYHZG2Y3WC75M_RYE4pNPmPyojeG0xMfP3RY-vdGn82z7srW0CA1gEaiKOKBp_eEa3j3lP26fLGvqwzs79dg3WS620xsR6UJVKQfKNJ74NaOhkWpHfh2eECe3Byx6r55vZszHltaFjBVX2FF48__eF-zZDQTluTNyEuQCR_80Tg7CXdGKaXf1-f4DOGfIGkjUiCdzmaycD6Use9FJxGHWEgk6Z6CZaGnnKWOH0hGslAERMXxX9OWdbm-mGa7fYS7Lvom1PMjLNV9Co-bJBh4p5Mn3A.jpg"
+      }
+    },
     {
       "id": "4755",
       "title": "https://ethglobal.com/events/ethonline2026",
