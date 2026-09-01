@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:34:22.000Z",
+  "updatedAt": "2026-09-01T14:57:59.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4765",
+      "title": "https://x.com/mingyue00001/status/2094790662571053274?s=20",
+      "description": "https://x.com/mingyue00001/status/2094790662571053274?s=20",
+      "url": "https://t.me/pdzeng_talk/4765",
+      "publishedAt": "2026-09-01T14:57:59.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/mingyue00001/status/2094790662571053274?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "明月总伴深情 (@mingyue00001) on X",
+        "description": "股票买入了 $gpro，然后链上上也买入了gpr哦，期权也买入了 $gpro 。希望这个gme2.0叙事能够让我赢一次。",
+        "imageUrl": "https://cdn4.telesco.pe/file/SYcqj8QqaZFEzJ1wDrKTVvC1u0OivHJdgBzmyn0bnS6XQYHI_4XZI-6SKyBUBXkiKKZOD-zxEtV9P92_rKFv8ro-nRN0FaQNZ9W3g7WpgzSdgxaGHNHWBRkS2tu5SG-GN_81D1RMjYg7f3P_hvkLTpemud9sn8vvUx76K9WkszUUBe_sgUAeYnNBMIaYdfNYbaILGXbgd7O18kTQtCY2mrhbGucnZsP5IW_wC76td3HGSyK5hblwwLfHWsdZQTGv80IpSrkrpWQKmEQCV_gW_8D8st6L6qzMNIjDUyIthtrQXzuxb1X4603_ONLfA2GHHxzVQmOK_eFuO9IpYQlRMw.jpg"
+      }
+    },
     {
       "id": "4764",
       "title": "https://x.com/silverfang88/status/2094778109408977150?s=20",
