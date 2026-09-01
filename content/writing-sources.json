@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T14:41:44.000Z",
+  "updatedAt": "2026-09-01T06:31:00.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4746",
+      "title": "沒工作之後，怎麼花 token 又越來越貴了",
+      "description": "沒工作之後，怎麼花 token 又越來越貴了",
+      "url": "https://t.me/pdzeng_talk/4746",
+      "publishedAt": "2026-09-01T06:31:00.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4746",
+        "siteName": "Telegram",
+        "title": "沒工作之後，怎麼花 token 又越來越貴了",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/RWgKtxl0V66RsehMH_JQRXSgVZulkx_lgeyHVTaFt-6fTr7CmGbT4gZwzW2okHCugso93KdguQ2OL3scJpXJ1dqHcI1riUFZsHLyrD8zSNIS5adfCASL-pO_uuLpTaJL7jwtJuKBr6CH63gzQ96PoWllCN8CvHYqNnMOn0Ab3_1aFvh83chlx4k-gZFZZEpIUBkjbnc-T2dk6ymSOV5DAutsy_DvI_lzO3FvEV_2gnMFkeXkyS5t4m4pwUhLOtbERfYWULkNpop-A6GG4WTC0QHz4OHegeJXB8xo1upVB3G-X1nh3fEAc0U_IwR9RcpupRQapJgbdk7TRJEB5aeS2A.jpg"
+      }
+    },
     {
       "id": "4745",
       "title": "https://almanak.co/ 能夠自己跟 AI 討論然後把策略部署後，然後在鏈上跑",
