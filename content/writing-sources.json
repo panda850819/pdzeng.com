@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:29:28.000Z",
+  "updatedAt": "2026-09-01T16:40:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4772",
+      "title": "Chatgpt App 現在還可以用 Skills 還可以搭配 MCP 🙏",
+      "description": "Chatgpt App 現在還可以用 Skills 還可以搭配 MCP 🙏",
+      "url": "https://t.me/pdzeng_talk/4772",
+      "publishedAt": "2026-09-01T16:40:53.000Z"
+    },
+    {
+      "id": "4771",
+      "title": "https://substack.com/inbox/post/213649471",
+      "description": "https://substack.com/inbox/post/213649471",
+      "url": "https://t.me/pdzeng_talk/4771",
+      "publishedAt": "2026-09-01T16:32:08.000Z",
+      "preview": {
+        "targetUrl": "https://substack.com/inbox/post/213649471",
+        "siteName": "Substack",
+        "title": "Robinhood Chain 鏈上 Summer 來臨，單日收入超越以太坊；CRM、CRWD 財報推升 AI 軟體股 - 0901 幣研週報",
+        "description": "BTC 8 萬美元得而復失，ETH ETF 流入反超 BTC；Tectonic 遭駭 7,500 萬美元，Fed 九月利率決策仍在拉鋸。",
+        "imageUrl": "https://cdn4.telesco.pe/file/NxrAHpLSuqiyP643RuWHcETqgy3lJUMtyhi9YbU_BtmWPu35lFo4EVAGsJN5K2MH0C_hDQxGwAwBskgWUG4utWUf-ocdzP8tLaPcFYY-q9FQQ5JcWiPqhr2BQnifgwm0jfo5WqrlNZyHqG3DViCy8Cp2L9NaYsRglW6_A1TD1gmnXcdShoIpI0ciVtVIzEI0gxKUeaGBE9a3JKBCV-GS0x5Z2G_mv0AhoZZtYpDKsfuir0Qo_DNClKtRxs5ux_EizrW4eesg49qcmPr4rxGLzfcpgIR85MGypOWCJoWOCcdRxALvzEUekJkHWKzv3ikSaaNdm57v0wi9Z_yVVQ_GFg.jpg"
+      }
+    },
     {
       "id": "4770",
       "title": "https://x.com/agintender/status/2094808127342563672 嗯第一次充錢，想說錢咋少了",
