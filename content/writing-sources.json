@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:29:13.000Z",
+  "updatedAt": "2026-09-01T12:16:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4759",
+      "title": "https://phosphoricons.com/ https://remixicon.com/ https://www.mingcute.com/ https://reicon.dev/…",
+      "description": "https://phosphoricons.com/ https://remixicon.com/ https://www.mingcute.com/ https://reicon.dev/ https://hugeicons.com/ #design",
+      "url": "https://t.me/pdzeng_talk/4759",
+      "publishedAt": "2026-09-01T12:16:15.000Z",
+      "preview": {
+        "targetUrl": "https://phosphoricons.com/",
+        "siteName": "Phosphor Icons",
+        "title": "https://phosphoricons.com/ https://remixicon.com/ https://www.mingcute.com/ https://reicon.dev/…",
+        "description": "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+        "imageUrl": "https://cdn4.telesco.pe/file/oP-qZw0gzq0X35YncG7lZUcC5XdDxh5BtsJc4asLtERFed1QaCkZrgnffpA9iU9SsO5TplP2FQ86SrSIVuEwhQ-q2fe9ttKoDAg3bCmg2o7irL_0sXgegKYiwQDsmvtGzrPtI2MQYpoMJbGPLSCdmJiLpG7YlLZeJEepduR--TofpwPXDI93p7WWH6FLzygKvjbMVvW_8QoWWn2X8Xgj68bMvDhFzoF9G8VpSXbXVFdhFcx6gKmo2_MuIIeky_hF8MitvdM29Qh-03SPCCWkACL4zawbUywW_bgKNUP6Vf7X5-e8UVhquXjztdIC-JB3f94VKmSaupze7W2Gqa5uMA.jpg"
+      }
+    },
+    {
+      "id": "4758",
+      "title": "https://www.techflowpost.com/article/33659 https://www.techflowpost.com/article/33648",
+      "description": "https://www.techflowpost.com/article/33659 https://www.techflowpost.com/article/33648",
+      "url": "https://t.me/pdzeng_talk/4758",
+      "publishedAt": "2026-09-01T12:04:07.000Z",
+      "preview": {
+        "targetUrl": "https://techflowpost.com/article/33659",
+        "siteName": "TechFlow",
+        "title": "Robinhood 群魔乱舞，一文搜罗今日涨幅最大代币和值得关注的项目",
+        "description": "这场行情的本质，是链上流动性首次开始实质性地争夺传统金融资产的定价权。",
+        "imageUrl": "https://cdn4.telesco.pe/file/dKx4TUCfCujv2HmnCY1A151qHwiuh8k2hW0VA-WpVEqFLwbN8dVjXYXYtBehPrWxQwYQJye5rMEegVPH0-6Hoo6G2UynpEBkgdIzs8pAZgXpu_h2ahWIH0QoqMXUpTiQkuqEJ1TBySBKdw9gxD0HY-82YT4yhrafguDyNCKQTSm6JfkzQLf6KUiZfvkh9TtSfEd2toAWUj2okv8QNeMvvLhd9qaDMK4Jhai841Gq1jAh3GQaTaAQCpwwcA1opGYk7jF1YI3Db18_PuqJ8ZsaqKumpizupSD0tw7DRrqoneBJmm1J_Um6xMVncNHg3j1-9IuWkW9Vtl4_Gngcy9m66w.jpg"
+      }
+    },
     {
       "id": "4757",
       "title": "先列出我一定會看的 Uniswap Morpho Lighter Syrup RH 原生的之後補上",
