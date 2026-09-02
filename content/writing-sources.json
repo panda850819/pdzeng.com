@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T17:49:34.000Z",
+  "updatedAt": "2026-09-02T00:19:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4776",
+      "title": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "description": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "url": "https://t.me/pdzeng_talk/4776",
+      "publishedAt": "2026-09-02T00:19:54.000Z",
+      "preview": {
+        "targetUrl": "https://anthropic.com/claude-fable-and-mythos-5-1",
+        "siteName": "Anthropic",
+        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic",
+        "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+        "imageUrl": "https://cdn4.telesco.pe/file/IwlSDRmbYBFHn2B5KNUKO_7_wbvpfpS8XGUI6mgsSNIVdCPSnTtHc3J4up9MLhpXqRs4Pu7gxCHRg_zN5EvVcizOrhJDbGsICX1-60iePmwnyTsGxWY-pUjm_hnChL5wohbrDS6C0X78sZg34mWnFkaYEKXQsqNoWgxjYThnoyS_ye7qNnSaJ9tmV8GaDVVGA_yEF03GJBDK_A83ZwkKrzASmB4QSZJGvc6sHulHtEBbUW6kiqFnvf0RIxRWHyngLh4rx5VeQcrug4EnBCdLQZH1Kb87iS56JKFvtpeDvQ2g2ngsUBhyYRedU13mlSo_I6pivDTzIHalpndqMMVASw.jpg"
+      }
+    },
     {
       "id": "4775",
       "title": "多巴安攝取過多 明天還要早起 晚安",
