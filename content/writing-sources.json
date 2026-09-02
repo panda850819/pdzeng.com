@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T08:47:12.000Z",
+  "updatedAt": "2026-09-02T11:32:48.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4784",
+      "title": "https://support.1password.com/travel-mode/",
+      "description": "https://support.1password.com/travel-mode/",
+      "url": "https://t.me/pdzeng_talk/4784",
+      "publishedAt": "2026-09-02T11:32:48.000Z",
+      "preview": {
+        "targetUrl": "https://support.1password.com/travel-mode",
+        "siteName": "1Password",
+        "title": "Use Travel Mode to remove vaults from the 1Password apps when you travel | 1Password Support",
+        "description": "Travel Mode removes vaults from your 1Password apps and browser extension, except those you mark as safe for travel.",
+        "imageUrl": "https://cdn4.telesco.pe/file/VwYrQ_AHRz5PcDP_sOy7DxCXBkStUcQHXv6iUdGsvKInO6RZ8AJTh9niBEV4TkG2fNEZew9YX0mCpJ4FpY3TGbM93vxdkQR5ox96TfGqqiXMftYDE4Gp7_kyV8NoduHLHW6rlO2lmJTr976uetk6o00pzSS22cEsIPa1ILBp1LXSBkAj1TYDqbJ_ZtFVoNxEh3x2OnricMhFH1fPey0Purdt3mgn_Uh9s_bPkgWdQ2_oyG37I7i3EI_KK1dfuktxr9WEFdJ8kV0ZHCgvjZEpB2Kx1VWih7_01rtY82OqqlKTr_uk7dfBCP_6WlOL4bVK91lKy0UmaqoNevg6du3gUQ.jpg"
+      }
+    },
     {
       "id": "4783",
       "title": "akfamily/awesome-data 🔗 https://github.com/akfamily/awesome-data #github",
@@ -301,7 +315,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "余烬 (@EmberCN) on X",
         "description": "1⃣",
-        "imageUrl": "https://cdn4.telesco.pe/file/Ut-y-lXvrKGyNXwnPDdyi_yzTD4wE_lrjTGvpMuyzIDmJoglY2lVMoK6sdjsvnLgAsDesMh7TDdgu1CysUYqF1sZ5mEDibwK-HuNVe07zbx4jw_oAouM6s7sBSRymwOTqryikhmJCqD8gN1cLrzE0fe3sr-8zyJLdqmxYfsLtlxxzShcAyC7mTdwFIlOZ26XyqlEt8nfYSLQZrm8BhzEZpVjWgBRR3HXLab1vkz46HdCSxcnOROMrYcaVcxIMKMH5RnFS44qbrCPYgNiaofbmwwWPejudBcwwGLBF-AzJaPEw7pxV9riyr2JQib7Bi-5R6CkNhaV_0t4xld306Py2g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/dziOlLYJnLrVXRk6qA5IJjcVBl4f9zTbtDwzzLPqOvERLjP0uLarZm00NFH2tYGkokP5bsyZC4NYl5nqAlV9XpymnOZ4HBlDdWIKu37Gi81f2ZZcbVQ-9pb4esKbBs7gqd83Uv_LdQXaxx75sD8YGowOYHXfQBUf3YqrSRj4AcuRW_4dOOgBMJ_c4LxDseBIcfaTzGfwYvVtGtspIR7xws2cAzGxk5_-Xvu2wJ7EtQR_7qaYySbjJtTTdZ4Ujk9YRBurE0t2aoSHTd7bG0tvbu2lkFpMGkr5IdWTjyp7OebIdPN8YSC5vHw_NqHfu68Tv1MLscgj-9UY3jnWcCxC_Q.jpg"
       }
     },
     {
