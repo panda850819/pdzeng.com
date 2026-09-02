@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:32:48.000Z",
+  "updatedAt": "2026-09-02T13:32:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4785",
+      "title": "https://unclestocknotes.substack.com/p/855?r=14erib&utm_medium=ios",
+      "description": "https://unclestocknotes.substack.com/p/855?r=14erib&utm_medium=ios",
+      "url": "https://t.me/pdzeng_talk/4785",
+      "publishedAt": "2026-09-02T13:32:12.000Z",
+      "preview": {
+        "targetUrl": "https://unclestocknotes.substack.com/p/855?r=14erib",
+        "siteName": "Substack",
+        "title": "你不是缺股票資訊，你是缺一套研究股票的方法",
+        "description": "從產業、財報、法說、競爭格局到估值與停損，建立一套可以重複使用的美股研究框架",
+        "imageUrl": "https://cdn4.telesco.pe/file/TCLJliKVuzlKDcvhnTf18NF1JSvfl5y0hvyHEInoBzrqWt2fVkeswBPVdyCrStOEMxZJqad_tivkN0eFFi27sQvE8pcGMqNvMqBrcRjmqO-_YsOVZKqDbfwLLzdjTS4VvEEITphceKSonPbqOGYh9TIuhrQen7Bxxt_wdhZa1MK4z416AG158hNoRn95m9Xn-Tr6-jmNmFh5EPmivo0ISldN1wvbnWpQIJviuAirQigwS5Nx7zzHLUMo3I0yKl1vtRisDKwO8mkZoseO-3w-yVUwYE_oOLOfDyJMUjx1x5aT48cB4w9i5GhGZW7BYwxoOtXsuF8Vd8qhcZFcq2vAcQ.jpg"
+      }
+    },
     {
       "id": "4784",
       "title": "https://support.1password.com/travel-mode/",
