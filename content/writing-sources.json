@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:30:07.000Z",
+  "updatedAt": "2026-09-02T07:17:08.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4781",
+      "title": "https://revert.finance/",
+      "description": "https://revert.finance/",
+      "url": "https://t.me/pdzeng_talk/4781",
+      "publishedAt": "2026-09-02T07:17:08.000Z",
+      "preview": {
+        "targetUrl": "https://revert.finance/",
+        "siteName": "revert.finance",
+        "title": "Revert - Actionable analytics for AMM liquidity providers",
+        "description": "Powerful analytics, automation, and management tools for liquidity providers in AMM protocols like Uniswap, Sushiswap, Curve and Balancer",
+        "imageUrl": "https://cdn4.telesco.pe/file/nMRiMNBY4tdthoHZmriHT-ymAlRz0A3j76A5Fj4s97Yx880bK2jbc2okR0Mtbwjz0Ju7hL-d98nh_fPk7uHLO92FPjh2KKPTdFw6OvTgch4k1TC4-zYFmnZR-nO8FgVSo-WA3BNaQGRb2bmlbbCYgyF0C8-SXec4pExQFI98qZ5h4BStrz_8EZN-PI9ilAkUbtIiVS7nh9pKOhBdwHUP1zK5shbj5BEvX5YtEJ-hhxnBt8RrroM8xn9Mn_NHGusJ7nWXqu9Vjxn1W-8M9-WfR9EpsN8HQgaJGbeeuQ8KzpUeLS-IFJeIGvPxBLqeDGQTakSp7G9jJfT4v3Celc6T4w.jpg"
+      }
+    },
+    {
+      "id": "4780",
+      "title": "https://x.com/PandaZeng1/status/2095047139709653101",
+      "description": "https://x.com/PandaZeng1/status/2095047139709653101",
+      "url": "https://t.me/pdzeng_talk/4780",
+      "publishedAt": "2026-09-02T07:12:38.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2095047139709653101",
+        "siteName": "X (formerly Twitter)",
+        "title": "pdzeng | 熊貓 (@PandaZeng1) on X",
+        "description": "認清自己不是這個 PVP 賽道上的，這次 RH 主要參與會往幾個方向去 1. 存 LP （目前是先存了 @fablesfi ） 2. 再來可能是看看 fomo 上的人買了哪些龍頭，像是 ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 $BONER 3. 再來就是去思考一下這波流量可能會帶來哪些流量，像是 ethereum:0x64…",
+        "imageUrl": "https://cdn4.telesco.pe/file/FpIGxL_cZUvUWieEzPjXTCHD52-t3-hhBwu8RzgqFlZlJXryJP5EqJ7chsoJVOj_Iinh1m_STqnfgFuVThacJxcC6IgIB43On97_NMacpDItiKoiQOW6AzTCQlGUBMu3dGAfaB8YF3ZocpH3t38ANXP_Na43PHipyQGpIZXO5WvhJ_TUIBi5iDFVa331w3EnyJGCWooIB1dl-Icq1vFMMcMFl1EiDzJ0dUveG0XKESC_WVrQ0N32cNE7f8rQODXMidJnPjNHRv3Qu7zUgYceqgwo1UQjYDTE0DyLfpvtMwQw-xmxKBNrONLTBMHxUtWXz-A4auOcB-_49vwEFgGeyg.jpg"
+      }
+    },
     {
       "id": "4779",
       "title": "Robinhood │ 28.5M funded users │ ┌──────────────┼──────────────┐ ↓ ↓ ↓ Trading Earn Stock Tokens…",
@@ -4712,6 +4740,22 @@
     }
   ],
   "x": [
+    {
+      "id": "2095047139709653101",
+      "title": "認清自己不是這個 PVP 賽道上的，這次 RH 主要參與會往幾個方向去\n\n1. 存 LP （目前是先存了 @fablesfi ）\n2. 再來可能是看看 fomo 上的人買了哪些龍頭，像是 et…",
+      "description": "認清自己不是這個 PVP 賽道上的，這次 RH 主要參與會往幾個方向去\n\n1. 存 LP （目前是先存了 @fablesfi ）\n2. 再來可能是看看 fomo 上的人買了哪些龍頭，像是 ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 $BONER \n3. 再來就是去思考一下這波流量可能會帶來哪些流量，像是 ethereum:0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66 $UNI $MORPHO $LINK ethereum:0x808507121b80c02388fad14726482e061b8da827 \n\n並且參考大哥 @Alvin0617 的想法 https://t.co/hkklg1AcDY",
+      "url": "https://x.com/PandaZeng1/status/2095047139709653101",
+      "publishedAt": "2026-09-02T07:12:16.000Z",
+      "replies": 2,
+      "reposts": 0,
+      "likes": 1,
+      "preview": {
+        "targetUrl": "https://x.com/Alvin0617/status/2094471514733298095",
+        "siteName": "X · @Alvin0617",
+        "title": "alvin617.eth 🦇🔊",
+        "description": "$UNI $MORPHO $LIT\nDeFi 也能在鏈上牛市受益\n這是 DeFi 玩家期待已久的組合技了\n\n好好把握💯"
+      }
+    },
     {
       "id": "2092284107162267835",
       "title": "快速紀錄下\n\n鋪天蓋地的 @entropyIO 建議是確認邀請碼用戶是 lv2 以上應該會是比較好的 by @jojocash888 \n\n像我也沒有玩 xyz 或是其他的預設就是 lv1 所以…",
