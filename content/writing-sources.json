@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:17:08.000Z",
+  "updatedAt": "2026-09-02T07:34:43.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4782",
+      "title": "加了點 差不多 5ku",
+      "description": "加了點 差不多 5ku",
+      "url": "https://t.me/pdzeng_talk/4782",
+      "publishedAt": "2026-09-02T07:34:43.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4782",
+        "siteName": "Telegram",
+        "title": "加了點 差不多 5ku",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/U1IHrtNDMixcTIc2OPs7JKa9f25QV_7TAt949gg6Ct6rfBTEtDvNNYtsC0_DKVEbudqTrQbd-oJRreXwcaLnnNjGmEfUB7xqQNUQd6Dw4ciVzwb3C6l3JuVr7_Z2Xwe7FO8Stoxc_aiHf8pG871WnjOCbwR_UPmLwUX1zJhkuaIibjkp4aRn80_YqzB95uwoHBqVXbYOD_gFxsD6pwXPYfUpLk__pBTHUsqpJ6ZpRjIQ7ekX2vH3Arzxys3AoZ4p9qPMWsk2MSWp2Jm-YMvhmtcX0soeVb8d9agbGj6oM7Jylnwm5AKt9w51j01YU5fY9dvGJzMqquNcwij5Bj7xbg.jpg"
+      }
+    },
     {
       "id": "4781",
       "title": "https://revert.finance/",
