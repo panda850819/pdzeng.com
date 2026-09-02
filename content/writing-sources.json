@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:34:43.000Z",
+  "updatedAt": "2026-09-02T08:47:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4783",
+      "title": "akfamily/awesome-data 🔗 https://github.com/akfamily/awesome-data #github",
+      "description": "akfamily/awesome-data 🔗 https://github.com/akfamily/awesome-data #github",
+      "url": "https://t.me/pdzeng_talk/4783",
+      "publishedAt": "2026-09-02T08:47:12.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/akfamily/awesome-data",
+        "siteName": "GitHub",
+        "title": "GitHub - akfamily/awesome-data: Awesome-data shows most interesting data-source around the financial world!",
+        "description": "Awesome-data shows most interesting data-source around the financial world! - akfamily/awesome-data",
+        "imageUrl": "https://cdn4.telesco.pe/file/AmQOqhFW7UR-0MSfoF49RbmnySXJAqL9pNAJiPTRWrpZSrl1n6TsMAtiLTvWY4saYkDmF3_KN6OGavo07UIg8rVk1tRkHGIB64IrLtxJOELYHL3HOyx2AdRqhAgvp3SjdpdpgFufCIH_8Yw8qmB3d0nw93zyhLep2tNkaSyY2MIGpLLsYAImxazJHN9h2QM70Loz-MwQ-FWc4WGS7HZA-09NHuFBxUL6UW-CNiol7mF43Hs0NagF31ztLu56Mg6Wi6Il8T3_13PqF1DMUr7HVxNXcK2Br5aaa0GChMoUuG9gzLWZvzdlV3oPw0P2jZsIUCRmHC0e7e_JlQ7Q0cImlQ.jpg"
+      }
+    },
     {
       "id": "4782",
       "title": "加了點 差不多 5ku",
@@ -4761,8 +4775,8 @@
       "url": "https://x.com/PandaZeng1/status/2095047139709653101",
       "publishedAt": "2026-09-02T07:12:16.000Z",
       "replies": 2,
-      "reposts": 0,
-      "likes": 1,
+      "reposts": 1,
+      "likes": 2,
       "preview": {
         "targetUrl": "https://x.com/Alvin0617/status/2094471514733298095",
         "siteName": "X · @Alvin0617",
