@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:59:20.000Z",
+  "updatedAt": "2026-09-02T01:52:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4778",
+      "title": "很會下標題喔",
+      "description": "很會下標題喔",
+      "url": "https://t.me/pdzeng_talk/4778",
+      "publishedAt": "2026-09-02T01:52:15.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4778",
+        "siteName": "Telegram",
+        "title": "很會下標題喔",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/XxWvVYG78iDhJDvooH2hSIdIi7re9TlkwHdSTRYvP-63592k7_Ez4NdfsJXA5ERXIRKRjSqAt07HdSXZKqJNezKMqwRAlRTelG4XY6Xl5XaROZiH3YyZ1OxCumIqGfqLgYrBS8THuq1H1XZIZXyAQ8SKpUVPOOdOmmb9D33jirk2izpJCUN_qk5myATBWenrRhUwL24qDSmMsS0DadOm7xMAcWVSHb3BlAdD7VicaCoMB0N0RO2oKr_FHnkeFmctfXz8cNaXYnKp3CpefVlYp_ayFf31jW7p3_ztR2LoXSKSRGtj0W45beDCahpM39OeLSxvq9gIf3O1EroMEHk93g.jpg"
+      }
+    },
     {
       "id": "4777",
       "title": "當你窮的時候，你可以想出很多有錢的時候不想做的事情 panda850819/xbird └── xbird-mcp └── X data / research panda850819/ego-…",
