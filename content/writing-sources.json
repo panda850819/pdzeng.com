@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:04:27.000Z",
+  "updatedAt": "2026-09-22T12:42:40.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4938",
+      "title": "https://x.com/circle/status/2102367809082909123?s=20",
+      "description": "https://x.com/circle/status/2102367809082909123?s=20",
+      "url": "https://t.me/pdzeng_talk/4938",
+      "publishedAt": "2026-09-22T12:42:40.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/circle/status/2102367809082909123?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Circle (@circle) on X",
+        "description": "Circle 🤝",
+        "imageUrl": "https://cdn4.telesco.pe/file/RD914D9IeEW7zK4LTdUve7406wCdqfZEzy0h-E4qBHLaXEriJo-DegxGx4eHWdHyAtTH7L5lJ0cZdFZ6sryhmtlVIN5xe71VZA31veaiBlhj7iMPDINmACw-o-xi82MxcMiAl51Ad5oXFkYqRYxQJlTLiiVxwVg3k2JOlBW9bQXL_xuj60_h2P2dO_P7rNLdTKiDHRFL7_pQJ470TWy_s__T_ZySP_VMKI3wSUm7XGIsdWWrP2Uy_y5kDXAeqd-J0SGqTHZ8PYb1FvdhZOzeGGonn6SUhCt6wRp5kdTOK5V9FuZzS9IRVOb_iF6gXX4UDtJyQeB_SCb93YlqKYVv1Q.jpg"
+      }
+    },
     {
       "id": "4937",
       "title": "https://console.typesafe.ai/keys 不用等了可以直接註冊了",
