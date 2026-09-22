@@ -43,7 +43,7 @@ try {
   run(["bun", "scripts/sync-writing.ts", "--require-x"]);
   const changed = readFileSync(SNAPSHOT_PATH, "utf8") !== originalSnapshot;
 
-  if (changed || DRY_RUN) run(["bun", "run", "build"]);
+  if (changed || DRY_RUN) run(["bun", "run", "typecheck"]);
 
   if (!changed) {
     console.log(DRY_RUN ? "dry run passed; snapshot was already current" : "writing archive is already current");
