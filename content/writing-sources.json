@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:01:25.000Z",
+  "updatedAt": "2026-09-22T14:53:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4942",
+      "title": "TedLin1993/all-set-tw 🔗 https://github.com/TedLin1993/all-set-tw #github",
+      "description": "TedLin1993/all-set-tw 🔗 https://github.com/TedLin1993/all-set-tw #github",
+      "url": "https://t.me/pdzeng_talk/4942",
+      "publishedAt": "2026-09-22T14:53:12.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/TedLin1993/all-set-tw",
+        "siteName": "GitHub",
+        "title": "GitHub - TedLin1993/all-set-tw: 不用記帳｜ALL SET：自架個人財務中樞，整合銀行、信用卡、投資與電子發票。",
+        "description": "不用記帳｜ALL SET：自架個人財務中樞，整合銀行、信用卡、投資與電子發票。. Contribute to TedLin1993/all-set-tw development by creating an account on GitHub."
+      }
+    },
     {
       "id": "4941",
       "title": "想買 goog net orcl 等東西 但是分散倉位不好",
