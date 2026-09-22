@@ -35,8 +35,10 @@ sync because it has no X login state.
 Production scheduling is managed outside this repository on Panda's VPS. The
 host runs `bun run publish:writing` every 30 minutes from the canonical `main`
 checkout. The publisher requires a clean worktree and a successful `bird`
-refresh, runs the production build, then commits and pushes only
-`content/writing-sources.json` when it changed.
+refresh, runs TypeScript validation, then commits and pushes only
+`content/writing-sources.json` when it changed. GitHub Actions performs the
+production build and deploy after the push; the VPS does not build the static
+site because that can exhaust its shared memory.
 
 Posts live in `content/writing/*.md`. One file per post:
 
