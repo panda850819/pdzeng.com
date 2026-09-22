@@ -4,6 +4,7 @@
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { pushMainWithRetry } from "./publish-git";
 
 const REPO = join(import.meta.dir, "..");
 const SNAPSHOT = "content/writing-sources.json";
@@ -53,7 +54,7 @@ try {
     staged = true;
     run(["git", "-c", "commit.gpgsign=false", "commit", "-m", "chore: sync writing archive"]);
     committed = true;
-    run(["git", "push", "origin", "main"]);
+    pushMainWithRetry(run);
     console.log("writing archive published");
   }
 } catch (error) {
