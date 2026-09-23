@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T01:51:40.000Z",
+  "updatedAt": "2026-09-23T02:52:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4947",
+      "title": "CopilotKit/openmuse 🔗 https://github.com/CopilotKit/openmuse #github",
+      "description": "CopilotKit/openmuse 🔗 https://github.com/CopilotKit/openmuse #github",
+      "url": "https://t.me/pdzeng_talk/4947",
+      "publishedAt": "2026-09-23T02:52:12.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/CopilotKit/openmuse",
+        "siteName": "GitHub",
+        "title": "GitHub - CopilotKit/openmuse: A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit…",
+        "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. - CopilotKit/openmuse",
+        "imageUrl": "https://cdn4.telesco.pe/file/hFumiTSMuj7BDhPAsy7QhPRlpc53VWZ1Ks0oK4UeMkndgMyIhDx0oORnCQDF5P9VCMM3K2FDRJKzr0L95_gMuiDlkMSrTap74RFppwMSHOtPl9DNvJAcMnXL-hxqIlSzd40MF5_foiBlev0ftXKLDhEH7up96UsENCwOLKPIlpmL19w6Ta28qknZA297MqIhuIfC8ybEhO92kUKcx-xR9H7ZKjfJe50R70J8XFpM1z1ZJsbxCUBzX2PJLmkthlr9bjA3Uzm5OCui7k9TrtDT7uQ2tSGmPmm3KLEv8wZXrbITWTfG33gXyuWEfSLcMvXCvLfrQ1uN9XA4HgxEUxGDDA.jpg"
+      }
+    },
+    {
+      "id": "4946",
+      "title": "XiaoDuoYa/codex-with-chatgpt 🔗 https://github.com/XiaoDuoYa/codex-with-chatgpt #github",
+      "description": "XiaoDuoYa/codex-with-chatgpt 🔗 https://github.com/XiaoDuoYa/codex-with-chatgpt #github",
+      "url": "https://t.me/pdzeng_talk/4946",
+      "publishedAt": "2026-09-23T02:47:12.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "siteName": "GitHub",
+        "title": "GitHub - XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. - XiaoDuoYa/codex-with-chatgpt",
+        "imageUrl": "https://cdn4.telesco.pe/file/r_FeuGJS_x5uRWicosb8TVKZ7ZviF_dTA5wmpyxoDZ5eC-je1xoBDZXyx0eaMwmzQTC_v8V5GV2tBU_H9EtT5Ax0BXNXOnLOMwjM7PTOuSwQFGODc6OSqvvKalyd-WEV0p1McUGyPLAcThv9rKJ4LDVK0vjX_nZb_qDaVBWnRwFSqc-sgM57AkA4MWLq2pdd9Irj1UrLVWyuq15G-U7qQ0J6k1kh_Bmypf1G0e0-W8LtfhPgNujGdSqIqihwoQOuXMb_5yXMl2Dp-K_co7ESvDY71oK9KjjoApiYUWI7YwZN9-2-fkNEprSea1LTAA-PXyGAPh2OqDvIjfnNj1Q0xg.jpg"
+      }
+    },
     {
       "id": "4945",
       "title": "是真舒服",
