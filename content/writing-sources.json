@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:52:12.000Z",
+  "updatedAt": "2026-09-23T03:22:11.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4948",
+      "title": "https://www.mcdao.io/app/genesis 記錄一下可以存，存入有 fees 2%-5% 不等，搏的就是發幣 token 預期",
+      "description": "https://www.mcdao.io/app/genesis 記錄一下可以存，存入有 fees 2%-5% 不等，搏的就是發幣 token 預期",
+      "url": "https://t.me/pdzeng_talk/4948",
+      "publishedAt": "2026-09-23T03:22:11.000Z",
+      "preview": {
+        "targetUrl": "https://mcdao.io/app/genesis",
+        "siteName": "Meridian Capital",
+        "title": "https://www.mcdao.io/app/genesis 記錄一下可以存，存入有 fees 2%-5% 不等，搏的就是發幣 token 預期",
+        "description": "Meridian Capital DAO is the treasury for the Robinhood Chain ecosystem.",
+        "imageUrl": "https://cdn4.telesco.pe/file/QuDesdbaYjeTEIHKbOcDFEqEyI1OtOIi_sKUEZB-AgAeh92J6d3BKKqabzIo5H4vC5hyCngOAf0EaWjAq_9plTbXxSCCxGZwIT9HsEB1d8tptG4cN-3iMbTRLxgEnkO55fA3ZzLn8lK8rXrb9qgpQnF_7sdCX0-uWa-x9eHOUFq6PnxEUAceZzNnDALk1f1aJrZek_enyd5x0bK74EWei6T3p0QrQCZc-TlgP_l9N8hCpcdBdSFKBQaRLh8JN2FTcY3628tOQMjxcQxfyWLNV5zjuER2-VM3jMH0FynzX_L438SnW7DU5dFaNAOx-DIvOSf7HkpGXpToccmzXrzK6g.jpg"
+      }
+    },
     {
       "id": "4947",
       "title": "CopilotKit/openmuse 🔗 https://github.com/CopilotKit/openmuse #github",
