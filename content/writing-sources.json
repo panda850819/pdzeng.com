@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:34:30.000Z",
+  "updatedAt": "2026-09-24T14:22:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4961",
+      "title": "grok bot 的手機版怎感覺沒很好用，會一直吃訊息什麼的有點煩",
+      "description": "grok bot 的手機版怎感覺沒很好用，會一直吃訊息什麼的有點煩",
+      "url": "https://t.me/pdzeng_talk/4961",
+      "publishedAt": "2026-09-24T14:22:53.000Z"
+    },
     {
       "id": "4959",
       "title": "bn mcp 是什麼垃圾 根本不能 connect = = crypto 又下殺了",
