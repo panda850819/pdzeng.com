@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T15:45:39.000Z",
+  "updatedAt": "2026-09-24T00:23:52.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4955",
+      "title": "https://huggingface.co/akhilaaa3/Jev-Omni",
+      "description": "https://huggingface.co/akhilaaa3/Jev-Omni",
+      "url": "https://t.me/pdzeng_talk/4955",
+      "publishedAt": "2026-09-24T00:23:52.000Z",
+      "preview": {
+        "targetUrl": "https://huggingface.co/akhilaaa3/Jev-Omni",
+        "siteName": "huggingface.co",
+        "title": "akhilaaa3/Jev-Omni · Hugging Face",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "imageUrl": "https://cdn4.telesco.pe/file/sy4zK94hvWggehFcIXITe1RghZtChM7fJljUxIuRliJRwGQD0M2vacGCLPhAQewY_8MLyXT-L1gPSTm5VCWex0jRoRJpSIq7q1oqdQn78YlE_3VAzCwPnHs_nuOsUF6cRoIyV5H-EaFWTuQ7ehbcSMljTUUyqzimobqC7PSJd0I9i0OCk5sTVE7w_ShaR3woLpmT3fonjG9Z6UwneLQ2hF_iQkD1fPFG3_44vJemF9NNOPhK5U-y53FyL_ZFEzPdPkEcsBbZRMGHTC6iTZ-XJB4u7VCqNhPbpdhqah3fEOdPS_hx4EdwQPSlGbUSUduN5jmNXy8P84Nw7JY4LYpwdw.jpg"
+      }
+    },
+    {
+      "id": "4954",
+      "title": "https://x.com/defiignas/status/2102754773346767197?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/defiignas/status/2102754773346767197?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/4954",
+      "publishedAt": "2026-09-24T00:01:18.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/defiignas/status/2102754773346767197?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Ignas (@DefiIgnas) on X",
+        "description": "This is easiest crypto bull market ever IF the high rev token meta continues. You don't need to chase every narrative or even read much of CT. Just open DefiLlama, Blockworks etc. and find proje…",
+        "imageUrl": "https://cdn4.telesco.pe/file/neoDFfyrN41JkWIm547MF43OXzsrFw0y6jG7nDTl6XGXEWhcVZ4j6MwH7ZDMHXVF_WqQ4vJ23bvU2aGRwVVjsrYDYUIxiy_ea6v8bOa4e6aJoU3anXLJgL6gn6qeUxWvtTZWUVz7jU_quKP8cCB82pLmzEqNumcfvzMayXfQ2utroiWQY5JD-pLzc9RQGOotQAftkwZzTw2-SoY1Dn0b1psbs7PkD9Dy7aWPV8nb9P7QbsTeLtdvMCOlEJ8TjU7jadfREYK1CG6yorg3g0lBwfIAnyPdOws1Voet4gD4uLmPPB-e9yz72XojXi6ngOOt5m7l2_G8hki01yZ_14CERg.jpg"
+      }
+    },
     {
       "id": "4953",
       "title": "Hood 真的很好",
