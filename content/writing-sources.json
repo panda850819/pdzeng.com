@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:23:52.000Z",
+  "updatedAt": "2026-09-24T02:35:26.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,19 @@
   ],
   "telegram": [
     {
+      "id": "4956",
+      "title": "https://grokbot-icon-studio.serio-ai.chatgpt.site/ cute",
+      "description": "https://grokbot-icon-studio.serio-ai.chatgpt.site/ cute",
+      "url": "https://t.me/pdzeng_talk/4956",
+      "publishedAt": "2026-09-24T02:35:26.000Z",
+      "preview": {
+        "targetUrl": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+        "siteName": "grokbot-icon-studio.serio-ai.chatgpt.site",
+        "title": "Grokbot Icon · 미니멀 봇 아이콘",
+        "description": "봇 아이콘 예시를 살펴보고, 프롬프트를 복사해 나만의 아이콘을 만들어 보세요."
+      }
+    },
+    {
       "id": "4955",
       "title": "https://huggingface.co/akhilaaa3/Jev-Omni",
       "description": "https://huggingface.co/akhilaaa3/Jev-Omni",
@@ -210,7 +223,7 @@
         "siteName": "GitHub",
         "title": "GitHub - CopilotKit/openmuse: A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit…",
         "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. - CopilotKit/openmuse",
-        "imageUrl": "https://cdn4.telesco.pe/file/hFumiTSMuj7BDhPAsy7QhPRlpc53VWZ1Ks0oK4UeMkndgMyIhDx0oORnCQDF5P9VCMM3K2FDRJKzr0L95_gMuiDlkMSrTap74RFppwMSHOtPl9DNvJAcMnXL-hxqIlSzd40MF5_foiBlev0ftXKLDhEH7up96UsENCwOLKPIlpmL19w6Ta28qknZA297MqIhuIfC8ybEhO92kUKcx-xR9H7ZKjfJe50R70J8XFpM1z1ZJsbxCUBzX2PJLmkthlr9bjA3Uzm5OCui7k9TrtDT7uQ2tSGmPmm3KLEv8wZXrbITWTfG33gXyuWEfSLcMvXCvLfrQ1uN9XA4HgxEUxGDDA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/jmUdRS5AJrG_ceaN3_NlxieNQv204zekgyoQKeRtUeuw3VMz4MOVPoY3gF8N3MMPcoFmELmmZX0jhPD-3JNzlstOX5yMtg3cSSaZKyqq1fIM0Y0Yf9aUFpG2FzHfPBYJLHFiaL_FjHjIXE0bDE9xQycYp8herKeX_xlftp6V0-GcRJPTXqKJdmbRiDf4q_kZeCV4odeufgVts9x7WmhOgwrVkZTllr6-GNUhKeFkab_P1_xfSGJMV6waGy_cixPuKO38OKYuU1MaiheClP8sD6feQamMakAmqfgj615StkyYxC_QP1p264N8_TmXL1g2WHIfplTEitW3O1S4Ic-Zdw.jpg"
       }
     },
     {
@@ -224,7 +237,7 @@
         "siteName": "GitHub",
         "title": "GitHub - XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
         "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. - XiaoDuoYa/codex-with-chatgpt",
-        "imageUrl": "https://cdn4.telesco.pe/file/r_FeuGJS_x5uRWicosb8TVKZ7ZviF_dTA5wmpyxoDZ5eC-je1xoBDZXyx0eaMwmzQTC_v8V5GV2tBU_H9EtT5Ax0BXNXOnLOMwjM7PTOuSwQFGODc6OSqvvKalyd-WEV0p1McUGyPLAcThv9rKJ4LDVK0vjX_nZb_qDaVBWnRwFSqc-sgM57AkA4MWLq2pdd9Irj1UrLVWyuq15G-U7qQ0J6k1kh_Bmypf1G0e0-W8LtfhPgNujGdSqIqihwoQOuXMb_5yXMl2Dp-K_co7ESvDY71oK9KjjoApiYUWI7YwZN9-2-fkNEprSea1LTAA-PXyGAPh2OqDvIjfnNj1Q0xg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/cYmd9C3rpgAT0xvecUv8I8hJDoJVtRIghWCYWRldfxhF6brsn6aa8E0ZWytcSIpXfmMzTSjgyVugAcYEF_nvGHNeqmMz8Lg16DxTZesX-YdIXmOVDCgKSMqS5eNTt4G6B5IbGRM-iJE2iT4Xm-7bb7SV-KgJpg15eq-iwV_Cj11nT9pFInITbhPr0VCbPRnqlnsriubP8X-KEm6QL_ubM-vLDTHu3sNsc3GIfZFCSYGWrJY56xqxrLUTpQdM5HL8Wz6uElaWUXf78tqU07XfXsWKmivc9tMX7vqzT6Amelnrf9VunHrf5tPV5kVsL_hIsC0HnKZIFGhFDDdw_3896g.jpg"
       }
     },
     {
