@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:14:52.000Z",
+  "updatedAt": "2026-09-26T13:12:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4978",
+      "title": "Jev 才火没多久，相关开源项目已经被人整理出 900+ 个了。 Awesome Jev 是一个专门收集 Jev / System One 生态项目的导航库，目前已经收录 916 个开源项目。…",
+      "description": "Jev 才火没多久，相关开源项目已经被人整理出 900+ 个了。 Awesome Jev 是一个专门收集 Jev / System One 生态项目的导航库，目前已经收录 916 个开源项目。 里面分类很细：SDK、Jev-like 模型、Agent 工具、浏览器自动化、应用、Benchmark、研究项目……想研究 Jev 能拿来干什么，直接从这里翻最快。…",
+      "url": "https://t.me/pdzeng_talk/4978",
+      "publishedAt": "2026-09-26T13:12:27.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/4978",
+        "siteName": "Telegram",
+        "title": "Jev 才火没多久，相关开源项目已经被人整理出 900+ 个了。 Awesome Jev 是一个专门收集 Jev / System One 生态项目的导航库，目前已经收录 916 个开源项目。…",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/WhXH5ar02q9Oug-psWpwAtwKENMtuSBnfAJnPxx2ENENkbwu2kKFie-IFV7nPMAWgvpjC9VH7K3f6Zd-DdJ7znTZ8EvnSCtCCva6PCtB-T49AfrqwaERo6ENhmoN2nzuVFtRtPeFKE0FxLKXCc1eD3ZdumRzegqfP7AU1cVpqxHY50RPU3f__4D7zpuUFmEQEWERNuVXW9aNztBBtCJYtpsvhEFfGrya5Dkjz46MvF6WZaiYbWbP7dGOemkfgD11Q5Jg6k1Sikz9x6zLqkA1H1uf6HOImzNr2ElcGCRfnhV6TzqJTDBSLLrV-Oa0mLhANUVupLMxvM7JDZ85rnDG7w.jpg"
+      }
+    },
     {
       "id": "4977",
       "title": "https://x.com/coinglass_com/status/2103456391231094987?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 成為幣安一家了",
