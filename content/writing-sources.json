@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T13:12:27.000Z",
+  "updatedAt": "2026-09-27T10:24:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4979",
+      "title": "https://x.com/a16z/status/2103518893969178846 很有趣的概念",
+      "description": "https://x.com/a16z/status/2103518893969178846 很有趣的概念",
+      "url": "https://t.me/pdzeng_talk/4979",
+      "publishedAt": "2026-09-27T10:24:06.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/a16z/status/2103518893969178846",
+        "siteName": "X (formerly Twitter)",
+        "title": "a16z (@a16z) on X",
+        "description": "Announcing Cosign. Silicon Valley knows people by watching other people know them. One person's visible belief becomes a signal to someone else, and the network updates its priors. Ascendancy is…",
+        "imageUrl": "https://cdn4.telesco.pe/file/EUHQpbxfFwimG_5XvJHrpWNebKFVnGnHM23hLK6_nUuOBjwyEDNmJYI8O-NB9Jj0-QnA6q1mi5_O-B8Wc9wn8zEt8Gf_RaTTYJ-mom1bS2HjrR5ZNdF-qGlBiuymXvu15DegghKEs20zU_KmEqjnIWf4O8OJow1JHeR2fUyPTB-AsLI5lkYUkgnmvku2YaBQm43_swCwbQtqCFZLB4zbllIzZc3sI-34xYlayIuyHhXkTC8_YrOXo7kAQbci0GVyn9gmr_qXeows7owpE4YKnGxV2VIvKcy9mAJorI19OZEnPJN8Sp-vo3wyPRt_okvbr0BltZbwUDYqvMZp3tDooA.jpg"
+      }
+    },
     {
       "id": "4978",
       "title": "Jev 才火没多久，相关开源项目已经被人整理出 900+ 个了。 Awesome Jev 是一个专门收集 Jev / System One 生态项目的导航库，目前已经收录 916 个开源项目。…",
