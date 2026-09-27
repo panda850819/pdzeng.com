@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:24:06.000Z",
+  "updatedAt": "2026-09-27T10:57:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,20 @@
   ],
   "telegram": [
     {
+      "id": "4980",
+      "title": "https://x.com/PandaZeng1/status/2104163341363290254 註冊： https://waitlist.jumper.xyz/r/JMP-2CCBF2…",
+      "description": "https://x.com/PandaZeng1/status/2104163341363290254 註冊： https://waitlist.jumper.xyz/r/JMP-2CCBF2B7",
+      "url": "https://t.me/pdzeng_talk/4980",
+      "publishedAt": "2026-09-27T10:57:29.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2104163341363290254",
+        "siteName": "X (formerly Twitter)",
+        "title": "pdzeng | 熊貓 (@PandaZeng1) on X",
+        "description": "Next? @jumperapp Join me on the Jumper waitlist. https://t.co/w7x75Q1zMP",
+        "imageUrl": "https://cdn4.telesco.pe/file/CsOnyylt4e5gt8onuT-ggjTneeLYE_aqxAlhaoCTN0SK6SbS8JfA2jUgalJC8SClEluxfABhMU38w1oiMmeMUtaJD9lrVfvePN5eFPfaQvwTo5U_YdN3u5CEE19VLZJBvY2waVceMwREOAz3r9B6qSTjgeqJ2a53yD8JRXggoDDXL63s0zAz__co6ytNRB66zmTQDOHQtSH0tERXr27YFHw4ohggvW6B-aihaa62mxOnO-huqd_RDYbacgrnFAbXmGlEt0iD8X6MqWZhsyCgEHUUhty-nYX2_Lq8Ae7_WzFNSejVKcZTPIWMcNp99lz4yAlY6BxwtXOP8ltP2YRotQ.jpg"
+      }
+    },
+    {
       "id": "4979",
       "title": "https://x.com/a16z/status/2103518893969178846 很有趣的概念",
       "description": "https://x.com/a16z/status/2103518893969178846 很有趣的概念",
@@ -224,7 +238,7 @@
         "siteName": "YouTube",
         "title": "【DinTer】特好吃系列｜最適合吃貨好友齊聚的大隊長老火鍋 ！肋眼牛排煮麻辣鍋？！溫體牛這吃法絕配！麻辣鮮香鍋底讓史丹利一口入魂！",
         "description": "加入我的頻道會員 👉",
-        "imageUrl": "https://cdn4.telesco.pe/file/uog6CVTGH5CxY3QnPfEe1r_R-W8cIxn6wsD70adO56wPz2OUrdnQt9emH4b90sfNEXWkLTRCSK5_CtzHK-FcQu4zaQyUU1wMFfUM_fsqE670cgWqwo-MwepVOBXapD7S6mA2ALLyyy5KWrz1lCQTxGVTfEY1sAr6T1rwvtMkwhJ3bA87_WrYxphMTfezWzfuf2q4INqHzlQTv5y3kZPR7y-_xkj8XQwEiinUrQgX4tTluzfHEbwkXJehqxI9Csc36TGcYR0a2WOCE8sUkudiCa4JhjjyI5kK_1UfPkiAD91awlcezer7ryWbew7JAzUsIPVah3y8zsSGTPM2mfYaPg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/FK0oBycAnZ5-9xpw-UfOrPOinKcOxpXJlWfjOUpiHgOiIapK5kEgDEoSMYKKOO_OJoj4d0Qxk8hk2BsjEVoBTidl58Ob1bYUdM9ULeOanF5hMPFE8rG4qANTpT8CxUoEdKmQEf0ucHtJvIth0RcnRbyYkyLNtdOx4NliGkrf0wrSyUWqUHhFRfrfo_m12kVv0JBcIpPkCgKPTHmzJQY3cK76YoX5m2Ri7aSvvMyv0JZjhqN1FV61TMM3GtAySkrLe4D28IoC37Yn1tTbp7GO-oTyit9DtYmy5ucWtDRJWUt34jvflBbJKOlopIxymmB9Df1CGtHX6YU6FRAjuZ15Gg.jpg"
       }
     },
     {
@@ -5466,6 +5480,16 @@
     }
   ],
   "x": [
+    {
+      "id": "2104163341363290254",
+      "title": "Next? @jumperapp \n\nJoin me on the Jumper waitlist. https://t.co/w7x75Q1zMP",
+      "description": "Next? @jumperapp \n\nJoin me on the Jumper waitlist. https://t.co/w7x75Q1zMP",
+      "url": "https://x.com/PandaZeng1/status/2104163341363290254",
+      "publishedAt": "2026-09-27T10:56:48.000Z",
+      "replies": 1,
+      "reposts": 0,
+      "likes": 0
+    },
     {
       "id": "2099864267554263128",
       "title": "Note\n\nToken\n- Uni\n- Aave \n- Aero\n- Syrup\n- Fluid\n\nUS\n- CRCL\n- COIN\n- GLXY\n- WT\n- HOOD",
