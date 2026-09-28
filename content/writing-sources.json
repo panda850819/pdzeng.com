@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:45:19.000Z",
+  "updatedAt": "2026-09-28T16:01:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4991",
+      "title": "https://app.barker.money/campaigns",
+      "description": "https://app.barker.money/campaigns",
+      "url": "https://t.me/pdzeng_talk/4991",
+      "publishedAt": "2026-09-28T16:01:06.000Z",
+      "preview": {
+        "targetUrl": "https://app.barker.money/campaigns",
+        "siteName": "app.barker.money",
+        "title": "Barker - Yield Primitive for the Agent Economy",
+        "description": "The yield primitive for the agent economy — every agent touching stablecoins eventually plugs in. Live APY index across 500+ DeFi protocols and 20+ CEX.",
+        "imageUrl": "https://cdn4.telesco.pe/file/nMf2ZrBb1wOcQFUTmn98SFb81AtDO5tNRw7wZC36e5fkFKYWa64dkNRhMWJC3a4sLYvORDhGcws9gZB_qblX0NMtfmyeYYgIkltqS3Bv8djj1psVHOg2lrGK_XoLYuauzr0bI2u0r1oDBhahDiwn3D1DtRJB-eacQ68b3HIeDp9kkeRwLA-SKGWggVkgb9laUmPpOPlMmVPQB949mn0Q1ubNAqo-cEh4-IbBvP3aABSUC2kV6pv_Hzc6vxXwZb3gjop-1YYfp-DLyfm2alkn7f9N2euWq1OeppW87-osjnJhHwMYFM8vx5MJ_0u5sz2gaNOr1Twwz6RyeinyIMHYPQ.jpg"
+      }
+    },
     {
       "id": "4990",
       "title": "$META 商業模式評級是「中上」，而且有往下調的壓力。廣告本業仍然是頂級生意，但整家公司正在變成重資產。以 9/25 收盤價 751.66 反推，營收要連續五年每年成長約 24%，才撐得住現…",
