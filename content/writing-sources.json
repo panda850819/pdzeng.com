@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:45:55.000Z",
+  "updatedAt": "2026-09-28T10:27:22.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,75 @@
   ],
   "telegram": [
     {
+      "id": "4988",
+      "title": "jamesxxx-ai/crypto-project-tracker 🔗 https://github.com/jamesxxx-ai/crypto-project-tracker #git…",
+      "description": "jamesxxx-ai/crypto-project-tracker 🔗 https://github.com/jamesxxx-ai/crypto-project-tracker #github",
+      "url": "https://t.me/pdzeng_talk/4988",
+      "publishedAt": "2026-09-28T10:27:22.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/jamesxxx-ai/crypto-project-tracker",
+        "siteName": "GitHub",
+        "title": "GitHub - jamesxxx-ai/crypto-project-tracker: 本地加密项目信息追踪工具：OpenNews / OpenTwitter 资讯、团队与 KOL、K 线及站内提醒，附完整中文教程。",
+        "description": "本地加密项目信息追踪工具：OpenNews / OpenTwitter 资讯、团队与 KOL、K 线及站内提醒，附完整中文教程。 - jamesxxx-ai/crypto-project-tracker",
+        "imageUrl": "https://cdn4.telesco.pe/file/L429pMMIaIazX30a3Ten3QChycQBa-Z3XvWJaZcXA-1_s4Ey_3TFsQIBpgaA_cQW5chvOWrQ6PPN2FG6gSaIJd9znMiijQLeT0tOVg5gNNqCkx664DkCvFbX6yDnXTk81InzH1hJVuW9MUcNQJAAkenHbB4fRYx0TH3f_tb0d0T05zLvJbfIe65ugh6yHv5B2o_CHS-W_2AlZqCfS6JJKhWr1HJBU1jhMB36RzGJvcftyH6lPL7kaUUFa26mFafZTepU3c2Ux9iDzB1TB4HzNXDbbRswOr6r59oaME6783TyiM4mkMzFCMbA-WRhk5wO2MpDqJbnS0MuzgMyskTngg.jpg"
+      }
+    },
+    {
+      "id": "4987",
+      "title": "https://x.com/0xwhrrari/status/2102020016539324501",
+      "description": "https://x.com/0xwhrrari/status/2102020016539324501",
+      "url": "https://t.me/pdzeng_talk/4987",
+      "publishedAt": "2026-09-28T10:24:47.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xwhrrari/status/2102020016539324501",
+        "siteName": "X (formerly Twitter)",
+        "title": "rari (@0xwhrrari) on X",
+        "description": "Jev Engineering: Stop Using LLMs for Every Decision",
+        "imageUrl": "https://cdn4.telesco.pe/file/IontEVZUCAEmZb7GRujW7_276c_ofwE6eZUPLTnXlGBRqeFMWod6AbrPGatYwSivEaYd0bviM3_aOssB6jSzbe-1-4BiFGUVf-lk0EB1VXBnIG03qL11S4G9B__AJcRy_wpPN86z9Ficz0c_2tYt6GehKLErLsfGoacErLLNq9Lc494Rc6w8LKP-wcsuGLDg6j-c8nEme-emtCwME0KO0cy_mlje7g3J6Ssf3G7S78TbBxZerpXW2KYIC_dB1fnFx0EGHdh5y3tYz2kFa6Qo4oFvmkfnVJ3DLYE1-7RWZ-cQo6r8xTtq44oeE6nsioDhxoSNytEo321Fkj7CJ6S_cg.jpg"
+      }
+    },
+    {
+      "id": "4986",
+      "title": "https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/",
+      "description": "https://best.xiaohu.ai/article/higgsfield-passport-rush-animation/",
+      "url": "https://t.me/pdzeng_talk/4986",
+      "publishedAt": "2026-09-28T10:24:28.000Z",
+      "preview": {
+        "targetUrl": "https://best.xiaohu.ai/article/higgsfield-passport-rush-animation",
+        "siteName": "小互 · AI 解读站",
+        "title": "3 天做完 18 个镜头：Higgsfield 动画团队怎样把 AI 放进传统动画流程 · 小互 · AI 解读站",
+        "description": "一支传统动画出身的团队，用 Blender 预演、Claude 写提示词、AI 生成视频，做出一段汽车追逐戏。他们把分镜分路、资产优先、五段式视频提示词和三次翻车都摊开讲了。",
+        "imageUrl": "https://cdn4.telesco.pe/file/KTc0T8zEW_2Zojexz19KXnh_M7D9xjGgRX0CP7BaaS-nqOoDtuofhL0YyaGLqzV_C2vk9B8NzNLocLq45NFSYgD1ZWuuZ-iBmoLzKjHYXqfHd1cIMVOqahzrpfXj8zntlFTgVU4fxJby0HYud7C9U4Gk8VvgzaLWg3yyIxy2FnP8c2tVReCW5uyL1cewftKXjw25p85yoozw7F2yh6yzuQdaPyDANS5WGxIJ1S3RrpG5TpR6iU1TwQ6Ut8Tg8DO4L2AoLHM0CU37GPlRgi0kGeu4vAgFaYj123-gzx7ne0mKgdnpoKxbDBCq_7yTL8kLPVqLoqJzazWy004zdl2l_Q.jpg"
+      }
+    },
+    {
+      "id": "4985",
+      "title": "https://x.com/OpenAIDevs/status/2103929740788933056?s=20 看起來也會有個 openai bot lol",
+      "description": "https://x.com/OpenAIDevs/status/2103929740788933056?s=20 看起來也會有個 openai bot lol",
+      "url": "https://t.me/pdzeng_talk/4985",
+      "publishedAt": "2026-09-28T10:08:31.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/OpenAIDevs/status/2103929740788933056?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "OpenAI Developers (@OpenAIDevs) on X",
+        "description": "https://t.co/NUSyPz99kp",
+        "imageUrl": "https://cdn4.telesco.pe/file/nBCW8piqU2u8AhSbMiiyI8VUqMvRZLclGvdtcGH7y6mqv7c1oyKkv4YiEMhuwnlkV2Zl0whIx6UuuW35Cve_r-g2OHKhp3igt9TxxHepV_KzungaQq78t6hSdd6onry8W53KQ--sYJ5VpYEAs85B6scBx6Ba6N00Cf1nOs44Z61udVj39v9NOiDmv53gZEW9KuF-x6Cfk_tfQ6Upnx09w3bWpvI0L4fwM9JmfOp8DoRSiHLScGl5q-RV_LeetKW7TRcHedabWR0TLkq-ykwGgQKZDIy4rOZGsf-fb0xYO0Hb2kWInj_K5802Kob2J1hkp3aiL-lW5S0sWfC3AKndPw.jpg"
+      }
+    },
+    {
+      "id": "4984",
+      "title": "https://achin.me/zh/posts/my-first-month-as-a-newbie-staff-engineer",
+      "description": "https://achin.me/zh/posts/my-first-month-as-a-newbie-staff-engineer",
+      "url": "https://t.me/pdzeng_talk/4984",
+      "publishedAt": "2026-09-28T10:03:31.000Z",
+      "preview": {
+        "targetUrl": "https://achin.me/zh/posts/my-first-month-as-a-newbie-staff-engineer",
+        "siteName": "achin.me",
+        "title": "Newbie Staff 的第一個月",
+        "description": "菜鳥 Staff 的第一個月做了什麼？為什麼做這些？"
+      }
+    },
+    {
       "id": "4983",
       "title": "突然想到我有黃金的 LP 這下好啦，我現在滿手黃金",
       "description": "突然想到我有黃金的 LP 這下好啦，我現在滿手黃金",
@@ -154,7 +223,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "a16z (@a16z) on X",
         "description": "Announcing Cosign. Silicon Valley knows people by watching other people know them. One person's visible belief becomes a signal to someone else, and the network updates its priors. Ascendancy is…",
-        "imageUrl": "https://cdn4.telesco.pe/file/EUHQpbxfFwimG_5XvJHrpWNebKFVnGnHM23hLK6_nUuOBjwyEDNmJYI8O-NB9Jj0-QnA6q1mi5_O-B8Wc9wn8zEt8Gf_RaTTYJ-mom1bS2HjrR5ZNdF-qGlBiuymXvu15DegghKEs20zU_KmEqjnIWf4O8OJow1JHeR2fUyPTB-AsLI5lkYUkgnmvku2YaBQm43_swCwbQtqCFZLB4zbllIzZc3sI-34xYlayIuyHhXkTC8_YrOXo7kAQbci0GVyn9gmr_qXeows7owpE4YKnGxV2VIvKcy9mAJorI19OZEnPJN8Sp-vo3wyPRt_okvbr0BltZbwUDYqvMZp3tDooA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/A1qEqekVU4H7RUP7e_FzgO5xTfv_-kjhkN03NL18rutq-7_V_gwHl2BZ8OZxUf3ni8iG0kBKSElRw1n8wi5Ic5-Z8CDEMREscWBYz8k8OrZQcbinakeShLBpt5nZU9wDxn_xlN-RjXdBphBT5Dy9-pglBfNh1m2vqf5Hggv1xdFvV8Fx4kmdEDyNsHXOfge0nIEbW2uTsyOCww4qOH5O2WvzWTCzszxkxIYPg0noP0-Jijxg7S7RiJT-OKNHrSIznjIFr92c3UGqF44uE9egrMThl3WVVX624zQAOSSFM-UsiU03icIsOuIj9Eo9c980TGeBhUr45ykcctwZwxWuFg.jpg"
       }
     },
     {
