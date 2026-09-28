@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T10:27:22.000Z",
+  "updatedAt": "2026-09-28T12:54:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4989",
+      "title": "heyjunpenn/awesome-jev 🔗 https://github.com/heyjunpenn/awesome-jev #github",
+      "description": "heyjunpenn/awesome-jev 🔗 https://github.com/heyjunpenn/awesome-jev #github",
+      "url": "https://t.me/pdzeng_talk/4989",
+      "publishedAt": "2026-09-28T12:54:20.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/heyjunpenn/awesome-jev",
+        "siteName": "GitHub",
+        "title": "GitHub - heyjunpenn/awesome-jev: A verified, community-maintained catalog of 834 open-source projects built with Jev.",
+        "description": "A verified, community-maintained catalog of 834 open-source projects built with Jev. - heyjunpenn/awesome-jev",
+        "imageUrl": "https://cdn4.telesco.pe/file/kLlkeNSM1qna-gSOhh1gT4G89EDDnoZ6HuaBZrjvdAlVdbf-I7SqnTxHAPdQbGe-ZfYBuDajEh_7uLbmk1Tl4hKGRLKok9RMXsxlsQNSiOyhQByTOY_XrxilEPGPV0ByBy5V5BIKvugstMfVBsoI3kODv30dAfKRq5eRPS2_p-9csaUbiMRI7cK31oZC8FrG41ox9zMUOd3UgsEUx1gLZ2JdrDCZi5mA8CoOXHs1I2oeTmSxeWztwnT4RCFAq11mxk-JdJm0rIoXLuGSLfIfvrV-SsPu_u5suyH8kt4r2go5vRRjMo-MpHUDOX5xpfEkV3zNodNynY4d3SUDeEhJzg.jpg"
+      }
+    },
     {
       "id": "4988",
       "title": "jamesxxx-ai/crypto-project-tracker 🔗 https://github.com/jamesxxx-ai/crypto-project-tracker #git…",
@@ -237,7 +251,7 @@
         "siteName": "Telegram",
         "title": "Jev 才火没多久，相关开源项目已经被人整理出 900+ 个了。 Awesome Jev 是一个专门收集 Jev / System One 生态项目的导航库，目前已经收录 916 个开源项目。…",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/Qlvj-URk6WD1Lx08cRSDQT0hLmrCRLAPEHPYh9-7oWHK9XvSfLuECPn1WoD4Hu5URcKtoXXymhdvaJccOcFG5aXhZnJZ0VsvYPEIMj9ZYyz9A3nP8nM5nQJK7yC_6H-q_VwV7HSi3bi6y1hSOq4lNPWpbkswnfKui103QQk2dcCy0QFzpsLub7bgh_WcZNJ-BPO2wtBMO2cXaBK4VR7pePbIJM6Svot8LNzy1jlx4P4-_BaKie5uhh4TR5ezLtY9jnOc2dIYnocq9P4ujU11T0MT_YQWdrk7GiU4ORgy50GimPQ6SJewahcz07KJPpmUyyB9XPctWIKsXH_xbJPmng.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/GxTDHIbxPkHf3135wdVrPzHUqL5IJBcEd-Fw1v0JHdY3gNiMQtDxl2GQpHh4xaSgv8iEYZlF7HyHaYygt6qfxZPeNQcNcG8YCN4ORtI9hTWbWu_IH7GZkCxHBaNQfwKQZQoWoysa6nCTFpKy6bLxh-iUzpKcM4IHAVbVlP--vpHxv5y2W7udkitMXMwjk-IiUNuXQGd5u4YnKScTfaoI79o-6KPajjdsXe5XMYzwqg0gC5P7FzKw4PKHT8lvTYS41HNzd5Haq9pjH47cmsbT1y87JSvS4za5mI_e8WiSNJaznk5Vp8b2L2BCwXYLM1MkZiSLEyJe45xHkXnb_xFKnw.jpg"
       }
     },
     {
