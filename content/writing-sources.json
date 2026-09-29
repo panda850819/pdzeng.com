@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:42:55.000Z",
+  "updatedAt": "2026-09-29T06:21:21.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4996",
+      "title": "hackyguru/zhoop 🔗 https://github.com/hackyguru/zhoop #github",
+      "description": "hackyguru/zhoop 🔗 https://github.com/hackyguru/zhoop #github",
+      "url": "https://t.me/pdzeng_talk/4996",
+      "publishedAt": "2026-09-29T06:21:21.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/hackyguru/zhoop",
+        "siteName": "GitHub",
+        "title": "GitHub - hackyguru/zhoop: Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud…",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. - hackyguru/zhoop",
+        "imageUrl": "https://cdn4.telesco.pe/file/CddgoRC1Bw21M_0d0b9wReR0ymxobFM5Hwgb5kU5h0ROAR_PY0SMAHRm6hAk8oKEqe5QqlBJitGClv7yiye1vdQZ7ndy0zB1m_fSIebAgeXJrYpXGwsK669APP92Psruhuivq8OWL5ZY7q1g4cfLBHrattfLIMpwu6jG8eJpaXgrCIptv5rND8_e12yYk3R5STf-jBbeG_1lL32poZydpevqoQDMuXpEJk30GF130qAltQW5fwmqw9sRe0_A7K-Nn5yvXP7hnnEeQTA8iPvenxLHskN8t5cUZzWO5TKZiKoT-VC9Sj50Z7OJ9ibjfAIIqU-WDSwZkMSW6fUjynm0RQ.jpg"
+      }
+    },
+    {
+      "id": "4995",
+      "title": "我接下來估計也會往這邊走，如果 whoop 訂閱沒了的話 https://x.com/hackyguru/status/2104611154559742444?s=20",
+      "description": "我接下來估計也會往這邊走，如果 whoop 訂閱沒了的話 https://x.com/hackyguru/status/2104611154559742444?s=20",
+      "url": "https://t.me/pdzeng_talk/4995",
+      "publishedAt": "2026-09-29T06:19:52.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/hackyguru/status/2104611154559742444?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "guru (@hackyguru) on X",
+        "description": "exiting whoop after 18 months. kept the strap, ditched the subscription. it now runs fully local on zhoop (my fork of noop). no fluff metrics, my data stays on my phone. ai killed vendor lock-in.",
+        "imageUrl": "https://cdn4.telesco.pe/file/CYNZROceRu9LjJu2xPUpfa2ivDjNrKmVHBlXu0Xm95NVBCD_KLjjQ8XticFwq3xxfOqh8D2GpaXU3TlZkbETQtk1e2ZbZ-fktAo_PyHHMSfNOzDUYtgQbIm77stLlohxysxCTMjI3kL8ttoT1wkohe-bTVY3rwK4gT_QMGXhJ0jLBFPUgxP7mF93Lv277BgTVHJXDsenwRqSFm_DSvLpH_h9SSy6ysMIdTXyeirF71G8a7pHyfmnyVJXgZJh_tA2xpYO5XwSxweqVMaV11-NBsQPt3KtbmHwZ9mXTGARJ441TH39Eb6hHonwX54wfFjzbL_lNSpgL1nRjCwmqVbyXQ.jpg"
+      }
+    },
     {
       "id": "4994",
       "title": "https://x.com/bot/status/2104661562715967548?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 機器人大戰",
