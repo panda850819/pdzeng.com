@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:31:21.000Z",
+  "updatedAt": "2026-09-29T07:10:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4999",
+      "title": "現在 okx 充錢好慢",
+      "description": "現在 okx 充錢好慢",
+      "url": "https://t.me/pdzeng_talk/4999",
+      "publishedAt": "2026-09-29T07:10:27.000Z"
+    },
+    {
+      "id": "4998",
+      "title": "然後回本了？？？ 喔沒有，錢包顯示錯誤 = =",
+      "description": "然後回本了？？？ 喔沒有，錢包顯示錯誤 = =",
+      "url": "https://t.me/pdzeng_talk/4998",
+      "publishedAt": "2026-09-29T07:05:08.000Z"
+    },
     {
       "id": "4997",
       "title": "nake13/khuaplayer 🔗 https://github.com/nake13/khuaplayer #github",
