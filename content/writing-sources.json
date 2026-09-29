@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:18:19.000Z",
+  "updatedAt": "2026-09-29T15:02:16.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5002",
+      "title": "https://apps.apple.com/tw/app/nowdex/id6791450777",
+      "description": "https://apps.apple.com/tw/app/nowdex/id6791450777",
+      "url": "https://t.me/pdzeng_talk/5002",
+      "publishedAt": "2026-09-29T15:02:16.000Z",
+      "preview": {
+        "targetUrl": "https://apps.apple.com/tw/app/nowdex/id6791450777",
+        "siteName": "App Store",
+        "title": "《Nowdex》App - App Store",
+        "description": "在 App Store 下載涛南 卢的《Nowdex》。查看截圖、評分與評論、使用者提示以及更多與《Nowdex》類似的遊戲。",
+        "imageUrl": "https://cdn4.telesco.pe/file/DWWfYoyR8QXPQzlujta-MV3Uv4jEA7es8Q95MvCpZu_9zh4tQufUt3eeErdhZ9pTh3kCij1qeT3v1oEyl0_YqoUwyxm7E4Gvu_PDl8SvMHPyGAz0BIqi8GIqiFR4dGY7SdLoIyezQxq_o8XcGHlJRLAFbtn-EeY8gHQwWrNpEtDTCsWyvtc_wlVQ7v1_4UdN4LYskTq-z69jtyxW7yYZ6JtiMGzCXM9qnC2yr5cc2WX4hETF4EErgnfUu7_UjWx7ar0v1FS7o261xUutHv1WFJB7iqXfaUlytwWBpDheJzsk2AH3YSutDkIDChtxc21mqa355FRyohMVJuxgX6nIRA.jpg"
+      }
+    },
     {
       "id": "5001",
       "title": "買了點 near aave sui fil 順序是倉位 合約倉位從 3k 出發 現在 3043u 左右（上次賺的大概 1%） 全程倉位應該不會超過 2x",
