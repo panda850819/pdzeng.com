@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:21:21.000Z",
+  "updatedAt": "2026-09-29T06:31:21.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "4997",
+      "title": "nake13/khuaplayer 🔗 https://github.com/nake13/khuaplayer #github",
+      "description": "nake13/khuaplayer 🔗 https://github.com/nake13/khuaplayer #github",
+      "url": "https://t.me/pdzeng_talk/4997",
+      "publishedAt": "2026-09-29T06:31:21.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/nake13/khuaplayer",
+        "siteName": "GitHub",
+        "title": "GitHub - nake13/khuaplayer",
+        "description": "Contribute to nake13/khuaplayer development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/dkEflh0BjG9SwRO1x9UNEuxGaepsW-nb08kLwS0gleKzLBczC3yQjHRyYWATL6U3TRkphzMlIxERKjSIoClXitc2TXHwMXgFNo4YAzZgrB86XylfmhkT6tQur9UOtj_22wJB11n9hF9KVoPcYWzyqHqeekjEtVnfYOnBZcwtGUaDKyewdrARxLy8IrIP-Vbh0ztnPidXrc8DaJMHeULzMmnUJzluJUiFvSy3KCAyDNRQOa1TKUPhDSG-2scopk3fADJCjvMU-0n-AMbnW1NTB6018Wkut4Qwu5EIJtyfPb9AXh5OIKxgNBx8VBKwQTO22rYyUnrCl6bVh2etsPXhRw.jpg"
+      }
+    },
     {
       "id": "4996",
       "title": "hackyguru/zhoop 🔗 https://github.com/hackyguru/zhoop #github",
