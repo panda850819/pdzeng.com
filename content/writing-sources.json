@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:21:17.000Z",
+  "updatedAt": "2026-09-30T07:09:16.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5007",
+      "title": "史上被迭代淘汰最快的 LLM： GPT-6 Sol 享年 7 天（",
+      "description": "史上被迭代淘汰最快的 LLM： GPT-6 Sol 享年 7 天（",
+      "url": "https://t.me/pdzeng_talk/5007",
+      "publishedAt": "2026-09-30T07:09:16.000Z"
+    },
     {
       "id": "5006",
       "title": "这就是分发端对项目的影响，Lighter失去了分发端Robinhood的支持，价格暴跌。",
