@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:28:54.000Z",
+  "updatedAt": "2026-09-30T04:21:17.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5006",
+      "title": "这就是分发端对项目的影响，Lighter失去了分发端Robinhood的支持，价格暴跌。",
+      "description": "这就是分发端对项目的影响，Lighter失去了分发端Robinhood的支持，价格暴跌。",
+      "url": "https://t.me/pdzeng_talk/5006",
+      "publishedAt": "2026-09-30T04:21:17.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5006",
+        "siteName": "Telegram",
+        "title": "这就是分发端对项目的影响，Lighter失去了分发端Robinhood的支持，价格暴跌。",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/oPBg1b63kt2xkOLLxYR8PV7_V3GEgK6ZwgtUyLTqK-d5ul9Reu0hxdBUIOJey0114j4cZ7Q-k-iqabDBfU6vpvnr-DYSKHcLqs-CLg2Bp1NVbCyvzGXJdiCPPHHxqo2-dibCfd31anxUFNEtR01hBtWyYAXdHJbnrXm_f9nMh7AZTMek-NGDcC1oS9WsYn4YMws73C4kqeqccCWayt753f84uO7bxT_qtwlHitpa2YOlm8DOGAD40mW_ueV_ICV3C03rBWuZEuOhKmB8qQnNUiLmua3fMv1uHvfQIG49EiynA8YEhG0p41p1c4i5WGeUOatGkbxKubLHhjapUwoWRQ.jpg"
+      }
+    },
     {
       "id": "5005",
       "title": "https://x.com/Kay2289123/status/2104991789346340905?s=20 dots 這個能不能搞好點模型，基礎一點就可以了 讓我把老馬這個 cursor…",
