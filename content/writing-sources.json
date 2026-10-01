@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:15:01.000Z",
+  "updatedAt": "2026-10-01T00:33:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,13 @@
   ],
   "telegram": [
     {
+      "id": "5011",
+      "title": "Gemini 4 发布了，但和没发布差不多 😅",
+      "description": "Gemini 4 发布了，但和没发布差不多 😅",
+      "url": "https://t.me/pdzeng_talk/5011",
+      "publishedAt": "2026-10-01T00:33:42.000Z"
+    },
+    {
       "id": "5010",
       "title": "我剛拿到邀請碼 後面應該會打一點，新的 perp dex https://x.com/TxFlow_L1/status/2103288707256369637?s=20",
       "description": "我剛拿到邀請碼 後面應該會打一點，新的 perp dex https://x.com/TxFlow_L1/status/2103288707256369637?s=20",
@@ -203,7 +210,7 @@
         "siteName": "vocus",
         "title": "《Shoe Dog》：NIKE創辦人的回憶錄｜這本真的好好看｜選書交給我，閱讀交給你",
         "description": "這不是勵志書，是超真誠的創業實錄！Nike創辦人自爆曾騙爸媽要環遊世界、法庭亂講話，甚至身價十億在影廳撞見巴菲特與蓋茲時，還在糾結要不要去「裝熟」。書中更驚喜揭露當年Nike棄韓選臺灣的關鍵內幕！看最強Nike如何從一地雞毛跑向巔峰，這顆臺灣專屬彩蛋你絕不能錯過！",
-        "imageUrl": "https://cdn4.telesco.pe/file/ZWme03S6rfkDE0W-lkbno3nRB1r-h-DsuJII3MVhGztQcM3vW-xd8BoxTB8_bFxH4-xiWo0zlkYTYaQs1NIFK8VSHij9nfOOZTnLPZTCx1CK3q1m6dJhcGNnmF9B2I8bt9fi_0IQ33DDDSB4BRKcMlQkZh1116_GYZwg9SMvVoDF7MSbVhHg9HwksZyfC-O3abxj_O3q2XqZpsZyPltFZC1O3pnXi_oaYRmPG4-VqLBkV6RIRiX8mTGtEyMQNN8w4wIBz1ffM_EXP_PaUU6UiGcYBw7rtJSjQdLuZlkfwl2GGyCe1ocoSA9qYYiPCJQEds5nOS-S8tM5di0c-VKPEw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/fulnbr3FgIq42Je4OI1rezpQ1AmpjBxNjDlwS9cCSal3fFWZ0kSf8-G1Dbdps7CVo91gRfRHia1B9fjUYOa8-xj-4mvOq1FkpZsztvbwfd2-q_HSim-l9QwehIEkHRPIY_lgH2egQl1RGfLFAl0p4DsoZfnpYCvuWo0RPL6jm4icomyIcdg3kCjHXG4Q80I82kwdKK6nVVe941m5CpmHTryh_fv9jS_ejwpwyuq9k2e1g7H6HiApSXMYgaCp6VGGJ-bvgL5L8FL8OV84u3JJsLQ9o0EVuAEwcRbiaECQsOeOfCR4UuRAvFbhumeEqmNxR83y0WRisiM9tPh8YsCMjA.jpg"
       }
     },
     {
