@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:37:27.000Z",
+  "updatedAt": "2026-10-02T15:26:56.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5024",
+      "title": "https://www.threads.com/share/D9Vzwg166/",
+      "description": "https://www.threads.com/share/D9Vzwg166/",
+      "url": "https://t.me/pdzeng_talk/5024",
+      "publishedAt": "2026-10-02T15:26:56.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/D9Vzwg166",
+        "siteName": "Threads",
+        "title": "@snow.ball.1981 on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/WvkPbKE0tes3pIp8g6r3rgold6n9p_fsDIFJJ3BizL2eOy8lr0ofylVeZse5lZKh32T0ZV_r-rOFdzaWFPYghPRK7HiYaLlgsUjG7tg8BpMqU0bo-rXxjqRFPq_jhHMFSMN5rFqU66IyTUBA57FRN57rlVznzst2qWGsis9TPET8aqdUC1Uqj0s-qbfL5fOL3qO5DUOrfbdwHXV_9xovW2_AMVuZwWelMO-b_pJ8OYtdrG_HP-BrKDzNAn75HfzUXB9cSRmBNky1m-JFeccmL8RtNl1GQx6BBEjvibrbS8_B1cYh_MqPbaBWGcmJe7uKadRMJMAO9PfBm3iXrZ_jPA.jpg"
+      }
+    },
     {
       "id": "5022",
       "title": "【合約倉位】AAVEUSDT 多單 加倉 數量 4.1 → 6.8 成交均價 183.78 原因：市價單成交 10/02 20:20 台北｜僅為讀數，非交易指示。",
