@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:09:00.000Z",
+  "updatedAt": "2026-10-02T00:46:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5015",
+      "title": "昨晚 NEAR 為什麼跌 NEAR Intents 被駭，損失約 380 萬美元，疑似北韓 Lazarus 所為。漏洞出在 BSC 上的 USDT 充提，團隊承諾全額賠償，合約已修復、服務已恢…",
+      "description": "昨晚 NEAR 為什麼跌 NEAR Intents 被駭，損失約 380 萬美元，疑似北韓 Lazarus 所為。漏洞出在 BSC 上的 USDT 充提，團隊承諾全額賠償，合約已修復、服務已恢復。NEAR 一度從日高跌超過 14% 到 4.7 附近，就是這波打到你 5.02 的停損。（幣圈新聞匯總、BetAlpha） 市場 川普說伊朗不談就加強轟炸，布蘭特原…",
+      "url": "https://t.me/pdzeng_talk/5015",
+      "publishedAt": "2026-10-02T00:46:54.000Z"
+    },
     {
       "id": "5014",
       "title": "期待下週可以去聽曼報 pro 的年會，也有朋友訂閱嗎",
