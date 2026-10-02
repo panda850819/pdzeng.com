@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T03:18:42.000Z",
+  "updatedAt": "2026-10-02T04:58:11.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5020",
+      "title": "?",
+      "description": "?",
+      "url": "https://t.me/pdzeng_talk/5020",
+      "publishedAt": "2026-10-02T04:58:11.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5020",
+        "siteName": "Telegram",
+        "title": "?",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/W31IM5TAcFHRX4LXMUdXzkLplS3EqIHNEiR4fQXvlPQQDsYSJKc15wqYjeYKTBfn2y6KYoPlt3MKX4aQSusPa4zdi5nDoQFQ-LrgAKFN8eePSRCdzmDcx-iw6YT9T8Cgx9FAxsnVgJpoFfu-3mMURYtsebcl5o4Zc8F4rDTtdW-LHWjQI_6lTqzqCmXTO4OKa1UBq-q71wqU-BsHV8i-hQTzWN5SnpdMS2vJsH91qFRF6IV6Q4Ft58APST0D-uJiycOnJoj1QY9WE0Eg66jqvs-1O1lXUqp9Y-41ALmVyhGdpCOTOm2rLWk2t5POwc1jcWYDDEexvyW5w2YHTcD54A.jpg"
+      }
+    },
     {
       "id": "5019",
       "title": "現在的倉位有 ZRO、Aave、Sui 算是精挑細選了",
