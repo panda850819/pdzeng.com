@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:59:37.000Z",
+  "updatedAt": "2026-10-02T03:18:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5019",
+      "title": "現在的倉位有 ZRO、Aave、Sui 算是精挑細選了",
+      "description": "現在的倉位有 ZRO、Aave、Sui 算是精挑細選了",
+      "url": "https://t.me/pdzeng_talk/5019",
+      "publishedAt": "2026-10-02T03:18:42.000Z"
+    },
+    {
+      "id": "5018",
+      "title": "https://x.com/thsottiaux/status/2105843926221660585?s=20 老哥重置沒地方用完了 10/3 10/4 連續兩發",
+      "description": "https://x.com/thsottiaux/status/2105843926221660585?s=20 老哥重置沒地方用完了 10/3 10/4 連續兩發",
+      "url": "https://t.me/pdzeng_talk/5018",
+      "publishedAt": "2026-10-02T03:12:27.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/thsottiaux/status/2105843926221660585?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Tibo (@thsottiaux) on X",
+        "description": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the…",
+        "imageUrl": "https://cdn4.telesco.pe/file/TGCsxwxM6MES61x3zuHTdbQkbNs2z0Pj-zcjDxvdsKlXTGzFFFlNe1aHmuf2V-5zj6oQaA7Mw6mnHBOCVNnqX9MsczHl-a_onA1NTPKgevTrvXb4L0lR5dIcC6lCTl1P8KJ7RIXYqzfIJXhu9HBPtZdl7edPm0X7DE9HOrhHQ1kmkcJgFJmm2Dc7VKhi457Tma6MSTGD3lrYqy1idByaUV_qsecaaHINoBZTh06YWjlcGwivIBvjS68qK0XVetMWWL8Ktx1tjFobkbN4r6uPt0Y-_2jsXg7itvGvBG5Gy58S3rHuUwA_sfbFpfgthTxHgblcVaf_VprqOd2faW8nNA.jpg"
+      }
+    },
     {
       "id": "5017",
       "title": "Pi 變成七彩繽紛來到了 1.0.0",
@@ -245,7 +266,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "美研芒格君 (@Kay2289123) on X",
         "description": "OpenAI DevDay 我现场看下来，有很多值得关注的点 > dots 个人助理：Astra 驱动、24/7 干活的 AI 助手，有自己的电脑和浏览器，能接 4,000 多个应用；Pro 内含，不占原有额度 > ChatGPT Space：人和 AI 在同一个空间里改笔记、做产品计划、分配待办，内容还能在后台持续更新 > GPT-6.1 Sol：官方称能力接近 Astra，价格只…",
-        "imageUrl": "https://cdn4.telesco.pe/file/a5i-_mF1DtR19tHwwKBXi2l1xaAeMntnCRQWEFhdU5SGR5DIq7TFOZuMpKFmYHW4Ra-Xv8Js3fWRhwKKtC8QY3tZzxfdnZhOtg7cc61GNVt_65Y-XBkRD6iPGzC6FPBKkGW5o3aa3nNLSorDsHjiO33tBkNuRvVbfOwKmcTEH22XU_48o1RRxjU8J28iOOygKf9U1xdV1skD6JYOWNHDzCZzMyVCyfadmZC6n8MBpTiy0u-ALl13XwG-HxDwUA9v-RkunYl4a8ef3uno1ek9dvBJoCpf0dg179MUriSFnne0Z-d6UEgf-rVzmsoWfbHE8lXO_GuML6cjPVPWrUc5iA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/IvYDJ_i80chuWbkhvMxHSZeM481qCMMJIQOYqgkNbRWejLtAMliH3XDQ6O2n5ymHBhLHLjmsDhFU7T6IfgRm9vPGd4ZTrys8WloJoedDZEVVQ5oWlf6JS_p2JrtdB6xtha2ypnS0PrTdZoyGP7eFn51xTgrD3xzXlhptVmNwhW9SHjTltZj5qu5AlIcTjjl1W0TBxaEuzCBXJd0xEIxLbbl-irBRspTX_6JGmvhEheS_VGAVuMmhFwfSsV8NMhCJ3kUAq_yfzZ2aVEwmc_2TQfk_vRi9v46KLsqIAE0q5fpOrKmuGBxrzv843ZUfYKt9YJIQR7TAqQnWTghfM8Plfw.jpg"
       }
     },
     {
