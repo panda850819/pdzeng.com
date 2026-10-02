@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:58:11.000Z",
+  "updatedAt": "2026-10-02T07:43:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5021",
+      "title": "https://www.threads.com/share/BBVdqGCQi3/",
+      "description": "https://www.threads.com/share/BBVdqGCQi3/",
+      "url": "https://t.me/pdzeng_talk/5021",
+      "publishedAt": "2026-10-02T07:43:27.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/BBVdqGCQi3",
+        "siteName": "Threads",
+        "title": "ドクターなおき (@moriyamanaotaro119) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/SDo47oz5EagxYCigMAgG3K_AOmMhW9zZRPxfGuvCN69MvSQ5gH8DltfrIFo-6D5e7HdQ-XjrHZ_bgiFOGjwI5oljvdAOal22bOR5oS1LbU41E0HU2ukx1VR0MPUOjllTPeui9HuAWCXq9oeUwT2OsnqavKYXiBxX6JdtUf-Jy1tHF9ZjIE5bdxaAZdnXsgO1-MOD6-j_GrooOlwRZzTcNTnVp9lQ4Nd6EU-qxLPm7XJ5AJqVepkk3FwGzeyCasJu7txP1lnE4UCY_aX3KZ2DI_MnXJPGnuDD11mgdBBLcBXzR5UsFIx0IgVm_7ODV4a93wTJQSFum57dPRVEbTxFpw.jpg"
+      }
+    },
     {
       "id": "5020",
       "title": "?",
