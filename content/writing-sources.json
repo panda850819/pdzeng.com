@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:30:14.000Z",
+  "updatedAt": "2026-10-02T21:38:23.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5026",
+      "title": "Grok bot 額度不知道為什麼跟著 Tibo 一起重置了",
+      "description": "Grok bot 額度不知道為什麼跟著 Tibo 一起重置了",
+      "url": "https://t.me/pdzeng_talk/5026",
+      "publishedAt": "2026-10-02T21:38:23.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5026",
+        "siteName": "Telegram",
+        "title": "Grok bot 額度不知道為什麼跟著 Tibo 一起重置了",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/JXAQxMMj5rLkKbmnjdQZCwWu6QAv7cphRYxl3vMqwwAPCQqyZlYXZdrfjXAEsHItNntAwBHj5fxrGeiaGp2dHFIASE3BtdjrHBSh6OyxBgIt3TFgX-O_R5FYh2UK_2UvAxQkPSVqaJtGv9TZZ2Sta1cPoi13bnkyDKSIx9b92SAuMf_SaapF0Fi8oSmD0rU3nhnfOqdqpmaFfVxTBobmcaW94Dq3kp-9-7x9ycWBzc7mQKwfjiR2mbkK3rbWMsin27-mh3nwGcK5rex_M3i_6UsXYvQiBlw2aV3HkbJGc09gFhAF_HG8TY7N4h_YGRp3daNSs7zjebE8R5vYgYYMyw.jpg"
+      }
+    },
     {
       "id": "5025",
       "title": "這禮拜開始的3000刀，最終成長幅度有限 😂",
