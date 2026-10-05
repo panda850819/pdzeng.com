@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T11:00:28.000Z",
+  "updatedAt": "2026-10-05T12:45:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,20 @@
   ],
   "telegram": [
     {
+      "id": "5041",
+      "title": "Hyperliquid's Perps Now Live on the Bloomberg Terminal Source: https://x.com/M_McDonough/status/…",
+      "description": "Hyperliquid's Perps Now Live on the Bloomberg Terminal Source: https://x.com/M_McDonough/status/2106918759470678056",
+      "url": "https://t.me/pdzeng_talk/5041",
+      "publishedAt": "2026-10-05T12:45:35.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5041",
+        "siteName": "Telegram",
+        "title": "Hyperliquid's Perps Now Live on the Bloomberg Terminal Source: https://x.com/M_McDonough/status/…",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/F58vYRrJoHm12QGSvL1TwMgUAm-wbL1d3RO0Uo49VjhFWt0g2vySedUN8oiA2I8O6AmPXnomQgYPY8V1MCeJ2uOmTGOVufB36edxJbO7iUdkNUwvcFPxdNSq_8sV5v-cLU3Oi_HoHwyyNOqX55zHyXUkXlmiI70YlwT-b0NAuEX9E3qOdsXzbmPOoSYhztiHgov4TQFHWSHHqijkKwMHhOfbtlyUgsWFcb6ycIHr_xu1ZyzjkPlyB35AIxMQBPd6XQnCwuAf9ie88okPSlDoWIcM3r_4-ZQIw3ji-NdHWqVOt0YZ_FlxQsUgy1Fne6_A3VVo1LOCK6mIwYcXvkWWJw"
+      }
+    },
+    {
       "id": "5040",
       "title": "https://vitalik.eth.limo/general/2025/04/14/privacy.html",
       "description": "https://vitalik.eth.limo/general/2025/04/14/privacy.html",
@@ -223,7 +237,7 @@
         "siteName": "Threads",
         "title": "EzQuant (@ezquant.trading) on Threads",
         "description": "",
-        "imageUrl": "https://cdn4.telesco.pe/file/pWDzlVdlbpUdqPlIpHX-pwApRjqETB4iYt1UkgtgEf438ebTWo6y-RX9uSMW2Q74h3T4ttWRlbhr83JcP3gsZzBELaD5iGXpi1XOJc6eG8JEyNM3DtjBKPL9Evvh2vB4B4ENwiP3Z8l5a9phM28Y5PlzHLQane8YdFsfNdjBhnYL-IrBRZ2is89a-FMnbpiWM7ApJhBr2pfgVUumupTJ7k_1lyGZwyBvm9nip1QCb0O2PO8xGF9uD5YZIlDHhSv2vBwVYerID-l7-BbMg5CQ1RaZ-wiqQ9X9nXBxPhyo9CnbTxJw5xbFYYFnpLoj-NkcTrSLeYmhNp3l-wXThMpMWA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/WoyK1R4qSYREb7ajTiD9zYEpFc2h9RbMxi_mjXzYAUD-Wbs5aegzVfTERHuVqVkXKuW1FiraoKhxxA6sEHfwTCV68o5yla5iYOs6VxM2wkM37T6MUAJUMpMJIFy8y7q8a6gmwsr411Mbp1jS1f9-V0scVTk4aoMQVyZUR6YU21403E4diabEZCjLL9y9NtCgvOdsxcL6k808fDLLPvG9tryq1qgUmkwlXgn1kQcZbPQ5G4gamrSWrDwdS-yE-JweU76SRxerZMxcMOzVvjkE5W6YB3SWVPkYkRm0xJAg5tny4FqOZmQC_03b-q1GzVHmbA67-PQCLFxgnCJSRzsrbg.jpg"
       }
     },
     {
@@ -237,7 +251,7 @@
         "siteName": "toestate.tw",
         "title": "MCP 教學：讓 AI 直接查台灣房地產資料｜ToEstate",
         "description": "把 ToEstate 接到 Claude、ChatGPT、Cursor 等 AI 助理：實價登錄、社區行情、房價指數、開價分析、新建案、土地、法拍公告全文，一個網址連上。",
-        "imageUrl": "https://cdn4.telesco.pe/file/EGq-941x9TLt84oKCfSHhcMDMdD8s7jrrCTCMF0njWtTDcCy48GbBQP-5kC5qKj1QQjgdFKAeto8odt6GMqXlvyECDeqDZATpHeM1A0f5RuAFqB2moTlqQcxD_G6vp9HBwcZYnapzL_Ab8fXs5EeNEiTWr5NYIh9DaPZGPAxRsV17SFZZYGzG6JYLabuOc9sveS4BJSjfsmaTjZxpBrTe31D2TsNARDFJlEKPNtH3OpmC6qNlx_V7CHSuiF2c8Hm9YuVgDl0LY77stZsJcqnt7AsVpCQy7prn3IujtJBl1tlNwMIwVNEMPo5sBFdVDzZtEr7hZ8RGq8uA2vzIhnLBQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/rY_5gwahp5u3rI-V1ptZwUHsl_slDfu37Y7pc2bJKG64eCirFGRs1fQdydla2CYtcQc0Ky5E4h1iqjtLq9gpxh1Makz7tnhuaN_dwpreheRZrsIDXlsDcSvC4srCs3zdwVU7K8HLTz4lkiK5EMJVi-fLTzqp-OakTtL9eT3TBLSQ1PmZMO0IW8W4g9fET_gIcMwezUolXnjrqVIaQt3ClCtfik0KZiUHJiLLCEvza2qq-OzHSLGNxJFgPrODTbSwM3QlfrWKpY9qh_t0jve_pxbXX09uboH2lN8wjeN7rLPV-ITAhJArvsXhAr2Huz3s2-6M9LZeWZJROSYLh7PR9g.jpg"
       }
     },
     {
