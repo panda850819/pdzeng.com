@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T01:25:47.000Z",
+  "updatedAt": "2026-10-05T01:58:47.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5035",
+      "title": "雖然沒什麼參與政治，但這真的太酷了 https://www.threads.com/@chnyu._12/post/DeBPVJrHWN7",
+      "description": "雖然沒什麼參與政治，但這真的太酷了 https://www.threads.com/@chnyu._12/post/DeBPVJrHWN7",
+      "url": "https://t.me/pdzeng_talk/5035",
+      "publishedAt": "2026-10-05T01:58:47.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/@chnyu._12/post/DeBPVJrHWN7",
+        "siteName": "Threads",
+        "title": "𝗠𝗶𝗹𝗼 (@chnyu._12) on Threads",
+        "description": ""
+      }
+    },
     {
       "id": "5034",
       "title": "https://www.orbio.so",
