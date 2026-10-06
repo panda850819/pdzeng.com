@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:12:33.000Z",
+  "updatedAt": "2026-10-06T04:06:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5044",
+      "title": "📈 加密動能篩選 10/06 12:05 資料：Binance 公開行情（4h K 收 12:00） 🟡 等回檔 • CAP ：等回 0.066385（尚需 −14.6%） ⚠️ VTHO…",
+      "description": "📈 加密動能篩選 10/06 12:05 資料：Binance 公開行情（4h K 收 12:00） 🟡 等回檔 • CAP ：等回 0.066385（尚需 −14.6%） ⚠️ VTHO ：軋空旗標（費率 -0.463%/8h，OI 24h +32.0%） ⚠️ API3 ：軋空旗標（費率 -0.123%/8h，OI 24h +18.6%） ⚠️ CA…",
+      "url": "https://t.me/pdzeng_talk/5044",
+      "publishedAt": "2026-10-06T04:06:29.000Z"
+    },
+    {
+      "id": "5043",
+      "title": "https://x.com/huacnlee/status/2106063234793087387?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 除非我比他們強 😂",
+      "description": "https://x.com/huacnlee/status/2106063234793087387?s=46&t=1LAyoawP6LK1AbrwCvLGqQ 除非我比他們強 😂",
+      "url": "https://t.me/pdzeng_talk/5043",
+      "publishedAt": "2026-10-06T04:05:32.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/huacnlee/status/2106063234793087387?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "Jason Lee (@huacnlee) on X",
+        "description": "Vibe coding 的时候，应该避免给 AI（SI）加各类约束，比如用什么框架、数据库、前端组件、存储用什么等等。 我们应该像个老板安排目标一样来做，而不是指挥说必须这个，必须那个。应该给你的下属（agents）开放命题，让他们提出方案，然后你来决定。 否则你会成为整个项目的上限。",
+        "imageUrl": "https://cdn4.telesco.pe/file/sSbG4wWVpmqfYb3vQP1ajfWXJ6BAJCLHs3IHTJ2NowKGrXHP_fz8iWh7_oyi_jDPxVE0z6k4YjG60uhjx6Q_VkI44a623T496uFmtctTmpPyLGcB4sjka2klFy1Y8VZLuU3gELDkGRfymqAzkG_gPiHpQQVO486MShDoVgDemlxlMBxrIiH0WkX2bxnZ-BwEJlSLKfxnu9mmbkAg9vIgQtJK2UsHP_ezVlRm5EU0Gq8RQ-Abzozm0dECXhVnWvAWdkQDwlfDRRwbviwtHfWethh1UxWFu2dLcEcyFEDJ-EiHVp7QE2znktMt80ReahgEiLKILPNrM16jLo9ofDeOlQ.jpg"
+      }
+    },
     {
       "id": "5042",
       "title": "再次上車 $AAVE $ZRO $WLD",
