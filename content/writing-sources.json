@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:24:26.000Z",
+  "updatedAt": "2026-10-07T00:48:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5059",
+      "title": "買了龍蝦",
+      "description": "買了龍蝦",
+      "url": "https://t.me/pdzeng_talk/5059",
+      "publishedAt": "2026-10-07T00:48:12.000Z"
+    },
     {
       "id": "5055",
       "title": "Grok bot 覆盤好清楚",
