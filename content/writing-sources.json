@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T07:58:46.000Z",
+  "updatedAt": "2026-10-08T12:39:01.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5063",
+      "title": "買了 MET",
+      "description": "買了 MET",
+      "url": "https://t.me/pdzeng_talk/5063",
+      "publishedAt": "2026-10-08T12:39:01.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5063",
+        "siteName": "Telegram",
+        "title": "買了 MET",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/JbR-Hwnhh0y6FHzBDmf9DyoaLYF7v4vNjc_01hl7e4Di9Ql_uy1ow0WYWM7XrZl8YJTe9QBNZ8sLkb-mgRz22b1fJz0l-3i8-gRHbCKukrmFeWgpHf79FxcHLG8z9v1s6jPLk_iNG6fiODkg7mirjjrfM9U8gCystFjJy7Fsde1QADkPfWgD8Qx_03jz6ePHTNOfWnF6oEZYj019UMWQmGYDtt64ZanF-QaPbVzlV4LgiUmusNHrAnBZVZWCKt9CHlaGuUFUGqsv0rb8pxkcrxqty138cmd1IaK-4ARXOY932CV8FyIjIyc3GKUmdq6-P7SzE3OfoEoDWj1F0VkHvw.jpg"
+      }
+    },
+    {
+      "id": "5062",
+      "title": "買了 MET",
+      "description": "買了 MET",
+      "url": "https://t.me/pdzeng_talk/5062",
+      "publishedAt": "2026-10-08T12:38:25.000Z"
+    },
     {
       "id": "5061",
       "title": "今天重訓完後跑步，吃個午餐後就一路睡了 1.5hr 現在還好累 明天下午還要去一個跑步活動，晚上跑間歇",
