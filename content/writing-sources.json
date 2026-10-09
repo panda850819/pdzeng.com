@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:39:01.000Z",
+  "updatedAt": "2026-10-09T12:40:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,20 @@
   ],
   "telegram": [
     {
+      "id": "5064",
+      "title": "https://fab24hr.com/?lang=zh-Hant",
+      "description": "https://fab24hr.com/?lang=zh-Hant",
+      "url": "https://t.me/pdzeng_talk/5064",
+      "publishedAt": "2026-10-09T12:40:50.000Z",
+      "preview": {
+        "targetUrl": "https://fab24hr.com/?lang=zh-Hant",
+        "siteName": "fab24hr",
+        "title": "fab24hr｜晶圓廠打工人的一天",
+        "description": "凌晨 02:47，手機響了。機台亮紅燈，每個人都在等你給一個時間。",
+        "imageUrl": "https://cdn4.telesco.pe/file/hy34g57jUiZnZatrqAlPhqY3gSwzs5TxalOY_Qzx-7uQeAiq0kylMjuhKyqnT6Mi2l_R2k9iqWUSMlbbLdSFYLul-hiB0njsqK0lLq-TfFHV_LTFwnxrrEolk7YPLW5MuKCG9L0SzX23aSPPzktugzQGfv6UYmjY4Uy62am_D4U-WGxux6jYlkz9Dd11cIQG6LeTLogR01rnmKQM4YSrI7HLMz6gapsSuLZjsfjcW-dqC9VwCBrRn9J28y464ki_aeLnx65ogtzYN9O5hw_aH4UU0JC7-cpEqK5qoqb7sgHMZvy94Qh4xjygWGdQCxErRLPfPHpQ29jH5AYjJov68A.jpg"
+      }
+    },
+    {
       "id": "5063",
       "title": "買了 MET",
       "description": "買了 MET",
@@ -126,7 +140,7 @@
         "siteName": "Telegram",
         "title": "買了 MET",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/JbR-Hwnhh0y6FHzBDmf9DyoaLYF7v4vNjc_01hl7e4Di9Ql_uy1ow0WYWM7XrZl8YJTe9QBNZ8sLkb-mgRz22b1fJz0l-3i8-gRHbCKukrmFeWgpHf79FxcHLG8z9v1s6jPLk_iNG6fiODkg7mirjjrfM9U8gCystFjJy7Fsde1QADkPfWgD8Qx_03jz6ePHTNOfWnF6oEZYj019UMWQmGYDtt64ZanF-QaPbVzlV4LgiUmusNHrAnBZVZWCKt9CHlaGuUFUGqsv0rb8pxkcrxqty138cmd1IaK-4ARXOY932CV8FyIjIyc3GKUmdq6-P7SzE3OfoEoDWj1F0VkHvw.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/askimXJZLJnaI8rrFtAQ1n-zNbAgStNfplYRZgl-LP9udfejisWdgc2TZO0uazCcx8qE74LL4RCHYPZj0Gezb016GRFV_oM6nB8wJFbyeUba1lfOjoJgYunxQ2oVKyFE6rKL19Y2dASzuGhuFcQvgYO2mKMHwabv7orVpfdM8KaGQyoPGP9mmKDcVqTp1aI7II-hY4V648uOsR_cDu1VtWNWqZSkVPfp0qzzvPb4WqPAR-wkhbnqZDA5Vpqo9TsrtxkK8Skbdvv8wnghCqpIBmo3jfOJGyJ1CncIXSlRh4GVei4uXQBe4JL8UoN2Bq2OcCaWDrrnxq5HvdOCpZi4lg.jpg"
       }
     },
     {
