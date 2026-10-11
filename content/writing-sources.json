@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:55:16.000Z",
+  "updatedAt": "2026-10-11T05:52:48.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5065",
+      "title": "https://x.com/GuHype/status/2108890292896297205",
+      "description": "https://x.com/GuHype/status/2108890292896297205",
+      "url": "https://t.me/pdzeng_talk/5065",
+      "publishedAt": "2026-10-11T05:52:48.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/GuHype/status/2108890292896297205",
+        "siteName": "X (formerly Twitter)",
+        "title": "孤鹤.hl (@GuHype) on X",
+        "description": "Hyperliquid对于你我最大的价值是什么？ 一个更去中心化、资金自托管的交易所当然是大资金需要的，但很多散户的问题是，我为什么要用链上交易所，很多人不在乎是不是真的去中心化。 对于一般用户来说，真正的宝藏是这个全数据上链的订单簿，你能看到最顶尖交易员的全透明交易数据，在传统金融里这些数据都是大厂花很多钱去买的。 普通合约用户的需求是什么？很无奈的说，不是更丝滑的交易、更低的滑点…",
+        "imageUrl": "https://cdn4.telesco.pe/file/ZbxorVzRc1V_WHwDBma36D-NRnbTfDKaTN9JhtD_a5mLVc83j_ag_Of6mw-7ej69pP55JPBuxQ5s1xOH5614DDndiCUivGZoVIxV4RGO1muj3qW1iPrlFZJDuza0WQSRbR46uMgf2hjkspS58VyykE1uAOLFWN3GSLwC-W8CcOEqEFpnbZtbl10tgc9c6mcWJSpkKGyDrrrVr9gpKDYAa_3Db3kpf-mG-ytTcCjdlJwaJseUmpWzRRoQsRR833zW-86eCQb5U6WaByM9uNNuxijk-sHEuNm61zmgr_hhQCbcOMzIov998_-qBCf1AP5Rg_8tw1DyNe00WsbGAz-HZw.jpg"
+      }
+    },
     {
       "id": "5064",
       "title": "https://fab24hr.com/?lang=zh-Hant",
