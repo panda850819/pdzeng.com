@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:57:58.000Z",
+  "updatedAt": "2026-10-11T13:37:22.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5068",
+      "title": "https://x.com/0xwhrrari/status/2107093781807775896",
+      "description": "https://x.com/0xwhrrari/status/2107093781807775896",
+      "url": "https://t.me/pdzeng_talk/5068",
+      "publishedAt": "2026-10-11T13:37:22.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xwhrrari/status/2107093781807775896",
+        "siteName": "X (formerly Twitter)",
+        "title": "rari (@0xwhrrari) on X",
+        "description": "Grok Bot Memory Engineering: How One Agent Learns With a Team",
+        "imageUrl": "https://cdn4.telesco.pe/file/oyZPhSRbGXG1gK5Bun9EkRZ3dZo1acmXNpCj0mQyh1JQ6SSCmrqcfHxP4ZwiNqglXU2Q9Jr8uhh2h_y-6oj-ChcSJyhuEo8v8FEZSVoqw7bTtiFSUCE8DObPGLO7FpMIET7bnwxD35_soYEWjP_AzVMpb1KeRk5nPPVphE3RlGZLVuVhz_TDEgdcy2Uerz70cR60etWyfv8iXssIC4D8GDiuaRBlU6I3tmzRYhG9AbcL798948hJptzHwvGMa6GnGs8f0Girihl8pbg__KguqxctbcUK7AYs-KS7Q3gdrbV0eXR6Q43zlhTC5NlRZkrWwgfLAFvLbYq0WQ9W_7SdFQ.jpg"
+      }
+    },
     {
       "id": "5067",
       "title": "終於從頭看完鋼鍊惹",
@@ -280,7 +294,7 @@
         "siteName": "Telegram",
         "title": "我怎麼看到龜大已經分發額度了 我怎麼還在審核 更新下，我沒中",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/gvHlVR_Cj0uxweUA_qzif3EAtT_--oq2xE5dlf_a1UK265FcKA4UI5MmDIFXc48bSs_ulq27iKn-rvJ21pYC8cGhl4MIxVq-RWAj-WTNmETkdIR3b5qXwuRqXmyjzoyk94EdA6RCWH7YdFHqGq8afdLR45xL1D9Xm9gujWk7T7b6bB_JL_5YGt-lIzwOj6IIjKO0bHVt9Giv43SgRveZCScU6SOsSgy_h7dn_OMMdPV64-Jmw6qIFtXTRtmgGPLrBejHl_tspPkLuwsXg_yAHPpH_eFHgKGy6pwsDiZBg2E0YZV4tRGmiRVUt1yZqaIns8zTuggEw3Z3j46z3VZ_yg.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/s-BhUH_D4EvGFdOot3MpvF2fHWflofWrI8D8Ky1R6EfpjlmkfWrC97QFgfS8rDD95Bl6zbnlJJld9YG92bRCVfae1QjSjyFWKtlOP4oMJ844YkuWtYpG9ZmavwApCUd_je5pmDURxH2Nv-BMoZHWFYeqL7BVHYypkM5cDE1dFdSd-L2ajr06_lsS8JyuPwIKbomAh0r2lllbPKuLnJBrjsHNWKlzQxosnNfjN-8DBKA1HZRUwooTLjmQfN_VWqXZDSOzkt-PeEJEigpLGQKgTzqhmjBTsiui2o05xqVYfIRRhHBzqL940drdNTU22FGDucpgMVlPnGGVmyctBCZHsg.jpg"
       }
     },
     {
