@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:40:50.000Z",
+  "updatedAt": "2026-10-11T04:55:16.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -6367,6 +6367,22 @@
     }
   ],
   "x": [
+    {
+      "id": "2109145787313897898",
+      "title": "但凡你會拿你的冷錢包去做操作就是在跳火坑，最好的操作就是存錢跟取錢，否則你跟一般熱錢包沒什麼不一樣",
+      "description": "但凡你會拿你的冷錢包去做操作就是在跳火坑，最好的操作就是存錢跟取錢，否則你跟一般熱錢包沒什麼不一樣",
+      "url": "https://x.com/PandaZeng1/status/2109145787313897898",
+      "publishedAt": "2026-10-11T04:55:16.000Z",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/LumaoDoggie/status/2108782677256273963",
+        "siteName": "X · @LumaoDoggie",
+        "title": "撸毛小狗",
+        "description": "看到Ledger被植入..再强调一遍.  链上侦探@zachxbt 说硬件钱包都是垃圾/智商税是有原因的.\n\n我的策略就两个, 很简单. 分两个情况.\n\n1.经常要链上交互 + 钱不算太多.\n\n专用电脑, 或者你自己平时工作电脑, 里面装Vmware或者 Windows自带的 HyperV Manager. 然后装上干净的官方下载的操作系统 (Windows…"
+      }
+    },
     {
       "id": "2108104804719583559",
       "title": "hey @bot can I get panda@mail.grokbot.com for my bot?",
