@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T13:37:22.000Z",
+  "updatedAt": "2026-10-11T14:57:31.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5069",
+      "title": "只能說這個太有想法了 2829632740/Pegline 🔗 https://github.com/2829632740/Pegline #github",
+      "description": "只能說這個太有想法了 2829632740/Pegline 🔗 https://github.com/2829632740/Pegline #github",
+      "url": "https://t.me/pdzeng_talk/5069",
+      "publishedAt": "2026-10-11T14:57:31.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/2829632740/Pegline",
+        "siteName": "GitHub",
+        "title": "GitHub - 2829632740/Pegline: 截图小工具",
+        "description": "截图小工具. Contribute to 2829632740/Pegline development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/SIBHxHSV58BB9-KtGr_tx3PQwT9CMyQ91kWSqA5_Op9srnnOBg92FOcifJWfGsHLFmEYzzUYhCLbAKmvpf1gklN2yhRTlssPeLdkXDvfs7AlgjIvbaL7zOiw6DpcjOp3wZFkQy1Wdpa36op-iHUeF4I3jq1elrveAMQF_WfZlzvIzM8w2MKHg7Mo_ZmIZri29caBTDgY1VKq86wzjKeODfDNPEFFESyHJU0xlW_UP6n6MPc3TZd1wWWVHw-4EvBAC7oFM8NelTTTLSvysgzUo4aEtvYjGbZ2nszn0mZ6RuFmPh6qNulVIz1IqJpD5ENeN4-Smq1KPuPK2QPouW8ZgA.jpg"
+      }
+    },
     {
       "id": "5068",
       "title": "https://x.com/0xwhrrari/status/2107093781807775896",
