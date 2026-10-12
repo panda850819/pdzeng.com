@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:53:06.000Z",
+  "updatedAt": "2026-10-12T08:31:55.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5071",
+      "title": "🟧 黑客讨论: 不要安装 Zod 4.6.6——它可能已被感染 🔥 文章摘要: 别装 Zod 4.6.6，安装脚本在偷跑远程代码！提交 d821685 名为“修复 bug 并提升性能”，却…",
+      "description": "🟧 黑客讨论: 不要安装 Zod 4.6.6——它可能已被感染 🔥 文章摘要: 别装 Zod 4.6.6，安装脚本在偷跑远程代码！提交 d821685 名为“修复 bug 并提升性能”，却在 zod 和 @zod/mini 的 package.json 加了 preinstall: node meta.test.mjs 并把它塞进发布文件；脚本先从以太坊…",
+      "url": "https://t.me/pdzeng_talk/5071",
+      "publishedAt": "2026-10-12T08:31:55.000Z"
+    },
     {
       "id": "5070",
       "title": "https://agentusecases.ai/",
