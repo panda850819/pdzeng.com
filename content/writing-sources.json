@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:57:31.000Z",
+  "updatedAt": "2026-10-12T06:53:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5070",
+      "title": "https://agentusecases.ai/",
+      "description": "https://agentusecases.ai/",
+      "url": "https://t.me/pdzeng_talk/5070",
+      "publishedAt": "2026-10-12T06:53:06.000Z",
+      "preview": {
+        "targetUrl": "https://agentusecases.ai/",
+        "siteName": "agentusecases.ai",
+        "title": "Agent Use Cases: what people are actually doing with AI agents",
+        "description": "A curated, continuously scanned directory of real things people are doing with AI agents. Browse for ideas on what to build or delegate.",
+        "imageUrl": "https://cdn4.telesco.pe/file/igywd96yfxo41Wo8a5i2sPUA7hJ8B8ykVon_wWfNWvyXzGHiGXbgKZo4_iFMU3Lxv96xdcup83ovHLL0PZSnblBoQEYeX7aWPUoLY1vZxagy6MI_CiRoV33pCK3BCpnSftYr_JbH8nFe_UKWWtuvIwYnjS430zP_JvGaI4bDe-Xi-eNs_7ZhKwUllPae9vKLHaZHwXorw4oY4C0B5No2IF2BSN1YiFzRzVoEPnj2BxRXgVVhgPtL7IAidA3GPyjHk4nOtgdRHXQwCs7HqJ0DAQYPg0FjjB6TMoWVtKOKYThe5PCo4Re8ef3i9kapXlR5mjoJk24G-2_36niA8q_g9w.jpg"
+      }
+    },
     {
       "id": "5069",
       "title": "只能說這個太有想法了 2829632740/Pegline 🔗 https://github.com/2829632740/Pegline #github",
