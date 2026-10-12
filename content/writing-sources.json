@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T08:31:55.000Z",
+  "updatedAt": "2026-10-12T14:38:20.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,20 @@
   ],
   "telegram": [
     {
+      "id": "5072",
+      "title": "挺有趣的 How I Found a $90,000 Remote Code Execution Vulnerability in Google https://simonkoeck.com/…",
+      "description": "挺有趣的 How I Found a $90,000 Remote Code Execution Vulnerability in Google https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "url": "https://t.me/pdzeng_talk/5072",
+      "publishedAt": "2026-10-12T14:38:20.000Z",
+      "preview": {
+        "targetUrl": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+        "siteName": "Simon Koeck",
+        "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck",
+        "description": "A Flask cookie on developers.google.com was signed with a secret it was also carrying inside itself. Pulling that secret out turned a forged session into code execution across seven Google domains.",
+        "imageUrl": "https://cdn4.telesco.pe/file/p26p7TpnQEYIvx_7Lmf8oHZsWkAZ2b3eT4L2AnHCrxZszYmh0leaIq_iFxmY7EZZqrrBgCcbITkJhfxevab3U0QnBrSQPxNafLXFmhOWtW0Af4FCKO7LQ8OTOIfK8WSHmhsUdXjDyOvz0cOH2-YjT9oJ6GOx-fuByATaZs_zPTnu6etuOOBg4tZiN19Fqsn8kIIEs6MK0EzikJtO63mrTeq5fRwZLwyR127doMN8OmftCMu2yB_d4Fuv4v1RAraDWKQW8TMp-gsyLY7xzwEAd-zo8AZUXQz_yaiR50fwBBaQLm_nRbidthH2WTp8yQGDrjUr5GZNwjGkzQvs8XWCxQ.jpg"
+      }
+    },
+    {
       "id": "5071",
       "title": "🟧 黑客讨论: 不要安装 Zod 4.6.6——它可能已被感染 🔥 文章摘要: 别装 Zod 4.6.6，安装脚本在偷跑远程代码！提交 d821685 名为“修复 bug 并提升性能”，却…",
       "description": "🟧 黑客讨论: 不要安装 Zod 4.6.6——它可能已被感染 🔥 文章摘要: 别装 Zod 4.6.6，安装脚本在偷跑远程代码！提交 d821685 名为“修复 bug 并提升性能”，却在 zod 和 @zod/mini 的 package.json 加了 preinstall: node meta.test.mjs 并把它塞进发布文件；脚本先从以太坊…",
@@ -147,7 +161,7 @@
         "siteName": "GitHub",
         "title": "GitHub - 2829632740/Pegline: 截图小工具",
         "description": "截图小工具. Contribute to 2829632740/Pegline development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/SIBHxHSV58BB9-KtGr_tx3PQwT9CMyQ91kWSqA5_Op9srnnOBg92FOcifJWfGsHLFmEYzzUYhCLbAKmvpf1gklN2yhRTlssPeLdkXDvfs7AlgjIvbaL7zOiw6DpcjOp3wZFkQy1Wdpa36op-iHUeF4I3jq1elrveAMQF_WfZlzvIzM8w2MKHg7Mo_ZmIZri29caBTDgY1VKq86wzjKeODfDNPEFFESyHJU0xlW_UP6n6MPc3TZd1wWWVHw-4EvBAC7oFM8NelTTTLSvysgzUo4aEtvYjGbZ2nszn0mZ6RuFmPh6qNulVIz1IqJpD5ENeN4-Smq1KPuPK2QPouW8ZgA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/kZfbqg541GneYZuZ18UV_aW3UwHt4gf_43k-rciPjibMrQudZEdalIn6nffXdXpNggF2zzeQYSZ9ySv9p2r_eMNxx7YztYJi1aMWaaKk9ZxIXQlk1MymIvcosMX0XTfzEUlCzp40gqe3f8sGm-hxnnW7FlopG1PWmizspN9x_oQNDrni89wdOYXnhnB_iuD8jEm2Ls2YyeIs1dqc9vZXcbcn5rnHfOcPou6l_H2rGnQAOky0vdqxXbNjuP1P6obcxKksqCd3jtHyPJupzMBA6wDabc0AkwT5dgXGt9Nz2q-g47ddAwsgt3Qkamb6BnqpPMWmJHv1jjfcjxXkfXAS8Q.jpg"
       }
     },
     {
