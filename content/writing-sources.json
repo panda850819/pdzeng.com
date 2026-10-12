@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:38:20.000Z",
+  "updatedAt": "2026-10-12T15:15:02.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5073",
+      "title": "https://x.com/fablesfi/status/2109489023538589804 頭疼 fables 怎麼還有第八期 == 無限加賽是怎樣",
+      "description": "https://x.com/fablesfi/status/2109489023538589804 頭疼 fables 怎麼還有第八期 == 無限加賽是怎樣",
+      "url": "https://t.me/pdzeng_talk/5073",
+      "publishedAt": "2026-10-12T15:15:02.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/fablesfi/status/2109489023538589804",
+        "siteName": "X (formerly Twitter)",
+        "title": "Fables (@fablesfi) on X",
+        "description": "Week 7 of The Prologue: $429M traded, $853K paid straight to our 18,802 LPs, 4,287 of them new this week 🧙‍♂️",
+        "imageUrl": "https://cdn4.telesco.pe/file/RNaCdFEvfFfTpHHwe5xeZwPqCT90wGjLJpsTW1p3CFwFm04J3a3rKhCcpRBoE8FkI-64ad3DJpxwkvYxC4EcN99KJUlOajJ-dbC4z9GxOx30jN49amGsOUycXiUvIElmOFe1n4GpqVSrgIpSaxx4vX5Z4y3KlzKXquVy66SoeNzEutGxeRo7t0-U_SPneaWeylF9eVHKeIq8sbU6ptqlT-vVqNZn5BtBr5XT8AsglrumYVbZ2DoqOGK1eBBWb05gPbZGGF61LLXdBJoBnWyCU4JJaLyDALsa4KfVjt9LiB8mGCbwjaICb2xZDri1VVSbXpAeMpIJaHnZVICyM0BuHg.jpg"
+      }
+    },
     {
       "id": "5072",
       "title": "挺有趣的 How I Found a $90,000 Remote Code Execution Vulnerability in Google https://simonkoeck.com/…",
