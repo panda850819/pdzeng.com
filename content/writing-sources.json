@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:43:49.000Z",
+  "updatedAt": "2026-10-13T08:44:28.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,13 @@
   ],
   "telegram": [
     {
+      "id": "5076",
+      "title": "https://www.instagram.com/reel/DeY961cz6ws/?obrf=dXB6bnBrMjR2ZW4=",
+      "description": "https://www.instagram.com/reel/DeY961cz6ws/?obrf=dXB6bnBrMjR2ZW4=",
+      "url": "https://t.me/pdzeng_talk/5076",
+      "publishedAt": "2026-10-13T08:44:28.000Z"
+    },
+    {
       "id": "5075",
       "title": "https://x.com/0xLin88/status/2109847493400043698 沒別條路了，直接解鎖賣 = =",
       "description": "https://x.com/0xLin88/status/2109847493400043698 沒別條路了，直接解鎖賣 = =",
@@ -167,7 +174,7 @@
         "targetUrl": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
         "siteName": "Simon Koeck",
         "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck",
-        "description": "A Flask cookie on developers.google.com was signed with a secret it was also carrying inside itself. Pulling that secret out turned a forged session into code execution across seven Google domains.",
+        "description": "A Flask cookie on developers.google.com was signed with a secret it carried inside itself. Pulling that secret out turned a forged session into code execution across Google's developer sites.",
         "imageUrl": "https://cdn4.telesco.pe/file/p26p7TpnQEYIvx_7Lmf8oHZsWkAZ2b3eT4L2AnHCrxZszYmh0leaIq_iFxmY7EZZqrrBgCcbITkJhfxevab3U0QnBrSQPxNafLXFmhOWtW0Af4FCKO7LQ8OTOIfK8WSHmhsUdXjDyOvz0cOH2-YjT9oJ6GOx-fuByATaZs_zPTnu6etuOOBg4tZiN19Fqsn8kIIEs6MK0EzikJtO63mrTeq5fRwZLwyR127doMN8OmftCMu2yB_d4Fuv4v1RAraDWKQW8TMp-gsyLY7xzwEAd-zo8AZUXQz_yaiR50fwBBaQLm_nRbidthH2WTp8yQGDrjUr5GZNwjGkzQvs8XWCxQ.jpg"
       }
     },
