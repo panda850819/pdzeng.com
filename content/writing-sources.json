@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:21:07.000Z",
+  "updatedAt": "2026-10-13T10:52:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5078",
+      "title": "https://x.com/brucelolzz/status/2109954805904949576",
+      "description": "https://x.com/brucelolzz/status/2109954805904949576",
+      "url": "https://t.me/pdzeng_talk/5078",
+      "publishedAt": "2026-10-13T10:52:14.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/brucelolzz/status/2109954805904949576",
+        "siteName": "X (formerly Twitter)",
+        "title": "Bruce.moca 布魯斯 (@brucelolzz) on X",
+        "description": "注意 ❗️",
+        "imageUrl": "https://cdn4.telesco.pe/file/Q7XOOaO_TWcKdD1cH5aUI27xoMJQuSSOoS6hrOK_YVzmlYQhkrldD_Uy1AXPPkGjSXPXCF6oKTbei3MOwNS1STJpvvtXICa7OFJhslFaGmvf9uREUF3dKsAxbA3ntHkHJEMHgckjC6yLidiAYmI9HtbVa2itUhdWQCdknCEf7QvYJjbkzVLDjLUO-AgOjQ2bKSnsQDMOStmhg019ZPGCffJNrLJvP8p7gbMlfylQJNfZJpQ2fd0d2cIUKliWMXC4e6FJ2yhQVIfs23ViAX0Mcv68qIo0L-lZfhiEXv9TTqiGlFH7EjvHNlaI9KQbCuqlUcl2O-1aM7LICwyNyIZ-aA.jpg"
+      }
+    },
     {
       "id": "5077",
       "title": "老馬把 x premium / grok bot / cursor 等東西整合了 https://x.com/SpaceXSI/status/2109783335296008414",
