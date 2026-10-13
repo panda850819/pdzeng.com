@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T08:44:28.000Z",
+  "updatedAt": "2026-10-13T10:21:07.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5077",
+      "title": "老馬把 x premium / grok bot / cursor 等東西整合了 https://x.com/SpaceXSI/status/2109783335296008414",
+      "description": "老馬把 x premium / grok bot / cursor 等東西整合了 https://x.com/SpaceXSI/status/2109783335296008414",
+      "url": "https://t.me/pdzeng_talk/5077",
+      "publishedAt": "2026-10-13T10:21:07.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/SpaceXSI/status/2109783335296008414",
+        "siteName": "X (formerly Twitter)",
+        "title": "SpaceX Super Intelligence (@SpaceXSI) on X",
+        "description": "We've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.",
+        "imageUrl": "https://cdn4.telesco.pe/file/GNQQTHNati7gf4mLCJ8Xx5_1e41Rjk4MGSUu6P5ah2QFCty3bjUzeRoUOHjvN6IgvH0aiw9mBVUQjAq_1PuSH2SNWF3YcVcB0rq0AxUiIyS5d4IJpSlGmtCgH_pFJ6wxY3Yr-jkB9wItjnegjmVAJpU9L3xU_3jeTh2QWZU0NkdKR0OcuaXsCFBhrcQM9YzxZhYpjqPA2YdJswK9fDqiY7l7zKC1IoJkPp4UlGvRqKt-n46thPSOGTkB-GfTmzb3b-goWlny9smW70mS2HDBpyiFA1A3EtCpfnMSILAADHnGfwpqjliWQEEwkJ3Nvxk_4Hvmy7apsQgWOCb6p4rEag.jpg"
+      }
+    },
     {
       "id": "5076",
       "title": "https://www.instagram.com/reel/DeY961cz6ws/?obrf=dXB6bnBrMjR2ZW4=",
