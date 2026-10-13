@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:15:02.000Z",
+  "updatedAt": "2026-10-13T07:43:49.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5075",
+      "title": "https://x.com/0xLin88/status/2109847493400043698 沒別條路了，直接解鎖賣 = =",
+      "description": "https://x.com/0xLin88/status/2109847493400043698 沒別條路了，直接解鎖賣 = =",
+      "url": "https://t.me/pdzeng_talk/5075",
+      "publishedAt": "2026-10-13T07:43:49.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/0xLin88/status/2109847493400043698",
+        "siteName": "X (formerly Twitter)",
+        "title": "0xLin(✱,✱) (@0xLin88) on X",
+        "description": "卧槽 这兑换比例 有点难绷啊 积分兑换Fables： 1. 流动性版：只拿 30%-60%（小户比例更高，大户最低30%），且受总流动性上限限制。只包含 LP 积分，不含推荐。 2. 锁6个月：拿 80% 转成 veFABLES，锁约26周，投票权重从一开始就低于满额，并逐渐衰减。 3. Auto-max（锁2年）：拿 100% 转成 veFABLES，保持满额投票权重。关掉后开始…",
+        "imageUrl": "https://cdn4.telesco.pe/file/ZzVsVzxw2_HKE3hbWjxoXMA6IFrJkbKHvDOrq5-UBovF2Xn5mVVLSuWAWPdJf5Exq0OT8J3ni2tIp2ul1r29SSiDrCEh8Zy6FuppAShcM2ibf2owxADHziVtWL8ZnGiE1iKfdeUs5oIReJ9wSDzT4HvFaLkeFH3o7f7jET1AdVbNH0wszjs5-_tRwZWA56dEWiE4c6gSOIy_Isulo6tL4DnJmleNB-OQ4tXTbvWTUWT5oWt4ZxVdZYZGSXhBI-1VbgLDQA0VAp23XylmHmOe8aJPyhax28oNmen4Q7bd5Nkt3K3c2tgTHWxRkFgsTEOdxio2jiGysOEJiUI2Ausm7g.jpg"
+      }
+    },
+    {
+      "id": "5074",
+      "title": "https://x.com/poteto/status/2109900862978138370?s=20 笑死 me vs reset guy",
+      "description": "https://x.com/poteto/status/2109900862978138370?s=20 笑死 me vs reset guy",
+      "url": "https://t.me/pdzeng_talk/5074",
+      "publishedAt": "2026-10-13T07:40:25.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/poteto/status/2109900862978138370?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "lauren (@poteto) on X",
+        "description": "me vs the reset guy",
+        "imageUrl": "https://cdn4.telesco.pe/file/NOcBO-_G3_b_4o5EG2lc6e8stOr0Gy4xj-EN_igduxvsCi4cCOXwfQ_A-Gc6lkEzWi3mkTG_DoYt1K9j2EKpUeHcdr_iYHvxFcYeLzEDAt2v3sIxF1nP9H5vi94xqV-rK6SRP2yJKOOeSwxLxuOKk-9zp5FxAwg4PE8TZSbNjGnmpIagHPd11y5B6ek84qceGxHmFp1Wfy7BZO-MsJxCc6JOauS0BGBhGY9098d4bDojmlc5W6uZmcSV5szPlmVuof-FFN_9fiGMwW6F-7YaQyTiw7afvUFfM39yqKCreJmfaf20K7QQQ8xQim3bR8jCUofoDO_m864u5F0uMcZdlA.jpg"
+      }
+    },
     {
       "id": "5073",
       "title": "https://x.com/fablesfi/status/2109489023538589804 頭疼 fables 怎麼還有第八期 == 無限加賽是怎樣",
