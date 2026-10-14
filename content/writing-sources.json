@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:14:56.000Z",
+  "updatedAt": "2026-10-14T09:23:00.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5085",
+      "title": "https://x.com/spcx100t/status/2110145512020279726?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/spcx100t/status/2110145512020279726?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/5085",
+      "publishedAt": "2026-10-14T09:23:00.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/spcx100t/status/2110145512020279726?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "vincent (@SPCX100T) on X",
+        "description": "I built a @Grok @Bot that watches $SPCX on its own — fully automated, no manual work. I’ve been running it for over a month and fine-tuned it several times. This version is very good. Every week…",
+        "imageUrl": "https://cdn4.telesco.pe/file/jwAiFQ_WECb4z4IGdj8XANX_cSjLKojyqXijgExX_xMjdtcxHN_xv8ek35lj2YRkwfUHJCJ1yGPPsNwpcp_Wpz2nLxH9VBnYrJE17Qe6XW4ZRsT02TCGPDZMrxRH6KPsnjuD011hmGGTewZAosGEiHQEjF5OW-8P_6Oy4JSXXVSgT-Z6FHTY2ZBKoMNVbcuj1BvmvL_aeKKurPxMTQmD8PL8HjyxXTwRuW-9LiVqa1Qs_4o7A4h7JC11gSu_JTPcHG-MbiDoOJ-B9_H565ajE03GTcS9GUecgWP5UeEgMuHdhlew4rGVb-67Fm3M12gp0jQu7dem1IXaDfyarlQYfA.jpg"
+      }
+    },
+    {
+      "id": "5084",
+      "title": "看來我也沒有刷很多",
+      "description": "看來我也沒有刷很多",
+      "url": "https://t.me/pdzeng_talk/5084",
+      "publishedAt": "2026-10-14T09:16:53.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5084",
+        "siteName": "Telegram",
+        "title": "看來我也沒有刷很多",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/n-PoQDMYbBo8yserjdf4BvHryi146LJVbzFSqrAvg11rK7V1nn7OFGXYeVhazP_cmDXeosP477MOgQlVSLKjG-MqUjfxePOvc9VIg_GUd2w1J8ONa2axRjneB3IePJr_7s61qO7UYHzL523ZHk4oXD_CPLjAunlVJQ6MMXGFbp-guPenya6GSiQ_Itzn3YFSKOa0c_7Tgx63aqURWQPzOG-u32JvIlDRkym9WXB9TjqPkuH1zF8QIHQQH97nOfljHlRKhPmv07oqQAlbroiItMFFvaaHiG60i7LGnI7MuCVGsNRYOnpSoxO0FmRldye0PB8_bSTV9WKXkpLpCLEIqA.jpg"
+      }
+    },
     {
       "id": "5083",
       "title": "📈 加密動能篩選 10/14 12:05 資料：Binance 公開行情（4h K 收 12:00） 🟡 等回檔 • TIA ：等回 0.56568（尚需 −1.4%） • BTW ：等回…",
