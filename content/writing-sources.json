@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:19:50.000Z",
+  "updatedAt": "2026-10-14T03:59:15.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5082",
+      "title": "昨天卖在最低点",
+      "description": "昨天卖在最低点",
+      "url": "https://t.me/pdzeng_talk/5082",
+      "publishedAt": "2026-10-14T03:59:15.000Z"
+    },
     {
       "id": "5081",
       "title": "https://apps.apple.com/tw/app/kakucut-private-video-editor/id6811591634",
