@@ -127,7 +127,14 @@
       "title": "morluto/rea 🔗 https://github.com/morluto/rea #github",
       "description": "morluto/rea 🔗 https://github.com/morluto/rea #github",
       "url": "https://t.me/pdzeng_talk/5088",
-      "publishedAt": "2026-10-15T00:01:06.000Z"
+      "publishedAt": "2026-10-15T00:01:06.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/morluto/rea",
+        "siteName": "GitHub",
+        "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries. - morluto/rea",
+        "imageUrl": "https://cdn4.telesco.pe/file/SBeDTYczACFyJk1vW2EkoS6SmnXXbh_1AQXC_sJBy3TyG_tg89TWZiIrLOYB1-Zwy3q7NZQj-B4LVi3D1XurXp9B2Crvb4GnyJlWePCZNn2TUCjHknmIw2Ovxr6kkm8_k4NuxG3sTjFBFcKT68KDaV-i6SsBhTZF9XymMNz716Rbnhe19HUh0yV6HK2LB5mOty0INOTxlnvZnbLvKuhU6kEF5is8r_clGn-CTxqgNsRWFYNn1nQ4gTDWYPw7KFGxaczkPb5BvnUmUeQEcEQ3dFV5R5SxdraNIvLqw1tF5IsnqJyiBERFgN5ZEJagSr4pRmNq0j9D8pfU8PPZBR4DmA.jpg"
+      }
     },
     {
       "id": "5087",
@@ -321,7 +328,7 @@
         "siteName": "Simon Koeck",
         "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck",
         "description": "A Flask cookie on developers.google.com was signed with a secret it carried inside itself. Pulling that secret out turned a forged session into code execution across Google's developer sites.",
-        "imageUrl": "https://cdn4.telesco.pe/file/s71ZXKS2bbrVeXUfpYDf86-gpte_bVd0B6swcPY-3iMTh4EFgtuRvjzze89-YiuTgBtwJNYH8U-pytZAd5-dJzeUPhIMwYWEEI-lR2XzzTd9l-75JlWj-YtGOXd1BelesM5gUytFSsJ4BtQADqeZFOGvzisyE305bQR1Skg2qy10hHCxQ9hlLQeqZbJOeG-VmRpvtIUyeL-lGiKomJjciTalzKo3A8qQbumLmTqJgTmsxoPEJdkcLl7zoFPHVVN6-7Tj4l-7uh39xHBgKIOhiX6s3BRXVzjq4ewjNnBuZoZ3b8l3noS161md1E2VBM4fqfEuLluFcmxnDeIHQhmoTw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/tzyAwVfBXZknQTc2X80dozHDwt6eO1lL4mravCck4UCZ70xJiGCc5K2g9UkRv2K7FuBsBDzlPPnFQkaBtzJsPoaRjjz3pIqZBRECRx0U4SQ1BYfRF-fTyOY47yfkdC0xYZzEsJraxW62hTNkSQ3PpiAYOoskllJlmWF1TSbKoAG6toLBu0kvOskh1CKf6MoRrdKgLxvVLcxoRNGEbBvSSlDm1uyRp8r9ZBtBjnjPTV4Mq38EjuWoCA3K3aWAAmW3zh24Aljck5RJefb7mLW8sEpzxrAGGhs0CdctPnhRlRt4VMSPtlWo-1RyUywQeeVSra4noXsTTBfuJmLyhsg0_Q.jpg"
       }
     },
     {
