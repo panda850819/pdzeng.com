@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:01:06.000Z",
+  "updatedAt": "2026-10-15T08:05:44.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5089",
+      "title": "https://tiny-tartufo-e039fe.netlify.app/",
+      "description": "https://tiny-tartufo-e039fe.netlify.app/",
+      "url": "https://t.me/pdzeng_talk/5089",
+      "publishedAt": "2026-10-15T08:05:44.000Z"
+    },
     {
       "id": "5088",
       "title": "morluto/rea 🔗 https://github.com/morluto/rea #github",
