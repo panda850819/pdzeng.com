@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:05:44.000Z",
+  "updatedAt": "2026-10-15T15:51:22.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -115,6 +115,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5090",
+      "title": "https://www.threads.com/share/_vdHd1c9s/",
+      "description": "https://www.threads.com/share/_vdHd1c9s/",
+      "url": "https://t.me/pdzeng_talk/5090",
+      "publishedAt": "2026-10-15T15:51:22.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/_vdHd1c9s",
+        "siteName": "Threads",
+        "title": "ゆのん｜AI運用ガイド (@ai_yunon_ai) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/B74n9mRCNAWQFCEBb0PR4slCv-vQSyO4stD8FkTcgE_brYKOj4tazcFb93YAaSM5LGyljRxksDmP7y_W7Vv-iQqP9CM-cQmnF-3Gtn4HHABCRtHPG_iibRGGCYu08XprCPzLcsQ6zpLfSGJai1uMVuxlYLZenCDo_lJsr0lqgyU_2ggxPc1M3LVM5Y54thftcAVtWeCWAnx3pH-oOHBP3vGfkKhhoQ6wZV8CFFZrweY2l23kI4ZK4NyYJbbDmp0LnmOUjR_CnQFaHJhgmBOY44fPyUdmYFO0X1oXon_KPUyIm6G7AkpeL9Xl0_M_Z6pWeMNI4Hend0E2RXc6FPTX0w.jpg"
+      }
+    },
     {
       "id": "5089",
       "title": "https://tiny-tartufo-e039fe.netlify.app/",
