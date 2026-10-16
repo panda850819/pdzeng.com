@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:51:22.000Z",
+  "updatedAt": "2026-10-16T01:57:28.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -6681,6 +6681,23 @@
     }
   ],
   "x": [
+    {
+      "id": "2110912982305894805",
+      "title": "推薦推薦",
+      "description": "推薦推薦",
+      "url": "https://x.com/PandaZeng1/status/2110912982305894805",
+      "publishedAt": "2026-10-16T01:57:28.000Z",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "preview": {
+        "targetUrl": "https://x.com/kakashiliu/status/2110654608070910457",
+        "siteName": "X · @kakashiliu",
+        "title": "kakashi",
+        "description": "我的第一個 App : KakuCut, 終於上架 App Store 了！🎉\n之前做其他 app 時, 才理解很多人想要的是自動字幕且燒錄在影片上,  接著發現在 iphone 也可以刻一版完全 on-device 的 app, 最近幫自己家庭日常的影片加上字幕, 分享給家人, 不開聲音的狀態下還能看影片也蠻有趣的\n\nhttps://t.co/ME7BL…",
+        "imageUrl": "https://pbs.twimg.com/media/HUqNAyOaYAAdgtP.jpg:small"
+      }
+    },
     {
       "id": "2110283198953615530",
       "title": "hey @bot 幫我整理大家在使用 grok bot 的使用經歷\n\n可以透過類型去整理大家的 workflow \n例如，財經、開發工作流、知識萃取等\n\n然後整理後跟我討論，我現在的 bots…",
