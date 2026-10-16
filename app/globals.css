@@ -91,8 +91,9 @@ body {
   transition: background-color 200ms ease, color 200ms ease;
 }
 
-/* CJK runs breathe more than Latin; tracking never touches Hanzi */
-:lang(zh) {
+/* CJK runs breathe more than Latin; tracking never touches Hanzi.
+   The G header, home, and footer set their own line-heights, so they are left out. */
+:lang(zh):not(:where(.home, .home *, .site-header *, .foot *)) {
   line-height: 1.75;
   letter-spacing: normal;
 }

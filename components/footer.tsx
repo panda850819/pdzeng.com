@@ -13,8 +13,8 @@ const feeds = [
 
 export function Footer() {
   return (
-    <footer className="foot" lang="zh-Hant">
-      <div className="fcard" data-hdr>
+    <footer className="foot" lang="zh-Hant" data-hdr=".fcard">
+      <div className="fcard">
         <div className="ftab" aria-hidden="true" />
         <Route mirrored />
         <div className="fsig">

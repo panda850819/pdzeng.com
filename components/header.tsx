@@ -43,7 +43,8 @@ export function Header() {
         root.style.removeProperty("--hdr-fg");
         return;
       }
-      const cs = getComputedStyle(src);
+      // a block whose own background is see-through (the footer) names the child to read instead
+      const cs = getComputedStyle((src.dataset.hdr && src.querySelector(src.dataset.hdr)) || src);
       root.style.setProperty("--hdr-bg", cs.backgroundColor);
       root.style.setProperty("--hdr-fg", cs.color);
     };
@@ -83,7 +84,7 @@ export function Header() {
   };
 
   return (
-    <header lang="zh-Hant">
+    <header className="site-header" lang="zh-Hant">
       <div className="hdr" ref={stripRef} aria-hidden="true" />
       <Link className="lockup" href="/" aria-label="Panda Zeng 首頁">
         <span className="s">Panda</span>
