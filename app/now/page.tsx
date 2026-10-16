@@ -19,7 +19,7 @@ export default function NowPage() {
         <h1 className="display-tracking font-display text-4xl font-semibold" lang="en">
           Now
         </h1>
-        <p className="mt-3 text-sm text-faint tabular-nums">更新於 {nowUpdated}</p>
+        <p className="mt-3 text-sm text-faint tabular-nums">{`更新於 ${nowUpdated}`}</p>
       </header>
 
       <section className="mt-12" aria-labelledby="now-current">
