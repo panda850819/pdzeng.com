@@ -31,8 +31,7 @@ const noto = Noto_Sans_TC({
 export const metadata: Metadata = {
   metadataBase: new URL("https://pdzeng.com"),
   title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
-  description:
-    "Panda Zeng is an operator who uses AI, GTM, and software development to turn company goals into systems that help teams execute and grow.",
+  description: "Panda Zeng — operator, runner, writing about operations and AI.",
   alternates: { canonical: "./" },
 };
 
@@ -46,7 +45,7 @@ const jsonLd = {
   author: {
     "@type": "Person",
     name: "Panda Zeng",
-    alternateName: "熊貓隨口說",
+    alternateName: ["熊貓隨口說", "Panda Tseng"],
     url: "https://pdzeng.com",
     knowsAbout: [
       "Company operations",
@@ -60,7 +59,7 @@ const jsonLd = {
     sameAs: [
       "https://github.com/panda850819",
       "https://x.com/pandazeng1",
-      "https://www.linkedin.com/in/wei-chieh-tseng-369303161/",
+      "https://www.linkedin.com/in/pdzeng/",
     ],
   },
 };

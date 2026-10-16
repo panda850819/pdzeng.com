@@ -732,3 +732,425 @@ p {
     flex-direction: column;
   }
 }
+
+/* ───────────── home (G) ───────────── */
+.home {
+  font-size: 17px;
+  line-height: 1.75;
+}
+.home section {
+  position: relative;
+  background: var(--bg);
+  color: var(--fg);
+}
+.home h2 {
+  font-family: var(--font-body);
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-wrap: initial;
+}
+.vh {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+/* hero: only the signature, the name lives in the top-left lockup */
+.hero {
+  height: 100svh;
+  min-height: 560px;
+  overflow: hidden;
+}
+.hero-main {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 4vh;
+  pointer-events: none;
+}
+.hero-sig {
+  width: min(70vw, 1120px);
+}
+.home .now {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  z-index: 3;
+  width: 200px;
+  border: 1px solid color-mix(in oklch, var(--fg) 30%, transparent);
+  border-radius: 10px;
+  padding: 12px 12px 14px;
+  background: var(--bg);
+  font-size: 13px;
+  line-height: 1.55;
+  text-decoration: none;
+  transition: border-color 0.2s;
+}
+.home .now:hover {
+  border-color: var(--fg);
+}
+.home .now .kicker {
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* message */
+.message {
+  padding: 16vh 0 10vh;
+  overflow: hidden;
+}
+.note {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 4vw;
+}
+.note .kicker {
+  display: block;
+  margin-bottom: 20px;
+  color: color-mix(in oklch, var(--fg) 65%, var(--bg));
+}
+.note p {
+  font-size: clamp(19px, 1.9vw, 25px);
+  line-height: 1.75;
+  font-weight: 500;
+  max-width: 30em;
+}
+.note p + p {
+  margin-top: 1em;
+  color: color-mix(in oklch, var(--fg) 75%, var(--bg));
+}
+.stage {
+  position: relative;
+  margin-top: 6vh;
+  height: min(62vh, 560px);
+  display: grid;
+  place-items: center;
+}
+.name-rows {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.name-row {
+  white-space: nowrap;
+  line-height: 1;
+  font-size: clamp(64px, 10vw, 150px);
+}
+.name-row span {
+  display: inline-block;
+  padding-right: 0.45em;
+}
+.name-row.a {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--acc);
+}
+.name-row.b {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-stretch: 80%;
+  letter-spacing: -0.01em;
+}
+.slash {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min(22vw, 270px);
+  aspect-ratio: 4/5;
+  transform: translate(-50%, -50%);
+  overflow: visible;
+  pointer-events: none;
+  z-index: 2;
+}
+.slash path {
+  fill: none;
+  stroke: var(--acc);
+  stroke-width: 12;
+  stroke-linecap: round;
+}
+
+/* work vs. off work, side by side: cream half, olive half, a big "vs." riding the seam */
+.home .duel {
+  display: flex;
+  overflow: hidden;
+  background: var(--olive);
+}
+.half {
+  flex: 0 0 50%;
+  padding: 16vh 4.5vw 18vh;
+  min-width: 0;
+}
+.half .inner {
+  max-width: 520px;
+}
+.work-half {
+  --bg: var(--cream);
+  --fg: var(--ink-g);
+  --acc: var(--ink-g);
+  background: var(--bg);
+  color: var(--fg);
+  position: relative;
+  z-index: 2;
+}
+.work-half .inner {
+  margin-left: auto;
+}
+.off-half {
+  --bg: var(--olive);
+  --fg: var(--cream);
+  --acc: var(--neon);
+  background: var(--bg);
+  color: var(--fg);
+}
+.vs {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(50%, -50%);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 120px;
+  line-height: 1;
+  color: var(--neon);
+  pointer-events: none;
+  white-space: nowrap;
+}
+.vs > span {
+  display: block;
+}
+@media (hover: hover) and (min-width: 761px) and (prefers-reduced-motion: no-preference) {
+  .half {
+    transition: flex-basis 0.6s cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  .duel:has(.work-half:hover) .work-half,
+  .duel:has(.off-half:hover) .off-half {
+    flex-basis: 58%;
+  }
+  .duel:has(.work-half:hover) .off-half,
+  .duel:has(.off-half:hover) .work-half {
+    flex-basis: 42%;
+  }
+}
+.rows {
+  list-style: none;
+  margin-top: 32px;
+  border-top: 1px solid color-mix(in oklch, var(--fg) 18%, transparent);
+}
+.rows li {
+  border-bottom: 1px solid color-mix(in oklch, var(--fg) 18%, transparent);
+  transition: border-color 0.2s;
+}
+.rows li > * {
+  transition: transform 0.2s;
+}
+.rows li:hover {
+  border-bottom-color: var(--neon);
+}
+.rows li:hover > * {
+  transform: translateX(4px);
+}
+.jobs li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto 5.6em;
+  gap: 16px;
+  align-items: baseline;
+  padding: 18px 0;
+}
+.jobs b {
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.jobs .co {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25em;
+  text-decoration-color: transparent;
+  transition: text-decoration-color 0.2s;
+}
+.jobs .co:hover,
+.jobs .co:focus-visible {
+  text-decoration-color: var(--neon);
+}
+.jobs .co i {
+  font-style: normal;
+  font-size: 12px;
+  margin-left: 4px;
+  vertical-align: 0.35em;
+  color: color-mix(in oklch, var(--fg) 60%, var(--bg));
+}
+.jobs span {
+  white-space: nowrap;
+  font-size: 14px;
+  color: color-mix(in oklch, var(--fg) 82%, var(--bg));
+}
+.jobs time {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-align: right;
+  color: color-mix(in oklch, var(--fg) 72%, var(--bg));
+}
+.offs li {
+  display: grid;
+  grid-template-columns: 4.4em minmax(0, 1fr);
+  gap: 16px;
+  align-items: baseline;
+  padding: 18px 0;
+}
+.offs b {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.offs span {
+  font-size: 17px;
+  line-height: 1.6;
+  color: color-mix(in oklch, var(--fg) 78%, var(--bg));
+}
+.home .g-link {
+  margin-top: 28px;
+}
+
+/* lately */
+.lately {
+  padding: 16vh 4vw 0;
+}
+.lately .inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.lately ol {
+  list-style: none;
+  margin-top: 32px;
+  border-top: 1px solid color-mix(in oklch, var(--fg) 18%, transparent);
+}
+.lately li {
+  border-bottom: 1px solid color-mix(in oklch, var(--fg) 18%, transparent);
+}
+.lately li a {
+  display: grid;
+  grid-template-columns: 7em 1fr auto;
+  gap: 20px;
+  align-items: baseline;
+  padding: 18px 0;
+  text-decoration: none;
+}
+.lately time {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: color-mix(in oklch, var(--fg) 58%, var(--bg));
+}
+.lately li span {
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.lately li i {
+  font-style: normal;
+  font-size: 16px;
+  color: color-mix(in oklch, var(--fg) 50%, var(--bg));
+  transition: transform 0.2s, color 0.2s;
+}
+.lately li a:hover span {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25em;
+}
+.lately li a:hover i {
+  color: var(--fg);
+  transform: translateX(4px);
+}
+
+@media (max-width: 760px) {
+  .hero-sig {
+    width: 86vw;
+  }
+  .home .now {
+    width: 158px;
+    font-size: 12px;
+    padding: 10px 10px 12px;
+  }
+  .message {
+    padding: 13vh 0 8vh;
+  }
+  .note {
+    padding: 0 16px;
+  }
+  .stage {
+    margin-top: 5vh;
+    height: 44vh;
+  }
+  .slash {
+    width: 36vw;
+  }
+  .home .duel {
+    flex-direction: column;
+  }
+  .half {
+    padding: 12vh 16px 14vh;
+  }
+  .half .inner {
+    max-width: none;
+  }
+  .home h2 {
+    font-size: 26px;
+  }
+  .vs {
+    top: auto;
+    right: auto;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 50%);
+    font-size: 88px;
+  }
+  .jobs li {
+    grid-template-columns: minmax(0, 1fr) 7.5em;
+    gap: 2px 16px;
+  }
+  .jobs b {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .jobs span {
+    grid-column: 1;
+    grid-row: 2;
+    white-space: normal;
+  }
+  .jobs time {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .offs li {
+    grid-template-columns: 4.2em minmax(0, 1fr);
+    gap: 14px;
+  }
+  .offs b {
+    font-size: 22px;
+  }
+  .offs span {
+    font-size: 16px;
+  }
+  .lately {
+    padding: 12vh 16px 0;
+  }
+  .lately li a {
+    grid-template-columns: 4.6em 1fr auto;
+    gap: 12px;
+  }
+}

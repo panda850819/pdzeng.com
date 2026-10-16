@@ -1,5 +1,8 @@
 export const nowUpdated = "2026-10";
 
+// One line for the home hero card.
+export const nowSummary = "轉換期：跑步、重訓、學 AI、寫投資筆記";
+
 export const now = [
   { title: "轉換期", detail: "8 月底離開 Yei Finance，先把生活節奏重建好，再決定下一步。" },
   { title: "跑步與重訓", detail: "開始跑步，搭配重訓與健身營養學，練的是自律。" },

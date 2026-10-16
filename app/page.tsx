@@ -1,167 +1,140 @@
 import Link from "next/link";
-import { WordReveal, FadeUp } from "@/components/stagger";
-import { PandaHero } from "@/components/panda-hero";
-import { Marquee } from "@/components/marquee";
-import { allProjects } from "@/lib/content";
+import { Route } from "@/components/route";
+import { Signature } from "@/components/signature";
+import { jobs, message, offWork } from "@/lib/home-data";
+import { nowSummary } from "@/lib/now-data";
 import { unifiedWriting } from "@/lib/writing";
 import { writingHeadline } from "@/lib/writing-display";
 
+const NAME_ROW = ["Panda Zeng", "Panda Zeng", "Panda Zeng", "Panda Zeng"];
+
+const month = (iso: string) => iso.slice(0, 7).replace("-", ".");
+
 export default function Home() {
-  const latest = unifiedWriting().filter((post) => post.category === "blog").slice(0, 4);
-  const projects = allProjects.filter((p) => p.featured).concat(allProjects.filter((p) => !p.featured)).slice(0, 3);
+  const latest = unifiedWriting()
+    .filter((post) => post.category === "blog")
+    .slice(0, 4);
 
   return (
-    <div className="mx-auto w-full max-w-5xl px-6">
-      <section className="relative flex min-h-[calc(100dvh-6rem)] flex-col justify-center pb-8 md:min-h-[70dvh] md:pb-6">
-        <PandaHero className="mb-3 h-28 w-28 md:absolute md:top-1/2 md:right-0 md:mb-0 md:h-72 md:w-72 md:-translate-y-[55%]" />
-        <p className="mb-4 text-sm text-bamboo md:mb-5">Panda Zeng · Company operations × AI</p>
-        <h1 className="display-tracking max-w-2xl font-display text-4xl leading-[1.06] font-semibold sm:text-5xl lg:text-6xl">
-          <WordReveal text="Building the systems that move companies forward." />
-        </h1>
-        <FadeUp delay={0.5} className="mt-6 max-w-2xl md:mt-8">
-          <p className="text-base text-muted sm:text-lg">
-            I&apos;m an operator with a technical background and hands-on experience in GTM and software
-            development. I use AI to turn company goals into workflows, tools, and operating systems
-            that help teams execute faster and grow.
-          </p>
-        </FadeUp>
-        <FadeUp delay={0.65} className="mt-7 flex items-center gap-5 md:mt-9">
-          <a
-            href="#how-i-work"
-            className="whitespace-nowrap rounded-full bg-bamboo px-5 py-2.5 text-sm font-medium text-canvas transition-transform duration-150 active:scale-95"
-          >
-            See how I work
-          </a>
-          <Link
-            href="/writing/"
-            className="text-sm text-muted transition-colors duration-150 active:scale-95 [@media(hover:hover)]:hover:text-ink"
-          >
-            Read field notes →
-          </Link>
-        </FadeUp>
+    <div className="home" lang="zh-Hant">
+      <section className="hero t1" data-hdr aria-label="Panda Zeng">
+        <Route dot />
+        <h1 className="vh">Panda Zeng</h1>
+        <div className="hero-main">
+          <div className="hero-sig">
+            <Signature id="sig-hero" />
+          </div>
+        </div>
+        <Link className="now" href="/now/">
+          <span className="kicker">Now</span>
+          {nowSummary}
+        </Link>
       </section>
 
-      <div className="relative left-1/2 my-10 w-screen -translate-x-1/2 sm:my-16">
-        <Marquee />
-      </div>
-
-      <section id="how-i-work" className="scroll-mt-24 pt-12" aria-labelledby="how-i-work-title">
-        <FadeUp>
-          <p className="text-sm text-bamboo">From goal to execution</p>
-          <h2
-            id="how-i-work-title"
-            className="display-tracking mt-3 max-w-2xl font-display text-3xl font-semibold sm:text-4xl"
-          >
-            I work across the whole operating path.
-          </h2>
-          <p className="mt-5 max-w-2xl text-muted">
-            The advantage is not AI alone. It is being able to connect a company priority to the GTM
-            motion, operating model, and technical implementation needed to move it forward.
-          </p>
-        </FadeUp>
-        <div className="mt-10 grid gap-8 sm:grid-cols-3 sm:gap-6">
-          {[
-            {
-              number: "01",
-              title: "Frame the goal",
-              body: "Turn company priorities and market context into a clear outcome, owner, and path to execution.",
-            },
-            {
-              number: "02",
-              title: "Design the system",
-              body: "Build the workflows, decision rules, and feedback loops that keep teams aligned and moving.",
-            },
-            {
-              number: "03",
-              title: "Build the leverage",
-              body: "Use software, automation, and AI agents to remove repeated work and increase the team’s capacity.",
-            },
-          ].map((step, i) => (
-            <FadeUp key={step.number} delay={0.08 * i}>
-              <article className="border-t border-line pt-4">
-                <p className="text-xs text-faint tabular-nums">{step.number}</p>
-                <h3 className="mt-3 font-display text-lg font-medium">{step.title}</h3>
-                <p className="mt-2 text-sm text-muted">{step.body}</p>
-              </article>
-            </FadeUp>
+      <section className="message t2" data-hdr aria-labelledby="msg-k">
+        <div className="note">
+          <span className="kicker" id="msg-k">
+            留言
+          </span>
+          {message.map((p) => (
+            <p key={p}>{p}</p>
           ))}
+        </div>
+        <div className="stage">
+          <div className="name-rows" aria-hidden="true">
+            <div className="name-row a">
+              {NAME_ROW.map((n, i) => (
+                <span key={i}>{n}</span>
+              ))}
+            </div>
+            <div className="name-row b">
+              {NAME_ROW.map((n, i) => (
+                <span key={i}>{n.toUpperCase()}</span>
+              ))}
+            </div>
+          </div>
+          <svg className="slash" viewBox="0 0 400 500" aria-hidden="true">
+            <path pathLength={1} d="M150 590L330 -70" />
+          </svg>
         </div>
       </section>
 
-      <section className="mt-24" aria-labelledby="latest-writing">
-        <FadeUp>
-          <div className="mb-6 flex items-baseline justify-between">
-            <h2 id="latest-writing" className="display-tracking font-display text-2xl font-semibold">
-              Field notes
+      <section className="duel" aria-label="工作與工作之外">
+        <div className="half work-half" data-hdr>
+          <div className="inner">
+            <h2>
+              <span className="eyebrow">Work</span>工作
             </h2>
-            <Link href="/writing/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
-              All writing →
+            <ul className="rows jobs">
+              {jobs.map((job) => (
+                <li key={`${job.company}-${job.role}`}>
+                  <b>
+                    {job.href ? (
+                      <a className="co" href={job.href} target="_blank" rel="noreferrer">
+                        {job.company}
+                        <i aria-hidden="true">↗</i>
+                      </a>
+                    ) : (
+                      job.company
+                    )}
+                  </b>
+                  <span>{job.role}</span>
+                  <time>{job.period}</time>
+                </li>
+              ))}
+            </ul>
+            <Link className="g-link" href="/work/">
+              看完整經歷
             </Link>
           </div>
-        </FadeUp>
-        <ul>
-          {latest.map((post, i) => (
-            <FadeUp key={post.id} delay={0.08 * i}>
-              <li className="border-t border-line">
-                <Link
-                  href={post.url}
-                  target={post.external ? "_blank" : undefined}
-                  rel={post.external ? "noreferrer" : undefined}
-                  className="group flex flex-col gap-1 py-5 sm:flex-row sm:items-baseline sm:justify-between"
-                >
-                  <span
-                    lang={post.locale === "zh-TW" ? "zh" : "en"}
-                    className="break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo"
-                  >
-                    {writingHeadline(post)}
-                  </span>
-                  <time dateTime={post.publishedAt} className="shrink-0 text-sm text-faint tabular-nums">
-                    {post.publishedAt.slice(0, 10)}
-                  </time>
-                </Link>
-              </li>
-            </FadeUp>
-          ))}
-        </ul>
+          <span className="vs" aria-hidden="true">
+            <span>vs.</span>
+          </span>
+        </div>
+        <div className="half off-half" data-hdr>
+          <div className="inner">
+            <h2>
+              <span className="eyebrow">Off work</span>工作之外
+            </h2>
+            <ul className="rows offs">
+              {offWork.map((item) => (
+                <li key={item.title}>
+                  <b>{item.title}</b>
+                  <span>{item.detail}</span>
+                </li>
+              ))}
+            </ul>
+            <Link className="g-link" href="/writing/">
+              讀我寫的東西
+            </Link>
+          </div>
+        </div>
       </section>
 
-      {projects.length > 0 && (
-        <section className="mt-24" aria-labelledby="featured-projects">
-          <FadeUp>
-            <div className="mb-6 flex items-baseline justify-between">
-              <div>
-                <h2 id="featured-projects" className="display-tracking font-display text-2xl font-semibold">
-                  Things I&apos;ve built
-                </h2>
-                <p className="mt-2 text-sm text-muted">Technical execution is part of how I operate.</p>
-              </div>
-              <Link href="/projects/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
-                All projects →
-              </Link>
-            </div>
-          </FadeUp>
-          <div className="grid gap-4 sm:grid-cols-2">
-            {projects.map((project, i) => (
-              <FadeUp key={project.title} delay={0.08 * i}>
+      <section className="lately t1" data-hdr aria-labelledby="wr-h">
+        <div className="inner">
+          <h2 id="wr-h">
+            <span className="eyebrow">Lately</span>最近寫的
+          </h2>
+          <ol>
+            {latest.map((post) => (
+              <li key={post.id}>
                 <a
-                  href={project.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="surface-1 hairline block rounded-lg p-6 transition-[background-color,transform] duration-200 [@media(hover:hover)]:hover:-translate-y-0.5 [@media(hover:hover)]:hover:bg-hover"
+                  href={post.url}
+                  {...(post.external ? { target: "_blank", rel: "noreferrer" } : {})}
                 >
-                  <h3 className="font-display text-lg font-medium">{project.title}</h3>
-                  <p lang="zh" className="mt-2 text-sm text-muted">
-                    {project.description}
-                  </p>
-                  {project.techs.length > 0 && (
-                    <p className="mt-4 text-xs text-faint">{project.techs.join(" · ")}</p>
-                  )}
+                  <time dateTime={post.publishedAt}>{month(post.publishedAt)}</time>
+                  <span lang={post.locale === "zh-TW" ? "zh-Hant" : "en"}>{writingHeadline(post)}</span>
+                  <i aria-hidden="true">→</i>
                 </a>
-              </FadeUp>
+              </li>
             ))}
-          </div>
-        </section>
-      )}
+          </ol>
+          <Link className="g-link" href="/writing/">
+            全部文章
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }
