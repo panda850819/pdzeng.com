@@ -1,14 +1,31 @@
 import type { Metadata } from "next";
-import { Bricolage_Grotesque } from "next/font/google";
+import { Instrument_Serif, Mona_Sans, Noto_Sans_TC } from "next/font/google";
 import { Nav } from "@/components/nav";
 import { Footer } from "@/components/footer";
-import { Aurora } from "@/components/aurora";
 import "./globals.css";
 
-const bricolage = Bricolage_Grotesque({
+const instrument = Instrument_Serif({
+  weight: "400",
+  style: ["normal", "italic"],
   subsets: ["latin"],
-  variable: "--font-bricolage",
+  variable: "--font-instrument",
   display: "swap",
+});
+
+const mona = Mona_Sans({
+  axes: ["wdth"],
+  subsets: ["latin"],
+  variable: "--font-mona",
+  display: "swap",
+});
+
+// CJK ships as unicode-range slices; preloading them all would defeat that
+const noto = Noto_Sans_TC({
+  weight: ["300", "500", "700", "900"],
+  subsets: ["latin"],
+  variable: "--font-noto",
+  display: "swap",
+  preload: false,
 });
 
 export const metadata: Metadata = {
@@ -50,7 +67,7 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={bricolage.variable}>
+    <html lang="en" className={`${instrument.variable} ${mona.variable} ${noto.variable}`}>
       <body className="min-h-dvh antialiased">
         <script
           dangerouslySetInnerHTML={{
@@ -64,7 +81,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to main content
         </a>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <Aurora />
         <Nav />
         <main id="main-content" className="pt-24">
           {children}

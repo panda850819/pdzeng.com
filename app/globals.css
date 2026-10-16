@@ -1,19 +1,60 @@
 @import "tailwindcss";
 
-@theme {
-  --font-display: var(--font-bricolage), "PingFang TC", "Noto Sans TC", sans-serif;
-  --font-body: -apple-system, "SF Pro Text", "Helvetica Neue", "PingFang TC", "Noto Sans TC", sans-serif;
+/* G: three working colours — olive-black, cream, bamboo. Bamboo is text only on olive; on cream it is a fill only.
+   Sections alternate t1 / t2; light starts on cream, dark swaps the pair. */
+:root {
+  --olive: oklch(24% 0.017 120);
+  --cream: oklch(96.2% 0.011 105);
+  --ink-g: oklch(21% 0.016 120);
+  --neon: oklch(89% 0.215 138);
 
-  /* Bamboo aurora — dark is the default identity; light overrides below */
-  --color-canvas: oklch(14% 0.006 170);
-  --color-ink: oklch(93.5% 0.005 170);
-  --color-muted: oklch(70% 0.012 170);
-  --color-faint: oklch(52% 0.012 170);
-  --color-bamboo: oklch(85% 0.09 165);
-  --color-bamboo-dim: oklch(66% 0.1 165);
-  --color-ember: oklch(84% 0.07 80);
-  --color-line: rgba(255, 255, 255, 0.07);
-  --color-hover: rgba(255, 255, 255, 0.04);
+  --t1-bg: var(--cream);
+  --t1-fg: var(--ink-g);
+  --t1-acc: var(--ink-g);
+  --t2-bg: var(--olive);
+  --t2-fg: var(--cream);
+  --t2-acc: var(--neon);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --t1-bg: var(--olive);
+    --t1-fg: var(--cream);
+    --t1-acc: var(--neon);
+    --t2-bg: var(--cream);
+    --t2-fg: var(--ink-g);
+    --t2-acc: var(--ink-g);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --t1-bg: var(--olive);
+  --t1-fg: var(--cream);
+  --t1-acc: var(--neon);
+  --t2-bg: var(--cream);
+  --t2-fg: var(--ink-g);
+  --t2-acc: var(--ink-g);
+  color-scheme: dark;
+}
+
+@theme {
+  --font-serif: var(--font-instrument), var(--font-noto), serif;
+  --font-display: var(--font-mona), var(--font-noto), "PingFang TC", sans-serif;
+  --font-body: var(--font-noto), "PingFang TC", sans-serif;
+
+  /* Page-level tokens follow t1, so every existing page reads on the current theme */
+  --color-canvas: var(--t1-bg);
+  --color-ink: var(--t1-fg);
+  --color-muted: color-mix(in oklch, var(--t1-fg) 76%, var(--t1-bg));
+  --color-faint: color-mix(in oklch, var(--t1-fg) 62%, var(--t1-bg));
+  --color-bamboo: var(--t1-acc);
+  --color-bamboo-dim: color-mix(in oklch, var(--t1-acc) 70%, var(--t1-bg));
+  --color-neon: oklch(89% 0.215 138);
+  --color-olive: oklch(24% 0.017 120);
+  --color-cream: oklch(96.2% 0.011 105);
+  --color-ember: color-mix(in oklch, var(--t1-fg) 50%, var(--t1-bg));
+  --color-line: color-mix(in oklch, var(--t1-fg) 14%, transparent);
+  --color-hover: color-mix(in oklch, var(--t1-fg) 5%, transparent);
 
   --radius-xs: 6px;
   --radius-sm: 10px;
@@ -25,52 +66,18 @@
 }
 
 :root {
-  --surface-1: rgba(255, 255, 255, 0.02);
-  --surface-2: rgba(255, 255, 255, 0.04);
-  --surface-3: rgba(255, 255, 255, 0.05);
-  --hairline: rgba(255, 255, 255, 0.05);
-  --hairline-strong: rgba(255, 255, 255, 0.08);
-  --glass-bg: rgba(255, 255, 255, 0.045);
-  --glass-border: rgba(255, 255, 255, 0.09);
-  --glass-highlight: rgba(255, 255, 255, 0.08);
-  --panda-fur: oklch(96% 0.003 170);
-  --panda-patch: oklch(22% 0.01 170);
-  --aurora-a: 0.25;
-  --aurora-b: 0.15;
-}
-
-:root[data-theme="light"] {
-  --color-canvas: oklch(97.5% 0.004 170);
-  --color-ink: oklch(23% 0.012 170);
-  --color-muted: oklch(45% 0.014 170);
-  --color-faint: oklch(60% 0.012 170);
-  --color-bamboo: oklch(46% 0.11 165);
-  --color-bamboo-dim: oklch(58% 0.1 165);
-  --color-ember: oklch(58% 0.1 80);
-  --color-line: rgba(0, 0, 0, 0.09);
-  --color-hover: rgba(0, 0, 0, 0.04);
-
-  --surface-1: rgba(0, 0, 0, 0.025);
-  --surface-2: rgba(0, 0, 0, 0.045);
-  --surface-3: rgba(0, 0, 0, 0.06);
-  --hairline: rgba(0, 0, 0, 0.07);
-  --hairline-strong: rgba(0, 0, 0, 0.11);
-  --glass-bg: rgba(255, 255, 255, 0.55);
-  --glass-border: rgba(0, 0, 0, 0.08);
-  --glass-highlight: rgba(255, 255, 255, 0.9);
-  --panda-fur: oklch(99% 0.002 170);
-  --panda-patch: oklch(25% 0.012 170);
-  --aurora-a: 0.35;
-  --aurora-b: 0.25;
+  --surface-1: color-mix(in oklch, var(--t1-fg) 3%, transparent);
+  --surface-2: color-mix(in oklch, var(--t1-fg) 5%, transparent);
+  --surface-3: color-mix(in oklch, var(--t1-fg) 8%, transparent);
+  --hairline: color-mix(in oklch, var(--t1-fg) 12%, transparent);
+  --hairline-strong: color-mix(in oklch, var(--t1-fg) 20%, transparent);
+  --glass-bg: color-mix(in oklch, var(--t1-bg) 85%, transparent);
+  --glass-border: color-mix(in oklch, var(--t1-fg) 14%, transparent);
+  --glass-highlight: transparent;
 }
 
 html {
   background: var(--color-canvas);
-  color-scheme: dark;
-}
-
-:root[data-theme="light"] {
-  color-scheme: light;
 }
 
 body {
@@ -80,6 +87,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: clip;
   transition: background-color 200ms ease, color 200ms ease;
 }
 
@@ -140,56 +148,6 @@ p {
 
 .display-tracking {
   letter-spacing: -0.022em;
-}
-
-/* Full-bleed ticker strip (landonorris-style) */
-@keyframes marquee {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-50%);
-  }
-}
-
-.marquee {
-  overflow: hidden;
-  mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
-}
-
-.marquee-track {
-  display: flex;
-  width: max-content;
-  animation: marquee 36s linear infinite;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .marquee-track {
-    animation: none;
-  }
-}
-
-@keyframes aurora-drift {
-  0% {
-    transform: translate3d(0, 0, 0) scale(1);
-  }
-  50% {
-    transform: translate3d(6%, -4%, 0) scale(1.12);
-  }
-  100% {
-    transform: translate3d(-4%, 5%, 0) scale(0.96);
-  }
-}
-
-.aurora-blob {
-  animation: aurora-drift 26s var(--ease-out-expo) infinite alternate;
-  will-change: transform;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .aurora-blob {
-    animation: none;
-  }
 }
 
 /* Article body — readable minimal; no glass, no motion */
@@ -300,15 +258,4 @@ p {
   border-radius: var(--radius-sm);
   background: var(--color-bamboo);
   color: var(--color-canvas);
-}
-
-/* Theme toggle icons are CSS-driven so the button needs no hydration state */
-.icon-sun {
-  display: none;
-}
-:root[data-theme="light"] .icon-sun {
-  display: block;
-}
-:root[data-theme="light"] .icon-moon {
-  display: none;
 }
