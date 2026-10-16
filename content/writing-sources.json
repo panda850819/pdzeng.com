@@ -350,7 +350,7 @@
         "siteName": "Simon Koeck",
         "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck",
         "description": "A Flask cookie on developers.google.com was signed with a secret it carried inside itself. Pulling that secret out turned a forged session into code execution across Google's developer sites.",
-        "imageUrl": "https://cdn4.telesco.pe/file/tzyAwVfBXZknQTc2X80dozHDwt6eO1lL4mravCck4UCZ70xJiGCc5K2g9UkRv2K7FuBsBDzlPPnFQkaBtzJsPoaRjjz3pIqZBRECRx0U4SQ1BYfRF-fTyOY47yfkdC0xYZzEsJraxW62hTNkSQ3PpiAYOoskllJlmWF1TSbKoAG6toLBu0kvOskh1CKf6MoRrdKgLxvVLcxoRNGEbBvSSlDm1uyRp8r9ZBtBjnjPTV4Mq38EjuWoCA3K3aWAAmW3zh24Aljck5RJefb7mLW8sEpzxrAGGhs0CdctPnhRlRt4VMSPtlWo-1RyUywQeeVSra4noXsTTBfuJmLyhsg0_Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/lC1fYolOIq_po9F0Z3s8F8dF5aTBt0k5JjSv0A7Fsch8KlVuoyeClAheJfqjpjcj7yVXoha7XiU8_YleckZ-5dkdvGW6MliqHPje8Wj9bdCcDTCriS2QYZijHdrR0L8wdKsfn8XTF0tJlSF983xzkavdYG8SckC-nn1O7Qc50WslS0CVDhCuJS7X84jnEKgDl_xnG3It3tg2ILliwvZqldDC7BsJ9CwrLO02JM_JvdLRhCkn05oPolilvp7ddu1RsiOkLcBa6TD8cgX-Sjdt9-S36yri7Gf9e120RwQ9wOcPUzfoUORDOYqruZqNpr6fkQ1EeuykfN8WCHKp0bnDVA.jpg"
       }
     },
     {
