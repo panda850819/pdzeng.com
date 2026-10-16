@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Instrument_Serif, Mona_Sans, Noto_Sans_TC } from "next/font/google";
+import { Instrument_Serif, Mona_Sans } from "next/font/google";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { Motion } from "@/components/motion";
@@ -21,14 +21,6 @@ const mona = Mona_Sans({
 });
 
 // CJK ships as unicode-range slices; preloading them all would defeat that
-const noto = Noto_Sans_TC({
-  weight: ["300", "500", "700", "900"],
-  subsets: ["latin"],
-  variable: "--font-noto",
-  display: "swap",
-  preload: false,
-});
-
 export const metadata: Metadata = {
   metadataBase: new URL("https://pdzeng.com"),
   title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
@@ -67,7 +59,7 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" suppressHydrationWarning className={`${instrument.variable} ${mona.variable} ${noto.variable}`}>
+    <html lang="en" suppressHydrationWarning className={`${instrument.variable} ${mona.variable}`}>
       <body className="min-h-dvh antialiased">
         <script
           dangerouslySetInnerHTML={{
