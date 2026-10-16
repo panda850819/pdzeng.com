@@ -259,3 +259,299 @@ p {
   background: var(--color-bamboo);
   color: var(--color-canvas);
 }
+
+/* ───────────── G: shared pieces (header, footer, home) ───────────── */
+.t1 {
+  --bg: var(--t1-bg);
+  --fg: var(--t1-fg);
+  --acc: var(--t1-acc);
+}
+.t2 {
+  --bg: var(--t2-bg);
+  --fg: var(--t2-fg);
+  --acc: var(--t2-acc);
+}
+.kicker {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-stretch: 110%;
+}
+.eyebrow {
+  display: block;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.1;
+  color: var(--acc);
+  margin-bottom: 6px;
+}
+.route {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.route path {
+  fill: none;
+  stroke: var(--fg);
+  stroke-opacity: 0.16;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+.route circle {
+  fill: var(--acc);
+}
+.g-link {
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.32em;
+  text-decoration-color: color-mix(in oklch, var(--fg) 40%, transparent);
+}
+.g-link:hover {
+  text-decoration-color: var(--fg);
+}
+/* signature: bamboo on olive, ink on cream */
+.sig {
+  display: block;
+  width: 100%;
+  color: var(--acc);
+  overflow: visible;
+  pointer-events: none;
+}
+.sig-swash {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 9;
+  stroke-linecap: round;
+}
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--neon);
+  color: var(--ink-g);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 12px 18px;
+  border-radius: 9px;
+  line-height: 1;
+  white-space: nowrap;
+}
+.cta:hover {
+  filter: brightness(1.06);
+}
+.cta svg {
+  width: 14px;
+  height: 14px;
+}
+
+/* header strip: solid by default (no JS); with JS it stays clear at the top and takes the colours of the section underneath */
+.hdr {
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 76px;
+  z-index: 49;
+  background: var(--hdr-bg, var(--t1-bg));
+  border-bottom: 1px solid color-mix(in oklch, var(--hdr-fg, var(--t1-fg)) 14%, transparent);
+}
+.js-hdr:not(.scrolled) .hdr {
+  background: transparent;
+  border-color: transparent;
+}
+.lockup {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  z-index: 50;
+  color: var(--hdr-fg, var(--t1-fg));
+  text-decoration: none;
+  line-height: 0.86;
+  display: block;
+}
+.lockup .s {
+  font-family: var(--font-serif);
+  font-size: 30px;
+  display: block;
+  letter-spacing: -0.01em;
+}
+.lockup .g {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-stretch: 80%;
+  font-size: 27px;
+  display: block;
+  letter-spacing: -0.01em;
+}
+.topnav {
+  position: fixed;
+  top: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 50;
+  display: flex;
+  gap: 26px;
+  color: var(--hdr-fg, var(--t1-fg));
+}
+.topnav a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 32px;
+  text-underline-offset: 0.3em;
+}
+.topnav a:hover,
+.topnav a[aria-current="page"] {
+  text-decoration: underline;
+}
+.topnav a[aria-current="page"] {
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--neon);
+}
+.topright {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 50;
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+.theme-btn,
+.menu-btn {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  width: 46px;
+  border-radius: 9px;
+  cursor: pointer;
+  background: var(--cream);
+  color: var(--ink-g);
+  border: 1px solid var(--ink-g);
+  padding: 0;
+}
+.menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.menu-btn svg {
+  width: 18px;
+  height: 12px;
+}
+/* mobile menu: full-screen dark sheet; :target keeps it usable without JS */
+.mnav {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: var(--ink-g);
+  color: var(--cream);
+  flex-direction: column;
+  justify-content: center;
+  padding: 96px 24px 40px;
+}
+.mnav.open,
+.mnav:target {
+  display: flex;
+}
+.mnav .close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 44px;
+  height: 40px;
+  border-radius: 9px;
+  border: 1px solid color-mix(in oklch, var(--cream) 40%, transparent);
+  color: var(--cream);
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+  font-size: 22px;
+  line-height: 1;
+  background: none;
+  cursor: pointer;
+}
+.mnav .kicker {
+  display: block;
+  margin: 0 0 14px;
+  color: color-mix(in oklch, var(--cream) 55%, var(--ink-g));
+}
+.mnav .pages a {
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 1.35;
+  text-decoration: none;
+}
+.mnav .social {
+  margin-top: 44px;
+}
+.mnav .social a {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-stretch: 85%;
+  font-size: 22px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.mnav a:hover,
+.mnav a:focus-visible,
+.mnav a[aria-current="page"] {
+  color: var(--neon);
+}
+.mnav .cta {
+  margin-top: 44px;
+  align-self: flex-start;
+}
+.mnav .cta:hover {
+  color: var(--ink-g);
+}
+@media (max-width: 760px) {
+  .hdr {
+    height: 64px;
+  }
+  .lockup .s {
+    font-size: 24px;
+  }
+  .lockup .g {
+    font-size: 22px;
+  }
+  .cta {
+    font-size: 14px;
+    padding: 10px 13px;
+  }
+  .theme-btn {
+    width: 40px;
+  }
+  .menu-btn {
+    width: 40px;
+  }
+  .topright {
+    gap: 6px;
+  }
+}
+@media (max-width: 639px) {
+  .topnav {
+    display: none;
+  }
+  .menu-btn {
+    display: inline-flex;
+  }
+}
+
+/* every page but home starts below the fixed header; home's hero sits under a clear header */
+.site-main {
+  padding-top: 7.5rem;
+}
+.site-main:has(.home) {
+  padding-top: 0;
+}

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Mona_Sans, Noto_Sans_TC } from "next/font/google";
-import { Nav } from "@/components/nav";
+import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import "./globals.css";
 
@@ -81,8 +81,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to main content
         </a>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <Nav />
-        <main id="main-content" className="pt-24">
+        <Header />
+        <main id="main-content" className="site-main">
           {children}
         </main>
         <Footer />
