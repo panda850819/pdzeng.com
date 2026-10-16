@@ -17,11 +17,11 @@ export function Nav() {
   return (
     <header className="glass-bar fixed inset-x-0 top-0 z-50">
       <div className="mx-auto flex h-14 w-full max-w-5xl items-center justify-between gap-2 px-4 sm:px-6">
-        <Link href="/" className="hidden font-display text-sm font-semibold tracking-tight sm:block">
+        <Link href="/" className="font-display text-sm font-semibold tracking-tight">
           pdzeng
         </Link>
         <div className="flex items-center gap-1">
-          <nav className="flex items-center gap-0.5 sm:gap-1" aria-label="Main">
+          <nav className="flex items-center min-[360px]:gap-0.5 sm:gap-1" aria-label="Main">
             {links.map(({ href, label }) => {
               const active = href === "/" ? pathname === "/" : pathname.startsWith(href);
               return (
@@ -29,7 +29,7 @@ export function Nav() {
                   key={href}
                   href={href}
                   aria-current={active ? "page" : undefined}
-                  className={`rounded-full px-2.5 py-2.5 text-sm leading-5 transition-colors duration-150 active:scale-95 sm:px-3.5 ${
+                  className={`rounded-full px-1.5 py-2.5 text-sm leading-5 transition-colors duration-150 active:scale-95 min-[360px]:px-2.5 sm:px-3.5 ${
                     href === "/" ? "hidden sm:block " : ""
                   }${
                     active
