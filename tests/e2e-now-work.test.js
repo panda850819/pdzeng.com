@@ -18,12 +18,11 @@ function read(rel) {
 }
 
 describe("static export of /now and /work", () => {
-  test("every page links to /work/ and /now/ from the nav", () => {
+  test("every page links to /work/ from the header, and home links /now/", () => {
     for (const rel of Object.values(PAGES)) {
-      const html = read(rel);
-      expect(html).toContain('href="/work/"');
-      expect(html).toContain('href="/now/"');
+      expect(read(rel)).toContain('href="/work/"');
     }
+    expect(read("index.html")).toContain('href="/now/"');
   });
 
   test("/now/ shows its update date and links the TONX case", () => {
