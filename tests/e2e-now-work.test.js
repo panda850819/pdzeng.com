@@ -30,7 +30,7 @@ describe("static export of /now and /work", () => {
     expect(html).toContain("更新於 2026-10");
     expect(html).toContain('href="/work/tonx-ops-from-zero/"');
     expect(html).toContain("https://x.com/pandazeng1");
-    expect(html).toContain("https://t.me/pdzeng_talk");
+    expect(html).toContain("https://t.me/pdzeng\"");
   });
 
   test("/work/ lists the TONX case with its headline metric", () => {

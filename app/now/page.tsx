@@ -75,7 +75,7 @@ export default function NowPage() {
         <a href="https://x.com/pandazeng1" target="_blank" rel="noreferrer" className="text-bamboo underline decoration-bamboo/40 underline-offset-3 [@media(hover:hover)]:hover:decoration-bamboo">
           X
         </a> 或{" "}
-        <a href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer" className="text-bamboo underline decoration-bamboo/40 underline-offset-3 [@media(hover:hover)]:hover:decoration-bamboo">
+        <a href="https://t.me/pdzeng" target="_blank" rel="noreferrer" className="text-bamboo underline decoration-bamboo/40 underline-offset-3 [@media(hover:hover)]:hover:decoration-bamboo">
           Telegram
         </a> 找到我。
       </p>
