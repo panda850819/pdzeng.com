@@ -6,8 +6,9 @@ import { ThemeToggle } from "@/components/theme-toggle";
 
 const links = [
   { href: "/", label: "Home" },
+  { href: "/work/", label: "Work" },
   { href: "/writing/", label: "Writing" },
-  { href: "/projects/", label: "Projects" },
+  { href: "/now/", label: "Now" },
   { href: "/about/", label: "About" },
   { href: "/cv/", label: "CV" },
 ];
@@ -21,7 +22,7 @@ export function Nav() {
           pdzeng
         </Link>
         <div className="flex items-center gap-1">
-          <nav className="flex items-center min-[360px]:gap-0.5 sm:gap-1" aria-label="Main">
+          <nav className="flex items-center min-[390px]:gap-0.5 sm:gap-1" aria-label="Main">
             {links.map(({ href, label }) => {
               const active = href === "/" ? pathname === "/" : pathname.startsWith(href);
               return (
@@ -29,7 +30,7 @@ export function Nav() {
                   key={href}
                   href={href}
                   aria-current={active ? "page" : undefined}
-                  className={`rounded-full px-1.5 py-2.5 text-sm leading-5 transition-colors duration-150 active:scale-95 min-[360px]:px-2.5 sm:px-3.5 ${
+                  className={`rounded-full px-1.5 py-2.5 text-sm leading-5 transition-colors duration-150 active:scale-95 min-[390px]:px-2 sm:px-3.5 ${
                     href === "/" ? "hidden sm:block " : ""
                   }${
                     active
