@@ -32,7 +32,7 @@ export default function WorkPage() {
                 <h2 className="mt-4 font-display text-lg leading-snug font-medium">{item.title}</h2>
                 <p className="mt-2 flex-1 text-sm text-muted">{item.summary}</p>
                 <p className="mt-4 text-xs text-faint">
-                  {item.role} · {item.company} · <span className="tabular-nums">{item.period}</span>
+                  {item.role} · {item.company} · <span className="whitespace-nowrap tabular-nums">{item.period}</span>
                 </p>
               </Link>
             </FadeUp>
