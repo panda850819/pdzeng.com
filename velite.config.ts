@@ -33,9 +33,30 @@ const projects = defineCollection({
   }),
 });
 
+const work = defineCollection({
+  name: "Work",
+  pattern: "work/**/*.{md,mdx}",
+  schema: s
+    .object({
+      title: s.string(),
+      slug: s.string(),
+      summary: s.string(),
+      company: s.string(),
+      role: s.string(),
+      period: s.string(),
+      locale: s.enum(["zh-TW", "en"]).default("zh-TW"),
+      order: s.number(),
+      draft: s.boolean().default(false),
+      metrics: s.array(s.object({ value: s.string(), label: s.string() })).min(1).max(4),
+      links: s.array(s.object({ label: s.string(), url: s.string().url() })).default([]),
+      content: s.markdown(),
+    })
+    .transform((data) => ({ ...data, permalink: `/work/${data.slug}/` })),
+});
+
 export default defineConfig({
   root: "content",
-  collections: { writing, projects },
+  collections: { writing, projects, work },
   output: {
     data: ".velite",
     assets: "public/static",

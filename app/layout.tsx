@@ -1,21 +1,30 @@
 import type { Metadata } from "next";
-import { Bricolage_Grotesque } from "next/font/google";
-import { Nav } from "@/components/nav";
+import { Instrument_Serif, Mona_Sans } from "next/font/google";
+import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
-import { Aurora } from "@/components/aurora";
+import { Motion } from "@/components/motion";
 import "./globals.css";
 
-const bricolage = Bricolage_Grotesque({
+const instrument = Instrument_Serif({
+  weight: "400",
+  style: ["normal", "italic"],
   subsets: ["latin"],
-  variable: "--font-bricolage",
+  variable: "--font-instrument",
   display: "swap",
 });
 
+const mona = Mona_Sans({
+  axes: ["wdth"],
+  subsets: ["latin"],
+  variable: "--font-mona",
+  display: "swap",
+});
+
+// CJK ships as unicode-range slices; preloading them all would defeat that
 export const metadata: Metadata = {
   metadataBase: new URL("https://pdzeng.com"),
   title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
-  description:
-    "Panda Zeng is an operator who uses AI, GTM, and software development to turn company goals into systems that help teams execute and grow.",
+  description: "Panda Zeng — operator, runner, writing about operations and AI.",
   alternates: { canonical: "./" },
 };
 
@@ -29,7 +38,7 @@ const jsonLd = {
   author: {
     "@type": "Person",
     name: "Panda Zeng",
-    alternateName: "熊貓隨口說",
+    alternateName: ["熊貓隨口說", "Panda Tseng"],
     url: "https://pdzeng.com",
     knowsAbout: [
       "Company operations",
@@ -43,18 +52,18 @@ const jsonLd = {
     sameAs: [
       "https://github.com/panda850819",
       "https://x.com/pandazeng1",
-      "https://www.linkedin.com/in/wei-chieh-tseng-369303161/",
+      "https://www.linkedin.com/in/pdzeng/",
     ],
   },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={bricolage.variable}>
+    <html lang="en" suppressHydrationWarning className={`${instrument.variable} ${mona.variable}`}>
       <body className="min-h-dvh antialiased">
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}`,
+            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}if(!matchMedia("(prefers-reduced-motion: reduce)").matches)document.documentElement.classList.add("motion-ok")`,
           }}
         />
         <noscript>
@@ -64,12 +73,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to main content
         </a>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <Aurora />
-        <Nav />
-        <main id="main-content" className="pt-24">
+        <Header />
+        <main id="main-content" className="site-main">
           {children}
         </main>
         <Footer />
+        <Motion />
       </body>
     </html>
   );

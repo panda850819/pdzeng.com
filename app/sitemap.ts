@@ -1,12 +1,12 @@
 import type { MetadataRoute } from "next";
-import { published } from "@/lib/content";
+import { published, publishedWork } from "@/lib/content";
 
 export const dynamic = "force-static";
 
 const SITE = "https://pdzeng.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const pages = ["", "/writing/", "/projects/", "/about/", "/cv/"].map((path) => ({
+  const pages = ["", "/work/", "/writing/", "/now/", "/projects/", "/about/", "/cv/"].map((path) => ({
     url: `${SITE}${path}`,
     changeFrequency: "weekly" as const,
     priority: path === "" ? 1 : 0.8,
@@ -19,5 +19,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...pages, ...posts];
+  const cases = publishedWork.map((w) => ({
+    url: `${SITE}${w.permalink}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [...pages, ...cases, ...posts];
 }

@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = { title: "Styleguide", robots: { index: false } };
 
 const colors = [
+  ["olive", "bg-olive"],
+  ["cream", "bg-cream hairline-strong"],
+  ["neon", "bg-neon"],
   ["canvas", "bg-canvas hairline-strong"],
   ["ink", "bg-ink"],
   ["muted", "bg-muted"],
@@ -17,7 +20,7 @@ export default function Styleguide() {
     <div className="mx-auto w-full max-w-5xl space-y-16 px-6">
       <section>
         <h1 className="display-tracking font-display text-4xl font-semibold">Styleguide</h1>
-        <p className="mt-2 text-muted">Bamboo aurora on deep ink — tokens and primitives.</p>
+        <p className="mt-2 text-muted">Olive-black, cream, and bamboo — tokens and primitives.</p>
       </section>
 
       <section aria-labelledby="sg-color">
@@ -35,11 +38,12 @@ export default function Styleguide() {
       <section aria-labelledby="sg-type">
         <h2 id="sg-type" className="mb-4 font-display text-xl font-medium">Type</h2>
         <div className="space-y-4">
+          <p className="font-serif text-6xl">Serif 60 — Instrument Serif</p>
           <p className="display-tracking font-display text-6xl font-semibold">Display 60</p>
           <p className="display-tracking font-display text-3xl font-semibold">Heading 30</p>
           <p className="text-base">Body 16 — Latin body copy sits at 1.5 line-height.</p>
           <p lang="zh" className="max-w-[65ch] text-base">
-            中文內文 16 — 行高 1.75,PingFang TC 優先,不加字距。混排英文 words 時由瀏覽器換行。
+            中文內文 16 — 行高 1.75,Noto Sans TC 優先,不加字距。混排英文 words 時由瀏覽器換行。
           </p>
           <p className="text-sm text-muted">Muted 14 · secondary copy</p>
           <p className="text-xs text-faint tabular-nums">Faint 12 · 2026-07-13 · tabular</p>

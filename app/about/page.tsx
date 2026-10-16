@@ -32,7 +32,7 @@ export default function AboutPage() {
         <p>
           Full history lives on the <Link href="/cv/">CV page</Link>. Reach me on{" "}
           <a href="https://x.com/pandazeng1" target="_blank" rel="noreferrer">X</a> or{" "}
-          <a href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer">Telegram</a>.
+          <a href="https://t.me/pdzeng" target="_blank" rel="noreferrer">Telegram</a>.
         </p>
       </div>
     </div>
