@@ -1154,3 +1154,16 @@ p {
     gap: 12px;
   }
 }
+
+/* With JS and motion allowed, the hero's strokes wait for motion.tsx to set their start state.
+   If that never happens, they show up anyway after 2.5s. */
+.motion-ok .hero .route,
+.motion-ok .hero .sig {
+  opacity: 0;
+  animation: intro-failsafe 0s linear 2.5s forwards;
+}
+@keyframes intro-failsafe {
+  to {
+    opacity: 1;
+  }
+}

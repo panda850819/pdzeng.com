@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Instrument_Serif, Mona_Sans, Noto_Sans_TC } from "next/font/google";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { Motion } from "@/components/motion";
 import "./globals.css";
 
 const instrument = Instrument_Serif({
@@ -66,11 +67,11 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${instrument.variable} ${mona.variable} ${noto.variable}`}>
+    <html lang="en" suppressHydrationWarning className={`${instrument.variable} ${mona.variable} ${noto.variable}`}>
       <body className="min-h-dvh antialiased">
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}`,
+            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}if(!matchMedia("(prefers-reduced-motion: reduce)").matches)document.documentElement.classList.add("motion-ok")`,
           }}
         />
         <noscript>
@@ -85,6 +86,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </main>
         <Footer />
+        <Motion />
       </body>
     </html>
   );
