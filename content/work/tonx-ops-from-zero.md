@@ -7,13 +7,6 @@ role: "Operations → People & Ops Lead"
 period: "2023/07 – 2025/12"
 locale: zh-TW
 order: 1
-metrics:
-  - value: "10 → 50"
-    label: "團隊人數"
-  - value: "5+"
-    label: "活動與黑客松"
-  - value: "400M+"
-    label: "Kton.io 管理資產"
 links:
   - label: "kton.io"
     url: "https://kton.io"
@@ -33,4 +26,4 @@ links:
 
 ## 成果
 
-招募上，團隊從 10 人擴展到 50 人。協助舉辦 5 場以上活動與黑客松。
+招募上，團隊從 10 人擴展到 50 人。也協助舉辦了 5 場以上的活動與黑客松。

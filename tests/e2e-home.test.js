@@ -82,3 +82,21 @@ describe("every page shares the new header and footer", () => {
     expect(read("about/index.html")).toMatch(/aria-current="page" href="\/about\/"|href="\/about\/" aria-current="page"/);
   });
 });
+
+describe("about and OG image", () => {
+  test("/about/ drops the tooling framing and links /now/", () => {
+    const html = readFileSync(join(OUT, "about/index.html"), "utf8");
+    expect(html).not.toContain("agent systems");
+    expect(html).not.toContain("CLI tools");
+    expect(html).not.toContain("Operations ×");
+    expect(html).toContain('href="/now/"');
+    expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
+  });
+
+  test("the OG image is a 1200×630 PNG", () => {
+    const png = readFileSync(join(OUT, "opengraph-image"));
+    expect(png.subarray(1, 4).toString()).toBe("PNG");
+    expect(png.readUInt32BE(16)).toBe(1200);
+    expect(png.readUInt32BE(20)).toBe(630);
+  });
+});

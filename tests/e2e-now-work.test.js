@@ -33,17 +33,19 @@ describe("static export of /now and /work", () => {
     expect(html).toContain("https://t.me/pdzeng\"");
   });
 
-  test("/work/ lists the TONX case with its headline metric", () => {
+  test("/work/ lists the TONX case without a metric badge", () => {
     const html = read(PAGES.work);
-    expect(html).toContain("10 → 50");
+    expect(html).toContain("團隊從 10 人擴展到 50 人");
+    expect(html).not.toContain("10 → 50");
     expect(html).toContain('href="/work/tonx-ops-from-zero/"');
   });
 
-  test("the TONX case page renders metrics, body, and links", () => {
+  test("the TONX case page keeps the numbers in prose, with no stat wall", () => {
     const html = read(PAGES.tonx);
-    for (const s of ["10 → 50", "5+", "400M+", "https://kton.io", "kton.io", "https://tons.tg", "https://tons.ai"]) {
+    for (const s of ["10 人擴展到 50 人", "5 場以上", "400M+", "https://kton.io", "https://tons.tg", "https://tons.ai"]) {
       expect(html).toContain(s);
     }
+    expect(html).not.toContain("10 → 50");
     expect(html).toContain('lang="zh"');
   });
 

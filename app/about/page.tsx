@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Panda Zeng — Operations × AI, in Web3 since 2018.",
+  description: "Panda Zeng — operations, in Web3 since 2018.",
 };
 
 export default function AboutPage() {
@@ -12,18 +12,19 @@ export default function AboutPage() {
       <h1 className="display-tracking font-display text-4xl font-semibold">About</h1>
       <div className="article mt-8" lang="en">
         <p>
-          I&apos;m Panda, from Taiwan. I work across operations, AI systems, and workflow
-          automation. Most recently, I was Ops Manager at Yei Finance from January to August 2026.
+          I&apos;m Panda Zeng (also Panda Tseng), from Taiwan. I work in operations. Most recently, I
+          was Ops Manager at Yei Finance from January to August 2026. Before that, at TONX, I built
+          operations from scratch and grew the team from 10 to 50 as People &amp; Ops Lead.
         </p>
         <p>
           I entered Web3 in 2018 and never really left. My path has included full-stack
-          engineering, marketing, operations, and People &amp; Ops leadership. Software remains
-          part of my background and how I approach operational systems.
+          engineering, marketing, operations, and People &amp; Ops leadership.
         </p>
         <p>
-          These days I build agent systems and CLI tools that remove repetitive work — my own
-          first, then everyone else&apos;s. I write about that process, mostly in Traditional
-          Chinese, over in <Link href="/writing/">Writing</Link>.
+          Since leaving Yei Finance at the end of August, I&apos;ve been in a transition: running,
+          strength training, learning how AI changes operations work, and keeping notes on
+          investing. What I&apos;m focused on right now is on the <Link href="/now/">Now page</Link>,
+          and I write mostly in Traditional Chinese over in <Link href="/writing/">Writing</Link>.
         </p>
         <p>
           In 2020, I co-founded <a href="https://www.instagram.com/walkincat2020/" target="_blank" rel="noreferrer">WalkinCat</a>.
@@ -31,7 +32,8 @@ export default function AboutPage() {
         </p>
         <p>
           Full history lives on the <Link href="/cv/">CV page</Link>. Reach me on{" "}
-          <a href="https://x.com/pandazeng1" target="_blank" rel="noreferrer">X</a> or{" "}
+          <a href="https://x.com/pandazeng1" target="_blank" rel="noreferrer">X</a>,{" "}
+          <a href="https://www.linkedin.com/in/pdzeng/" target="_blank" rel="noreferrer">LinkedIn</a>, or{" "}
           <a href="https://t.me/pdzeng" target="_blank" rel="noreferrer">Telegram</a>.
         </p>
       </div>
