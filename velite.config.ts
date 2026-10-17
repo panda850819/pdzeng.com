@@ -47,7 +47,7 @@ const work = defineCollection({
       locale: s.enum(["zh-TW", "en"]).default("zh-TW"),
       order: s.number(),
       draft: s.boolean().default(false),
-      metrics: s.array(s.object({ value: s.string(), label: s.string() })).min(1).max(4),
+      metrics: s.array(s.object({ value: s.string(), label: s.string() })).max(4).default([]),
       links: s.array(s.object({ label: s.string(), url: s.string().url() })).default([]),
       content: s.markdown(),
     })

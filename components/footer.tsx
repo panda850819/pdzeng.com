@@ -22,6 +22,7 @@ export function Footer() {
         </div>
         <div className="fcta">
           <ContactCta />
+          <p className="fcta-note">工作、合作，或只是想聊聊，都歡迎。</p>
         </div>
         <div className="fcols">
           <ul>

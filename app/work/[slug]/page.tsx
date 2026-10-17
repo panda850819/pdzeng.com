@@ -39,14 +39,16 @@ export default async function WorkCasePage({ params }: { params: Promise<{ slug:
         <p className="mt-4 text-muted">{item.summary}</p>
       </header>
 
-      <dl className={`mb-12 grid grid-cols-2 gap-3 ${gridCols[item.metrics.length]}`}>
-        {item.metrics.map((m) => (
-          <div key={m.label} className="surface-1 hairline rounded-lg p-4">
-            <dt className="text-xs text-faint">{m.label}</dt>
-            <dd className="mt-1 font-display text-2xl font-semibold text-ink tabular-nums">{m.value}</dd>
-          </div>
-        ))}
-      </dl>
+      {item.metrics.length > 0 && (
+        <dl className={`mb-12 grid grid-cols-2 gap-3 ${gridCols[item.metrics.length]}`}>
+          {item.metrics.map((m) => (
+            <div key={m.label} className="surface-1 hairline rounded-lg p-4">
+              <dt className="text-xs text-faint">{m.label}</dt>
+              <dd className="mt-1 font-display text-2xl font-semibold text-ink tabular-nums">{m.value}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
 
       <div className="article" dangerouslySetInnerHTML={{ __html: item.content }} />
 

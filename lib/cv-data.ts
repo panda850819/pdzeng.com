@@ -1,5 +1,5 @@
 export const summary =
-  "Operations and AI systems builder with experience in workflow automation and a full-stack background. Active in Web3 since 2018.";
+  "Operations lead with a full-stack background. Active in Web3 since 2018.";
 
 export const experience = [
   {
@@ -19,6 +19,12 @@ export const experience = [
     role: "Operations",
     period: "2023/07 – 2025/06",
     location: "On-site",
+  },
+  {
+    company: "發動科技 FDC",
+    role: "COO",
+    period: "2022 – 2023",
+    location: "Taiwan",
   },
   {
     company: "WalkinCat",

@@ -26,9 +26,14 @@ describe("static export of the home page", () => {
     expect(main).toContain('href="/now/"');
   });
 
+  test("the message opens with Panda's own line", () => {
+    expect(main).toContain('<blockquote class="quote">營運的本質就是讓公司活下來。</blockquote>');
+    expect(html).toContain("工作、合作，或只是想聊聊，都歡迎。");
+  });
+
   test("work vs. off work renders from the typed data", () => {
     expect(main).toContain("vs.");
-    for (const s of ["Yei Finance", "People &amp; Ops Lead", "WOO Network", "YuStar", "2018–2020", "開始跑步，練的是自律"]) {
+    for (const s of ["Yei Finance", "People &amp; Ops Lead", "WOO Network", "YuStar", "2018–2020", "發動科技 FDC", "COO", "zone 2"]) {
       expect(main).toContain(s);
     }
   });
@@ -80,5 +85,25 @@ describe("every page shares the new header and footer", () => {
   test("the current page is marked in the header", () => {
     expect(read("work/index.html")).toMatch(/<a aria-current="page" href="\/work\/"|<a href="\/work\/" aria-current="page"/);
     expect(read("about/index.html")).toMatch(/aria-current="page" href="\/about\/"|href="\/about\/" aria-current="page"/);
+  });
+});
+
+describe("about and OG image", () => {
+  test("/about/ drops the tooling framing and links /now/", () => {
+    const html = readFileSync(join(OUT, "about/index.html"), "utf8");
+    expect(html).not.toContain("agent systems");
+    expect(html).not.toContain("CLI tools");
+    expect(html).not.toContain("Operations ×");
+    expect(html).toContain('href="/now/"');
+    expect(html).toContain('href="/work/yei-ops-with-ai/"');
+    expect(html).toContain("龐龐");
+    expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
+  });
+
+  test("the OG image is a 1200×630 PNG", () => {
+    const png = readFileSync(join(OUT, "opengraph-image"));
+    expect(png.subarray(1, 4).toString()).toBe("PNG");
+    expect(png.readUInt32BE(16)).toBe(1200);
+    expect(png.readUInt32BE(20)).toBe(630);
   });
 });
