@@ -38,6 +38,7 @@ describe("static export of /now and /work", () => {
     expect(html).toContain("團隊從 10 人擴展到 50 人");
     expect(html).not.toContain("10 → 50");
     expect(html).toContain('href="/work/tonx-ops-from-zero/"');
+    expect(html).toContain('href="/work/yei-ops-with-ai/"');
   });
 
   test("the TONX case page keeps the numbers in prose, with no stat wall", () => {

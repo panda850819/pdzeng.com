@@ -26,9 +26,14 @@ describe("static export of the home page", () => {
     expect(main).toContain('href="/now/"');
   });
 
+  test("the message opens with Panda's own line", () => {
+    expect(main).toContain('<blockquote class="quote">營運的本質就是讓公司活下來。</blockquote>');
+    expect(html).toContain("工作、合作，或只是想聊聊，都歡迎。");
+  });
+
   test("work vs. off work renders from the typed data", () => {
     expect(main).toContain("vs.");
-    for (const s of ["Yei Finance", "People &amp; Ops Lead", "WOO Network", "YuStar", "2018–2020", "開始跑步，練的是自律"]) {
+    for (const s of ["Yei Finance", "People &amp; Ops Lead", "WOO Network", "YuStar", "2018–2020", "發動科技 FDC", "COO", "zone 2"]) {
       expect(main).toContain(s);
     }
   });
@@ -90,6 +95,8 @@ describe("about and OG image", () => {
     expect(html).not.toContain("CLI tools");
     expect(html).not.toContain("Operations ×");
     expect(html).toContain('href="/now/"');
+    expect(html).toContain('href="/work/yei-ops-with-ai/"');
+    expect(html).toContain("龐龐");
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
   });
 

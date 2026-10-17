@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Route } from "@/components/route";
 import { Signature } from "@/components/signature";
-import { jobs, message, offWork } from "@/lib/home-data";
+import { jobs, message, offWork, quote } from "@/lib/home-data";
 import { nowSummary } from "@/lib/now-data";
 import { unifiedWriting } from "@/lib/writing";
 import { writingHeadline } from "@/lib/writing-display";
@@ -36,6 +36,7 @@ export default function Home() {
           <span className="kicker" id="msg-k">
             留言
           </span>
+          <blockquote className="quote">{quote}</blockquote>
           {message.map((p) => (
             <p key={p}>{p}</p>
           ))}

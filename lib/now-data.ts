@@ -4,10 +4,13 @@ export const nowUpdated = "2026-10";
 export const nowSummary = "轉換期：跑步、重訓、學 AI、寫投資筆記";
 
 export const now = [
-  { title: "轉換期", detail: "8 月底離開 Yei Finance，先把生活節奏重建好，再決定下一步。" },
-  { title: "跑步與重訓", detail: "開始跑步，搭配重訓與健身營養學，練的是自律。" },
-  { title: "學 AI", detail: "研究 AI 怎麼改變營運的工作方式，筆記寫在 Writing。" },
-  { title: "投資", detail: "用隨手筆記累積槓桿、借貸這類財經知識。" },
+  { title: "轉換期", detail: "8 月底離開 Yei Finance。30 歲這年，想把一些時間從工作裡拿回來，先找回健康和運動。" },
+  {
+    title: "跑步與重訓",
+    detail: "2026 年 9 月開始規律訓練：一週兩練重訓；跑步一週一次長距離、一次 tempo 或間歇，再加 1–2 天 zone 2。",
+  },
+  { title: "學 AI", detail: "用 Grok Bot 依 function 處理個人事務，像是 mail ops、PR ops。" },
+  { title: "投資", detail: "寫給自己的筆記：學長期持有和複利，也研究 DeFi 收益，找更多 alpha。" },
   { title: "整理案例", detail: "把過去的營運經驗寫成 Work 裡的案例。" },
 ];
 
@@ -18,7 +21,7 @@ export const previously = [
     company: "Yei Finance",
     role: "Ops Manager",
     period: "2026/01 – 2026/08",
-    detail: "重建營運系統與月度費用審閱機制。",
+    detail: "協助團隊打造工作流程，帶 finance ops 與 hr ops 兩位成員搭配 AI，直到能獨立完成月結與招募。",
   },
   {
     company: "TONX",
