@@ -24,7 +24,7 @@ export default function AboutPage() {
           到了 TONX，初期一樣做這些事。公司拿到新的投資、進入擴張期後，我花很多時間招募，最有感的是招到第一批核心工程師和產品經理，團隊從 10 人長到 50 人（<Link href="/work/tonx-ops-from-zero/">案例</Link>）。後來家裡的貓咪龐龐身體不太好，我離開 TONX，想陪牠好好走完。
         </p>
         <p>
-          接著在朋友邀請下加入 Yei Finance 擔任 Ops Manager，協助團隊打造工作流程，帶 finance ops 和 hr ops 兩位成員搭配 AI，從零學到能獨立完成月結與招募（<Link href="/work/yei-ops-with-ai/">案例</Link>）。
+          接著在朋友邀請下加入 Yei Finance 擔任 Ops Manager，協助團隊打造工作流程，帶 Finance Ops 和 HR Ops 兩位成員搭配 AI，從零學到能獨立完成月結與招募（<Link href="/work/yei-ops-with-ai/">案例</Link>）。
         </p>
         <p>
           8 月底離開 Yei 之後，剛好遇上 30 歲的關口。這幾年花了很多時間在工作和 AI 上，現在想好好回過頭找回自己的狀態，從健康和運動開始。最近在做什麼，寫在 <Link href="/now/">Now</Link>；筆記和文章在 <Link href="/writing/">寫作</Link>。

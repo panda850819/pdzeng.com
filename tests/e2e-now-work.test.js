@@ -43,8 +43,11 @@ describe("static export of /now and /work", () => {
 
   test("the TONX case page keeps the numbers in prose, with no stat wall", () => {
     const html = read(PAGES.tonx);
-    for (const s of ["10 人擴展到 50 人", "5 場以上", "400M+", "https://kton.io", "https://tons.tg", "https://tons.ai"]) {
+    for (const s of ["10 人擴展到 50 人", "5 場以上", "400M+", "財務與薪資", "Ops 團隊有三位成員", "https://tonx.ai", "https://kton.io"]) {
       expect(html).toContain(s);
+    }
+    for (const s of ["https://tons.tg", "https://tons.ai"]) {
+      expect(html).not.toContain(s);
     }
     expect(html).not.toContain("10 → 50");
     expect(html).toContain('lang="zh"');

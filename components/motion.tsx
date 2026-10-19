@@ -66,16 +66,6 @@ export function Motion() {
         cleanups.push(() => hero.removeEventListener("pointermove", onMove));
       }
 
-      // message: two rows of large type slide against each other
-      const stage = q(".stage");
-      if (stage) {
-        const st = { trigger: stage, start: "top bottom", end: "bottom top", scrub: true };
-        gsap.fromTo(".name-row.a", { xPercent: 0 }, { xPercent: -30, ease: "none", scrollTrigger: st });
-        gsap.fromTo(".name-row.b", { xPercent: -30 }, { xPercent: 0, ease: "none", scrollTrigger: st });
-        const slash = gsap.fromTo(".slash path", { strokeDasharray: 1, strokeDashoffset: 1 }, { strokeDashoffset: 0, duration: 0.6, ease: "power3.inOut", paused: true });
-        ScrollTrigger.create({ trigger: stage, start: "top 70%", once: true, onEnter: () => void slash.play() });
-      }
-
       // signatures write themselves once they enter the viewport
       document.querySelectorAll<SVGSVGElement>(".sig").forEach((svg) => {
         const tl = gsap

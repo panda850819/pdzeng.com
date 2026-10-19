@@ -9,7 +9,7 @@ export const now = [
     title: "跑步與重訓",
     detail: "2026 年 9 月開始規律訓練：一週兩練重訓；跑步一週一次長距離、一次 tempo 或間歇，再加 1–2 天 zone 2。",
   },
-  { title: "學 AI", detail: "用 Grok Bot 依 function 處理個人事務，像是 mail ops、PR ops。" },
+  { title: "學 AI", detail: "用 Grok Bot 依 function 處理個人事務，像是 Mail Ops、PR Ops。" },
   { title: "投資", detail: "寫給自己的筆記：學長期持有和複利，也研究 DeFi 收益，找更多 alpha。" },
   { title: "整理案例", detail: "把過去的營運經驗寫成 Work 裡的案例。" },
 ];
@@ -21,7 +21,7 @@ export const previously = [
     company: "Yei Finance",
     role: "Ops Manager",
     period: "2026/01 – 2026/08",
-    detail: "協助團隊打造工作流程，帶 finance ops 與 hr ops 兩位成員搭配 AI，直到能獨立完成月結與招募。",
+    detail: "協助團隊打造工作流程，帶 Finance Ops 與 HR Ops 兩位成員搭配 AI，直到能獨立完成月結與招募。",
   },
   {
     company: "TONX",
