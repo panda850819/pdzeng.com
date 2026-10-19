@@ -125,7 +125,9 @@ describe("about and OG image", () => {
     expect(html).toContain('href="/work/yei-ops-with-ai/"');
     expect(html).toContain("龐龐");
     expect(html).not.toContain(DROPPED_LINE);
-    expect(html).toContain("小到公司裡大大小小的文書。</p>");
+    expect(html).toContain(
+      "小到公司裡大大小小的文書。對我來說，營運就是讓公司的人朝著正確的方向，透過觀察大小事件，一步步累積、一步步解決。</p>",
+    );
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
   });
 
