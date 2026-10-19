@@ -2,6 +2,7 @@ node_modules/
 .next/
 out/
 .velite/
+public/static/
 .wrangler/
 next-env.d.ts
 *.tsbuildinfo

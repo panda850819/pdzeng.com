@@ -4,6 +4,7 @@
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { ensureDependencies, typecheck } from "./publish-deps";
 import { pushMainWithRetry } from "./publish-git";
 
 const REPO = join(import.meta.dir, "..");
@@ -35,6 +36,8 @@ if (!DRY_RUN) {
   if (unpublished > 0) throw new Error(`main has ${unpublished} unpublished local commit(s)`);
 }
 
+ensureDependencies(REPO, run);
+
 const originalSnapshot = readFileSync(SNAPSHOT_PATH, "utf8");
 let staged = false;
 let committed = false;
@@ -43,7 +46,7 @@ try {
   run(["bun", "scripts/sync-writing.ts", "--require-x"]);
   const changed = readFileSync(SNAPSHOT_PATH, "utf8") !== originalSnapshot;
 
-  if (changed || DRY_RUN) run(["bun", "run", "typecheck"]);
+  if (changed || DRY_RUN) typecheck(run);
 
   if (!changed) {
     console.log(DRY_RUN ? "dry run passed; snapshot was already current" : "writing archive is already current");
