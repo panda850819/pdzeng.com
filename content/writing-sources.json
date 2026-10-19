@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:01:42.000Z",
+  "updatedAt": "2026-10-19T06:19:52.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/29999",
@@ -116,6 +116,48 @@
   ],
   "telegram": [
     {
+      "id": "5095",
+      "title": "https://thelingwu.com/zh/writing/zeabur-work-reflection",
+      "description": "https://thelingwu.com/zh/writing/zeabur-work-reflection",
+      "url": "https://t.me/pdzeng_talk/5095",
+      "publishedAt": "2026-10-19T06:19:52.000Z",
+      "preview": {
+        "targetUrl": "https://thelingwu.com/zh/writing/zeabur-work-reflection",
+        "siteName": "Ling Wu",
+        "title": "回顧 Zeabur：御風而行 — Ling Wu",
+        "description": "從 Founding Marketer 到跨市場與新產品線的嘗試，回看在 Zeabur 的工作、團隊觀察，以及作為行銷人與初級大人的反省。",
+        "imageUrl": "https://cdn4.telesco.pe/file/E-q7nHgF3BTc2auw6Ve2dxzW-lKppQqacbV63TRdTX4b_Je_gNfECJEjigOwiVKbCXL-00PVZUwsiNxvX7A4JQx_E_HTrvPPfr_qb-okQA8vYrR6JwpsV645Joa3OVWwhfYTUvdbPVFE9t3JAxX4nccNlWMYsI0B5a2Ll6FfiQd7ZzwtvX4f10Yn5zbLSkIwv-ATRdSzef_gvPklxe4Io5YUKT3im-44kh4hqkMi8GKweTf1WdVYUd5OMIIMu2ey8ohG-gjy7ZwVQxagyVebu17xaDt3tE0_iyGqf2-rT1yWBwdCmjYK85m5XKR10ahJ_rHhrpeH7xHmaTZtmFoH8Q.jpg"
+      }
+    },
+    {
+      "id": "5094",
+      "title": "▶️ 用【循環利息】強制收回借出的魔力 第03話【運用】｜Muse木棉花 動畫 線上看 #youtube https://www.youtube.com/watch?v=DUqOrCLYDMc",
+      "description": "▶️ 用【循環利息】強制收回借出的魔力 第03話【運用】｜Muse木棉花 動畫 線上看 #youtube https://www.youtube.com/watch?v=DUqOrCLYDMc",
+      "url": "https://t.me/pdzeng_talk/5094",
+      "publishedAt": "2026-10-18T14:21:32.000Z"
+    },
+    {
+      "id": "5093",
+      "title": "eternity4719/HowToLiveBetter 🔗 https://github.com/eternity4719/HowToLiveBetter #github",
+      "description": "eternity4719/HowToLiveBetter 🔗 https://github.com/eternity4719/HowToLiveBetter #github",
+      "url": "https://t.me/pdzeng_talk/5093",
+      "publishedAt": "2026-10-17T15:37:06.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/eternity4719/HowToLiveBetter",
+        "siteName": "GitHub",
+        "title": "GitHub - eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+        "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 - eternity4719/HowToLiveBetter",
+        "imageUrl": "https://cdn4.telesco.pe/file/U7fw3E1eDsNFQ9NNUUjh8KiP4eRITsQsXGIAl8Md0aUrvTVxp9dpswq47Z_Z87R-7CrO9JyF60dlhNZEkZb4kj15Q5WM2QWeROUylCWP5vQThva8wa8FIZSZWvf1UnIfapyKeaT3dBDRVhl_vktK5P_40uWhXU7FngmwcI24rT0cA0Hcss7wL4Mv-ZJq8ctYBKdQX1Ep9hbSY4J32HO0306gyXrHhWimPp-TjMejWjLWWXhOK8oOvWDubjgN8FQkfHZ0pNFEZgg-WECqCD59XBvAYNldnzq8sOBWrws1xyYQdgIXkkG-Afuo2bL1RzMKbxDro-NrAAcG4O896W5VKQ.jpg"
+      }
+    },
+    {
+      "id": "5092",
+      "title": "Zeabur 也死了",
+      "description": "Zeabur 也死了",
+      "url": "https://t.me/pdzeng_talk/5092",
+      "publishedAt": "2026-10-17T04:07:23.000Z"
+    },
+    {
       "id": "5091",
       "title": "美股昨天把倉位全部轉到 sso 我要贏",
       "description": "美股昨天把倉位全部轉到 sso 我要贏",
@@ -133,7 +175,7 @@
         "siteName": "Threads",
         "title": "ゆのん｜AI運用ガイド (@ai_yunon_ai) on Threads",
         "description": "",
-        "imageUrl": "https://cdn4.telesco.pe/file/h4kU7IesJ2kZrn2FafNnIKxnTcfErU-6xlWfb2GvGLNAC4HwXU1-XCs72ucqpDU9yA0GqkkGdYeud2NPVAkLbyCEfFf5_aUwsv2UzklxNMDs-oIGlml5WKa5IrYsImBjrphroJV4xmp35CKbzf89VT5k_AyHdxVf93fPcVsOpd16uIqvKro6HsTDob7P7aNy4BIx_sq30_IEh8p3qA9BMkXPa2LuqFbE2QK_eHbxLk91s8u3Ev7NVHyRGGSCMJ1NU7FcA1sLUY1s0yvJY0xTdPmzRgeukELvVjtHJ0B08a6GRYCtBg9h_MD18iQB0viJEL0kwpPiAJt6cohEUOPr6Q.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/L8JlC2QlRNwsC3mpsxkUfPUx6_gITO5ZpKQeyDSM8cfa_hEeebXkZF9jZU7tss23Db2BbdhBmb2ZlcD4NsSdRZIaMro9sy4lK9sHGiK_Zgpa9njuDqxwC6CY9mswSLAxLi8dyWoUGokuVZev14BhBGIVnsbyCQilG7SPGXp9KF_V8ScYirIzYKEkOgfadXjuHgSQsGNqA-KYraS9v-MrcRh2Bro6O2HgojNQwp3EPSzQVI5htjQZjylfllzYu8y4IKq3DXkBKRQxeHjNOXgnMzmDGBU58zdMR6NuMY4difygZU5P1fMgmxUvXREPVv0ZA8JfmEvHmEpcWD5bxRAbmQ.jpg"
       }
     },
     {
@@ -154,7 +196,7 @@
         "siteName": "GitHub",
         "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries. - morluto/rea",
-        "imageUrl": "https://cdn4.telesco.pe/file/eTluTvqa1YpXCrxNF3y5sf9e-EpKdZEzccAUD5sxY-v5udzfGs9Wory8t-aXPe9tgN3m9t7K7Lji6XPv3oPmIoLjya_jUaVqRQ3sWkzezddJOhfD-jt51JRNFAqFTtcy_hBzkWOJDOQ7Tun-jO4ydloFOtcOOnW35Dl5wYTPE1bmoaA1Lf_P41o--WMa01Y8U2gFv2FfbDm6p9gUFeuuLxUPQLpyuw15n3P5x8VoiyV5c9_PQHYKF60L2SJ0Oi3Rom6rv1DTtkOfekJGRrJRWB8xi-kklXt3l63gOEzjqD1RAdhSd3I1o24au0hhjEEokAcxZiXEgji0eL_e6K1lOg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/cfKUNjlVWOEiU5CXJGDipeHJqjne6TJLRW8HugK1nHb6KRQGbEYTcK_JNRAQIjXngqkqr4IjM2asZq80g2VaNJzfE5myXUSaf3cjRxc0gsXTB1OvO2h-LYTlPmI9y5Eqs94-rvhlaoTDi1gxEwrsd5xDVBs4E1VEcDMnlVimqXkmnwo81qT5rdStwBhkhyjW_xknyqxFp_trIVl6_c7vyT_6rv2xYyV0bXeUGXiOFJUA6AoETmo25hTruE6hC-pk6Eja5MmHOPc9l3cmRc_TCZIYd2OVOw4oaua_IrlcUlA3JX4vpWTxVu3aZswJWKASF1GRRZ_9cnV29cY7eopOrA.jpg"
       }
     },
     {
@@ -168,7 +210,7 @@
         "siteName": "manus.im",
         "title": "Manus 与 OPPO 合作，将 Agent AI 体验带到智能手机",
         "description": "访问 Manus 博客，了解更多关于我们未来发展的思考。",
-        "imageUrl": "https://cdn4.telesco.pe/file/RUzKw6t9_Wk-WHb_9NwJoqYGx-OIh2PgaQeZHpSE8thaO3q22NsV41kuibg7nkogYEGZh-74xvPQpNy6HVUAe1Bp5awUAjCyQvzT-96qytTeH55N4l_ZTOuO5pirVfyA6V5yJsepwHYDJdBOuCI4XbnIkFm1eukA-0RHyCcX7NuKKgWBxicg5IJCkgLQfJsTJpZlG4nAvaISsdnoV8wVJP-A6a3GI-eY_cgB8CGiILJ2ne97Pss4VMdjzjjSnnDJbmYfoX-78ASm8IuD6EutqvD1CsnnA4vcU-zwAcskH_I-3iitCqpKfdogYEqx-zssgqUxMclLP1B_2AuNEYByEw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/SFf9q5nN0zSMGuUFdFlz6ug69_tBKzOHggzgGlKGyB2txU9pCpTcZzanbXAxVovzz8S57zZXh5SStO7Pfm266fUd9wy5Rdb3JgiAV5_yF7W_MvGiR8FItWXK4bEvoKEKB7YM8k47JEcWz6YzypSmBmzl-RmWb6eRKriH0xP7QlvIULJYhpwDKkVJ6RcCxbzXlbeOlNORSaGR0Rx8MtwN2tW1GX-rPHTE1tqE8uXRpQlTEZOgRHi5BYpgPz0qoDQKyHylpLxE3ZeU9n3-s-2GJJKlxwKUzvuZC3VeW8h7H_tcmizJweIwH5lI7PuhvNURmVFTVl6c78kn7kZLY4GulQ.jpg"
       }
     },
     {
@@ -182,7 +224,7 @@
         "siteName": "GitHub",
         "title": "GitHub - jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the…",
         "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 ...",
-        "imageUrl": "https://cdn4.telesco.pe/file/syQ0kZZqSdRCta5Iz2RsyfynrReJiD7FtL6HD3yaTqt4OHwtMG_WFE1ORkTmq4oetP81e4PLErBLLB6MhiVALA_PIiLdu36PJfb4OSxoCxylKLia1v9RVqBqh_W4ty5FvK8U-M5drbewSybUp7c4ZyUZ187cGmYBcLEBJ-vUX4ZvJBnzzfrqTNFyVdiaZbL6Kf3UwM8m7u1FlaKzZpn02NtZucd62PMGhIAH2wKvicIJifScBLpQqQOjR7TRvdWdsAZvh3vPhikpp-YGKTyNrjLJFecDnTrC8RQl-rf3HcBVAkGfs_yBLUFFvmIsZLsfE9BWJVyOOIHPp6800AE38A.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/knSTaxk6boGSDjaR7oW3ooDWolgeWIKm3P8x7F-xoQ4RRJ3JB_o_an8RGeiY9TkQmXzTPjf7f1CfDN5205DFelCTwTaX4mMzw2mO7bGa9oxJrzMf-_ZWVQ39nOWjpDAhT4Nw5C3s2F9JgWVEeiY4yeTfHOVRxc9qo2QtSrRz7PEUQTsI1SbYTUVR1IMWbHYGv6fb6mEdt1ME8yHyKf1NFr8hmI4jfj5-fQBPk7OgtUFsmUjmcIqLpn_--85ksA_2kk1Wci42a4_mLdJFNHHr73bgeruOz9BYVsl_3xfuXw4v8tdzHcxiAFXRbj-sdS9RY5LbouRPeeLHRf-1W6MV3A.jpg"
       }
     },
     {
@@ -196,7 +238,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "vincent (@SPCX100T) on X",
         "description": "I built a @Grok @Bot that watches $SPCX on its own — fully automated, no manual work. I’ve been running it for over a month and fine-tuned it several times. This version is very good. Every week…",
-        "imageUrl": "https://cdn4.telesco.pe/file/mBoFBTkGhzrgDFgC4-8jG-oUbF2uEMC9SkaCYcpH_0hagC-rlRaRqEAHz3ATHzPfDmw6c06hZWiO_UKoqlz-ZHYd0AGksCbTzdhWkI41NWbY_a-PqiFhZKoD2HtO2iePYh_OuJur_y-Jlx7askjVz0ZwU6yOP01O5G9Ws7QqTbZk3eztHusO5zbP__BAK2xwPHIWLWkStBMVFOS4fqJwcqF05pktnJkIpPsrZ-HUd5YiSGJ9DzA94VgtrlqqugniBaTGQOqpQXqhT54f_mDUCg-Hm5yACDBWifPJ554f88VZ5n-nH3bbokpkafC8VcySLyPuPhd-lftuua7tw4oA5A.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/EJbx3tm1SEgBvzrPaAyKefpBnfpu8Bktovb2Iu3JODziGExGlR9ceXASd08EayqKqxtUbVTy21zYYhLdBbOEOKrMop3v9YWrC7dyc6lrME9o04kl8y4M-kebbg_qYCNstTc3jETRPJoLlXieOJKKIoQqi-iTVB7GQ4ihIB2aCHAidxahrwg3IQem40YeqTP9ucCmy0pOYEijYTd3k2kTuN0cAcpAkACG0O3IcRvgauByzGUYnCtvJxwOB7kqzjqyeUdGrdlbHucRAi3OifUXKOYgVezbu0G5Hz7fSJ-ub8utB0NNjH9TYRog4SDwaVBJxNasc_wt2qVHVtbGr0p5yw.jpg"
       }
     },
     {
@@ -210,7 +252,7 @@
         "siteName": "Telegram",
         "title": "看來我也沒有刷很多",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/IApJ5GjM8RXHbGKqhXgQwzyIMWzyu9e2Q5i3pAvdLCsl2oUq66qIvE--kGAXOjngcK-RK9TBmMZGmMmoepiAoQTXmAi_byIV8dWGcBKD042Em1D-3_4u4QgRgPn-JRR_DonRPwFt3tdXqftD5GVXNyPkqj1qD_jTgQh4uaCGqwv6weahGrHa5QGmI46RLyCJlBmwoPo6mOZY9WrWG0AOzXHxPcNDFtCObBS3yNy9N0oNaooCah8Yo5RGFD9Pu2EcGCPr5OAEIb2w7T3rfnYhKX942l3z6kXErvRtVJ5lTlzDBqBP-5eNZsKtZyo525iQ4rGcRbZj86RpN9zMrJrOEQ.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/nFQgoUloPFfc6ZtkWHTvwT-izh5fYb0w2qOeQnJw__T7lYbImSmRuaiimBcEJDMBLRwtdgh3aWHHPjeZOqpB65zXooYz7LWEL7zukeJf58Oh-ii1G2o9sILkpmCcolpYn5f0YbAh9ik2NRQvaQNCocNeVbYzpjObOlhZ7mMeqOCgTRJxN-rVJrOVlwSms2AA5XWIXWyFpO8ad85NvK13gC6U4OEWwN1UcObdilw5-KBNkq8X9iowluv9RESTCOpZJ-uoKer45lKsR-EQqiCK6aoDMpbP2qXhZuJl06ExiygRwNfFwS6v0iQLUaBVUw45rxH3XGIFuy0iW4ECQo0H-A.jpg"
       }
     },
     {
@@ -238,7 +280,7 @@
         "siteName": "App Store",
         "title": "《KakuCut: Private Video Editor》App - App Store",
         "description": "在 App Store 下載CHUN CHENG LIU的《KakuCut: Private Video Editor》。查看截圖、評分與評論、使用者提示以及更多與《KakuCut: Private Video Editor》類似的遊戲。",
-        "imageUrl": "https://cdn4.telesco.pe/file/K7MNFg4DCu598xeCqSeSURcjlQLrZ7-B7Mux4RuiLyd1ODSXZYb_xiB0vNBKkz1O1yRJtZMtmXZM3dUv0VnxDlUc6nfvkTRoMa2BIgavos4bxEGHGV9Tuo6tslqj8BFhF0MBA4ICgJ5esCWCwtMPS5E5sKtXftq0q5TPvscoM61jlgVEx8mTBtG9iDiqyQazFp4g-G4HHGoQsbp_IC2fLi08sl8qKeZrYJjHZwgHpVIU4dSXH4vqSEbzwjc83_jTLbk6qbv1KfVdiILooHSg50xuGafHC1R0c-fdQpSYvxhyvCluuZ6V9YfL9fyEsy0A0lU0vfnvAaV_tcq6zzdlxg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/AccEeykYKXM_W2KQdc77AAWLC59Ze3eYY6wkOmK9WqQk1k8p5K6E2tfJ37HSlxGIqAh-5JsteW0MVgDqOxE0-LbIau5GPP8Yi2ZKcAuzPazsTwIMu9cak9N2fIpUiOMRrUf8lN-YfEYejMfvMY0UljQLxgZq0mRU8F5T15AGKDScjemBHsiComWwnrVN95zeWkAKz5nKrqzU83AauBJLDPqB0d5cbQ-8_tVB7ISSGkNLiAG33bgLwNrpJ_Si-wtAnvON0436gdF9mGNoPAkG5xQWEJIHuJpES6k_scpXSCq79a4L0f-TKgJHGyaEa4HET2t7A1vQxiOHKZ30woE7oQ.jpg"
       }
     },
     {
@@ -252,7 +294,7 @@
         "siteName": "YouTube",
         "title": "科學實證 ❗",
         "description": "追蹤我的Instagram https://www.instagram.com/solosu57/ 許多跑者在訓練時常忽略呼吸法的重要性，導致能量過早耗盡 影片中將解析各種呼吸方式的差異與功能，並說明如何透過科學化的調整，讓你的身體在長時間的運動中維持高效率的呼吸 00:00 開場｜你也有跑步呼吸的困擾嗎 00:31 這篇論文在講什麼 01:32 呼吸如何限制你變強（重要） 06:38 七種呼吸法開始 07:25 呼吸法 1：降低頻率 09:33 呼吸法 2：深呼吸（腹式呼吸/全呼吸） 12:52 呼吸法…",
-        "imageUrl": "https://cdn4.telesco.pe/file/RUfkggCFCe0l7G-NS6juXAlid-M09AeXTwM9WTC08a_yGzLQmX9unCfG7KVxC7XnnUkRr4inmn0YGGitKRb0elOdTOefFa16FvNT9LaSI0oggpTKzdKKkRAqEURfxHIwr-VJa87Y9EnP8r3Sw5cjOsWnMj_GkBwHlebi4K7SzQPxf-b-9Z2McTfx20wGpgm-fPmSJf5KsNMGBLjbamrqN5IRoIL6rIsOJUM_dKqArLloKuJmx706OAmW7SPhMnSrDD9H8rV2FSb4Md5WpqkfKbNSioMh6K_ZgRQrbA8Y9DleN-Qk_SAKbMD7AWLYklP39Pj-zh9OC70D_zHfTCqIJQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/GZVf8EDnzwx2W8XV8knmrrae9mBxJu5Pt1aPJLEnv5WmHo0nE-w2YFnrSQTSwXyPgW4X6Cq7qSHw0Lw3IFqzpcALkC9rr41svXd3QhqOeVuWcOOy7FLYi_zoUwoG4-MJuThDl5ifEAY4IR99hVUuAIUe7EYUuSplQZkEBIIuP6J3BojgXb8gT9Fusdgdu-AhLsX8DyJTidpUQFhWdtDIhVoO4G20etcmpva3dhE31ZsDBn5zlFSGsVWOiLtUQcD9B1AFieUnBuj5omjaEw6uzJlJN5DBTabQqZq6WJ5yhRH79NSHA-ialrnlsSqU9IfW1EZpFA6cqpJ6rzaHlNztTA.jpg"
       }
     },
     {
@@ -273,7 +315,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Bruce.moca 布魯斯 (@brucelolzz) on X",
         "description": "注意 ❗️",
-        "imageUrl": "https://cdn4.telesco.pe/file/p7bizn4cyj0OMQ8R2Kr1HJfFOQ1bHWMtA8IcsmwCBjG0pQCOg4vYlKJMusEjgAmK4HT5DVRwDzkEAE3QhVr8cM_pi3xHxKqNRndueyeUBDUmt1Ia7WTrEjEUUZNLMLXcarPim6idSQ9I-0SY7RzGRWANLtSxjkD9kJI_eBoAqWeAQtOiGYO5kFXrQW5gN3UNxdXUGG-tnFB3q2fnk3WVnDXJLpK0ugM1tYizrnqRNQ0_6RrLuTwme3U3YfiKwFNRUP1f-Sh4fBANuope0EBO5C7c4sHQeEJzat9oSCy0456rbOiyq06Nk-80T8XaTvCZ7QXPkxQS6TsZl0YwQMudnQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/UAvrYBXpJ7SnVFn68XgNLuJbfIW4I4k87VqM3E8MH_piWMy_PdiSH36SIh0iufPgLFfxY0n8TiCERXJOH2-Wolej2rhVcnUqPuetrMgnx590nn6OwrqoLDWq5PIhKTkZm7vOIZpvcIxM6P3xSyjFL1MvXP7CqFXY1QwFFdiP3NmH6OpI_DZHo2YrX3ZHg6YUTgh55fH6oiVOvxGYmunepepoumJ3r0Xjof4wL4ZvPkwKy9BiM3FGiPrxGELGORpsIpN0f-UVuZDmMytBIfMme3KvFDFuc-X42qiMSt1JZPUz0Ck-OTyazFstJ2uPRzxhKWL1y-1y1jXhHJMOJIwpLw.jpg"
       }
     },
     {
@@ -287,7 +329,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "SpaceX Super Intelligence (@SpaceXSI) on X",
         "description": "We've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.",
-        "imageUrl": "https://cdn4.telesco.pe/file/Dtd6JpE14lXozgMHzijaw2m-XpGDKBy3orI8YIVE9VG7KFy7L74vn94Tik_EJWbgGFJ12WafJpgZ4v2EjKWxNrCroUJpyD6c2gl_rUTY1BUfnGTg0nh-pQosrU9m_tFtQHITkA2uYxO7mafWHldUiNRzcCx4DC1I5myNSEOIfWySAjRncqTgEAZuuZw-pSGIozXAJH8Z0y1qzm9ZCYJuf6cax0M1ge0jqLm3L8qvhr0eWFXynWNeCu8bDDR0lQZPDOMTQ04kejoIFNEzQuPm6CEpip9BckByOoSQcOUtSYXmRTb_GIksDhlkQi8sdONN4EO8a5gCIwmDhYqK5kUAiw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/IL5Yy-wcocX6wXDHPDuBNjcFQr5B7J63-U8PYQMt4_nvpPFcPI09zjNR6rjSMZqwYb6V0Fc5W5clZF78YBMSiNfSx3toMga_ozwzsK3M2-HbRTZwAsA8raRxdO_-ZEiI0diRGjLcKujZWlOxm7xIqcSnxbX6nESPB5pfmqTMKNNKXhLePqeRJUNBIbw6i2PA5gq5fEs2AmvcDa-HcP3HrE3vTK90oN0eXYie9naUYtaMGRkr9HSOr7Z9NvFyTOplEhRrL79cPgGE1CsAxvCny2otZ9EPE1S6SEPVp3CngnuRQGHUvx9_NlhlPhMfG7vzgDXQIOz05nJGE9eGCqjGQw.jpg"
       }
     },
     {
