@@ -1,14 +1,16 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { published, bySlug } from "@/lib/content";
+import { published, bySlug, movedToSubstack, movedBySlug } from "@/lib/content";
 
 export function generateStaticParams() {
-  return published.map((w) => ({ slug: w.slug }));
+  return [...published, ...movedToSubstack].map((w) => ({ slug: w.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
+  const moved = movedBySlug(decodeURIComponent(slug));
+  if (moved) return { title: moved.title, alternates: { canonical: moved.url } };
   const post = bySlug(decodeURIComponent(slug));
   if (!post) return {};
   return {
@@ -18,8 +20,30 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
+// A static export can't answer with a 301, so the old URL ships a page that forwards to Substack
+function MovedToSubstack({ title, url }: { title: string; url: string }) {
+  return (
+    <div className="mx-auto w-full max-w-3xl px-6" lang="zh-Hant">
+      <meta httpEquiv="refresh" content={`0; url=${url}`} />
+      <Link href="/writing/" className="text-sm text-muted [@media(hover:hover)]:hover:text-ink">
+        ← Writing
+      </Link>
+      <h1 className="display-tracking mt-4 font-display text-3xl leading-snug font-semibold sm:text-4xl">{title}</h1>
+      <p className="mt-6 text-muted">
+        這篇文章在 Substack。如果沒有自動跳轉，
+        <a className="text-ink underline decoration-line underline-offset-4" href={url}>
+          到 Substack 閱讀
+        </a>
+        。
+      </p>
+    </div>
+  );
+}
+
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+  const moved = movedBySlug(decodeURIComponent(slug));
+  if (moved) return <MovedToSubstack title={moved.title} url={moved.url} />;
   const post = bySlug(decodeURIComponent(slug));
   if (!post) notFound();
 

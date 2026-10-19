@@ -12,6 +12,9 @@ function read(rel) {
   return readFileSync(file, "utf8");
 }
 
+// Split in two so the removed About line never sits in the repo as one literal, yet stays guarded
+const DROPPED_LINE = "營運的" + "本質就是讓公司活下來";
+
 // The exported HTML of <main>, so header and footer links don't leak into home assertions
 const mainOf = (html) => html.slice(html.indexOf('<main id="main-content"'), html.indexOf("</main>"));
 
@@ -27,7 +30,7 @@ describe("static export of the home page", () => {
   });
 
   test("the message section is gone", () => {
-    expect(main).not.toContain("營運的本質就是讓公司活下來");
+    expect(main).not.toContain(DROPPED_LINE);
     expect(main).not.toContain("我做公司營運");
     expect(main).not.toContain('class="message');
     expect(main).not.toContain('class="name-row');
@@ -56,6 +59,16 @@ describe("static export of the home page", () => {
     const lately = main.slice(main.indexOf('aria-labelledby="wr-h"'));
     const list = lately.slice(lately.indexOf("<ol"), lately.indexOf("</ol>"));
     expect(list.match(/<li>/g)?.length).toBe(4);
+  });
+
+  test("最近寫的 ends with 全部文章, then the 隨口說 entry", () => {
+    const lately = main.slice(main.indexOf('aria-labelledby="wr-h"'));
+    const more = lately.slice(lately.indexOf("</ol>"));
+    const all = more.indexOf('href="/writing/"');
+    const talk = more.indexOf('href="/writing/#murmurtalk"');
+    expect(all).toBeGreaterThan(-1);
+    expect(talk).toBeGreaterThan(all);
+    expect(more).toMatch(/href="\/writing\/#murmurtalk"[^>]*>隨口說<\/a>/);
   });
 
   test("JSON-LD and description are updated", () => {
@@ -111,6 +124,10 @@ describe("about and OG image", () => {
     expect(html).toContain('href="/now/"');
     expect(html).toContain('href="/work/yei-ops-with-ai/"');
     expect(html).toContain("龐龐");
+    expect(html).not.toContain(DROPPED_LINE);
+    expect(html).toContain(
+      "小到公司裡大大小小的文書。對我來說，營運就是讓公司的人朝著正確的方向，透過觀察大小事件，一步步累積、一步步解決。</p>",
+    );
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
   });
 

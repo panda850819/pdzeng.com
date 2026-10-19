@@ -12,7 +12,7 @@ export default function AboutPage() {
       <h1 className="display-tracking font-display text-4xl font-semibold">關於</h1>
       <div className="article mt-8" lang="zh-Hant">
         <p>
-          我是 Panda，Panda Zeng，也寫作 Panda Tseng。我做公司營運，大到營運方針，小到公司裡大大小小的文書。對我來說，營運的本質就是讓公司活下來：讓公司的人朝著正確的方向，透過觀察大小事件，一步步累積、一步步解決。
+          我是 Panda，Panda Zeng，也寫作 Panda Tseng。我做公司營運，大到營運方針，小到公司裡大大小小的文書。對我來說，營運就是讓公司的人朝著正確的方向，透過觀察大小事件，一步步累積、一步步解決。
         </p>
         <p>
           我是資管出身，第一份工作是全端工程師，做人力資源仲介的系統，讓公司從網頁端完成上傳資料、下載資料、追蹤媒合狀態等所有流程。碩士念到一半，我不想把時間花在論文上，就回北部學區塊鏈，一邊經營社群一邊投資。2018 年進 Web3，之後一直待在這個產業。

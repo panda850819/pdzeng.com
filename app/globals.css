@@ -990,6 +990,15 @@ p {
   color: var(--fg);
   transform: translateX(4px);
 }
+.lately .more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 32px;
+}
+.lately .g-link.minor {
+  font-weight: 500;
+  color: color-mix(in oklch, var(--fg) 70%, var(--bg));
+}
 
 @media (max-width: 760px) {
   .hero-sig {

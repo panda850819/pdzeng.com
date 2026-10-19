@@ -1,4 +1,4 @@
-import { published } from "@/lib/content";
+import { unifiedWriting } from "@/lib/writing";
 
 export const dynamic = "force-static";
 
@@ -8,12 +8,13 @@ const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
 export function GET() {
-  const items = published
+  const items = unifiedWriting()
+    .filter((post) => post.category === "writing")
     .map(
       (p) => `    <item>
       <title>${esc(p.title)}</title>
-      <link>${SITE}${encodeURI(p.permalink)}</link>
-      <guid>${SITE}${encodeURI(p.permalink)}</guid>
+      <link>${esc(p.url)}</link>
+      <guid>${esc(p.url)}</guid>
       <pubDate>${new Date(p.publishedAt).toUTCString()}</pubDate>
       <description>${esc(p.description)}</description>
     </item>`

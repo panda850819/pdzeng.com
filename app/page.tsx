@@ -100,9 +100,14 @@ export default function Home() {
               </li>
             ))}
           </ol>
-          <Link className="g-link" href="/writing/">
-            全部文章
-          </Link>
+          <div className="more">
+            <Link className="g-link" href="/writing/">
+              全部文章
+            </Link>
+            <Link className="g-link minor" href="/writing/#murmurtalk">
+              隨口說
+            </Link>
+          </div>
         </div>
       </section>
     </div>
