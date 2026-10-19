@@ -26,8 +26,11 @@ describe("static export of the home page", () => {
     expect(main).toContain('href="/now/"');
   });
 
-  test("the message opens with Panda's own line", () => {
-    expect(main).toContain('<blockquote class="quote">營運的本質就是讓公司活下來。</blockquote>');
+  test("the message section is gone", () => {
+    expect(main).not.toContain("營運的本質就是讓公司活下來");
+    expect(main).not.toContain("我做公司營運");
+    expect(main).not.toContain('class="message');
+    expect(main).not.toContain('class="name-row');
     expect(html).toContain("工作、合作，或只是想聊聊，都歡迎。");
   });
 

@@ -1,12 +1,10 @@
 import Link from "next/link";
 import { Route } from "@/components/route";
 import { Signature } from "@/components/signature";
-import { jobs, message, offWork, quote } from "@/lib/home-data";
+import { jobs, offWork } from "@/lib/home-data";
 import { nowSummary } from "@/lib/now-data";
 import { unifiedWriting } from "@/lib/writing";
 import { writingHeadline } from "@/lib/writing-display";
-
-const NAME_ROW = ["Panda Zeng", "Panda Zeng", "Panda Zeng", "Panda Zeng"];
 
 const month = (iso: string) => iso.slice(0, 7).replace("-", ".");
 
@@ -29,35 +27,6 @@ export default function Home() {
           <span className="kicker">Now</span>
           {nowSummary}
         </Link>
-      </section>
-
-      <section className="message t2" data-hdr aria-labelledby="msg-k">
-        <div className="note">
-          <span className="kicker" id="msg-k">
-            留言
-          </span>
-          <blockquote className="quote">{quote}</blockquote>
-          {message.map((p) => (
-            <p key={p}>{p}</p>
-          ))}
-        </div>
-        <div className="stage">
-          <div className="name-rows" aria-hidden="true">
-            <div className="name-row a">
-              {NAME_ROW.map((n, i) => (
-                <span key={i}>{n}</span>
-              ))}
-            </div>
-            <div className="name-row b">
-              {NAME_ROW.map((n, i) => (
-                <span key={i}>{n.toUpperCase()}</span>
-              ))}
-            </div>
-          </div>
-          <svg className="slash" viewBox="0 0 400 500" aria-hidden="true">
-            <path pathLength={1} d="M150 590L330 -70" />
-          </svg>
-        </div>
       </section>
 
       <section className="duel" aria-label="工作與工作之外">

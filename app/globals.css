@@ -794,96 +794,6 @@ p {
   margin-bottom: 6px;
 }
 
-/* message */
-.message {
-  padding: 16vh 0 10vh;
-  overflow: hidden;
-}
-.note {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 4vw;
-}
-.note .kicker {
-  display: block;
-  margin-bottom: 20px;
-  color: color-mix(in oklch, var(--fg) 65%, var(--bg));
-}
-.note .quote {
-  margin: 0 0 0.9em;
-  font-family: var(--font-display);
-  font-size: clamp(30px, 4.6vw, 64px);
-  line-height: 1.25;
-  font-weight: 800;
-  letter-spacing: -0.01em;
-  color: var(--acc);
-  max-width: 16em;
-  text-wrap: balance;
-}
-.note p {
-  font-size: clamp(19px, 1.9vw, 25px);
-  line-height: 1.75;
-  font-weight: 500;
-  max-width: 30em;
-}
-.note p + p {
-  margin-top: 1em;
-  color: color-mix(in oklch, var(--fg) 75%, var(--bg));
-}
-.stage {
-  position: relative;
-  margin-top: 6vh;
-  height: min(62vh, 560px);
-  display: grid;
-  place-items: center;
-}
-.name-rows {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 1;
-}
-.name-row {
-  white-space: nowrap;
-  line-height: 1;
-  font-size: clamp(64px, 10vw, 150px);
-}
-.name-row span {
-  display: inline-block;
-  padding-right: 0.45em;
-}
-.name-row.a {
-  font-family: var(--font-serif);
-  font-weight: 400;
-  letter-spacing: -0.01em;
-  color: var(--acc);
-}
-.name-row.b {
-  font-family: var(--font-display);
-  font-weight: 900;
-  font-stretch: 80%;
-  letter-spacing: -0.01em;
-}
-.slash {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: min(22vw, 270px);
-  aspect-ratio: 4/5;
-  transform: translate(-50%, -50%);
-  overflow: visible;
-  pointer-events: none;
-  z-index: 2;
-}
-.slash path {
-  fill: none;
-  stroke: var(--acc);
-  stroke-width: 12;
-  stroke-linecap: round;
-}
-
 /* work vs. off work, side by side: cream half, olive half, a big "vs." riding the seam */
 .home .duel {
   display: flex;
@@ -1089,19 +999,6 @@ p {
     width: 158px;
     font-size: 12px;
     padding: 10px 10px 12px;
-  }
-  .message {
-    padding: 13vh 0 8vh;
-  }
-  .note {
-    padding: 0 16px;
-  }
-  .stage {
-    margin-top: 5vh;
-    height: 44vh;
-  }
-  .slash {
-    width: 36vw;
   }
   .home .duel {
     flex-direction: column;
