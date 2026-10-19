@@ -7,10 +7,12 @@ import { splitXCopy, telegramNote, writingHeadline } from "@/lib/writing-display
 
 const filters = [
   { key: "all", label: "All" },
-  { key: "blog", label: "Blog" },
-  { key: "telegram", label: "Telegram" },
-  { key: "x", label: "X archive" },
+  { key: "writing", label: "Writing", zh: "寫作" },
+  { key: "murmurtalk", label: "MurmurTalk", zh: "隨口說" },
 ] as const;
+
+// Old share links used one hash per source; send them to the category that now holds it
+const legacyHashes: Record<string, Filter> = { blog: "writing", telegram: "murmurtalk", x: "murmurtalk" };
 
 type Filter = "all" | WritingCategory;
 type View = "list" | "grid";
@@ -23,7 +25,7 @@ const sourceLabels = {
 
 const sourceNotes: Record<Filter, React.ReactNode> = {
   all: "Latest public writing across every channel.",
-  blog: (
+  writing: (
     <>
       Essays published on{" "}
       <a className="text-ink underline decoration-line underline-offset-4" href="https://pdzeng.substack.com/" target="_blank" rel="noreferrer">
@@ -32,26 +34,21 @@ const sourceNotes: Record<Filter, React.ReactNode> = {
       .
     </>
   ),
-  telegram: (
+  murmurtalk: (
     <>
       Short notes from{" "}
       <a className="text-ink underline decoration-line underline-offset-4" href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer">
         @pdzeng_talk
-      </a>
-      . The archive is powered by the{" "}
+      </a>{" "}
+      on Telegram and public posts by{" "}
+      <a className="text-ink underline decoration-line underline-offset-4" href="https://x.com/PandaZeng1" target="_blank" rel="noreferrer">
+        @PandaZeng1
+      </a>{" "}
+      on X, with links to the originals. The Telegram archive is powered by the{" "}
       <a className="text-ink underline decoration-line underline-offset-4" href="https://github.com/panda850819/mini-blog" target="_blank" rel="noreferrer">
         mini-blog
       </a>{" "}
       source.
-    </>
-  ),
-  x: (
-    <>
-      Public posts by{" "}
-      <a className="text-ink underline decoration-line underline-offset-4" href="https://x.com/PandaZeng1" target="_blank" rel="noreferrer">
-        @PandaZeng1
-      </a>
-      , preserved here with links to the originals.
     </>
   ),
 };
@@ -227,6 +224,7 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
     if (savedView === "grid" || savedView === "list") setView(savedView);
     const hashFilter = window.location.hash.slice(1);
     if (isFilter(hashFilter)) setFilter(hashFilter);
+    else if (legacyHashes[hashFilter]) setFilter(legacyHashes[hashFilter]);
   }, []);
 
   const switchFilter = (next: Filter) => {
@@ -262,6 +260,11 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
                     : "surface-2 hairline text-muted [@media(hover:hover)]:hover:text-ink"
                 }`}
               >
+                {"zh" in item && (
+                  <span lang="zh-Hant" className="mr-1.5">
+                    {item.zh}
+                  </span>
+                )}
                 {item.label}
               </button>
             ))}

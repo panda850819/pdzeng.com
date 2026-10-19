@@ -10,7 +10,7 @@ const month = (iso: string) => iso.slice(0, 7).replace("-", ".");
 
 export default function Home() {
   const latest = unifiedWriting()
-    .filter((post) => post.category === "blog")
+    .filter((post) => post.category === "writing")
     .slice(0, 4);
 
   return (

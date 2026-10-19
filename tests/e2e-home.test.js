@@ -91,6 +91,17 @@ describe("every page shares the new header and footer", () => {
   });
 });
 
+describe("/writing/ categories", () => {
+  test("filters are All / 寫作 Writing / 隨口說 MurmurTalk", () => {
+    const html = read("writing/index.html");
+    expect(html).toMatch(/<span lang="zh-Hant"[^>]*>寫作<\/span>Writing/);
+    expect(html).toMatch(/<span lang="zh-Hant"[^>]*>隨口說<\/span>MurmurTalk/);
+    const group = html.slice(html.indexOf('aria-label="Filter writing"'), html.indexOf('aria-label="View mode"'));
+    expect(group.match(/<button/g)?.length).toBe(3);
+    for (const old of ["Blog", "Telegram", "X archive"]) expect(group).not.toContain(old);
+  });
+});
+
 describe("about and OG image", () => {
   test("/about/ drops the tooling framing and links /now/", () => {
     const html = readFileSync(join(OUT, "about/index.html"), "utf8");

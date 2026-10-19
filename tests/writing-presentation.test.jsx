@@ -11,7 +11,7 @@ const telegramItem = (overrides = {}) => ({
   publishedAt: "2026-07-17T00:00:00.000Z",
   locale: "zh-TW",
   source: "telegram",
-  category: "telegram",
+  category: "murmurtalk",
   external: true,
   ...overrides,
 });
