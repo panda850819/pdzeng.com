@@ -21,7 +21,7 @@ export const previously = [
     company: "Yei Finance",
     role: "Ops Manager",
     period: "2026/01 – 2026/08",
-    detail: "協助團隊打造工作流程，帶 finance ops 與 hr ops 兩位成員搭配 AI，直到能獨立完成月結與招募。",
+    detail: "協助團隊打造工作流程，帶 Finance Ops 與 HR Ops 兩位成員搭配 AI，直到能獨立完成月結與招募。",
   },
   {
     company: "TONX",
