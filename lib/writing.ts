@@ -1,7 +1,7 @@
 import sources from "../content/writing-sources.json";
 
 export type WritingSource = "substack" | "telegram" | "x";
-export type WritingCategory = "blog" | "telegram" | "x";
+export type WritingCategory = "writing" | "murmurtalk";
 
 export type WritingPreview = {
   targetUrl: string;
@@ -45,7 +45,7 @@ const substackItems: UnifiedWritingItem[] = sources.substack.map((item) => ({
     publishedAt: item.publishedAt,
     locale: "zh-TW",
     source: "substack" as const,
-    category: "blog" as const,
+    category: "writing" as const,
     external: true,
     preview: item.preview,
   }));
@@ -58,7 +58,7 @@ const telegramItems: UnifiedWritingItem[] = sources.telegram.map((item) => ({
     publishedAt: item.publishedAt,
     locale: "zh-TW",
     source: "telegram" as const,
-    category: "telegram" as const,
+    category: "murmurtalk" as const,
     external: true,
     preview: item.preview,
   }));
@@ -71,7 +71,7 @@ const xItems: UnifiedWritingItem[] = sources.x.map((item) => ({
     publishedAt: item.publishedAt,
     locale: "zh-TW",
     source: "x" as const,
-    category: "x" as const,
+    category: "murmurtalk" as const,
     external: true,
     preview: item.preview,
     metrics: {
