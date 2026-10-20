@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-20T08:57:58.000Z",
+  "updatedAt": "2026-10-20T09:42:09.000Z",
   "substack": [
+    {
+      "id": "https://pdzeng.substack.com/p/ba5",
+      "title": "一樣的午後",
+      "description": "離職兩個月，那個「到時候」好像來了",
+      "url": "https://pdzeng.substack.com/p/ba5",
+      "publishedAt": "2026-10-20T09:25:11.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/ba5",
+        "siteName": "Substack",
+        "title": "一樣的午後",
+        "description": "離職兩個月，那個「到時候」好像來了",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!_BL5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66e7d42-1742-44fc-86fa-a2701713eecb_2364x1330.jpeg"
+      }
+    },
     {
       "id": "https://pdzeng.substack.com/p/29999",
       "title": "29.999",
@@ -115,6 +129,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5099",
+      "title": "Ondo 也有 Perps",
+      "description": "Ondo 也有 Perps",
+      "url": "https://t.me/pdzeng_talk/5099",
+      "publishedAt": "2026-10-20T09:42:09.000Z"
+    },
     {
       "id": "5098",
       "title": "Anthropic——拿出5% 股份成立慈善基金 💡 Anthropic 宣布计划成立一个慈善基金，将其 5% 的股份注入其中。如果 Anthropic 在 IPO 后市值达到 2 万亿美元…",
@@ -266,7 +287,7 @@
         "siteName": "GitHub",
         "title": "GitHub - jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the…",
         "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 ...",
-        "imageUrl": "https://cdn4.telesco.pe/file/hcA9srNu14LLgbBTbS4pTcFx358JaxHOParI1VpS_B-4pq6z7sWIPao3qEZy1KfKozKgVQ6KT8RU9R6tscMRBaiVc1MD5Waph2fK-QibHSX_PMRr4GE2CVz8S7py5tkeRsXxP8LDxFpEMlEuBZsuaB7R0X2C9SL-B_68G2Q2kHpqeDYEbgZ3S9fHUQABr9LQK0qmMhOWIjZFs8dMNCGtZhmvA_Z2Klyg3N_PEMDXq_U_EaeDtKtQhvitpj7XsWPOQl3CPrMBHb0PNmkML5pJdtAFG64Osv608K2FKnAgJuxi2VyLTd54CmdihVqx09-y_pxdP6WR5PkFCmDrfYthKA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/byGMcQojigQZ7JdrHq-cm0HHDAw-nfLNmLMpaUBvlPdx6cojm9Ur8vwN6TStSNRdDDENhSgkE2erUXKmmvIR3uRX_w4kZCkWUPrKR20n-VK4mdrwmmqhSP-BqouyshWwFgsPPOeZ5LnNOy6ec5W9p89Ym2vP_SlG7Ce-iVRuPx0cIP78E0X2YyK_c8dNeBMCLcLvEw7N2zgMEuW0SSy8AyOYFgJyIHB1l2ANyM9TksCfM5mTY5_RbV2gkU7wExdoNn3VqMtBXJ34ebviCV7jYr_LKk3IJsLyXOJU8XWGGKjoTDGqx_2RefKXhRP0cg93_fLjR2i2XmH1A0Ml6JKq3A.jpg"
       }
     },
     {
