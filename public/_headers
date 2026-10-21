@@ -1,0 +1,8 @@
+# Next metadata image routes export as extensionless files (out/icon, ...),
+# which Workers Static Assets serves without a Content-Type.
+/icon
+  Content-Type: image/png
+/apple-icon
+  Content-Type: image/png
+/opengraph-image
+  Content-Type: image/png
