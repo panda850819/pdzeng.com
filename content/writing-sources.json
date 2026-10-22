@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T08:10:33.000Z",
+  "updatedAt": "2026-10-22T13:15:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5113",
+      "title": "xxxxDev/cc-agent 🔗 https://github.com/xxxxDev/cc-agent #github",
+      "description": "xxxxDev/cc-agent 🔗 https://github.com/xxxxDev/cc-agent #github",
+      "url": "https://t.me/pdzeng_talk/5113",
+      "publishedAt": "2026-10-22T13:15:06.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/xxxxDev/cc-agent",
+        "siteName": "GitHub",
+        "title": "GitHub - xxxxDev/cc-agent: Your Claude Code subscription, as a personal multi-agent workspace. A self-hosted PWA.",
+        "description": "Your Claude Code subscription, as a personal multi-agent workspace. A self-hosted PWA. - xxxxDev/cc-agent",
+        "imageUrl": "https://cdn4.telesco.pe/file/FOA-c5omXOyjW8D-4iAEMiGvkD1vS5vp83uuToCBzFn9OAqK5ZZCDexKnkhQJZIFYGHr8rUroqk6a-mpDySDyKKjkTrvWYkseYvAE7smoY5HCQRuhMzA9_iIRjX31B6hMgQet97r8VQnOME6r2l3VSAW8yfo8GcPXAtpSKthpz6NrPMOeu8HpA260p6XPupzS_YzaKPYbeq1wIHq0hSzcpeDSzDssObYp8sdP8ZPq-1CahOvPityUAhLQaJbiVy4zy_eacoF6HHzHMv1V1l8w5zdIUL_GjMEWc_bzxDTzC4bfiC0wPkZIZVBAY0Ioil1zfE4OmQ-QOMTrRKe1n2zmA.jpg"
+      }
+    },
     {
       "id": "5112",
       "title": ":(",
