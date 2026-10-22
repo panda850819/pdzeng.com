@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T00:01:08.000Z",
+  "updatedAt": "2026-10-22T01:30:25.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5109",
+      "title": "https://x.com/menglayer/status/2112933687008645158?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "description": "https://x.com/menglayer/status/2112933687008645158?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+      "url": "https://t.me/pdzeng_talk/5109",
+      "publishedAt": "2026-10-22T01:30:25.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/menglayer/status/2112933687008645158?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
+        "siteName": "X (formerly Twitter)",
+        "title": "陈小萌 (@MengLayer) on X",
+        "description": "所有人立刻来 @metricxyz 组LP ！ 老板之前谷歌和Uni干过，体验过Metric，才懂得这Tm才叫组Lp，不是Fable那种臭鱼烂虾能比的。 积分Boost链接: https://t.co/eHO1Coa6V0 明天闲了，详细聊聊 🤫",
+        "imageUrl": "https://cdn4.telesco.pe/file/mCKRZAaF7K8PCQrT93F-sLDG-uKzqbzxQFdia4l9B5NYgjVtLNpufpKjsEkxRDOeNA1Ten7Hi9XtpzEwwkROeo9vS1TNCgdm26s2Ct70Dspd8jsHSsmNU4r2QnoJmo7f6YXDsztzyuy3OYWG-c4NTlVLLKnH1_Z28P974f__Xo2RB8aT9JBIaGP70ocQ7tWbO-lYMlCUWot7xjStVspXwklHtItojkI2bYefycAsoCk6yvTXxW0EE0W7acW97tlr5N-esA2PRoRP5Ogyt9qA6mzPF2xBtAE3ymgjqc2i6fbCM2MHurbJCZ72bafVfWKyzkTcgNK-xdGdRqItNZqHUQ.jpg"
+      }
+    },
+    {
+      "id": "5108",
+      "title": "Claude 也終於要推自己的 Bots 了，目前美國用戶優先",
+      "description": "Claude 也終於要推自己的 Bots 了，目前美國用戶優先",
+      "url": "https://t.me/pdzeng_talk/5108",
+      "publishedAt": "2026-10-22T01:28:07.000Z"
+    },
     {
       "id": "5107",
       "title": "minchenlee/flockbook 🔗 https://github.com/minchenlee/flockbook #github",
