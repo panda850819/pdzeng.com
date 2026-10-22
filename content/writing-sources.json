@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:50:37.000Z",
+  "updatedAt": "2026-10-22T08:10:33.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5112",
+      "title": ":(",
+      "description": ":(",
+      "url": "https://t.me/pdzeng_talk/5112",
+      "publishedAt": "2026-10-22T08:10:33.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5112",
+        "siteName": "Telegram",
+        "title": ":(",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/Aqu2V7S9mMZLxsXlsXaDv0MyZTrmxVngHOy3spItuOxT_M-L-3kS2WymsOAjrdJq3SPsnG1AaLQypC7g3D4II2AbK-pK3eCEwo_pmL-K9RJS_ToY7cvV4EGNSuBu5puUyw3ojJPOk28UBChuuVBDkWwEDY3hreKcYjsvj8ZnSnKmUL3c8PtKfA2jFXd63HxAxdvdQHufwHCQ3uJrJE5BUigOOvDsvSNahizFazgeknGFcOZTr2joS8JvhBofA1hnYjtyZHioM05iqNQP3jDPlY1CN6GCPblBxHhDCglHfOeAeKfOc4q7jpP-54Js7DIFb2vz-6Tk8ttNsi9rGvkLjw.jpg"
+      }
+    },
     {
       "id": "5111",
       "title": "▶️ 為什麼一堆人在瘋 Grok Bot？全網公認最簡單又好玩的 AI 助理，輕鬆組建你專屬的數位分身小隊！ #youtube https://www.youtube.com/watch?v=…",
