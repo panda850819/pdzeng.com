@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:35:14.000Z",
+  "updatedAt": "2026-10-22T00:01:08.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5107",
+      "title": "minchenlee/flockbook 🔗 https://github.com/minchenlee/flockbook #github",
+      "description": "minchenlee/flockbook 🔗 https://github.com/minchenlee/flockbook #github",
+      "url": "https://t.me/pdzeng_talk/5107",
+      "publishedAt": "2026-10-22T00:01:08.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/minchenlee/flockbook",
+        "siteName": "GitHub",
+        "title": "GitHub - minchenlee/flockbook: Unofficial native macOS app for Herdr: read, follow and reply to your coding agents (Claude Code…",
+        "description": "Unofficial native macOS app for Herdr: read, follow and reply to your coding agents (Claude Code, Codex, Cursor, pi) in one place. - minchenlee/flockbook",
+        "imageUrl": "https://cdn4.telesco.pe/file/XZUVjZpbtv5AY4yhaa7kOQ63dU-jymSU_I5vnTkyqTWvj4Elq94pGE6sB3JGOANb5RUQpdTDaxYPx_rNKusHQ0xKBYiwC5h9jO11SMG2du70BGfd0KVVa9kjjnabu5LNvawCyJlFEzVHUCAkQUzQwwNBpA017f2xOt5Igi4IqxsxEyx1bXjSSJDf6a4T7fgIdP3lRXoprwAztYH7hN-XlyC9umJWuiN8W26o7oHlr6Gkh8GH4_1A0XK4aJKZrZA0L3Zd_wWQlpaUNHXCJVfxVWB4CMvPmsLgbkpxZeb5cCNrA3e0s5LLK2ZyZRBUnhiR9WATgn9Vuw4m2wtAAz3nqg.jpg"
+      }
+    },
     {
       "id": "5106",
       "title": "時間過得很快 原來我從高雄躲回桃園 已經過了六年（相當於肄業六年了呢）",
