@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Route } from "@/components/route";
 import { Signature } from "@/components/signature";
+import { TerminalIntro } from "@/components/terminal-intro";
 import { jobs, offWork } from "@/lib/home-data";
 import { nowSummary } from "@/lib/now-data";
 import { unifiedWriting } from "@/lib/writing";
@@ -110,6 +111,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <TerminalIntro />
     </div>
   );
 }
