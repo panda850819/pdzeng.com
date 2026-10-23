@@ -71,7 +71,23 @@ export function Header() {
     window.__lenis?.[open ? "stop" : "start"]();
     if (open) sheetRef.current?.querySelector<HTMLAnchorElement>(".pages a")?.focus();
     if (!open) return;
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && close();
+    // modal sheet: Esc closes, Tab and Shift+Tab wrap around inside it
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") return close();
+      const sheet = sheetRef.current;
+      if (e.key !== "Tab" || !sheet) return;
+      const items = Array.from(sheet.querySelectorAll<HTMLElement>("a[href], button"));
+      const first = items[0];
+      const last = items[items.length - 1];
+      const inside = sheet.contains(document.activeElement);
+      if (e.shiftKey && (document.activeElement === first || !inside)) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && (document.activeElement === last || !inside)) {
+        e.preventDefault();
+        first.focus();
+      }
+    };
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
   }, [open]);
