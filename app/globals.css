@@ -1056,7 +1056,6 @@ p {
   .legal a {
     position: relative;
   }
-  .lockup::after,
   .topright > *::after,
   .jobs .co::after,
   .home .g-link::after,
