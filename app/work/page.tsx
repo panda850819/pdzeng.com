@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default function WorkPage() {
   return (
-    <div className="mx-auto w-full max-w-5xl px-6">
+    <div className="mx-auto w-full max-w-5xl px-6" lang="en">
       <h1 className="display-tracking font-display text-4xl font-semibold">Work</h1>
       <p className="mt-3 mb-10 max-w-xl text-muted">
         Operations case studies — what was built, and how.

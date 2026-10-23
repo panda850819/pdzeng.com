@@ -59,7 +59,7 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" suppressHydrationWarning className={`${instrument.variable} ${mona.variable}`}>
+    <html lang="zh-Hant" suppressHydrationWarning className={`${instrument.variable} ${mona.variable}`}>
       <body className="min-h-dvh antialiased">
         <script
           dangerouslySetInnerHTML={{
@@ -69,7 +69,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <noscript>
           <style>{`[style*="opacity:0"]{opacity:1!important;transform:none!important;filter:none!important}`}</style>
         </noscript>
-        <a href="#main-content" className="skip-link">
+        <a href="#main-content" className="skip-link" lang="en">
           Skip to main content
         </a>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
