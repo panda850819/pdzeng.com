@@ -1,9 +1,10 @@
 import { ImageResponse } from "next/og";
 import { GLYPH } from "@/components/signature";
+import { OG_ALT, OG_TAGLINE } from "@/lib/site-meta";
 
 // upgrade: per-article OG cards with the zh title need a bundled CJK font subset
 export const dynamic = "force-static";
-export const alt = "Panda Zeng — pdzeng.com";
+export const alt = OG_ALT;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -46,7 +47,7 @@ export default function OgImage() {
             <path d={GLYPH} fill={NEON} />
             <path d="M-50 286C140 270 360 252 566 226" fill="none" stroke={NEON} strokeWidth="5" strokeLinecap="round" />
           </svg>
-          <div style={{ display: "flex", fontSize: 30, opacity: 0.8 }}>Operator, runner, writing about operations and AI.</div>
+          <div style={{ display: "flex", fontSize: 30, opacity: 0.8 }}>{OG_TAGLINE}</div>
         </div>
       </div>
     ),
