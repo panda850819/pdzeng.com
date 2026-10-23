@@ -1,11 +1,26 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Route } from "@/components/route";
 import { Signature } from "@/components/signature";
 import { TerminalIntro } from "@/components/terminal-intro";
 import { jobs, offWork } from "@/lib/home-data";
 import { nowSummary } from "@/lib/now-data";
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/lib/site-meta";
 import { unifiedWriting } from "@/lib/writing";
 import { writingHeadline } from "@/lib/writing-display";
+
+// Home only: OG/Twitter set in the root layout would override every child page's derived og:title
+export const metadata: Metadata = {
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    url: "/",
+    siteName: "Panda Zeng",
+    locale: "zh_TW",
+    type: "website",
+  },
+  twitter: { card: "summary_large_image", title: SITE_TITLE, description: SITE_DESCRIPTION },
+};
 
 const month = (iso: string) => iso.slice(0, 7).replace("-", ".");
 
@@ -23,6 +38,9 @@ export default function Home() {
           <div className="hero-sig">
             <Signature id="sig-hero" />
           </div>
+          <p className="hero-role" lang="en">
+            Operations Manager
+          </p>
         </div>
         <Link className="now" href="/now/">
           <span className="kicker">Now</span>

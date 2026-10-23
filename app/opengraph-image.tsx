@@ -1,9 +1,12 @@
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { ImageResponse } from "next/og";
 import { GLYPH } from "@/components/signature";
+import { OG_ALT, OG_TAGLINE } from "@/lib/site-meta";
 
-// upgrade: per-article OG cards with the zh title need a bundled CJK font subset
+// upgrade: per-article OG cards with the zh title need a subset covering those titles too
 export const dynamic = "force-static";
-export const alt = "Panda Zeng — pdzeng.com";
+export const alt = OG_ALT;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -12,7 +15,11 @@ const OLIVE = "#282c20";
 const CREAM = "#f4f4ed";
 const NEON = "#b6f36a";
 
-export default function OgImage() {
+// Bundled OFL subset (assets/fonts/README.md): with any glyph missing, next/og would fetch Google Fonts
+const OG_FONT_PATH = join(process.cwd(), "assets/fonts/NotoSansTC-og-subset.ttf");
+
+export default async function OgImage() {
+  const font = await readFile(OG_FONT_PATH);
   return new ImageResponse(
     (
       <div
@@ -22,7 +29,7 @@ export default function OgImage() {
           display: "flex",
           padding: 28,
           background: NEON,
-          fontFamily: "sans-serif",
+          fontFamily: "Noto Sans TC",
         }}
       >
         <div
@@ -46,10 +53,10 @@ export default function OgImage() {
             <path d={GLYPH} fill={NEON} />
             <path d="M-50 286C140 270 360 252 566 226" fill="none" stroke={NEON} strokeWidth="5" strokeLinecap="round" />
           </svg>
-          <div style={{ display: "flex", fontSize: 30, opacity: 0.8 }}>Operator, runner, writing about operations and AI.</div>
+          <div style={{ display: "flex", fontSize: 30, opacity: 0.8 }}>{OG_TAGLINE}</div>
         </div>
       </div>
     ),
-    size
+    { ...size, fonts: [{ name: "Noto Sans TC", data: font, weight: 400, style: "normal" }] }
   );
 }
