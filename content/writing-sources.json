@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:44:37.000Z",
+  "updatedAt": "2026-10-23T15:38:58.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5124",
+      "title": "https://pdzeng.com/ 做一些酷酷動畫，後面可以來慢慢整理下個人檔案了",
+      "description": "https://pdzeng.com/ 做一些酷酷動畫，後面可以來慢慢整理下個人檔案了",
+      "url": "https://t.me/pdzeng_talk/5124",
+      "publishedAt": "2026-10-23T15:38:58.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.com/",
+        "siteName": "Pdzeng",
+        "title": "Panda Zeng",
+        "description": "Panda Zeng — operator, runner, writing about operations and AI.",
+        "imageUrl": "https://cdn4.telesco.pe/file/mgeksj0qxtCEfjkQxCGdqlCAsvFzn_P2PGslzSmn7ID5-Qd9dM4NsAEiUOzGgu0WhD_-W8kvk-DJrfHNGYGnpecQutJat3IvL-QH2fo7XrIdDz80AAjSobqXmRdmycawuXOoK8C9a2QjIQ5V6uWu_KNUJPgWshQdh_I4v-nWSvgN0H9QnCzexu1ucmjuvfpsSuFcOTK7XBYj1gW3YBaprsf7TYakYbfv1rIHc9ZBViiSMRDf3a5xnWgO-ksCmbBC1q59bsX_MQH9ooFxYJF6ktYFiwzTor9efEGh7Eq9rhOYq6POmC515uFlia3Ot3g5p4V2EHpsjqc_pE6TBxXipQ.jpg"
+      }
+    },
+    {
+      "id": "5123",
+      "title": "peach-mitao/peach 🔗 https://github.com/peach-mitao/peach #github",
+      "description": "peach-mitao/peach 🔗 https://github.com/peach-mitao/peach #github",
+      "url": "https://t.me/pdzeng_talk/5123",
+      "publishedAt": "2026-10-23T15:30:37.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/peach-mitao/peach",
+        "siteName": "GitHub",
+        "title": "GitHub - peach-mitao/peach: Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system",
+        "description": "Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system - peach-mitao/peach",
+        "imageUrl": "https://cdn4.telesco.pe/file/a3KxCgtD9QShVmQpanfOICH-RIhbU4k4cHfzDUwAevDmflFI_63fAN4aGPFWrVjPOPFJEV2YFgJW3xpsoAzAs4zkXzuT2vS8epur_CYsxRpMbN_MaujBSk_uzxq_lLXyg6Sk44sUbZJ-vv4de12ZSdwptdRcuQvCAaYC7g6p2RHbLEfmXXTyYi9ECRkHBVO7UZoz_ipiEbMt4QT4X_MONdu09AwnjlwhuFo9Xjy7-dhgHoMjFOh8EibAZQQ8_ZX9RalMq_RAMWfT6u43_zb1NH9o2zPQhXPuZi9r_EN_St1wYk9LCvKl3ZuXRLQLK_AGsrie_ig-2uAgMR3q-hvOvA.jpg"
+      }
+    },
     {
       "id": "5122",
       "title": "devdotfast/whiteboard 🔗 https://github.com/devdotfast/whiteboard #github",
