@@ -29,6 +29,21 @@ describe("static export of the home page", () => {
     expect(main).toContain('href="/now/"');
   });
 
+  test("the hero shows the Operations Manager positioning under the signature, server-rendered", () => {
+    expect(main).toContain('<p class="hero-role" lang="en">Operations Manager</p>');
+    expect(main.indexOf('class="hero-role"')).toBeGreaterThan(main.indexOf('clip-path="url(#sig-hero)"'));
+    expect(main).toContain('<h1 class="vh">Panda Zeng</h1>');
+  });
+
+  test("home head carries the zh positioning title, description, OG and Twitter tags", () => {
+    const head = html.slice(0, html.indexOf("</head>"));
+    expect(head).toContain("<title>Panda Zeng｜營運經理 Operations Manager（Ops・HR）</title>");
+    expect(head).toMatch(/<meta name="description" content="[^"]*營運經理（Operations Manager）[^"]*人資（HR）/);
+    expect(head).toContain('<meta property="og:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
+    expect(head).toContain('<meta property="og:locale" content="zh_TW"/>');
+    expect(head).toContain('<meta name="twitter:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
+  });
+
   test("the message section is gone", () => {
     expect(main).not.toContain(DROPPED_LINE);
     expect(main).not.toContain("我做公司營運");
@@ -73,7 +88,8 @@ describe("static export of the home page", () => {
 
   test("JSON-LD and description are updated", () => {
     expect(html).toContain('"alternateName":["熊貓隨口說","Panda Tseng"]');
-    expect(html).toContain("Panda Zeng — operator, runner, writing about operations and AI.");
+    expect(html).toContain("Panda Zeng，營運經理（Operations Manager），做公司營運（Ops）與人資（HR）");
+    expect(html).not.toContain("operator, runner, writing about operations and AI");
   });
 });
 
@@ -129,6 +145,10 @@ describe("about and OG image", () => {
       "小到公司裡大大小小的文書。對我來說，營運就是讓公司的人朝著正確的方向，透過觀察大小事件，一步步累積、一步步解決。</p>",
     );
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
+  });
+
+  test("child pages keep their own og:title instead of the home one", () => {
+    expect(read("about/index.html")).toContain('<meta property="og:title" content="關於 · Panda Zeng"/>');
   });
 
   test("the OG image is a 1200×630 PNG", () => {

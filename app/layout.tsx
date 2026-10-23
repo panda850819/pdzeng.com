@@ -3,6 +3,7 @@ import { Instrument_Serif, Mona_Sans } from "next/font/google";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { Motion } from "@/components/motion";
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/lib/site-meta";
 import "./globals.css";
 
 const instrument = Instrument_Serif({
@@ -23,8 +24,8 @@ const mona = Mona_Sans({
 // CJK ships as unicode-range slices; preloading them all would defeat that
 export const metadata: Metadata = {
   metadataBase: new URL("https://pdzeng.com"),
-  title: { default: "Panda Zeng", template: "%s · Panda Zeng" },
-  description: "Panda Zeng — operator, runner, writing about operations and AI.",
+  title: { default: SITE_TITLE, template: "%s · Panda Zeng" },
+  description: SITE_DESCRIPTION,
   alternates: { canonical: "./" },
 };
 
