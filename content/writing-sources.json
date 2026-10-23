@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:26:48.000Z",
+  "updatedAt": "2026-10-23T05:00:04.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5115",
+      "title": "https://www.youtube.com/watch?v=2njn71TqkjA 今天上的英文課內容，環境變遷氣候暖化",
+      "description": "https://www.youtube.com/watch?v=2njn71TqkjA 今天上的英文課內容，環境變遷氣候暖化",
+      "url": "https://t.me/pdzeng_talk/5115",
+      "publishedAt": "2026-10-23T05:00:04.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=2njn71TqkjA",
+        "siteName": "YouTube",
+        "title": "What Earth in 2050 could look like - Shannon Odell",
+        "description": "What could our future world look like if we continue to do nothing about climate change? Take a look at the possibilities. -- While we’re already feeling the devastating effects of human-caused climate change, governments continue to fall short on making…",
+        "imageUrl": "https://cdn4.telesco.pe/file/P2UtcWnN3iqcePVk6a3LgHBJOB4eu7-n4dcj128bGxUDLW5D2dNpr_ighmzYnvHZs1OkHy3J_GWemI3z870UeUYDOf2Oo8xe-x5kA4wDKWQZyLTAcmMwY51eZksxRtwpZW2T2zyRK8ZIbl87pzQDWJ7uNKt54GzCeUi5e5_sfQhA69tItsGA0DdMSsT7LH9dQ8qJEfm55CMmW5srG7D-i-gpOrQQ7sJjJbi9CBFalQATp4Q3q-lp8m9WBK_cwX8h-4g9P6UJRmk8iEjnHhLFUvXFAIG-Q7iTpOp0sV8JuCrVjEHY2UCr7Sp7ffAoMpVMayxGFVpNPzzBteCSdzSkaA"
+      }
+    },
     {
       "id": "5114",
       "title": "Arc 年底停止服務 😭",
