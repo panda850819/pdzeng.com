@@ -1,8 +1,10 @@
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { ImageResponse } from "next/og";
 import { GLYPH } from "@/components/signature";
 import { OG_ALT, OG_TAGLINE } from "@/lib/site-meta";
 
-// upgrade: per-article OG cards with the zh title need a bundled CJK font subset
+// upgrade: per-article OG cards with the zh title need a subset covering those titles too
 export const dynamic = "force-static";
 export const alt = OG_ALT;
 export const size = { width: 1200, height: 630 };
@@ -13,7 +15,11 @@ const OLIVE = "#282c20";
 const CREAM = "#f4f4ed";
 const NEON = "#b6f36a";
 
-export default function OgImage() {
+// Bundled OFL subset (assets/fonts/README.md): with any glyph missing, next/og would fetch Google Fonts
+const OG_FONT_PATH = join(process.cwd(), "assets/fonts/NotoSansTC-og-subset.ttf");
+
+export default async function OgImage() {
+  const font = await readFile(OG_FONT_PATH);
   return new ImageResponse(
     (
       <div
@@ -23,7 +29,7 @@ export default function OgImage() {
           display: "flex",
           padding: 28,
           background: NEON,
-          fontFamily: "sans-serif",
+          fontFamily: "Noto Sans TC",
         }}
       >
         <div
@@ -51,6 +57,6 @@ export default function OgImage() {
         </div>
       </div>
     ),
-    size
+    { ...size, fonts: [{ name: "Noto Sans TC", data: font, weight: 400, style: "normal" }] }
   );
 }
