@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:50:44.000Z",
+  "updatedAt": "2026-10-23T14:44:37.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5122",
+      "title": "devdotfast/whiteboard 🔗 https://github.com/devdotfast/whiteboard #github",
+      "description": "devdotfast/whiteboard 🔗 https://github.com/devdotfast/whiteboard #github",
+      "url": "https://t.me/pdzeng_talk/5122",
+      "publishedAt": "2026-10-23T14:44:37.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/devdotfast/whiteboard",
+        "siteName": "GitHub",
+        "title": "GitHub - devdotfast/whiteboard: open-source canvas for thoughtful software design",
+        "description": "open-source canvas for thoughtful software design. Contribute to devdotfast/whiteboard development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/bQftSGMCacDW-Qrfw8THIAsOhsZ-BGKsJ4-1-qx6CnbmxuHGcuhH3Q6P39gSM-hXeDh7G-DF83Jbhdg9_qqvtEK2IGAWY0ojorcDuf36iGVBa7SIxqnc8xCPWjp_37_RKpq0jOYB1eRkCxsiL0wAwgVOKGwjLwSpiD8s0hjiJwyjhaMfdBi2E-E-lYsBIBBa59WBjHj5dAi8k-hE4Bd-4S0pcRMtTU6lhMyniv59D0smLxGiUVDv62CJ-Tlk2VcUT-FUTMxEH1hFr_o7HkN6iwC6rUExC1qadbzRdmFDRMeJs_DOVKg8krnvjPUWi3V_7qcsdTlaPu_DAbWOqzM3Xw.jpg"
+      }
+    },
+    {
+      "id": "5121",
+      "title": "好的高仿出來了 https://yetanotherbrowser.com/",
+      "description": "好的高仿出來了 https://yetanotherbrowser.com/",
+      "url": "https://t.me/pdzeng_talk/5121",
+      "publishedAt": "2026-10-23T14:39:37.000Z",
+      "preview": {
+        "targetUrl": "https://yetanotherbrowser.com/",
+        "siteName": "Yab",
+        "title": "Yab: yet another browser.",
+        "description": "Everything you loved about Arc, now with AI. And faster. A browser for your Mac.",
+        "imageUrl": "https://cdn4.telesco.pe/file/UvEA8rybc_UAp9eCmczsdz7P-1ZevVhxaTiB1XhL47UGwbG5TqebXZ-D4EMs08NwdCVBTqLZFwxQmpurMDwseBy5AUU-af2ZPvst8so5WE5vbjPVxCl1qSuwFPlzQCPOlHuemlQh7ag89ixWztryxV6Sv935Diej1UauD8vbJPkIKHJ2aGQ39_2eL-6tXjAuvez4ytE6S2tCW8B5BQvyLqRM_sArmCGjsFNT48b1R8NzOXI1aV-IPLe5XsMsvOPwlprruMRLKQ-pWvW0-0cAylvDU2TuwfHsycc-3OYh5k6k3eb_bULgIGPQPMHCJatZ5oZsU-PnzGBn-UKG5j09Fg.jpg"
+      }
+    },
     {
       "id": "5120",
       "title": "https://i.fluidkey.com/YRZCGITO 最近美金32多了想陸陸續續出一點，可以用 FluidKey 有一個額度在，大概一萬刀免費",
