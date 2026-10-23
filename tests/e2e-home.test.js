@@ -89,6 +89,10 @@ describe("every page shares the new header and footer", () => {
       for (const href of ["/work/", "/writing/", "/about/"]) expect(html).toContain(`href="${href}"`);
       expect(html).toContain('id="mnav"');
       expect(html).toContain('class="theme-btn"');
+      // the site is zh-Hant first; the menu closes with a real button, not href="#"
+      expect(html).toContain('<html lang="zh-Hant"');
+      expect(html).toContain('<button type="button" class="close" aria-label="關閉選單">');
+      expect(html).not.toContain('class="close" href="#"');
       // footer
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');

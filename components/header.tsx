@@ -112,6 +112,12 @@ export function Header() {
             e.preventDefault();
             setOpen(true);
           }}
+          // role="button" promises Space as well as Enter
+          onKeyDown={(e) => {
+            if (e.key !== " ") return;
+            e.preventDefault();
+            setOpen(true);
+          }}
         >
           <svg viewBox="0 0 18 12" aria-hidden="true">
             <path d="M1 2h16M7 10h10" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -127,17 +133,12 @@ export function Header() {
         aria-label="選單"
         onClick={(e) => {
           const target = e.target as HTMLElement;
-          if (target.closest(".close")) {
-            e.preventDefault();
-            close();
-          } else if (target === e.currentTarget || target.closest("a")) {
-            setOpen(false);
-          }
+          if (target === e.currentTarget || target.closest("a")) setOpen(false);
         }}
       >
-        <a className="close" href="#" aria-label="關閉選單">
-          ×
-        </a>
+        <button type="button" className="close" aria-label="關閉選單" onClick={close}>
+          <span aria-hidden="true">×</span>
+        </button>
         <span className="kicker">頁面</span>
         <ul className="pages">
           {pages.map(({ href, label }) => (

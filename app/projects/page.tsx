@@ -13,7 +13,7 @@ export default function ProjectsPage() {
   const repos = openSourceRepos(projects.map((p) => p.url));
 
   return (
-    <div className="mx-auto w-full max-w-5xl px-6">
+    <div className="mx-auto w-full max-w-5xl px-6" lang="en">
       <h1 className="display-tracking font-display text-4xl font-semibold">Projects</h1>
       <p className="mt-3 mb-10 max-w-xl text-muted">
         Current builds and selected past work, with status stated plainly.
