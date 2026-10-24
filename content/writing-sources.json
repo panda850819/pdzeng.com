@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T16:05:23.000Z",
+  "updatedAt": "2026-10-23T23:45:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5126",
+      "title": "中度颱風薔琵正在減弱、往北移，最嚴重的時候已經過了，不過海上和陸上颱風警報都還沒解除。今天早上 6 點，颱風中心在宜蘭東南東方約 110 公里的海面上。凌晨 1 點它掠過宜蘭南方澳，但氣象署判…",
+      "description": "中度颱風薔琵正在減弱、往北移，最嚴重的時候已經過了，不過海上和陸上颱風警報都還沒解除。今天早上 6 點，颱風中心在宜蘭東南東方約 110 公里的海面上。凌晨 1 點它掠過宜蘭南方澳，但氣象署判定不算登陸。 • 雨： 雙北、桃竹苗山區今天還可能有局部豪雨，其他山區可能有大雨。今天下午起各地雨勢會變小，晚上到明天清晨會再減弱。 • 風： 蘭嶼、綠島、屏東部分地區…",
+      "url": "https://t.me/pdzeng_talk/5126",
+      "publishedAt": "2026-10-23T23:45:53.000Z"
+    },
     {
       "id": "5125",
       "title": "IB 連不上線了 不給玩了是吧",
@@ -342,7 +349,7 @@
         "siteName": "GitHub",
         "title": "GitHub - minchenlee/flockbook: Unofficial native macOS app for Herdr: read, follow and reply to your coding agents (Claude Code…",
         "description": "Unofficial native macOS app for Herdr: read, follow and reply to your coding agents (Claude Code, Codex, Cursor, pi) in one place. - minchenlee/flockbook",
-        "imageUrl": "https://cdn4.telesco.pe/file/JCV4kj2QPSSVfknWFUvGJ8jBghaBJIs56xk5pJFA_ByghoJwvJ2lwzhVQlkd6rf4s992-8xqw14PBru5yEPbRd_JPQWJ6Hp0c6PwqubAl2OuUSECakmKGZ0LYLTxqAbcTdoiEwo76oywnyHUvNulzBU1EMA5b8N2YEP7WDsaFBwqx6TZgtBaQMzo_O6lmkDcSZCuAGHsq3K5twiZytbkQ513ZrSrHesY6ZJxWhkBYB_y6c3bjACBIHA27wcF-StlqUfzbwxeFa2AzIznDVc8EVdWjpUFVZtKPRtQDXShHv0NQdBJ4oeUHqwTbsSG6i_67A-KG_Eq9Ux2-ctDyPLaBQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/JqYdKqjvk8TMMr0mKjGl18hG7ESbjIYE9r32gA8ToEN5tMKS7tUbvhhGpZ7oC6WQLOnvvkueONVU7qL-l6PBqCoNlHZTUrTWqMnZtadlND7AnG5Pz9stZ40rv5NSKIAs85bZ2SygZqlaD1SlY4loaSeruWoWVykgLs529HwY1JdL_Af2CVezOjPLSyRGY7zpYvPV7cNd437beODdE0k9LJwCn1h6dZxUSLA7iq4NO_16EAiVq6DJpR4N2gm6bfBtGIiUV7-qBijNtcBeVVLyTBPrsnUHH5S5IyFIGcyhzSZif6YTn4x4PC0PD9gl5rj9GBABF3AmpNc2AZANHxggjQ.jpg"
       }
     },
     {
