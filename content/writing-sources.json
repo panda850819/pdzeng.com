@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:52:11.000Z",
+  "updatedAt": "2026-10-24T12:31:59.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5130",
+      "title": "https://luma.com/design-taipei-ryo?tk=ptO8Rt",
+      "description": "https://luma.com/design-taipei-ryo?tk=ptO8Rt",
+      "url": "https://t.me/pdzeng_talk/5130",
+      "publishedAt": "2026-10-24T12:31:59.000Z",
+      "preview": {
+        "targetUrl": "https://luma.com/design-taipei-ryo?tk=ptO8Rt",
+        "siteName": "Luma",
+        "title": "Cursor for Designer: Taipei, with Ryo Lu · Luma",
+        "description": "Cursor 設計師之夜：臺北場，與 Ryo Lu 對談 設計師怎麼用 AI 動手做產品，設計和程式的界線又會怎麼變 由前 Cursor 設計負責人 Ryo Lu 帶來分享與爐邊對話 活動亮點 Cursor 已成為全球成長最快的開發者工具之一，也有越來越多設計師用它把想法做成真正的產品。 Ryo 曾經在…",
+        "imageUrl": "https://cdn4.telesco.pe/file/qkbYyeHfA5CrfuN0Bv-Qj4UzIPkrQMJVK7Susqkv8TZBcAGvbOT3PtBVi5yiKert0qGtjrJHYi5-PWgrcGysRRIipahJCW4NyDKlfeZEcp2F05iZiayJcFTjlaaEoxB5V7FzKYkmXaFB1qI1NuwEEALk53eSrL08ZKsKB6XWXinwN7hpvXyGFlgZ9hQ7gsXfYu_O24bOdniZwghnaLvt0tMI-0pwRdCy_aTl6kJmSP4hdtjbfPlwV2piVnZQTt9OeR6i-Ck37f7UQARl5sBorLuu0hOP9v7axR9vHdw3GsIMSdSlwPqft_uhyYaSl9FNe7v_KIiIA1HiysJmrdTfIQ.jpg"
+      }
+    },
     {
       "id": "5129",
       "title": "Wtf https://x.com/trq212/status/2113844051938054167?s=46&t=1LAyoawP6LK1AbrwCvLGqQ",
@@ -321,7 +335,7 @@
         "siteName": "GitHub",
         "title": "GitHub - xxxxDev/cc-agent: Your Claude Code subscription, as a personal multi-agent workspace. A self-hosted PWA.",
         "description": "Your Claude Code subscription, as a personal multi-agent workspace. A self-hosted PWA. - xxxxDev/cc-agent",
-        "imageUrl": "https://cdn4.telesco.pe/file/BzhZZPxP_warLYCrAyUw711-9AIRXYh2PVcWTgMYf70lJ3UtncmMtXNN7K7BaM9sXSpHPCZkeEoWBWLVF1lAHBI1Ld9KrupxoyvfXKkpcLB3C2Fbv80dvSA6QN2qcR5qPXbb0H4fYzNC-0gjLT6WXApuOfUeLF2CT_ik-tzcznWbgzaN_LiZ2oWmu_hHpdMaqnre7hvbd9yON2wHoDGvmpX34F-aBdFYu-hfMlwv-AfJRuWi75XJMU8TZI0fmw7qLzBk1rPFwdXqHOGxNHpgLim691HVdFj8Ex5ENehxs-oDWU0sx8ADIRtPHfOI-8a97rX7SR6OIuIthAEFl1Gikg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/jFzXuzaUcHB2ugui_GcGUazCSAU2JmTsphrwKgXJhPA_-t5_j8IIxySnty_CzowrOSgMGHqX87Dtb6_hb1-VQNMI7jKbsxEcT6aBc_kCOiiqDkF-P3FoWg4LyBni5XIzD6nTsfUA0ORjHA793ck-6CilzHB4i1k3u_sT4gCoXLrJ_zpTnyzftIkIWzEFc93ynEduLGdr0towL2cChDYh-lN_uWZ2CKjL2IkiRT_PbGR8aKMjt4B4SQp2miRvSBsoo8QuDKoFIr4of2nvXBXy-LlmQ7vCnPrngPxaWDEGvNdhJoNivjda4zHjba1tyX0hQFO48Fze5USRH97MQSRNfQ.jpg"
       }
     },
     {
