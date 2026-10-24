@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:20:17.000Z",
+  "updatedAt": "2026-10-24T15:05:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -130,6 +130,20 @@
   ],
   "telegram": [
     {
+      "id": "5132",
+      "title": "https://x.com/levelsio/status/2113587042185576853?s=20",
+      "description": "https://x.com/levelsio/status/2113587042185576853?s=20",
+      "url": "https://t.me/pdzeng_talk/5132",
+      "publishedAt": "2026-10-24T15:05:42.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/levelsio/status/2113587042185576853?s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "@levelsio (@levelsio) on X",
+        "description": "Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It…",
+        "imageUrl": "https://cdn4.telesco.pe/file/C3zq07i2Pcc9Yi87DfgNDeHrZrNVComx0J8O1N1j9XgEzwWC7mkOTA9W-k7GLHCRvRmJln4plnJiKviZcYSLWsWGFcGSenORVi8lb3LqBKiA671TekJr-I0jjlB8q1hryFkgKwJiLa7fnTiaT_fV_MHLPDFPC8l_Sagy8hjf43SRCOzpTcnEl3W_BUdBSOBB5tSjfX2QxCb4VGpLGWUGIFc8WgBA_WIjE-yi-6hSV0AgAhpalLbLDAe-awcqWN2yWnyChrNWJOFc948oAgitybWNg2xWw1qAvB4ozukMWDQrcTNLG0rHRsf4dCXcL75uE-wL0hFmaaPoSqsBFxed8w.jpg"
+      }
+    },
+    {
       "id": "5131",
       "title": "https://www.aicodingdictionary.com/ 真的是字典",
       "description": "https://www.aicodingdictionary.com/ 真的是字典",
@@ -217,7 +231,7 @@
         "siteName": "Pdzeng",
         "title": "Panda Zeng",
         "description": "Panda Zeng — operator, runner, writing about operations and AI.",
-        "imageUrl": "https://cdn4.telesco.pe/file/mgeksj0qxtCEfjkQxCGdqlCAsvFzn_P2PGslzSmn7ID5-Qd9dM4NsAEiUOzGgu0WhD_-W8kvk-DJrfHNGYGnpecQutJat3IvL-QH2fo7XrIdDz80AAjSobqXmRdmycawuXOoK8C9a2QjIQ5V6uWu_KNUJPgWshQdh_I4v-nWSvgN0H9QnCzexu1ucmjuvfpsSuFcOTK7XBYj1gW3YBaprsf7TYakYbfv1rIHc9ZBViiSMRDf3a5xnWgO-ksCmbBC1q59bsX_MQH9ooFxYJF6ktYFiwzTor9efEGh7Eq9rhOYq6POmC515uFlia3Ot3g5p4V2EHpsjqc_pE6TBxXipQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/txgEtIWyjLSI1ULcbWOyzV83wDlMUvAjg0c5NQkBFyDwON-yaHPqHPdJJoc_liDeJLEIA_Nd5fw6vM2ro9BVQCxGZT4Q7RXOXpU1-bx59MFyoUpsm8RQWOKPWXHw5s-wcPRbhGQH2lTIEcETQ17W6Fxty8axuFHI18Sl92cWXHKZDHN7qyk2Ots4UzE1aIE9iGtSZtdkJp_yjsdCArWwuPygl51SgHW86B2nzvo1QBrLe1R8CAmgjsTQIbsZS_Lq6L9nQmoF8ISGCOxEV-PGdFc3kPLeR6im0nAuO1X1pFEX4bctLMxxj9Jpb9Qqec9EAa00Oo-2BSPz1I9FjmcBgQ.jpg"
       }
     },
     {
