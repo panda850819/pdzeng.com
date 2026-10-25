@@ -12,3 +12,4 @@ export const socials = [
 ] as const;
 
 export const contactHref = "https://t.me/pdzeng";
+export const meetingHref = "https://calendly.com/pdzeng/meetings";

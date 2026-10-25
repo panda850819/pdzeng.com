@@ -34,7 +34,6 @@ describe("static export of the home page", () => {
     expect(main).not.toContain("我做公司營運");
     expect(main).not.toContain('class="message');
     expect(main).not.toContain('class="name-row');
-    expect(html).toContain("工作、合作，或只是想聊聊，都歡迎。");
   });
 
   test("work vs. off work renders from the typed data", () => {
@@ -84,6 +83,10 @@ describe("every page shares the new header and footer", () => {
       // footer
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');
+      expect(html).toContain("缺個會打雜的嗎？來聊聊");
+      expect(html).toContain('<p class="fcta-note">歡迎聊聊</p>');
+      expect(html).toContain('href="https://calendly.com/pdzeng/meetings"');
+      for (const gone of ["工作、合作，或只是想聊聊，都歡迎。", "Ops Builder"]) expect(html).not.toContain(gone);
       for (const href of ["https://x.com/pandazeng1", "https://www.linkedin.com/in/pdzeng/", "https://t.me/pdzeng", "/rss.xml", "https://pdzeng.substack.com/subscribe"]) {
         expect(html).toContain(`href="${href}"`);
       }

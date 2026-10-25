@@ -659,10 +659,29 @@ p {
   font-size: 16px;
   padding: 15px 22px;
 }
+.fcta-title {
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 800;
+}
 .fcta-note {
   margin-top: 14px;
   font-size: 14px;
   color: color-mix(in oklch, var(--fg) 65%, var(--bg));
+}
+.fcta-note + .fcta-note {
+  margin-top: 4px;
+}
+.fcta-note a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 0.25em;
+}
+.fcta-note a:hover {
+  color: var(--neon);
 }
 .legal {
   display: flex;
