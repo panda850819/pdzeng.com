@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:58:05.000Z",
+  "updatedAt": "2026-10-25T10:53:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5134",
+      "title": "▶️ AI harness crash course #youtube https://www.youtube.com/watch?v=2C_CefSQEAQ",
+      "description": "▶️ AI harness crash course #youtube https://www.youtube.com/watch?v=2C_CefSQEAQ",
+      "url": "https://t.me/pdzeng_talk/5134",
+      "publishedAt": "2026-10-25T10:53:05.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=2C_CefSQEAQ",
+        "siteName": "YouTube",
+        "title": "AI harness crash course",
+        "description": "Annie's codelabs → https://g.dev/ai/ai-harness The model can write the code. It can't open your files, run your tests, or ask before doing something risky. The software that does all of that is the AI harness, and this crash course shows you how to design…",
+        "imageUrl": "https://cdn4.telesco.pe/file/ff37bbEkZQp-g7Ljw6oGIOUcboIxMWl77HNFYeJfISszUi7dsakJoU3yx75AYzrJkSsLwWjl5GNg8HCTy5Up3T746CO4MINuZww_fOZHQ3RD-FG85gOSdf9_uiXcsQPXyTaHUa4ejJ5wfr5IgI8uyF8rrj70MQTL26_RpjnrS5YlGL1tihuryq-JDu1SjkFuqUGGQFME3ER-AaG2RgKuXDAzoGgRzZySP0tio4A6eTLDORtgUfAXWP0V6CjS7aNRPT0gCwdXnGlWL3OpmOlbSKnkxHkTNIePXv-hsrIkBTOkfrQ48IqXJD9XX1X3teEw2m9e--BxAw7rJeZCJzbAoQ.jpg"
+      }
+    },
     {
       "id": "5133",
       "title": "▶️ 163braces 呼聲 VOICES ((融化以後)|找|過期|沒有人回答的問題|IHTS|不存在|鳥|融化以後|控制|天空|小船) #youtube https://www.yout…",
