@@ -1,6 +1,7 @@
 export const pages = [
   { href: "/work/", label: "工作" },
   { href: "/writing/", label: "寫作" },
+  { href: "/substack/", label: "文章" },
   { href: "/about/", label: "關於" },
 ] as const;
 

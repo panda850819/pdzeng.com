@@ -4,16 +4,8 @@ import { Signature } from "@/components/signature";
 import { TerminalIntro } from "@/components/terminal-intro";
 import { jobs, offWork } from "@/lib/home-data";
 import { nowSummary } from "@/lib/now-data";
-import { unifiedWriting } from "@/lib/writing";
-import { writingHeadline } from "@/lib/writing-display";
-
-const month = (iso: string) => iso.slice(0, 7).replace("-", ".");
 
 export default function Home() {
-  const latest = unifiedWriting()
-    .filter((post) => post.category === "writing")
-    .slice(0, 4);
-
   return (
     <div className="home" lang="zh-Hant">
       <section className="hero t1" data-hdr aria-label="Panda Zeng">
@@ -82,33 +74,11 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="lately t1" data-hdr aria-labelledby="wr-h">
+      <section className="lately t1" data-hdr aria-label="熊貓隨口說">
         <div className="inner">
-          <h2 id="wr-h">
-            <span className="eyebrow">Lately</span>最近寫的
-          </h2>
-          <ol>
-            {latest.map((post) => (
-              <li key={post.id}>
-                <a
-                  href={post.url}
-                  {...(post.external ? { target: "_blank", rel: "noreferrer" } : {})}
-                >
-                  <time dateTime={post.publishedAt}>{month(post.publishedAt)}</time>
-                  <span lang={post.locale === "zh-TW" ? "zh-Hant" : "en"}>{writingHeadline(post)}</span>
-                  <i aria-hidden="true">→</i>
-                </a>
-              </li>
-            ))}
-          </ol>
-          <div className="more">
-            <Link className="g-link" href="/writing/">
-              全部文章
-            </Link>
-            <Link className="g-link minor" href="/writing/#murmurtalk">
-              隨口說
-            </Link>
-          </div>
+          <Link className="g-link" href="/substack/">
+            熊貓隨口說 →
+          </Link>
         </div>
       </section>
       <TerminalIntro />
