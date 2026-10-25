@@ -14,6 +14,8 @@ function read(rel) {
 
 // Split in two so the removed About line never sits in the repo as one literal, yet stays guarded
 const DROPPED_LINE = "營運的" + "本質就是讓公司活下來";
+// Same trick for the retired footer title
+const DROPPED_CTA = "缺個會" + "打雜的嗎？來聊聊";
 
 // The exported HTML of <main>, so header and footer links don't leak into home assertions
 const mainOf = (html) => html.slice(html.indexOf('<main id="main-content"'), html.indexOf("</main>"));
@@ -77,15 +79,20 @@ describe("every page shares the new header and footer", () => {
       // header
       expect(html).toContain('class="lockup"');
       expect(html).toContain('aria-label="主選單"');
-      for (const href of ["/work/", "/writing/", "/substack/", "/about/"]) expect(html).toContain(`href="${href}"`);
+      for (const href of ["/work/", "/writing/", "/substack/", "/about/", "/cv/"]) expect(html).toContain(`href="${href}"`);
+      expect(html.match(/href="\/cv\/"[^>]*>履歷<\/a>/g)?.length).toBe(2);
       expect(html).toContain('id="mnav"');
       expect(html).toContain('class="theme-btn"');
       // footer
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');
-      expect(html).toContain("缺個會打雜的嗎？來聊聊");
-      expect(html).toContain('<p class="fcta-note">歡迎聊聊</p>');
-      expect(html).toContain('href="https://calendly.com/pdzeng/meetings"');
+      const fcta = html.slice(html.indexOf('class="fcta"'), html.indexOf('class="fcols"'));
+      expect(fcta).toContain('<h2 class="fcta-title">歡迎聊聊</h2>');
+      expect(fcta).toMatch(/<a class="cta" href="https:\/\/calendly\.com\/pdzeng\/meetings"[^>]*>歡迎聊聊<svg/);
+      expect(fcta).not.toContain('<p class="fcta-note">歡迎聊聊</p>');
+      expect(fcta).not.toContain("聯絡我合作");
+      expect(html).toMatch(/<a class="cta" href="https:\/\/t\.me\/pdzeng"[^>]*>聯絡我合作<svg/);
+      expect(html).not.toContain(DROPPED_CTA);
       for (const gone of ["工作、合作，或只是想聊聊，都歡迎。", "Ops Builder"]) expect(html).not.toContain(gone);
       for (const href of ["https://x.com/pandazeng1", "https://www.linkedin.com/in/pdzeng/", "https://t.me/pdzeng", "/rss.xml", "https://pdzeng.substack.com/subscribe"]) {
         expect(html).toContain(`href="${href}"`);
@@ -96,6 +103,15 @@ describe("every page shares the new header and footer", () => {
   test("the current page is marked in the header", () => {
     expect(read("work/index.html")).toMatch(/<a aria-current="page" href="\/work\/"|<a href="\/work\/" aria-current="page"/);
     expect(read("about/index.html")).toMatch(/aria-current="page" href="\/about\/"|href="\/about\/" aria-current="page"/);
+    expect(read("cv/index.html")).toMatch(/aria-current="page" href="\/cv\/"|href="\/cv\/" aria-current="page"/);
+  });
+
+  test("/cv/ opens with a Chinese title and a one-line intro, English body kept", () => {
+    const main = mainOf(read("cv/index.html"));
+    expect(main).toMatch(/<h1[^>]*>履歷<\/h1>/);
+    expect(main.match(/<h1/g)?.length).toBe(1);
+    expect(main).toContain("有全端背景的營運負責人，2018 年起活躍於 Web3。");
+    for (const h of ["Experience", "Achievements", "Education", "Skills"]) expect(main).toContain(`>${h}</h2>`);
   });
 });
 

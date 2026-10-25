@@ -10,7 +10,12 @@ export default function CvPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-6" lang="en">
       <header>
-        <h1 className="display-tracking font-display text-4xl font-semibold">Panda Zeng</h1>
+        <div lang="zh-Hant">
+          <h1 className="display-tracking font-display text-4xl font-semibold">履歷</h1>
+          {/* 佔位簡介，待 Panda 改文案 */}
+          <p className="mt-3 mb-10 max-w-xl text-muted">有全端背景的營運負責人，2018 年起活躍於 Web3。</p>
+        </div>
+        <p className="display-tracking font-display text-2xl font-semibold">Panda Zeng</p>
         <p className="mt-2 text-bamboo">Operations · People &amp; Ops</p>
         <p className="mt-5 max-w-2xl text-muted">{summary}</p>
       </header>
