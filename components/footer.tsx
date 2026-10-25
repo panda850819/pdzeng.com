@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ContactCta } from "@/components/contact-cta";
 import { Route } from "@/components/route";
 import { Signature } from "@/components/signature";
-import { pages, socials } from "@/lib/site-links";
+import { meetingHref, pages, socials } from "@/lib/site-links";
 
 const footerPages = [{ href: "/", label: "首頁" }, ...pages];
 
@@ -21,8 +21,14 @@ export function Footer() {
           <Signature id="sig-foot" />
         </div>
         <div className="fcta">
+          <h2 className="fcta-title">缺個會打雜的嗎？來聊聊</h2>
           <ContactCta />
-          <p className="fcta-note">工作、合作，或只是想聊聊，都歡迎。</p>
+          <p className="fcta-note">歡迎聊聊</p>
+          <p className="fcta-note">
+            <a href={meetingHref} target="_blank" rel="noreferrer">
+              calendly.com/pdzeng/meetings
+            </a>
+          </p>
         </div>
         <div className="fcols">
           <ul>

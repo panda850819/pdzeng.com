@@ -34,7 +34,6 @@ describe("static export of the home page", () => {
     expect(main).not.toContain("我做公司營運");
     expect(main).not.toContain('class="message');
     expect(main).not.toContain('class="name-row');
-    expect(html).toContain("工作、合作，或只是想聊聊，都歡迎。");
   });
 
   test("work vs. off work renders from the typed data", () => {
@@ -55,20 +54,12 @@ describe("static export of the home page", () => {
     expect(html).not.toContain("<img");
   });
 
-  test("最近寫的 lists four posts", () => {
-    const lately = main.slice(main.indexOf('aria-labelledby="wr-h"'));
-    const list = lately.slice(lately.indexOf("<ol"), lately.indexOf("</ol>"));
-    expect(list.match(/<li>/g)?.length).toBe(4);
-  });
-
-  test("最近寫的 ends with 全部文章, then the 隨口說 entry", () => {
-    const lately = main.slice(main.indexOf('aria-labelledby="wr-h"'));
-    const more = lately.slice(lately.indexOf("</ol>"));
-    const all = more.indexOf('href="/writing/"');
-    const talk = more.indexOf('href="/writing/#murmurtalk"');
-    expect(all).toBeGreaterThan(-1);
-    expect(talk).toBeGreaterThan(all);
-    expect(more).toMatch(/href="\/writing\/#murmurtalk"[^>]*>隨口說<\/a>/);
+  test("最近寫的 is down to one 熊貓隨口說 link to /substack/", () => {
+    expect(main).not.toContain('aria-labelledby="wr-h"');
+    expect(main).not.toContain("最近寫的");
+    const lately = main.slice(main.indexOf('class="lately'));
+    expect(lately.match(/<a /g)?.length).toBe(1);
+    expect(lately).toMatch(/href="\/substack\/"[^>]*>熊貓隨口說 →<\/a>/);
   });
 
   test("JSON-LD and description are updated", () => {
@@ -78,7 +69,7 @@ describe("static export of the home page", () => {
 });
 
 describe("every page shares the new header and footer", () => {
-  const pages = ["index.html", "now/index.html", "work/index.html", "about/index.html", "writing/index.html", "cv/index.html"];
+  const pages = ["index.html", "now/index.html", "work/index.html", "about/index.html", "writing/index.html", "substack/index.html", "cv/index.html"];
 
   for (const rel of pages) {
     test(rel, () => {
@@ -86,12 +77,16 @@ describe("every page shares the new header and footer", () => {
       // header
       expect(html).toContain('class="lockup"');
       expect(html).toContain('aria-label="主選單"');
-      for (const href of ["/work/", "/writing/", "/about/"]) expect(html).toContain(`href="${href}"`);
+      for (const href of ["/work/", "/writing/", "/substack/", "/about/"]) expect(html).toContain(`href="${href}"`);
       expect(html).toContain('id="mnav"');
       expect(html).toContain('class="theme-btn"');
       // footer
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');
+      expect(html).toContain("缺個會打雜的嗎？來聊聊");
+      expect(html).toContain('<p class="fcta-note">歡迎聊聊</p>');
+      expect(html).toContain('href="https://calendly.com/pdzeng/meetings"');
+      for (const gone of ["工作、合作，或只是想聊聊，都歡迎。", "Ops Builder"]) expect(html).not.toContain(gone);
       for (const href of ["https://x.com/pandazeng1", "https://www.linkedin.com/in/pdzeng/", "https://t.me/pdzeng", "/rss.xml", "https://pdzeng.substack.com/subscribe"]) {
         expect(html).toContain(`href="${href}"`);
       }
@@ -112,6 +107,31 @@ describe("/writing/ categories", () => {
     const group = html.slice(html.indexOf('aria-label="Filter writing"'), html.indexOf('aria-label="View mode"'));
     expect(group.match(/<button/g)?.length).toBe(3);
     for (const old of ["Blog", "Telegram", "X archive"]) expect(group).not.toContain(old);
+  });
+});
+
+describe("/substack/ lists 熊貓隨口說", () => {
+  const html = read("substack/index.html");
+  const main = mainOf(html);
+
+  test("nine Substack posts, grouped 2026 then 2023", () => {
+    expect(main.match(/<li /g)?.length).toBe(9);
+    expect(main.indexOf('id="y2026"')).toBeGreaterThan(-1);
+    expect(main.indexOf('id="y2023"')).toBeGreaterThan(main.indexOf('id="y2026"'));
+    expect(main).toMatch(/datetime="2026-10-20"[^>]*>2026\.10\.20<\/time>/i);
+    expect(main).toContain('href="https://pdzeng.substack.com/p/ba5"');
+    expect(main).toContain("離職兩個月，那個「到時候」好像來了");
+    expect(main).toContain('href="https://pdzeng.substack.com/p/478"');
+    expect(main).toContain("到 Substack 訂閱 →");
+  });
+
+  test("no subscriber-only label", () => {
+    expect(html).not.toContain("訂閱者" + "限定");
+    expect(html).not.toContain("wl-tag");
+  });
+
+  test("the header marks 文章 as current", () => {
+    expect(html).toMatch(/aria-current="page" href="\/substack\/"|href="\/substack\/" aria-current="page"/);
   });
 });
 
