@@ -21,9 +21,8 @@ export function Footer() {
           <Signature id="sig-foot" />
         </div>
         <div className="fcta">
-          <h2 className="fcta-title">缺個會打雜的嗎？來聊聊</h2>
-          <ContactCta />
-          <p className="fcta-note">歡迎聊聊</p>
+          <h2 className="fcta-title">歡迎聊聊</h2>
+          <ContactCta href={meetingHref}>歡迎聊聊</ContactCta>
           <p className="fcta-note">
             <a href={meetingHref} target="_blank" rel="noreferrer">
               calendly.com/pdzeng/meetings

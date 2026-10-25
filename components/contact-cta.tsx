@@ -1,9 +1,10 @@
+import type { ReactNode } from "react";
 import { contactHref } from "@/lib/site-links";
 
-export function ContactCta() {
+export function ContactCta({ href = contactHref, children = "聯絡我合作" }: { href?: string; children?: ReactNode }) {
   return (
-    <a className="cta" href={contactHref} target="_blank" rel="noreferrer">
-      聯絡我合作
+    <a className="cta" href={href} target="_blank" rel="noreferrer">
+      {children}
       <svg viewBox="0 0 14 14" aria-hidden="true">
         <path d="M3 11 11 3M5 3h6v6" fill="none" stroke="currentColor" strokeWidth="2" />
       </svg>

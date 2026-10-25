@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { ContactCta } from "@/components/contact-cta";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { pages, socials } from "@/lib/site-links";
+import { navPages, socials } from "@/lib/site-links";
 
 declare global {
   interface Window {
@@ -91,7 +91,7 @@ export function Header() {
         <span className="g">ZENG</span>
       </Link>
       <nav className="topnav" aria-label="主選單">
-        {pages.map(({ href, label }) => (
+        {navPages.map(({ href, label }) => (
           <Link key={href} href={href} aria-current={isCurrent(pathname, href) ? "page" : undefined}>
             {label}
           </Link>
@@ -140,7 +140,7 @@ export function Header() {
         </a>
         <span className="kicker">頁面</span>
         <ul className="pages">
-          {pages.map(({ href, label }) => (
+          {navPages.map(({ href, label }) => (
             <li key={href}>
               <Link href={href} aria-current={isCurrent(pathname, href) ? "page" : undefined}>
                 {label}
