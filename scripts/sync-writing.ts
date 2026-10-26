@@ -2,7 +2,7 @@
  * Refresh public writing sources into content/writing-sources.json.
  *
  * Substack and Telegram need no credentials and run in CI. X uses the local
- * read-only `bird` session when available; CI preserves the last X snapshot.
+ * read-only `xbird` session when available; CI preserves the last X snapshot.
  */
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -202,58 +202,81 @@ const readPrevious = (): Snapshot | undefined => {
   return JSON.parse(readFileSync(OUT, "utf8")) as Snapshot;
 };
 
-const syncX = (previous: XItem[]): XItem[] => {
+type XbirdMedia = {
+  type: string;
+  url: string;
+  previewUrl?: string;
+};
+
+type XbirdTweet = {
+  id: string;
+  text: string;
+  createdAt?: string;
+  conversationId?: string;
+  author: {
+    username: string;
+    name: string;
+  };
+  media?: XbirdMedia[];
+  quotedTweet?: XbirdTweet;
+  replyCount?: number;
+  retweetCount?: number;
+  likeCount?: number;
+};
+
+type XbirdEnvelope =
+  | { ok: true; data: XbirdTweet[] | { tweets: XbirdTweet[] } }
+  | { ok: false; error?: { code?: string; message?: string } };
+
+export type XbirdResult = { exitCode: number; stdout: string; stderr: string };
+export type XbirdRunner = (command: string[]) => XbirdResult;
+
+const runXbird: XbirdRunner = (command) => {
+  const result = Bun.spawnSync(command, { stdout: "pipe", stderr: "pipe" });
+  return { exitCode: result.exitCode, stdout: result.stdout.toString(), stderr: result.stderr.toString() };
+};
+
+const xbirdError = (envelope: XbirdEnvelope) =>
+  envelope.ok ? "" : [envelope.error?.code, envelope.error?.message].filter(Boolean).join(": ");
+
+// xbird wraps --json output in { ok, data, meta }. Paginated runs (--max-pages)
+// put tweets under data.tweets; single-page runs return data as the array.
+export const parseXbirdTweets = (stdout: string): XbirdTweet[] => {
+  const envelope = JSON.parse(stdout) as XbirdEnvelope;
+  if (!envelope.ok) throw new Error(`xbird failed: ${xbirdError(envelope) || "unknown error"}`);
+  const tweets = Array.isArray(envelope.data) ? envelope.data : envelope.data?.tweets;
+  if (!Array.isArray(tweets)) throw new Error("xbird returned no tweets array");
+  return tweets;
+};
+
+const describeXbirdFailure = (result: XbirdResult) => {
   try {
-    const result = Bun.spawnSync(
-      ["bird", "user-tweets", X_HANDLE, "-n", "100", "--max-pages", "5", "--json"],
-      { stdout: "pipe", stderr: "pipe" },
-    );
+    const message = xbirdError(JSON.parse(result.stdout) as XbirdEnvelope);
+    if (message) return message;
+  } catch {}
+  return result.stderr.trim();
+};
+
+export const syncX = (
+  previous: XItem[],
+  { requireX = REQUIRE_X, run = runXbird }: { requireX?: boolean; run?: XbirdRunner } = {},
+): XItem[] => {
+  try {
+    const result = run(["xbird", "user-tweets", X_HANDLE, "-n", "100", "--max-pages", "5", "--json"]);
     if (result.exitCode !== 0) {
-      if (REQUIRE_X) {
-        throw new Error(`bird exited ${result.exitCode}: ${result.stderr.toString().trim()}`);
+      if (requireX) {
+        throw new Error(`xbird exited ${result.exitCode}: ${describeXbirdFailure(result)}`);
       }
       return previous;
     }
 
-    const payload = JSON.parse(result.stdout.toString()) as {
-      tweets: Array<{
-        id: string;
-        text: string;
-        createdAt: string;
-        conversationId: string;
-        author: {
-          username: string;
-        };
-        media?: Array<{
-          type: string;
-          url: string;
-          previewUrl?: string;
-        }>;
-        quotedTweet?: {
-          id: string;
-          text: string;
-          author: {
-            username: string;
-            name: string;
-          };
-          media?: Array<{
-            type: string;
-            url: string;
-            previewUrl?: string;
-          }>;
-        };
-        replyCount?: number;
-        retweetCount?: number;
-        likeCount?: number;
-      }>;
-    };
-
-    return payload.tweets
+    return parseXbirdTweets(result.stdout)
       .filter(
-        (tweet) =>
+        (tweet): tweet is XbirdTweet & { createdAt: string } =>
           tweet.author.username.toLowerCase() === X_HANDLE.toLowerCase() &&
           tweet.id === tweet.conversationId &&
-          tweet.text.trim() &&
+          Boolean(tweet.createdAt) &&
+          Boolean(tweet.text.trim()) &&
           !tweet.text.trimStart().startsWith("RT @"),
       )
       .map((tweet) => {
@@ -290,28 +313,30 @@ const syncX = (previous: XItem[]): XItem[] => {
       })
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
   } catch (error) {
-    if (REQUIRE_X) throw error;
+    if (requireX) throw error;
     return previous;
   }
 };
 
-const previous = readPrevious();
-const [freshSubstack, freshTelegram] = await Promise.all([syncSubstack(), syncTelegram()]);
-const previousX = previous?.x ?? [];
-const freshX = syncX(previousX);
-const substack = mergeArchive("Substack", freshSubstack, previous?.substack ?? []);
-const telegram = mergeArchive("Telegram", freshTelegram, previous?.telegram ?? []);
-const x = mergeArchive("X", freshX, previousX);
-const dates = [...substack, ...telegram, ...x].map((item) => item.publishedAt).sort();
-const snapshot: Snapshot = {
-  updatedAt: dates.at(-1) ?? previous?.updatedAt ?? new Date(0).toISOString(),
-  substack,
-  telegram,
-  x,
-};
+if (import.meta.main) {
+  const previous = readPrevious();
+  const [freshSubstack, freshTelegram] = await Promise.all([syncSubstack(), syncTelegram()]);
+  const previousX = previous?.x ?? [];
+  const freshX = syncX(previousX);
+  const substack = mergeArchive("Substack", freshSubstack, previous?.substack ?? []);
+  const telegram = mergeArchive("Telegram", freshTelegram, previous?.telegram ?? []);
+  const x = mergeArchive("X", freshX, previousX);
+  const dates = [...substack, ...telegram, ...x].map((item) => item.publishedAt).sort();
+  const snapshot: Snapshot = {
+    updatedAt: dates.at(-1) ?? previous?.updatedAt ?? new Date(0).toISOString(),
+    substack,
+    telegram,
+    x,
+  };
 
-writeFileSync(OUT, `${JSON.stringify(snapshot, null, 2)}\n`);
-const xStatus = freshX === previousX ? "preserved" : "refreshed";
-console.log(
-  `synced ${substack.length} Substack posts, ${telegram.length} Telegram posts, ${x.length} X posts (${xStatus})`,
-);
+  writeFileSync(OUT, `${JSON.stringify(snapshot, null, 2)}\n`);
+  const xStatus = freshX === previousX ? "preserved" : "refreshed";
+  console.log(
+    `synced ${substack.length} Substack posts, ${telegram.length} Telegram posts, ${x.length} X posts (${xStatus})`,
+  );
+}
