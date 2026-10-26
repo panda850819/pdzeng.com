@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { OG_TAGLINE } from "../lib/site-meta.ts";
 
 const OUT = join(import.meta.dir, "..", "out");
 
@@ -27,6 +28,21 @@ describe("static export of the home page", () => {
     expect(main).toContain('clip-path="url(#sig-hero)"');
     expect(main).toContain("轉換期：跑步、重訓、學 AI、寫投資筆記");
     expect(main).toContain('href="/now/"');
+  });
+
+  test("the hero shows the Operations Manager positioning under the signature, server-rendered", () => {
+    expect(main).toContain('<p class="hero-role" lang="en">Operations Manager</p>');
+    expect(main.indexOf('class="hero-role"')).toBeGreaterThan(main.indexOf('clip-path="url(#sig-hero)"'));
+    expect(main).toContain('<h1 class="vh">Panda Zeng</h1>');
+  });
+
+  test("home head carries the zh positioning title, description, OG and Twitter tags", () => {
+    const head = html.slice(0, html.indexOf("</head>"));
+    expect(head).toContain("<title>Panda Zeng｜營運經理 Operations Manager（Ops・HR）</title>");
+    expect(head).toMatch(/<meta name="description" content="[^"]*營運經理（Operations Manager）[^"]*人資（HR）/);
+    expect(head).toContain('<meta property="og:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
+    expect(head).toContain('<meta property="og:locale" content="zh_TW"/>');
+    expect(head).toContain('<meta name="twitter:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
   });
 
   test("the message section is gone", () => {
@@ -64,7 +80,8 @@ describe("static export of the home page", () => {
 
   test("JSON-LD and description are updated", () => {
     expect(html).toContain('"alternateName":["熊貓隨口說","Panda Tseng"]');
-    expect(html).toContain("Panda Zeng — operator, runner, writing about operations and AI.");
+    expect(html).toContain("Panda Zeng，營運經理（Operations Manager），做公司營運（Ops）與人資（HR）");
+    expect(html).not.toContain("operator, runner, writing about operations and AI");
   });
 });
 
@@ -151,10 +168,66 @@ describe("about and OG image", () => {
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
   });
 
+  test("child pages keep their own og:title instead of the home one", () => {
+    expect(read("about/index.html")).toContain('<meta property="og:title" content="關於 · Panda Zeng"/>');
+  });
+
   test("the OG image is a 1200×630 PNG", () => {
     const png = readFileSync(join(OUT, "opengraph-image"));
     expect(png.subarray(1, 4).toString()).toBe("PNG");
     expect(png.readUInt32BE(16)).toBe(1200);
     expect(png.readUInt32BE(20)).toBe(630);
+  });
+});
+
+// Code points mapped by a TrueType font's Unicode cmap (formats 4 and 12 are all pyftsubset emits)
+function cmapCodePoints(buf) {
+  const tables = buf.readUInt16BE(4);
+  let cmap = -1;
+  for (let i = 0; i < tables; i++) {
+    const rec = 12 + i * 16;
+    if (buf.toString("latin1", rec, rec + 4) === "cmap") cmap = buf.readUInt32BE(rec + 8);
+  }
+  const points = new Set();
+  const subtables = buf.readUInt16BE(cmap + 2);
+  for (let i = 0; i < subtables; i++) {
+    const sub = cmap + buf.readUInt32BE(cmap + 4 + i * 8 + 4);
+    const format = buf.readUInt16BE(sub);
+    if (format === 4) {
+      const segX2 = buf.readUInt16BE(sub + 6);
+      const ends = sub + 14;
+      const starts = ends + segX2 + 2;
+      for (let s = 0; s < segX2; s += 2) {
+        const end = buf.readUInt16BE(ends + s);
+        for (let c = buf.readUInt16BE(starts + s); c <= end && c !== 0xffff; c++) points.add(c);
+      }
+    } else if (format === 12) {
+      const groups = buf.readUInt32BE(sub + 12);
+      for (let g = 0; g < groups; g++) {
+        const at = sub + 16 + g * 12;
+        for (let c = buf.readUInt32BE(at); c <= buf.readUInt32BE(at + 4); c++) points.add(c);
+      }
+    }
+  }
+  return points;
+}
+
+describe("OG image font", () => {
+  const FONTS = join(import.meta.dir, "..", "assets", "fonts");
+
+  test("the bundled subset covers every character the OG image draws, so next/og never fetches a font", () => {
+    const points = cmapCodePoints(readFileSync(join(FONTS, "NotoSansTC-og-subset.ttf")));
+    const missing = [...new Set(["Panda Zeng", "pdzeng.com", OG_TAGLINE].join(""))].filter((ch) => !points.has(ch.codePointAt(0)));
+    expect(missing).toEqual([]);
+  });
+
+  test("the font ships with its OFL licence", () => {
+    expect(readFileSync(join(FONTS, "OFL.txt"), "utf8")).toContain("SIL Open Font License, Version 1.1");
+  });
+
+  test("the OG route reads the bundled font instead of relying on next/og's network fallback", () => {
+    const src = readFileSync(join(import.meta.dir, "..", "app", "opengraph-image.tsx"), "utf8");
+    expect(src).toContain("assets/fonts/NotoSansTC-og-subset.ttf");
+    expect(src).toMatch(/fonts: \[\{ name: "Noto Sans TC"/);
   });
 });
