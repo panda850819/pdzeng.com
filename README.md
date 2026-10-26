@@ -29,12 +29,12 @@ Telegram keeps authored notes separate from linked content; X keeps media,
 quotes, and metrics secondary to the post text.
 
 Refresh the versioned source snapshot with `bun run sync:writing`. X refreshes
-through Panda's local read-only `bird` session. GitHub Actions does not run this
+through Panda's local read-only `xbird` session. GitHub Actions does not run this
 sync because it has no X login state.
 
 Production scheduling is managed outside this repository on Panda's VPS. The
 host runs `bun run publish:writing` every 30 minutes from the canonical `main`
-checkout. The publisher requires a clean worktree and a successful `bird`
+checkout. The publisher requires a clean worktree and a successful `xbird`
 refresh. After pulling, it runs `bun install --frozen-lockfile` whenever
 `package.json` or `bun.lock` differs from what it last installed, and it
 regenerates the Velite collections before TypeScript validation. It then
