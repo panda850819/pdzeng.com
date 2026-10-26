@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:14:19.000Z",
+  "updatedAt": "2026-10-26T06:33:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5137",
+      "title": "https://unlost.money",
+      "description": "https://unlost.money",
+      "url": "https://t.me/pdzeng_talk/5137",
+      "publishedAt": "2026-10-26T06:33:06.000Z",
+      "preview": {
+        "targetUrl": "https://unlost.money/",
+        "siteName": "unlost",
+        "title": "unlost: money left on Ethereum that is still yours",
+        "description": "Paste an Ethereum address. See whether old contracts are still holding funds for it, and how to take them back yourself.",
+        "imageUrl": "https://cdn4.telesco.pe/file/S0AozatEW6fTXC7puGYKiTkHtRbyJCHiTYj7wlfGjt8GvNWMHaNnXZWXvDqmRlfutWjEQ8JO0I_CBjtQE20eaHHar_k6MGn1wSRfX1_AikojYIb77_3qxDoJVbZgUbshP9NtB0Fwph7ns8vW837oW4E8G6nhIFuQSBbwNFbpZAlIHNtAhU-WlTAmc2YOimzgBe3IBgU7v5zOd-n4NvetV7kDSfIAWHzQwIkmQuF64S0nItoxmi7HectC-bKiwmxM6qmiasvyR00G_vIdcURqC2SZla37_h4dHViwr6jZRxWgfwl_KNEfJpSHvoG7oqLcBxPN85V5gIMYYbNaG05ONQ.jpg"
+      }
+    },
     {
       "id": "5136",
       "title": "https://x.com/lesliedqbb/status/2114293658514317502?s=20",
