@@ -92,8 +92,9 @@ body {
 }
 
 /* CJK runs breathe more than Latin; tracking never touches Hanzi.
-   The G header, home, and footer set their own line-heights, so they are left out. */
-:lang(zh):not(:where(.home, .home *, .site-header *, .foot *)) {
+   The G header, home, and footer set their own line-heights, so they are left out.
+   Only blocks that declare zh themselves count: <html lang="zh-Hant"> alone must not restyle English pages. */
+:where(body [lang|="zh"], body [lang|="zh"] *):lang(zh):not(:where(.home, .home *, .site-header *, .foot *)) {
   line-height: 1.75;
   letter-spacing: normal;
 }
@@ -143,7 +144,7 @@ p {
   max-width: 65ch;
   font-size: 1.0625rem;
 }
-.article:lang(zh) {
+.article:where(body [lang|="zh"], body [lang|="zh"] *):lang(zh) {
   line-height: 1.8;
 }
 .article > * + * {
@@ -262,7 +263,7 @@ p {
 .kicker {
   font-family: var(--font-display);
   font-weight: 700;
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.16em;
   text-transform: uppercase;
   font-stretch: 110%;
@@ -456,7 +457,9 @@ p {
   top: 16px;
   right: 16px;
   width: 44px;
-  height: 40px;
+  height: 44px;
+  padding: 0;
+  font-family: inherit;
   border-radius: 9px;
   border: 1px solid color-mix(in oklch, var(--cream) 40%, transparent);
   color: var(--cream);
@@ -467,6 +470,10 @@ p {
   line-height: 1;
   background: none;
   cursor: pointer;
+}
+.mnav .close:focus-visible {
+  outline: 2px solid var(--neon);
+  outline-offset: 2px;
 }
 .mnav .kicker {
   display: block;
@@ -966,12 +973,17 @@ p {
   margin: 0 auto;
 }
 @media (max-width: 760px) {
+  /* a shorter hero, so the first screen also shows where the Work list starts */
+  .hero {
+    height: 54svh;
+    min-height: 380px;
+  }
   .hero-sig {
     width: 86vw;
   }
   .home .now {
     width: 158px;
-    font-size: 12px;
+    font-size: 13px;
     padding: 10px 10px 12px;
   }
   .home .duel {
@@ -1023,6 +1035,44 @@ p {
   }
   .lately {
     padding: 12vh 16px 0;
+  }
+}
+
+/* tap targets: 44×44 on phones. `.hit` and the list below lay an invisible ::after over the element, grown
+   to 44px on whichever axis is short, so nothing moves; stacked footer and menu links get a min-size instead. */
+.hit {
+  position: relative;
+}
+.hit::after {
+  content: "";
+  position: absolute;
+  inset: min(0px, calc(50% - 22px)) min(0px, calc(50% - 22px));
+}
+@media (max-width: 760px) {
+  .topright > *,
+  .jobs .co,
+  .home .g-link,
+  .mnav .cta,
+  .legal a {
+    position: relative;
+  }
+  .topright > *::after,
+  .jobs .co::after,
+  .home .g-link::after,
+  .mnav .cta::after,
+  .legal a::after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    inset: min(0px, calc(50% - 22px)) min(0px, calc(50% - 22px));
+  }
+  .mnav .social a,
+  .fcols li a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
   }
 }
 

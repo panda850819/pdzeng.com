@@ -17,7 +17,7 @@ const colors = [
 
 export default function Styleguide() {
   return (
-    <div className="mx-auto w-full max-w-5xl space-y-16 px-6">
+    <div className="mx-auto w-full max-w-5xl space-y-16 px-6" lang="en">
       <section>
         <h1 className="display-tracking font-display text-4xl font-semibold">Styleguide</h1>
         <p className="mt-2 text-muted">Olive-black, cream, and bamboo — tokens and primitives.</p>

@@ -71,7 +71,23 @@ export function Header() {
     window.__lenis?.[open ? "stop" : "start"]();
     if (open) sheetRef.current?.querySelector<HTMLAnchorElement>(".pages a")?.focus();
     if (!open) return;
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && close();
+    // modal sheet: Esc closes, Tab and Shift+Tab wrap around inside it
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") return close();
+      const sheet = sheetRef.current;
+      if (e.key !== "Tab" || !sheet) return;
+      const items = Array.from(sheet.querySelectorAll<HTMLElement>("a[href], button"));
+      const first = items[0];
+      const last = items[items.length - 1];
+      const inside = sheet.contains(document.activeElement);
+      if (e.shiftKey && (document.activeElement === first || !inside)) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && (document.activeElement === last || !inside)) {
+        e.preventDefault();
+        first.focus();
+      }
+    };
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
   }, [open]);
@@ -112,6 +128,12 @@ export function Header() {
             e.preventDefault();
             setOpen(true);
           }}
+          // role="button" promises Space as well as Enter
+          onKeyDown={(e) => {
+            if (e.key !== " ") return;
+            e.preventDefault();
+            setOpen(true);
+          }}
         >
           <svg viewBox="0 0 18 12" aria-hidden="true">
             <path d="M1 2h16M7 10h10" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -127,17 +149,12 @@ export function Header() {
         aria-label="選單"
         onClick={(e) => {
           const target = e.target as HTMLElement;
-          if (target.closest(".close")) {
-            e.preventDefault();
-            close();
-          } else if (target === e.currentTarget || target.closest("a")) {
-            setOpen(false);
-          }
+          if (target === e.currentTarget || target.closest("a")) setOpen(false);
         }}
       >
-        <a className="close" href="#" aria-label="關閉選單">
-          ×
-        </a>
+        <button type="button" className="close" aria-label="關閉選單" onClick={close}>
+          <span aria-hidden="true">×</span>
+        </button>
         <span className="kicker">頁面</span>
         <ul className="pages">
           {pages.map(({ href, label }) => (

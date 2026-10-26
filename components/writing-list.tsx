@@ -124,7 +124,7 @@ function CompactPreview({ preview, showImage = true, primary = false, excludeTex
         {preview.title && preview.title !== excludeText && (
           <p className={`mt-1 line-clamp-2 text-ink ${primary ? "text-base" : "text-sm"}`}>{preview.title}</p>
         )}
-        {preview.description && preview.description !== excludeText && <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-muted">{preview.description}</p>}
+        {preview.description && preview.description !== excludeText && <p className="mt-1 line-clamp-2 text-[13px] leading-relaxed text-muted">{preview.description}</p>}
       </div>
       {showImage && preview.imageUrl && <PreviewImage preview={preview} className="aspect-square rounded-sm" />}
     </div>
@@ -254,7 +254,7 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
                 key={item.key}
                 onClick={() => switchFilter(item.key)}
                 aria-pressed={filter === item.key}
-                className={`rounded-full px-4 py-1.5 text-sm transition-colors duration-150 active:scale-95 ${
+                className={`hit rounded-full px-4 py-1.5 text-sm transition-colors duration-150 active:scale-95 ${
                   filter === item.key
                     ? "bg-bamboo font-medium text-canvas"
                     : "surface-2 hairline text-muted [@media(hover:hover)]:hover:text-ink"
