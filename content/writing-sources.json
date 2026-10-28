@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:08:53.000Z",
+  "updatedAt": "2026-10-28T04:27:31.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5140",
+      "title": "也是裝上了 Omarchy",
+      "description": "也是裝上了 Omarchy",
+      "url": "https://t.me/pdzeng_talk/5140",
+      "publishedAt": "2026-10-28T04:27:31.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5140",
+        "siteName": "Telegram",
+        "title": "也是裝上了 Omarchy",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/iDNPJfDk_APpu4nj_gwXfY8y5yWKtIYO810DsB_HA5RIqJBsNjPIf5LpH4tPq6pJRhaTzQ_kSqMjUKrRpzl2AKaLpD-a0wt1Q3nfDmB0F0zlhg7_Bhty8SiBR88ubv0qIz4P1ckGarzA0WkNm7m3dtrD6qGpKVTZyeXczMBejmIgI_TfFxFn9h7uTVFMGAXNj48RxOMA_Z7IvLR9HagymCc5EKH1oFlOCcHtqGXNUL-whnJ_astIxntofzzgoqYMKFV4Yf_64pouspuPnb-PyLJqFRHYO8nO0UmmtYz0Ka0tBzTtVfjNcZaOPMdONQ6KXa2pESZ1w56QU4j_j1urZg.jpg"
+      }
+    },
     {
       "id": "5139",
       "title": "PONS 明显翻转了",
@@ -280,7 +294,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Thariq (@trq212) on X",
         "description": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and mos…",
-        "imageUrl": "https://cdn4.telesco.pe/file/T4BgPEFGNwCyyZvdy7wZzlzzOV2GsGut9vZzjBNE__I8UXM69tMlcv55OtqesViGVTEpEvSOwlubtBQpbw2n0YBbi8KLEtwyexaHmQJ47WBBbneNIA8drs66cAssMsy0Rk4g4unKxO-wtQvxHagwJ96Seg2-QaWLotfvFapI6KnkkU64rOvVuBrCkxiwELwvIBHnm_NVDZsHynhadf6UCki2IZ_9YZowZwp7ZUn_2-5r7SemW-Xuwzb9E_kPvflf2zzG0sn909qE6sg2R2ZZtYWWNpPTWErr0OloZHGEFdqaxCd5czFfVNwMxj0PrymU4NnVQBTH7vdn3AOMFhYYBQ.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Dt50SqqaBX4RKbf2hzWHIUnzI2ow_6CkKPLgQEfg1-qbYGQh0FGD3xdM5vxhGG0d7KeKlXMlu0wU-0sGm0qJpsweTXpFIheoq9VwA7M_FWvfT1MoZmX1yIQQVH5cDyfEHE-ev85JUqk6Ufv4oywPrIrkg6aF2An0pi8JOXaIJB5wtn9AxJ17IR8CHZ2QrHrj8bl4VEKeUtkKiWpVg4OokLG0Hln4HlNo2TIB8QlJ3qy330oybQvRxqe2IUoYOF27vES3GzCTZgXW3Tv5S8DNRD1EPpqRZP0VmGvc3QSyp9VD_x5QLJD8ZaEIiTygYK9N3CFWn1qEdM17EetOQoC1Ng.jpg"
       }
     },
     {
