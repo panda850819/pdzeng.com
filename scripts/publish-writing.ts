@@ -4,6 +4,7 @@
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { assertWellFormedSnapshot } from "./check-writing-snapshot";
 import { ensureDependencies, typecheck } from "./publish-deps";
 import { pushMainWithRetry } from "./publish-git";
 
@@ -44,7 +45,10 @@ let committed = false;
 
 try {
   run(["bun", "scripts/sync-writing.ts", "--require-x"]);
-  const changed = readFileSync(SNAPSHOT_PATH, "utf8") !== originalSnapshot;
+  const snapshot = readFileSync(SNAPSHOT_PATH, "utf8");
+  // Runs before `git add`, so a failure restores originalSnapshot in the catch below.
+  assertWellFormedSnapshot(snapshot);
+  const changed = snapshot !== originalSnapshot;
 
   if (changed || DRY_RUN) typecheck(run);
 

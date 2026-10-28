@@ -96,8 +96,11 @@ const extractPreviewImage = (input: string) =>
     .map((match) => normalizePreviewImage(match[1]))
     .find(Boolean);
 
-const summarize = (text: string, length = 180) =>
-  text.length <= length ? text : `${text.slice(0, length).trimEnd()}…`;
+// Truncate by code point, not UTF-16 unit, so emoji are never split into a lone surrogate.
+export const summarize = (text: string, length = 180) => {
+  const chars = Array.from(text);
+  return chars.length <= length ? text : `${chars.slice(0, length).join("").trimEnd()}…`;
+};
 
 const validateSourceUrl = (value: string, hostname: string) => {
   const url = new URL(value);
