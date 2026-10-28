@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:27:31.000Z",
+  "updatedAt": "2026-10-28T05:10:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5141",
+      "title": "https://x.com/HYRLOVED/status/2115082513366589520?a=8ukFF4Y6uYbY7zOA7Rw&s=20",
+      "description": "https://x.com/HYRLOVED/status/2115082513366589520?a=8ukFF4Y6uYbY7zOA7Rw&s=20",
+      "url": "https://t.me/pdzeng_talk/5141",
+      "publishedAt": "2026-10-28T05:10:12.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/HYRLOVED/status/2115082513366589520?a=8ukFF4Y6uYbY7zOA7Rw&s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "W3草草币 (@HYRLOVED) on X",
+        "description": "一周挖了3000刀",
+        "imageUrl": "https://cdn4.telesco.pe/file/JBQvcXWX80CIwww_rBSYLcsEcUHA2wdaLKT-tf2h0AeXHje-CN1VQwwf9W2npW0gGcD2phEHMEp9Dz2J3bWA89RsvkNtdA33sFLbhsYNvrLBpeijz--eMaqj-OOV_N69DgDmUDhbG3hKy-2KAqRqyfs0h4vPwJrv86aDodZhfbUgPRr5tbTLqEMO54bvwp9u1s8bdyJmOijEwsNS9Qf39ERzLipo7NOZVzgm-Enu2IH6LW8wyLkdFQaoxpY0PE6pVNRog4sjGqeWSFrRD3DvC_-oKm7PYN1qlt1kgTPt6a7TdZMc8yr8-0_D2i8jFllaWgmByQRVhE7wE7X8qqtsvA.jpg"
+      }
+    },
     {
       "id": "5140",
       "title": "也是裝上了 Omarchy",
