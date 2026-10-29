@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:28:18.000Z",
+  "updatedAt": "2026-10-29T02:52:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5148",
+      "title": "zeabur-oss/zeabur 🔗 https://github.com/zeabur-oss/zeabur #github",
+      "description": "zeabur-oss/zeabur 🔗 https://github.com/zeabur-oss/zeabur #github",
+      "url": "https://t.me/pdzeng_talk/5148",
+      "publishedAt": "2026-10-29T02:52:54.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/zeabur-oss/zeabur",
+        "siteName": "GitHub",
+        "title": "GitHub - zeabur-oss/zeabur: Self-hosted PaaS on your own Kubernetes.",
+        "description": "Self-hosted PaaS on your own Kubernetes. Contribute to zeabur-oss/zeabur development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/DZYJddHqDHo91hJXeyuCrWnKDGsAkSdzG9vw6gSVIdG2Tpk2O0LEh8lj6avL8oP8p1A0oNbviUJdHnBIfO9pKZslgFfEH5prsitxtUaj1GIDQG7uBbnntpBNF5TLMep17qaHZATcGkeBFfTeFZywM8nfw19e78L6qw1ncH_AvgYuHkEojVV1u1ejkZwLyFSg6VX0XCWHB6IQMCVVy1I4LRgg47Onlaz4CrI1BsuaXLpTeXcEdv8zTbNFY8zNiBiHo2XSLKfL5g0Arai47Tt_TVdE12byt8gyN_oXD6V48GuyLXA6b9kCnbP18pcioafO43EC93MSTMbK1gQ5DYIbiQ.jpg"
+      }
+    },
     {
       "id": "5147",
       "title": "▶️ 我真的有想像中健康嗎？醫師跑者解讀健檢報告 #youtube https://www.youtube.com/watch?v=evpWabdJ8gs",
