@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T02:52:54.000Z",
+  "updatedAt": "2026-10-29T15:38:44.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5149",
+      "title": "https://x.com/elonmusk/status/2115823011399938182?a=UhN6RW7Om4gl4rFbhfI&s=46 Musk 喊單了",
+      "description": "https://x.com/elonmusk/status/2115823011399938182?a=UhN6RW7Om4gl4rFbhfI&s=46 Musk 喊單了",
+      "url": "https://t.me/pdzeng_talk/5149",
+      "publishedAt": "2026-10-29T15:38:44.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/elonmusk/status/2115823011399938182?a=UhN6RW7Om4gl4rFbhfI&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "Elon Musk (@elonmusk) on X",
+        "description": "Interesting",
+        "imageUrl": "https://cdn4.telesco.pe/file/m7nj09hDfuCHGoG7MwjgpbaZJf__XVufqjPZF5iRiRUi5TEPJBFlFFpSFK2yhlcF9quD4kM8Mzc9eK59mbegb9_1QQrGxh3YnSymDmblAE_yaFxLXWKdiB0Ufm6LyJB_s8uoXd0JvFTJjJJ73oMPtfQ1AAnL8q2YixixB9ea0kSaMFi5IaNeYBXH1PEcv_1ffadnSOXoQ1zy9NJAbDBlsOOEBcwwLrbzKGWpq2YIBA7yRJZJ0gFVyCS3McBL7b99f9fgyLA6JrLhYo29BjZi3Q7Y8iYo8kpQNbCbfn0QQPtmpuSm2IjPNQFZlG7ACeUQrXOo1l62JAPUnhayzF5sBw.jpg"
+      }
+    },
     {
       "id": "5148",
       "title": "zeabur-oss/zeabur 🔗 https://github.com/zeabur-oss/zeabur #github",
