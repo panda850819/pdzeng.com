@@ -3,6 +3,13 @@ name: Deploy
 on:
   push:
     branches: [main]
+    # Docs-only changes skip deploy. Not **/*.md: content/**/*.md are posts,
+    # and docs/redirect-map.json is imported by workers/blog-redirect.
+    paths-ignore:
+      - 'README.md'
+      - 'LICENSE'
+      - 'docs/**/*.md'
+      - 'docs/pr-media/**'
   workflow_dispatch:
 
 concurrency:
