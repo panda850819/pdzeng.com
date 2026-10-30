@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:40:14.000Z",
+  "updatedAt": "2026-10-30T02:24:38.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,26 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5153",
+      "title": "*币安：安全漏洞源于被入侵的DEVOPS笔记本电脑及服务容器 *币安称无证据显示钱包私钥泄露",
+      "description": "*币安：安全漏洞源于被入侵的DEVOPS笔记本电脑及服务容器 *币安称无证据显示钱包私钥泄露",
+      "url": "https://t.me/pdzeng_talk/5153",
+      "publishedAt": "2026-10-30T02:24:38.000Z"
+    },
+    {
+      "id": "5152",
+      "title": "https://web3heiliao.com",
+      "description": "https://web3heiliao.com",
+      "url": "https://t.me/pdzeng_talk/5152",
+      "publishedAt": "2026-10-30T02:19:42.000Z",
+      "preview": {
+        "targetUrl": "https://web3heiliao.com/",
+        "siteName": "Web3Heiliao",
+        "title": "Web3风险看板",
+        "description": "聚合 Web3 黑料榜、KOL 风险信息的风险看板，帮助用户识别 Web3 风险。"
+      }
+    },
     {
       "id": "5151",
       "title": "一堆資產 Liquid 完了，什麼時候可以買 https://x.com/morris_lt/status/2115941110711451678?a=bo3CCMoHWbH8IUhwQzU&…",
