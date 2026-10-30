@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:13:55.000Z",
+  "updatedAt": "2026-10-30T14:55:06.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5168",
+      "title": "可以舒服地跑本地模型之后，很多之前不放心让云端模型干的事都可以放心大胆地跑了： 1. 使用 spark-cli，把所有的邮箱都接入了，比如要整理今年所有的发票。只要交给本地的 agent 跑就…",
+      "description": "可以舒服地跑本地模型之后，很多之前不放心让云端模型干的事都可以放心大胆地跑了： 1. 使用 spark-cli，把所有的邮箱都接入了，比如要整理今年所有的发票。只要交给本地的 agent 跑就行了； 2. 规划旅行，把所有的要求都丢到 agent 里，机票让它找，景点让它找，路线时间都让它规划。还可以把历史计划丢给它，让它根据分析我的喜好，安排新的旅程。",
+      "url": "https://t.me/pdzeng_talk/5168",
+      "publishedAt": "2026-10-30T14:55:06.000Z"
+    },
     {
       "id": "5167",
       "title": "akari-sora/aave-oracle-lag-arb 🔗 https://github.com/akari-sora/aave-oracle-lag-arb #github",
