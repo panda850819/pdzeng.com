@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-30T11:56:58.000Z",
+  "updatedAt": "2026-10-30T12:20:54.000Z",
   "substack": [
+    {
+      "id": "https://pdzeng.substack.com/p/1-1-on-1",
+      "title": "管理隨筆 #1：空降之後，我花兩週跟每個人 1 on 1",
+      "description": "新主管怎麼做第一輪 1 on 1／一對一",
+      "url": "https://pdzeng.substack.com/p/1-1-on-1",
+      "publishedAt": "2026-10-30T11:45:54.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/1-1-on-1",
+        "siteName": "Substack",
+        "title": "管理隨筆 #1：空降之後，我花兩週跟每個人 1 on 1",
+        "description": "新主管怎麼做第一輪 1 on 1／一對一"
+      }
+    },
     {
       "id": "https://pdzeng.substack.com/p/ba5",
       "title": "一樣的午後",
@@ -129,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5166",
+      "title": "xxxxDev/castpane 🔗 https://github.com/xxxxDev/castpane #github",
+      "description": "xxxxDev/castpane 🔗 https://github.com/xxxxDev/castpane #github",
+      "url": "https://t.me/pdzeng_talk/5166",
+      "publishedAt": "2026-10-30T12:20:54.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/xxxxDev/castpane",
+        "siteName": "GitHub",
+        "title": "GitHub - xxxxDev/castpane: See and control your Mac from a phone or another computer, in the browser.",
+        "description": "See and control your Mac from a phone or another computer, in the browser. - xxxxDev/castpane",
+        "imageUrl": "https://cdn4.telesco.pe/file/t0t4wJaQkC3NsrLX7KmEanG7DZuwUEZgxCXW3vnvqK5_uS-0ETwTKyoLbqozRyeZSMFERGbkB8GbQThPZ9CAHU0pUTBnylqJcXIAhqSPUrs_UjaFPCiZ5bQVvuOGKj6HAfGOFYelSarEt-yWcGdLNyH-1TYpsTX9M8R9Hb2o_kpZgQu8t9pD2b6ZxVdRUj9b9KTZpEI7jdv9PIDD5HgRb_yDpXRh2DG4XUm1wPo51Y67hDp2cTJypl9re1UPdfTSdPSiZUlXO7k85u1YEM1wZNdaP_0i3mFByBmNdbVbz3brr5G3Pz9V6yvtJ9qho3pW3UAMQboyNq_erapw8YhLdA.jpg"
+      }
+    },
     {
       "id": "5165",
       "title": "寫寫文章刷刷大腦的記憶 https://pdzeng.substack.com/p/1-1-on-1",
@@ -342,7 +369,7 @@
         "siteName": "YouTube",
         "title": "我真的有想像中健康嗎？醫師跑者解讀健檢報告",
         "description": "_ 農曆過年後終於做了人生第一次的大健檢，結果會如何呢... 越野跑賽事資訊整理：https://trailrunholic.com/ 音樂來源：https://www.epidemicsound.com/ [本集重點] 0:00 理學檢查｜血液檢查 6:58 影像檢查 8:22 內視鏡檢查 10:14 結語 如果你也喜歡跑步、越野跑，正在準備自己的目標賽事，或是想了解耐力運動相關的科學、醫學相關知識，歡迎訂閱頻道，我們賽道見！ #越野跑 #TrailRunning #林賈尼 #Rinjani100…",
-        "imageUrl": "https://cdn4.telesco.pe/file/fc-uTSmSgsINHnsY7UXw6764gfg6VbT7fBwqBsoQ3O8kQcKy7l4Nn4nHQJ64bLSSU7Ly7U9niG-Dzw-tp_WQUftDReVzPdRrIgbAJqkgVHvLASBhmlZVViqova5bF0bAfCTxMsU0cR3m_Ma3UVZxhqh3rwYiqaUgXtDIYxxp0uxNvrzUwqenAy56q9uCAdbbZmVLWPHoFtfDlezFJlUkifH4HYAehTTbPnsspKJRLfvM9TKlHxKm1ls9uWNXQ91GANqgbVpFx4z64LoIGhAJGevK1piglAZ2omqKbNz9ZF84nZayq0uO-px-O0i566KG5zwez4WWNkqcSQNv7oXC2w.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/gignj0_eldAtd0Zt4WF52aR4rTWaPHr8NXScJvzmJ4vt2GxxiZF2DfQ7Z1Y6-z4vQgq4h94OdtNbr0cWmfKhbTtNiVjsYK6Xm6yZSgD8RNxSVD88hvOSe2pOtvBckL26Hq6x-1Ip1Q_5YI4HANe5JvAReszoqbEHRu-stJniLwAG8TuHXlk2dLPkafJZn_oVjlKii3GD9BOfV8FMKTfKYb76gAu5_HlrGQfvCvqNtNfsIGnu3pDdu80fj8ciBLnGNbW2c5oUIwO5yWsPpYzvXfpunRdoGmyzuDbTa2Vq0PbPc6VUXHhT5PVRuxLMVSJSoQBPuDph-4YhOv4SmIrDUg.jpg"
       }
     },
     {
