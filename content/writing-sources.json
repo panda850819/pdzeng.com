@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:55:06.000Z",
+  "updatedAt": "2026-10-30T16:53:23.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5169",
+      "title": "https://x.com/PandaZeng1/status/2116211506300047644",
+      "description": "https://x.com/PandaZeng1/status/2116211506300047644",
+      "url": "https://t.me/pdzeng_talk/5169",
+      "publishedAt": "2026-10-30T16:53:23.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/PandaZeng1/status/2116211506300047644",
+        "siteName": "X (formerly Twitter)",
+        "title": "pdzeng | 熊貓 (@PandaZeng1) on X",
+        "description": "剛剛刷推基本上是三類型 - 幣安 - Grok Bot 和一些 Vibe ... - 郭宇曬女朋友",
+        "imageUrl": "https://cdn4.telesco.pe/file/IinT96VY3buivjeUtRxoACa_cVYLEVd9YNv9ycnnswKH7TFP-oMPsPg6xtckS_Dl5mru-fr4R8rj2Gk4gnEoyB8tWZbsrZRqAnHyDrPTuWDEGc7Lj0KFjhY5LMfc8n62AO0b5zp-1xTdj2RivG4pIpQ3W0YtMHsGTYME-F7nyrVzVPR-BGS_5po8aHbnlx3cZ9X3kp14QWGDW4cMiWCnAq16x8E5sDKZ6XffzxLTY6sEt-CVdT9izE8H94FyBW5B0CASdfCvxK6Q_BzfiUcm6irKCLJazrn3iphGk3kIeWAHp5wsOlew22AyuydX4uzwwN2QBYSrmSCvVVIcW0qSRA.jpg"
+      }
+    },
     {
       "id": "5168",
       "title": "可以舒服地跑本地模型之后，很多之前不放心让云端模型干的事都可以放心大胆地跑了： 1. 使用 spark-cli，把所有的邮箱都接入了，比如要整理今年所有的发票。只要交给本地的 agent 跑就…",
