@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:20:54.000Z",
+  "updatedAt": "2026-10-30T13:13:55.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5167",
+      "title": "akari-sora/aave-oracle-lag-arb 🔗 https://github.com/akari-sora/aave-oracle-lag-arb #github",
+      "description": "akari-sora/aave-oracle-lag-arb 🔗 https://github.com/akari-sora/aave-oracle-lag-arb #github",
+      "url": "https://t.me/pdzeng_talk/5167",
+      "publishedAt": "2026-10-30T13:13:55.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/akari-sora/aave-oracle-lag-arb",
+        "siteName": "GitHub",
+        "title": "GitHub - akari-sora/aave-oracle-lag-arb: Aave V3 oracle-lag arbitrage: borrow WETH at the Chainlink price, sell where DEXs trade…",
+        "description": "Aave V3 oracle-lag arbitrage: borrow WETH at the Chainlink price, sell where DEXs trade above it, buy back after convergence. Contract + always-on bot for Ethereum, Arbitrum, Base, Optimism, with a...",
+        "imageUrl": "https://cdn4.telesco.pe/file/I7ud_HistmOSyPtY1FSwmRm8p4pLO1RvBkDjBw93o6qFSaeNEOdJJIntNX5lsOm7SzCTDr06fwwdbw3mQD1w5Bcl-23F0bG_W-jb0_ntyp2XbKw8Udb6TaIj3og4Xo3Z_1WyQA6Zs7yKo7S9uda2KmfkG9-O2CaUHgdOH_Rsj-UPxtX7sFx1HE6lI5AR2pmh8RzKo6K7ycc9LzLfmaOVN9sE4y8-mTsd5HwxGdkwmROh575pCfhIEWy344shorEO7GWZm6YZ9gEKRwtxye617ap3LHTvsWN9nhTYQqwwFQ_x6UWS18AzhGFHv-1pzXdbgKV6-NL2XKcSxSCYRcIAuQ.jpg"
+      }
+    },
     {
       "id": "5166",
       "title": "xxxxDev/castpane 🔗 https://github.com/xxxxDev/castpane #github",
