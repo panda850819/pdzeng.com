@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:38:44.000Z",
+  "updatedAt": "2026-10-30T00:40:14.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5151",
+      "title": "一堆資產 Liquid 完了，什麼時候可以買 https://x.com/morris_lt/status/2115941110711451678?a=bo3CCMoHWbH8IUhwQzU&…",
+      "description": "一堆資產 Liquid 完了，什麼時候可以買 https://x.com/morris_lt/status/2115941110711451678?a=bo3CCMoHWbH8IUhwQzU&s=46",
+      "url": "https://t.me/pdzeng_talk/5151",
+      "publishedAt": "2026-10-30T00:40:14.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/morris_lt/status/2115941110711451678?a=bo3CCMoHWbH8IUhwQzU&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "Morris (@Morris_LT) on X",
+        "description": "币安疑似遭遇史上最大规模黑客攻击，完整事件时间线（全部为北京时间）： 10月28—29日（时间未确认）→ 攻击者疑似通过Tornado Cash 获取约0.3 ETH，用于支付合约部署与链上操作手续费。 10月29日23:59左右 → 关联地址疑似部署恶意智能合约，准备利用EIP-7702进行钱包委托与批量资产转移。 10月30日04:20之前 → 攻击者疑似已取得币安热钱包的有效签…",
+        "imageUrl": "https://cdn4.telesco.pe/file/R7hhpttOO_1DTa0L26HDmWR_1-7bS0Ar29M3fhGN_LGgNBpT3pgp3fzmrBzIC6Vbh-E1KxEvsJRtstDraZ9ly14hpA-jk_8lspYzMtEw96mq5-07puxam52dNT3turBmJZiBrBBzrtIGhTWcmTx5dApOk0oiBk1QPHTDOJwKB6sUjVNpwQkYXJKi08n3ySh-1kU7QA-eFvDbHyWXUUVi-wDomob61rvUZCXEWI3M-edNqbl4VnUyGfdPxyQxStWVSDZTGCIcq0w2CwkH8QBJ1fMSAi1B7cOIZpdw0jt2y-BKVQoZx4Wi6I3L_LuZNSev10LdS8WLzHFp4uM_aedT7w.jpg"
+      }
+    },
     {
       "id": "5149",
       "title": "https://x.com/elonmusk/status/2115823011399938182?a=UhN6RW7Om4gl4rFbhfI&s=46 Musk 喊單了",
@@ -322,7 +336,7 @@
         "siteName": "Ashbyhq",
         "title": "Head of People Operations",
         "description": "WHO WE ARE Notion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer…",
-        "imageUrl": "https://cdn4.telesco.pe/file/ZMMUYr4xvYWXOcrM3-VY4_zL8PTeeeyHIMVUPkAWcxXlt22MgLF3lrl2IL-lrnG0l-u-uQR5jL2dazHwdWeiBSjjxATxB1UWBjvygrkpU5nqj9_uxORX9FlMrJMNAAxMsjCCn2lpnlPKlG_iY9-oZcwHbeFwhDB7r0gNnILkQz8qJdHz-3ybW8sZ4aS-cWs2xUXqaYnIrQauhNTYY1jJDd8_Waa9baX9dmvrYuC9jO3ILRs-22yGcMyegpJtH4FjoG3jebqB9GRsYpfXubADQ-kpDN-U7yEUzsgjdaL-VcC9KCXkLYRLbvydjHjv0tpJg1YSbQogliaS67jAVduYFw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Hs6VcxArTEO-10rfXBnHXeO0nAaUvKVG3NhX0viCJl_4FY_z6KX_oXc5AZjGdaWAPSQCM-Fe9QWeT0ubzJhFl3CKgnFhruTYWLErWbKZyymwLLYxhW430RwF8DWi0kK_oqMIKL5oDYrx54N92kx24oqkD1ISy-YR9lx0S5y9A4GFi36XgGTiZA8SAZilSkr1iOREOgfhc3bG_4RFbIiJmYxQzWLftuePAh9xpK8TKJxMP9TP9R6Pih4oEUuFvBNRvmTnJ-I8VD_ceA0Nma1zR_DoKKsUpPKbFM7P6DSvrWmI4Bp3xiaYrscFMD7T8cKu5gzN7Kxz6Y7EsVcFUw44wg.jpg"
       }
     },
     {
