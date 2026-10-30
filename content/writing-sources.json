@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:17:54.000Z",
+  "updatedAt": "2026-10-30T11:56:58.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5165",
+      "title": "寫寫文章刷刷大腦的記憶 https://pdzeng.substack.com/p/1-1-on-1",
+      "description": "寫寫文章刷刷大腦的記憶 https://pdzeng.substack.com/p/1-1-on-1",
+      "url": "https://t.me/pdzeng_talk/5165",
+      "publishedAt": "2026-10-30T11:56:58.000Z",
+      "preview": {
+        "targetUrl": "https://pdzeng.substack.com/p/1-1-on-1",
+        "siteName": "Substack",
+        "title": "管理隨筆 #1：空降之後，我花兩週跟每個人 1 on 1",
+        "description": "新主管怎麼做第一輪 1 on 1／一對一",
+        "imageUrl": "https://cdn4.telesco.pe/file/E7awXEjJGsNUTX2ArMMJMm8y_I-7ImrfiDebgbjlwjn7LCv4p62hphEE1NcywOrEuCAlh4D5JgWveDBjdsn44SE78WSFT46Ee7O5-82FpZM0uHx_NpHsTuGfpmo0-v15bMdvS8UQnLjBnJVZ3FXLvLSLBzzQaw5Fgxcy5j1gvjijuVARXcGYnoBxLwuqLEw600pxa3PX3S_cCvPQoBKzll1Fw54lCo2CCclRCjWww9jx_M9pDxm3LeCyrfzplNoVHVmhnDxBayRmBjuZnwxhxTk6XhdE8DVVWlo0Wi4O4NsTX2stx9m7BFjJVkdf5znCjGEOwYGEbglZqIR1GZ-rAg.jpg"
+      }
+    },
     {
       "id": "5164",
       "title": "laike9m/TheySay 🔗 https://github.com/laike9m/TheySay #github",
