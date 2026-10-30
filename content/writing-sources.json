@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:45:22.000Z",
+  "updatedAt": "2026-10-30T03:56:22.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/ba5",
@@ -129,6 +129,48 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5158",
+      "title": "https://x.com/pandazeng1/status/2116012901609992362?a=Xh50GWOmP_wMrqvwAfU&s=46",
+      "description": "https://x.com/pandazeng1/status/2116012901609992362?a=Xh50GWOmP_wMrqvwAfU&s=46",
+      "url": "https://t.me/pdzeng_talk/5158",
+      "publishedAt": "2026-10-30T03:56:22.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/pandazeng1/status/2116012901609992362?a=Xh50GWOmP_wMrqvwAfU&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "pdzeng | 熊貓 (@PandaZeng1) on X",
+        "description": "起床看到 @binance 的一些訊息，稍微整理下 可能可以額外探討的是 @binance 的 DevOps 電腦權限是不是過高了，為什麼有機會是一個 DevOps 帳號權限，就能夠觸發這麼大額的轉帳 以下是一些連結跟解釋 1. Binance 官方回應，私鑰沒有外洩，是自家工程師電腦被入侵，然後透過工程師電腦當作跳板去發送提款（這部分應該都是指熱錢包轉出的部分） https://…",
+        "imageUrl": "https://cdn4.telesco.pe/file/D6lXzfHFde26WyDCUIdDHzJnvkZJMiCGbFz0bBEjKBLwqsMrDLP3q5Esqv-IIEsWu-hkZYeCCLOqGl65pjBuBWzb_Pf2xVPqmUIHOZvnhbpT1gKjvX27_mTkn4eW_695MNuo0hx1GUSrPnWfBsYaY_gOWcpFTbqbNRcIIqoue7YF5x4OZzNeAXn5USsmFnH4AIWysdco1iCV5o645yY6h-LjoUAOhcZR_6BvbGfsSDk3oj6jJMNmSz79sIOXnRyR1oZMd714p2KpovHOoYvMTxzjqpc9rOv7Lz1frcQxJfIQws5-s8pcB_HStlUyREozOHJSlhI5kONHiAVI6El-nw.jpg"
+      }
+    },
+    {
+      "id": "5157",
+      "title": "https://x.com/bitfish/status/2115957423685222459?a=6UmALluLZ3Nv3PniWjQ&s=46 轉手就是做成影片",
+      "description": "https://x.com/bitfish/status/2115957423685222459?a=6UmALluLZ3Nv3PniWjQ&s=46 轉手就是做成影片",
+      "url": "https://t.me/pdzeng_talk/5157",
+      "publishedAt": "2026-10-30T03:47:59.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/bitfish/status/2115957423685222459?a=6UmALluLZ3Nv3PniWjQ&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "DiscusFish (@bitfish) on X",
+        "description": "币圈史上最大盗窃案，可能就发生在今天凌晨 BN 10/30 事件链上复盘 https://t.co/UrqtcRKbeT",
+        "imageUrl": "https://cdn4.telesco.pe/file/vSjP6fZm3bcCReFaGlUIFCcOvP7E-qvusTRiqrVIHN8iS59pwunAgBvRtTmO5XxbcAUHT-6XmdtiQ3dwAEyL8c3d3WgTpIXuWGbNE9cH4wBZVZkZ2Rw0UycZjt6kOb4hWQBPAUsOlhinDbD63m8Q-YL13vDfGhqdrVq5CmzMleGnLpaingsl-cRqDZ0wvySwNDN8Yg1zSSvE3R5MN5adwK7wW7Iq74FJ-ms52y_0B6eRXek1y-K_qhg08GN6pSfj_34GdLWJ50zIPXJCpTj3paWe0pTpwPPWgFDEuX3NCAu1piLtOCZWrCCqL5xK2NNAByP9KJeoMvrDok8w9d9OzQ.jpg"
+      }
+    },
+    {
+      "id": "5156",
+      "title": "https://x.com/bitfish/status/2115940855408451588?a=sS0jXEDxa-OXvV6KNuU&s=46 神魚還是很熱心的",
+      "description": "https://x.com/bitfish/status/2115940855408451588?a=sS0jXEDxa-OXvV6KNuU&s=46 神魚還是很熱心的",
+      "url": "https://t.me/pdzeng_talk/5156",
+      "publishedAt": "2026-10-30T03:44:39.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/bitfish/status/2115940855408451588?a=sS0jXEDxa-OXvV6KNuU&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "DiscusFish (@bitfish) on X",
+        "description": "Binance 14 的 7702 委托过了 2 小时仍没撤销, 有笔转去 Binance 14 的2,961 ETH 还卡在gas fee低一直pending,一旦上链（base fee 回落到 4.4 gwei 以下），攻击者就能把约 2,961 ETH 再扫走 着急",
+        "imageUrl": "https://cdn4.telesco.pe/file/cmEXgUS2RafU0vkM7pdo6wmxuDIAapUy1Xg2B6Hl5pxvagdXH_lPyOoZUpi1rkzs2SvA9Zdgamy4AWHqrQ_HtDUY2g4w5pG-lRxjwPoa3XBiZJQkUGoEPqnwEFebQRm6YRRf7sYra8GwfDcwrJmVRPDdn1qdqxNvvOCSYhEMepHC8PGJcg0LFJp89YxvJFyaLYaQruUYsGbyv1LyvBzAjmnWrA0eb8Og2tSxf9b7PGmthNf9E8blJlj0XiBC7lVJRWKmtLMgwbSZLqE3OEHJa7xAicz9X8HYk7z4qzYp0yny1P2BOARnZEkW9KKg7LSXBXRtlGKrFNeFUf5RstbssQ.jpg"
+      }
+    },
     {
       "id": "5155",
       "title": "小朋友吵架 v2",
