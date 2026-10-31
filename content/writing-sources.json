@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:24:53.000Z",
+  "updatedAt": "2026-10-31T13:31:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5175",
+      "title": "xxxxDev/agent-courier 🔗 https://github.com/xxxxDev/agent-courier #github",
+      "description": "xxxxDev/agent-courier 🔗 https://github.com/xxxxDev/agent-courier #github",
+      "url": "https://t.me/pdzeng_talk/5175",
+      "publishedAt": "2026-10-31T13:31:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/xxxxDev/agent-courier",
+        "siteName": "GitHub",
+        "title": "GitHub - xxxxDev/agent-courier: Messages between Claude Code sessions on your own machines, over SSH, with no third party",
+        "description": "Messages between Claude Code sessions on your own machines, over SSH, with no third party - xxxxDev/agent-courier",
+        "imageUrl": "https://cdn4.telesco.pe/file/CY788GLzOVh4y_gkN-KKVBfr2uVEyTIQZG7FMbYv2p7nG-Ftu5qRON42SDj9bb869fADWt89dZ1ox5nE5wkF1sCdcS5JPFUhkEEMrbufqYYqO3DYVNgOn3rtC8uUEwoFzHDz-aaiFBLK110JNMmy9D5Rl9bmjpVvnl2rcMu39rmDZVew6O1lu9dyhS16ctHFk1eVPor0Q3o1WFMh1JohTfmdPHfrP7nR8wFEbdoduz5yXhbHO__xqumtoxxvHsaQvJqRJp3AzYZicarkXiZEsXMiOzEwPJnOxIbY9ErVFbePYZHrV567uBvJs_AzkcllCK51SpkizTDMa5NvPZw2Fg.jpg"
+      }
+    },
     {
       "id": "5174",
       "title": "BryceYuuu/RUN 🔗 https://github.com/BryceYuuu/RUN #github",
