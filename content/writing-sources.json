@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:53:23.000Z",
+  "updatedAt": "2026-10-31T01:59:44.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5170",
+      "title": "https://x.com/claudeai/status/2116220869479428500 claude 又殺死比賽了",
+      "description": "https://x.com/claudeai/status/2116220869479428500 claude 又殺死比賽了",
+      "url": "https://t.me/pdzeng_talk/5170",
+      "publishedAt": "2026-10-31T01:59:44.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/claudeai/status/2116220869479428500",
+        "siteName": "X (formerly Twitter)",
+        "title": "Claude (@claudeai) on X",
+        "description": "We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do. We’re also removing the 5-h…",
+        "imageUrl": "https://cdn4.telesco.pe/file/JgCUZXtXgHr4FmtL5f-f5pSz3CBxcWGggAKIngZiClWqUrn1MX_Yl25SEVYS6c7BRRDCpe6zV9gTfYaYVt2mr_DbVcCZn8Vc1qlwydDbuyIrMGuiLI8I8XyxMH1aP9bFvajAMV5m3lkcf8Pl52XFIJRKUJogCF41VD12cV5Tlff8BqC27FQi6L4ICDLWIwdh2Vn0YI5Nz4i5KBYgS5AwX9wwCEl5GwtcqgoKBJGJ5Iedn9XjM-y_g3higcIRZyWPd2Qc9xf2ldIQ4Rn-jEbcvcqptvItP9OIBLfns3qjg50cJzJNeYxUOUvQUDJAvDfvpB878pEXIW0k2_02BeS3Lg.jpg"
+      }
+    },
     {
       "id": "5169",
       "title": "https://x.com/PandaZeng1/status/2116211506300047644",
