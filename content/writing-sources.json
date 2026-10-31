@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:59:44.000Z",
+  "updatedAt": "2026-10-31T02:03:33.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5171",
+      "title": "▶️ How to Speak #youtube https://www.youtube.com/watch?v=Unzc731iCUY",
+      "description": "▶️ How to Speak #youtube https://www.youtube.com/watch?v=Unzc731iCUY",
+      "url": "https://t.me/pdzeng_talk/5171",
+      "publishedAt": "2026-10-31T02:03:33.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=Unzc731iCUY",
+        "siteName": "YouTube",
+        "title": "How to Speak",
+        "description": "MIT How to Speak, IAP 2018 Instructor: Patrick Winston View the complete course: https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/pages/how-to-speak/ Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years. Offered…",
+        "imageUrl": "https://cdn4.telesco.pe/file/OaMxkfTprREgTSMe9pe_eVLYOV-q58Cpf1t5_iRS6TFU2K9GbKN65gvY44iblEyKcAzweZKPcnIEA1KxCQRXebMjaPTDSXuiHV-TpaVqJQcBALYwNKKVmqUIMvMt4MR2cBKWcDyPVa9Y5pc3_yGLe5OlQyjPiPkXUeNW6W7Q_y5unzvc1El1b-zGdKONPKXJwV34pLX6Dq7BkULsHS3KaqAYT12bwM1Is1jFpPam-s6K2a3b63-KrYX2HYDgfpvEqB4nZfzMrm7jUqzCKNdUm-VwwUI5ziHZJ73POoWzR5PzZ6uXsuC_YfzgqeDkPwTgWauSy4VmhY39RBf6h-PsUQ.jpg"
+      }
+    },
     {
       "id": "5170",
       "title": "https://x.com/claudeai/status/2116220869479428500 claude 又殺死比賽了",
