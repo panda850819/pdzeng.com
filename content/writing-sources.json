@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:31:53.000Z",
+  "updatedAt": "2026-11-01T04:13:08.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5176",
+      "title": "澎湖馬11k 輕鬆完賽 花太多時間在吃東西了，最後3k 才拉速度跑完 😂",
+      "description": "澎湖馬11k 輕鬆完賽 花太多時間在吃東西了，最後3k 才拉速度跑完 😂",
+      "url": "https://t.me/pdzeng_talk/5176",
+      "publishedAt": "2026-11-01T04:13:08.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5176",
+        "siteName": "Telegram",
+        "title": "澎湖馬11k 輕鬆完賽 花太多時間在吃東西了，最後3k 才拉速度跑完 😂",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/LSsihzZXRYIsUEgYGBiAd3J2kVEbFbSNjyucOwiKF5-biRXdvpmp-QyesgIN6Drkx7SmaKu9zr4qD_7NRXrJ8knlTB1GHvWQ5nDumwLIYJZ-vzZZdOSy5gKVgYtmk3AQKr4gU_AkZ9QuI_1cYc28_6p5ZylJ2EdWpB1F0wyecQiW5j2-sPyPhAZjZzrKdoH3V5KiEdlxuD0BN2Z3VU_7MY-do5lCsQQW2e7KThhuTQiXGD6evVF3Ly-tu3ziqAeD7GcYI-LV1s_JOOCKk2ie9BBFMie9wjGEogCJRsohwRiEo0eTD_-W-M98sTeM0HsDnBrineLA3wOE4GWR4MJgRQ.jpg"
+      }
+    },
     {
       "id": "5175",
       "title": "xxxxDev/agent-courier 🔗 https://github.com/xxxxDev/agent-courier #github",
