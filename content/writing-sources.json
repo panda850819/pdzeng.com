@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:57:25.000Z",
+  "updatedAt": "2026-11-02T15:07:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5190",
+      "title": "如果不擔心 bg 風險問題的話，bg 應該更多",
+      "description": "如果不擔心 bg 風險問題的話，bg 應該更多",
+      "url": "https://t.me/pdzeng_talk/5190",
+      "publishedAt": "2026-11-02T15:07:35.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5190",
+        "siteName": "Telegram",
+        "title": "如果不擔心 bg 風險問題的話，bg 應該更多",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/ENFn1ti3HHTMMHWS6Si7sUEoJIj0njvEDEbYjktK2aG2mocrqIi6yJY13i6fnwvzs4JlkPyXY-W3eXzQ0C-XaU_xpjLTfDUyGDiGqE_oNDycpSOPJuuO2UKfy4o2kel7M3cqZM_bdUXRA3c-ayZ9CYxjUcm5s7fXegFJ-yd_1CqHohkNXMqGs3JCy4usP3GPHbooQ8dsf3CpJRJIAckNe5GGEYUqxQL1YSHz-0SRdcS9huw82LPl7meJb_3MLFWN_87Nm6_T7BQR2ODx29m-qscgYSMHzSD7J4SgG90TgvNXAGMcmf9qpB3AJR8l8SahGR4eBci4i9hfsVgDprJMwg.jpg"
+      }
+    },
+    {
+      "id": "5189",
+      "title": "現在幣安有 9.5% 10000u USDC 可以存 20 天 2026/11/2 - 11/22 日 如果存滿收益大概 52.05u 左右 假設現在買入會磨損大概 10u 但如果原本就是 U…",
+      "description": "現在幣安有 9.5% 10000u USDC 可以存 20 天 2026/11/2 - 11/22 日 如果存滿收益大概 52.05u 左右 假設現在買入會磨損大概 10u 但如果原本就是 USDC 的話就蠻香的",
+      "url": "https://t.me/pdzeng_talk/5189",
+      "publishedAt": "2026-11-02T15:02:27.000Z"
+    },
     {
       "id": "5188",
       "title": "https://x.com/AI_jacksaku/article/2109137738125529520",
