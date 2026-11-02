@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:37:34.000Z",
+  "updatedAt": "2026-11-02T07:09:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5187",
+      "title": "▶️ 這東西讓我終於重新開始看書了 #youtube https://www.youtube.com/watch?v=ier3y1EpFwQ",
+      "description": "▶️ 這東西讓我終於重新開始看書了 #youtube https://www.youtube.com/watch?v=ier3y1EpFwQ",
+      "url": "https://t.me/pdzeng_talk/5187",
+      "publishedAt": "2026-11-02T07:09:34.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=ier3y1EpFwQ",
+        "siteName": "YouTube",
+        "title": "這東西讓我終於重新開始看書了",
+        "description": "最近我買了一個很奇怪的東西。 它跑得比我的 iPhone 慢，螢幕色彩畫質都沒有 iPad 漂亮，而且點一個東西，有時候甚至還要 lag 一兩秒才有反應。 照理來講，這應該是一個比較差的科技產品。但很奇怪，就是因為它比較難用，我反而重新開始看書了... 我的思考軌跡：https://www.youtube.com/@Dr.Harvey-2050 商談不廢話：https://www.youtube.com/@UC36FfchJRvraEqWGb4MUdDA",
+        "imageUrl": "https://cdn4.telesco.pe/file/dtBUdAOR7PH-AR6LuqW6eMUB03xrhakCFTVYZlaOHNNqocfJO_KghcuZ43PFhPwk4K_CthY5Jin9DHrkt8JFFTRtxSMz37qde04d86Tq1xG-J_A5b7SfkBshx0u7bDbfI1RpBZyRsDepRTtWYGCCk3AplpYtE69e08U6340hSS3JEjPfMkbPOg4MK3yWN56ZiRr2fqOAr_Xu74jUJPwr2P2XxrwWhrRJPietFqLoeZ027KiAnWwIRnoJNxW9B0ObXhGJv0mLbrzL3ioGJ0ww-YivvhMZ10dHUTbQ9fQ87LvKeOVUYY1mBxAQ-tNGN9skRLM3qmYpBuvCkwLMkcAfAw.jpg"
+      }
+    },
+    {
       "id": "5186",
       "title": "▶️ 降了19項發炎指標的竟然是它！史丹佛10週研究 #youtube https://www.youtube.com/watch?v=gRiMxMvshqc",
       "description": "▶️ 降了19項發炎指標的竟然是它！史丹佛10週研究 #youtube https://www.youtube.com/watch?v=gRiMxMvshqc",
@@ -187,7 +201,7 @@
         "targetUrl": "https://tibo.dog/",
         "siteName": "tibo.dog",
         "title": "我要笑死 https://tibo.dog",
-        "description": "Tibo and a pack of dogs against an endless swarm. Tap to play right here.",
+        "description": "A free 2.5D pixel survivors-like by @poteto. Survive 20 minutes as Tibo with a pack of up to three dogs. Tap to play right here.",
         "imageUrl": "https://cdn4.telesco.pe/file/D02g0Fx_MeNIrsf5CCvFyw_HPDUGTe0WrQrr4woWNmA8xsAa4_sB0gSVU9vytmfPYyS5iBfO3DMT1_OEp1qTLnI2vpubcrh2KHsME2sy2nDS3A3vtVdSwdpLmPDl6hkqBQ63GyncYg1J1LuoGZfP4HvEB_X_f3M0VkrEhYNqnH2pNpVR38iY3aYGyLGtQi-RoOHE6nnkcQDNFB7ku8FVWyOLT9SDJAgW3VyHMdb-tk-9Xb4cdyv4j9zQYq6bOn-4LQXbnhFlTg03EREHeLIkiviV57SZFcsJhgfA_SmkQpTWUtJMfWiCP38WyP-AvXFIBpMK7HHTbFdXwrkjenm_Ig.jpg"
       }
     },
@@ -9064,7 +9078,7 @@
       "publishedAt": "2023-10-14T10:44:26.000Z",
       "replies": 80,
       "reposts": 465,
-      "likes": 3514,
+      "likes": 3513,
       "preview": {
         "targetUrl": "https://x.com/PandaZeng1/status/1713143722161107119",
         "siteName": "X",
