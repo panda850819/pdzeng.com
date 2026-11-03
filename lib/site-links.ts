@@ -5,6 +5,9 @@ export const pages = [
   { href: "/about/", label: "關於" },
 ] as const;
 
+// Header nav only; the footer keeps the shorter page list
+export const navPages = [...pages, { href: "/cv/", label: "履歷" }] as const;
+
 export const socials = [
   { href: "https://x.com/pandazeng1", label: "X" },
   { href: "https://www.linkedin.com/in/pdzeng/", label: "LinkedIn" },
