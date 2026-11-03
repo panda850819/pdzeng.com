@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:47:26.000Z",
+  "updatedAt": "2026-11-03T16:13:43.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5194",
+      "title": "https://www.threads.com/share/_lS6yX8jZ",
+      "description": "https://www.threads.com/share/_lS6yX8jZ",
+      "url": "https://t.me/pdzeng_talk/5194",
+      "publishedAt": "2026-11-03T16:13:43.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/_lS6yX8jZ",
+        "siteName": "Threads",
+        "title": "Dave Poon (@davepoon128) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/viZvtk_QtehPdPyTJumKF7Gg6hk8K7kvcXmbGxuon49vlYhCgo3PVpLU3PfWOrP02cq954J40ZMXerUG3k9WniagnvR9PS6_ciw4Ye-0n7SXfkCT1Rzj2gd2PUT8ELA3Nk7y2ewIfgRwYmrteeE9yEI7toSsPLlviaUzA8ifGveXOiiuhQ6LJWEuL0kJQ72pBtKWD81OhSFgpi7yIvfk_xTtsjQPFdsu2IThrpZXCucOESQPBMxl_JoIs5cjoIChBsIlTAwg2xezh0dxOdBd0uIz-5s4ETAwYXHGfbxu_j9u8ztqm_rl3Jwqy9ORoV8V1gKsLSKa1xwD0F1ur9Dxkg.jpg"
+      }
+    },
     {
       "id": "5193",
       "title": "▶️ 5AM晨跑、冰浴桑拿、讀書會、專注工作｜最近越來越喜歡這樣的生活！充實的一天 Vlog #youtube https://www.youtube.com/watch?v=eNjOnNSN…",
@@ -9140,7 +9154,7 @@
       "url": "https://x.com/PandaZeng1/status/1713143722161107119",
       "publishedAt": "2023-10-14T10:44:26.000Z",
       "replies": 80,
-      "reposts": 465,
+      "reposts": 464,
       "likes": 3513,
       "preview": {
         "targetUrl": "https://x.com/PandaZeng1/status/1713143722161107119",
