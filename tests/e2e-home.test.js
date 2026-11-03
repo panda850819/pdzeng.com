@@ -38,11 +38,12 @@ describe("static export of the home page", () => {
 
   test("home head carries the zh positioning title, description, OG and Twitter tags", () => {
     const head = html.slice(0, html.indexOf("</head>"));
-    expect(head).toContain("<title>Panda Zeng｜營運經理 Operations Manager（Ops・HR）</title>");
-    expect(head).toMatch(/<meta name="description" content="[^"]*營運經理（Operations Manager）[^"]*人資（HR）/);
-    expect(head).toContain('<meta property="og:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
+    expect(head).toContain("<title>營運與人資｜Panda Zeng — Ops / HR / Operations Manager</title>");
+    expect(head).toContain('<meta name="description" content="我是 Panda Zeng，在新創做營運與人資的 Operations Manager。從 0 建 Ops 與 HR 流程，用 AI 讓團隊少做重複工。這裡記錄營運、工作方法與生活。"/>');
+    expect(head).toContain('<meta property="og:title" content="營運與人資｜Panda Zeng — Ops / HR / Operations Manager"/>');
     expect(head).toContain('<meta property="og:locale" content="zh_TW"/>');
-    expect(head).toContain('<meta name="twitter:title" content="Panda Zeng｜營運經理 Operations Manager（Ops・HR）"/>');
+    expect(head).toContain('<meta property="og:image:alt" content="Panda Zeng — 營運與人資 Operations Manager · pdzeng.com"/>');
+    expect(head).toContain('<meta name="twitter:title" content="營運與人資｜Panda Zeng — Ops / HR / Operations Manager"/>');
   });
 
   test("the message section is gone", () => {
@@ -80,7 +81,7 @@ describe("static export of the home page", () => {
 
   test("JSON-LD and description are updated", () => {
     expect(html).toContain('"alternateName":["熊貓隨口說","Panda Tseng"]');
-    expect(html).toContain("Panda Zeng，營運經理（Operations Manager），做公司營運（Ops）與人資（HR）");
+    expect(html).toContain("我是 Panda Zeng，在新創做營運與人資的 Operations Manager。");
     expect(html).not.toContain("operator, runner, writing about operations and AI");
   });
 });
