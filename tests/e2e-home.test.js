@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { OG_TAGLINE } from "../lib/site-meta.ts";
 
 const OUT = join(import.meta.dir, "..", "out");
 
@@ -14,6 +15,8 @@ function read(rel) {
 
 // Split in two so the removed About line never sits in the repo as one literal, yet stays guarded
 const DROPPED_LINE = "營運的" + "本質就是讓公司活下來";
+// Same trick for the retired footer title
+const DROPPED_CTA = "缺個會" + "打雜的嗎？來聊聊";
 
 // The exported HTML of <main>, so header and footer links don't leak into home assertions
 const mainOf = (html) => html.slice(html.indexOf('<main id="main-content"'), html.indexOf("</main>"));
@@ -27,6 +30,22 @@ describe("static export of the home page", () => {
     expect(main).toContain('clip-path="url(#sig-hero)"');
     expect(main).toContain("轉換期：跑步、重訓、學 AI、寫投資筆記");
     expect(main).toContain('href="/now/"');
+  });
+
+  test("the hero shows the Operations Manager positioning under the signature, server-rendered", () => {
+    expect(main).toContain('<p class="hero-role" lang="en">Operations Manager</p>');
+    expect(main.indexOf('class="hero-role"')).toBeGreaterThan(main.indexOf('clip-path="url(#sig-hero)"'));
+    expect(main).toContain('<h1 class="vh">Panda Zeng</h1>');
+  });
+
+  test("home head carries the zh positioning title, description, OG and Twitter tags", () => {
+    const head = html.slice(0, html.indexOf("</head>"));
+    expect(head).toContain("<title>營運與人資｜Panda Zeng — Ops / HR / Operations Manager</title>");
+    expect(head).toContain('<meta name="description" content="我是 Panda Zeng，在新創做營運與人資的 Operations Manager。從 0 建 Ops 與 HR 流程，用 AI 讓團隊少做重複工。這裡記錄營運、工作方法與生活。"/>');
+    expect(head).toContain('<meta property="og:title" content="營運與人資｜Panda Zeng — Ops / HR / Operations Manager"/>');
+    expect(head).toContain('<meta property="og:locale" content="zh_TW"/>');
+    expect(head).toContain('<meta property="og:image:alt" content="Panda Zeng — 營運與人資 Operations Manager · pdzeng.com"/>');
+    expect(head).toContain('<meta name="twitter:title" content="營運與人資｜Panda Zeng — Ops / HR / Operations Manager"/>');
   });
 
   test("the message section is gone", () => {
@@ -64,7 +83,8 @@ describe("static export of the home page", () => {
 
   test("JSON-LD and description are updated", () => {
     expect(html).toContain('"alternateName":["熊貓隨口說","Panda Tseng"]');
-    expect(html).toContain("Panda Zeng — operator, runner, writing about operations and AI.");
+    expect(html).toContain("我是 Panda Zeng，在新創做營運與人資的 Operations Manager。");
+    expect(html).not.toContain("operator, runner, writing about operations and AI");
   });
 });
 
@@ -77,7 +97,8 @@ describe("every page shares the new header and footer", () => {
       // header
       expect(html).toContain('class="lockup"');
       expect(html).toContain('aria-label="主選單"');
-      for (const href of ["/work/", "/writing/", "/substack/", "/about/"]) expect(html).toContain(`href="${href}"`);
+      for (const href of ["/work/", "/writing/", "/substack/", "/about/", "/cv/"]) expect(html).toContain(`href="${href}"`);
+      expect(html.match(/href="\/cv\/"[^>]*>履歷<\/a>/g)?.length).toBe(2);
       expect(html).toContain('id="mnav"');
       expect(html).toContain('class="theme-btn"');
       // the site is zh-Hant first; the menu closes with a real button, not href="#"
@@ -87,9 +108,14 @@ describe("every page shares the new header and footer", () => {
       // footer
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');
-      expect(html).toContain("缺個會打雜的嗎？來聊聊");
-      expect(html).toContain('<p class="fcta-note">歡迎聊聊</p>');
-      expect(html).toContain('href="https://calendly.com/pdzeng/meetings"');
+      const fcta = html.slice(html.indexOf('class="fcta"'), html.indexOf('class="fcols"'));
+      expect(fcta).toContain('<h2 class="fcta-title">歡迎聊聊</h2>');
+      expect(fcta).toMatch(/<a class="cta" href="https:\/\/calendly\.com\/pdzeng\/meetings"[^>]*>歡迎聊聊<svg/);
+      expect(fcta).not.toContain('<p class="fcta-note">歡迎聊聊</p>');
+      expect(fcta).not.toContain("聯絡我合作");
+      expect(html).toMatch(/<a class="cta" href="https:\/\/t\.me\/pdzeng"[^>]*>聯絡我合作<svg/);
+      expect(html).not.toContain(DROPPED_CTA);
+      expect(html.slice(html.indexOf('class="fcols"'), html.indexOf("</footer>"))).not.toContain('href="/cv/"');
       for (const gone of ["工作、合作，或只是想聊聊，都歡迎。", "Ops Builder"]) expect(html).not.toContain(gone);
       for (const href of ["https://x.com/pandazeng1", "https://www.linkedin.com/in/pdzeng/", "https://t.me/pdzeng", "/rss.xml", "https://pdzeng.substack.com/subscribe"]) {
         expect(html).toContain(`href="${href}"`);
@@ -100,6 +126,7 @@ describe("every page shares the new header and footer", () => {
   test("the current page is marked in the header", () => {
     expect(read("work/index.html")).toMatch(/<a aria-current="page" href="\/work\/"|<a href="\/work\/" aria-current="page"/);
     expect(read("about/index.html")).toMatch(/aria-current="page" href="\/about\/"|href="\/about\/" aria-current="page"/);
+    expect(read("cv/index.html")).toMatch(/aria-current="page" href="\/cv\/"|href="\/cv\/" aria-current="page"/);
   });
 });
 
@@ -155,10 +182,66 @@ describe("about and OG image", () => {
     expect(html).toContain("https://www.linkedin.com/in/pdzeng/");
   });
 
+  test("child pages keep their own og:title instead of the home one", () => {
+    expect(read("about/index.html")).toContain('<meta property="og:title" content="關於 · Panda Zeng"/>');
+  });
+
   test("the OG image is a 1200×630 PNG", () => {
     const png = readFileSync(join(OUT, "opengraph-image"));
     expect(png.subarray(1, 4).toString()).toBe("PNG");
     expect(png.readUInt32BE(16)).toBe(1200);
     expect(png.readUInt32BE(20)).toBe(630);
+  });
+});
+
+// Code points mapped by a TrueType font's Unicode cmap (formats 4 and 12 are all pyftsubset emits)
+function cmapCodePoints(buf) {
+  const tables = buf.readUInt16BE(4);
+  let cmap = -1;
+  for (let i = 0; i < tables; i++) {
+    const rec = 12 + i * 16;
+    if (buf.toString("latin1", rec, rec + 4) === "cmap") cmap = buf.readUInt32BE(rec + 8);
+  }
+  const points = new Set();
+  const subtables = buf.readUInt16BE(cmap + 2);
+  for (let i = 0; i < subtables; i++) {
+    const sub = cmap + buf.readUInt32BE(cmap + 4 + i * 8 + 4);
+    const format = buf.readUInt16BE(sub);
+    if (format === 4) {
+      const segX2 = buf.readUInt16BE(sub + 6);
+      const ends = sub + 14;
+      const starts = ends + segX2 + 2;
+      for (let s = 0; s < segX2; s += 2) {
+        const end = buf.readUInt16BE(ends + s);
+        for (let c = buf.readUInt16BE(starts + s); c <= end && c !== 0xffff; c++) points.add(c);
+      }
+    } else if (format === 12) {
+      const groups = buf.readUInt32BE(sub + 12);
+      for (let g = 0; g < groups; g++) {
+        const at = sub + 16 + g * 12;
+        for (let c = buf.readUInt32BE(at); c <= buf.readUInt32BE(at + 4); c++) points.add(c);
+      }
+    }
+  }
+  return points;
+}
+
+describe("OG image font", () => {
+  const FONTS = join(import.meta.dir, "..", "assets", "fonts");
+
+  test("the bundled subset covers every character the OG image draws, so next/og never fetches a font", () => {
+    const points = cmapCodePoints(readFileSync(join(FONTS, "NotoSansTC-og-subset.ttf")));
+    const missing = [...new Set(["Panda Zeng", "pdzeng.com", OG_TAGLINE].join(""))].filter((ch) => !points.has(ch.codePointAt(0)));
+    expect(missing).toEqual([]);
+  });
+
+  test("the font ships with its OFL licence", () => {
+    expect(readFileSync(join(FONTS, "OFL.txt"), "utf8")).toContain("SIL Open Font License, Version 1.1");
+  });
+
+  test("the OG route reads the bundled font instead of relying on next/og's network fallback", () => {
+    const src = readFileSync(join(import.meta.dir, "..", "app", "opengraph-image.tsx"), "utf8");
+    expect(src).toContain("assets/fonts/NotoSansTC-og-subset.ttf");
+    expect(src).toMatch(/fonts: \[\{ name: "Noto Sans TC"/);
   });
 });
