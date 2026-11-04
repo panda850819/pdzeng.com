@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:19:47.000Z",
+  "updatedAt": "2026-11-04T03:56:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5197",
+      "title": "後面感覺是 B/E/H 了",
+      "description": "後面感覺是 B/E/H 了",
+      "url": "https://t.me/pdzeng_talk/5197",
+      "publishedAt": "2026-11-04T03:56:42.000Z"
+    },
     {
       "id": "5196",
       "title": "Cat 也離開 Anthropic https://x.com/_catwu/status/2117731934340337676?a=LHjzq1zw9K3UYWc6L50&s=46",
@@ -314,7 +321,7 @@
         "siteName": "Telegram",
         "title": "澎湖馬11k 輕鬆完賽 花太多時間在吃東西了，最後3k 才拉速度跑完 😂",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/BE8uwaiwYTByllbyp0TrcEPyDErKqvVismMTPF7E3oWn3K4bH9xm8Lm8zQUFjkH0VgJ8SBuFLGAifKZ1V1iAuzgTxKbqc110CqcJMWrDkKAgMYJHhJQOGur2wg_YFCU8OpmwUSLvuZ7a0xhI--DpkNPdCEhxlFiizzjw2lnMl3WquxLcjrNZsDpiS7TAZO_JR5eiH3vOh06q1SJ1DX0h4GRXSSl8xXSVnBueVU78kr7REtyKSJmHNdrlruBPlRffDdeiyjpoaIZ3oyE2d7L8b-doDsHKZFpYyAAfQpBo3p8uKNbd1o1p6lvYswwz2pb-Py3OC5nEnFf55YXBYHPktw.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/D2xkUvs1rWvTKtrRe4c70V_3o6_ttT8Su4JjecgpWAW68HfHR_nJdpS9xmDYSMvBM8HD9XWoTptPXzamzkO3h8bkv6duINMzRwIf82w4xl8MrF9OxKYlhOQRnMQmOKirAN2ze7SYhnCDpOzU4WPQEI6QYx0kG5INzZZeyHMgys4nUyOLcol4KYYob0iUbv8aLPrpirM0oJIbenqnK5PuzunuVnApF22E3rFAE_80OffocbAjX7OOlnjIYygSFyX5gxDn7OHiBh3vIzu5VXTcj3lh8lCJJdemL2No-gSb9vmO4XHsvLLxl0W5LEX76Frp0DxVw-QCzp2QhVbMt-VWAQ.jpg"
       }
     },
     {
