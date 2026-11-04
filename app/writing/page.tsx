@@ -11,7 +11,7 @@ export default function WritingPage() {
   const items = unifiedWriting();
 
   return (
-    <div className="mx-auto w-full max-w-3xl px-6">
+    <div className="mx-auto w-full max-w-3xl px-6" lang="en">
       <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <h1 className="display-tracking font-display text-4xl font-semibold">Writing</h1>
@@ -23,7 +23,7 @@ export default function WritingPage() {
           href="https://pdzeng.substack.com/subscribe"
           target="_blank"
           rel="noreferrer"
-          className="w-fit shrink-0 rounded-full bg-bamboo px-5 py-2.5 text-sm font-medium text-canvas transition-transform duration-150 active:scale-95"
+          className="hit w-fit shrink-0 rounded-full bg-bamboo px-5 py-2.5 text-sm font-medium text-canvas transition-transform duration-150 active:scale-95"
         >
           Subscribe on Substack
         </a>
