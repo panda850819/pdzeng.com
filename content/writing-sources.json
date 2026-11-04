@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:13:43.000Z",
+  "updatedAt": "2026-11-04T01:11:23.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,13 @@
   ],
   "telegram": [
     {
+      "id": "5195",
+      "title": "【價格警示】LIT 觸發條件成立 條件：close > MA20 日線收盤 3.3557（11/04 08:00 台北） 僅為讀數，非交易指示。",
+      "description": "【價格警示】LIT 觸發條件成立 條件：close > MA20 日線收盤 3.3557（11/04 08:00 台北） 僅為讀數，非交易指示。",
+      "url": "https://t.me/pdzeng_talk/5195",
+      "publishedAt": "2026-11-04T01:11:23.000Z"
+    },
+    {
       "id": "5194",
       "title": "https://www.threads.com/share/_lS6yX8jZ",
       "description": "https://www.threads.com/share/_lS6yX8jZ",
@@ -279,7 +286,7 @@
         "siteName": "tibo.dog",
         "title": "我要笑死 https://tibo.dog",
         "description": "A free 2.5D pixel survivors-like by @poteto. Survive 20 minutes as Tibo with a pack of up to three dogs. Tap to play right here.",
-        "imageUrl": "https://cdn4.telesco.pe/file/PzBTrAp5EMMz4Hgcx0fW5VH81kpSjRU-5WJfYfVO4jjp3TEtNjuehS84DswLkceagvFl7IfT9qzO0haoNd80f7XZT7kkJRUz3eVx5cUv2PpFX-9qzfuKRl_xmnJo_k6kpZuepE8STZYYBrPWwGqMyLCXbZ9MDVLSzLfrOMLC4PHpp5g6Qh1cCm5ii4v9uoJGMJnJdlVZOoXuWqx9HQoFxukuquc1F4vpF8n08Q-s2nblIjKDC7Jn1s7TvoX9mHc081ZnyTnnPSd_eOhtb3gJosObNCNBvzhiXJA1VgLYDyvQj-qfFNy-hTgFYm-3l0XazHL7pldfcecFkV9VOqwWJg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/CjCGhyT67kVVCScF_4w-PH3hyyeOau4p91liLFP5u4HrBFRWB3_C6OGtM9FouSbywKxDz-hZXLvs0FSMmjB2CWYm9wHGFHPJ1Ynh3uqldZ8NepjNbCsfiBSsX-uWQcSMEYlc0l11-aF3J2TQ0cnuRaJ_JR8-vPSU1GT7CnfZJANZ3RflWN5xboKuG8N3Wm9H2HYKv8bSJnNjVr4bchQ4o7x8zNm5JuNUeYQLvb4786pasrSlcNiIat3enLzBhMK2ZF-IZin1GMNb1NYzBNtHv9NbsHZ0cIeSXfnodrbERAxXeVX33wfnBBKCNuoSg5Xfib105Iu3r6KzxPs_cuQQFg.jpg"
       }
     },
     {
