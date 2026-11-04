@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:11:23.000Z",
+  "updatedAt": "2026-11-04T03:19:47.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5196",
+      "title": "Cat 也離開 Anthropic https://x.com/_catwu/status/2117731934340337676?a=LHjzq1zw9K3UYWc6L50&s=46",
+      "description": "Cat 也離開 Anthropic https://x.com/_catwu/status/2117731934340337676?a=LHjzq1zw9K3UYWc6L50&s=46",
+      "url": "https://t.me/pdzeng_talk/5196",
+      "publishedAt": "2026-11-04T03:19:47.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/_catwu/status/2117731934340337676?a=LHjzq1zw9K3UYWc6L50&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "cat (@_catwu) on X",
+        "description": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of co…",
+        "imageUrl": "https://cdn4.telesco.pe/file/T1unaVOBFxQ_-WFWD7We7BKtFqg7VU-fLav6XEVZQuF3bFL9jvQKwTcu4o8-FVRMxsd1vz-3H4C_09TnnqPTjPtCBFIft61VpufpRVhXJvLPPSEHr75z7xeRjWjJ5wgTSPHOiCv98y5lrO9DOz5m3CzrwTWg9Gb-J4sYYypMe7BLg-kHcQcGRjnQVlbvyMxy6xyt_-7mnDWVg-dqTQYWnlbBikfGHSj5RysHVEGpgqYMSw9wrqGO7hBz3UOWj6cuV_bDYPoW3JxGVCQlp5nhDtkTg2OIHLSNOcfo5xj0CWkdeHjvgjFeuFBqe7zySeJFiQCAvA8zLZZoo6JLFh7tLw.jpg"
+      }
+    },
     {
       "id": "5195",
       "title": "【價格警示】LIT 觸發條件成立 條件：close > MA20 日線收盤 3.3557（11/04 08:00 台北） 僅為讀數，非交易指示。",
