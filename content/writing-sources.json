@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:41:27.000Z",
+  "updatedAt": "2026-11-05T02:41:42.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5200",
+      "title": "https://x.com/addyosmani/status/2117512471930167377?a=QkvCp-PrgXPpJ58-Jik&s=46",
+      "description": "https://x.com/addyosmani/status/2117512471930167377?a=QkvCp-PrgXPpJ58-Jik&s=46",
+      "url": "https://t.me/pdzeng_talk/5200",
+      "publishedAt": "2026-11-05T02:41:42.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/addyosmani/status/2117512471930167377?a=QkvCp-PrgXPpJ58-Jik&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "Addy Osmani on X: \"Critical thinking when agents do the work\" / X",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/U4B3DImNnn8EcYrWQ3UwcL56Hfj3WV5jYvX97760g3Pb-Db_Jhiam7zgGkQHZHPdq8HfywzPGE3E_wVMz9jJLiG55b-b1ZKLTURb8_cQp8h5mwepq0Y7_E-uyGX2pNPp_wGYbwfA59APkIfWjYTLkjee0ccxH-F_YMaMUN7nmcK727cuKkDxdqfoi0t1_ZHB7MG1t2-52kg3TW4rodotdF_HNZwgCm7yvZ5pK5gk8g-WFcyzceAHWDEKvYs74NU9UPcC2MBVCLHpxS6B27dW9SmC4RiBiZgbnym3de1cMo9cVLK_rBo9nK1WUsGHAdYynqefMHMs4BXd2746aDOB4w.jpg"
+      }
+    },
     {
       "id": "5198",
       "title": "▶️ 加木 - 两难(重置版)『漆黑的夜由火点亮，喜悲的乐由我演唱。』【动态歌词MV】 #youtube https://www.youtube.com/watch?v=eduffql3rSc",
