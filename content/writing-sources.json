@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:41:42.000Z",
+  "updatedAt": "2026-11-05T09:46:01.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5201",
+      "title": "https://x.com/notionhq/status/2118059335930744999?a=mpt3kwL36FKmoPUMakM&s=46",
+      "description": "https://x.com/notionhq/status/2118059335930744999?a=mpt3kwL36FKmoPUMakM&s=46",
+      "url": "https://t.me/pdzeng_talk/5201",
+      "publishedAt": "2026-11-05T09:46:01.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/notionhq/status/2118059335930744999?a=mpt3kwL36FKmoPUMakM&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "Notion (@NotionHQ) on X",
+        "description": "New: Give all your agents one shared brain in Notion. Now, ChatGPT, Claude, Muse, and Bot can save what they learn to the same memory and use the same skills in Notion. Learn how to Notion-pill…",
+        "imageUrl": "https://cdn4.telesco.pe/file/otuGc_l-gzWmSprHHcHM9L95kizfYbufLnSqb-hNW1e5CUTLCiVolKhK3SfXwIppTI4DG-j0zsPloGObXYmrulpU8tQVtQPNpxx2qfzdPbJr6trSNX3M75nBqNuaYU2OmISNRmZVAf6DByaVdhASvuuZLXekh0kw3fzNtMydjHgHBnNQM6wqmtgo2BtHbyago3u-FX6EhTVLXj_OKzALY89L-MhNMWRmT_4bK2itTDPya0fXwHigMR7fZjKwSzLgl3zEVdUtf6e-qmKrodYAz1PpVIsU2yISHzEhBw9uHeiHaMbtfYScdcoMIetJoT3c8NLfRfvZMGSxDjVDv_CbjQ.jpg"
+      }
+    },
     {
       "id": "5200",
       "title": "https://x.com/addyosmani/status/2117512471930167377?a=QkvCp-PrgXPpJ58-Jik&s=46",
