@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:22:25.000Z",
+  "updatedAt": "2026-11-06T21:06:19.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5204",
+      "title": "https://home.treasury.gov/news/press-releases/sb0685",
+      "description": "https://home.treasury.gov/news/press-releases/sb0685",
+      "url": "https://t.me/pdzeng_talk/5204",
+      "publishedAt": "2026-11-06T21:06:19.000Z",
+      "preview": {
+        "targetUrl": "https://home.treasury.gov/news/press-releases/sb0685",
+        "siteName": "U.S. Department of the Treasury",
+        "title": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
+        "description": "CVC Exchanger Facilitated at Least $16 Billion in Illicit Finance, Including for IRGC-Qods Force **WASHINGTON**—Today, as part of Operation Economic Outcast, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an …",
+        "imageUrl": "https://cdn4.telesco.pe/file/HlDpwbd0a84Pa2O5svXHJ3BHtu-BvUezchiCLI8tfiPDNJLuHRq_LdSd3mXnDvlWxu6CuZRq-9t0Eh9MbcSFZJQErAF8EQlG83J6TOBZcL26O6ZIqaPumOazf_W6eDMY-dMRuLxfBJAYz-ymVosvwsFlmYqEfmffLg8hSZibb7bqMdST0NSLf9EpL1VpdjZqZH2SaqDHHxWakEWIvVZ493R9Kt2tRs8Xt1y4ct84wibp-flCpplkCXE07-QWfwPsIE6E-pMNNF_q972ps2_46OaamWpx-TxlDEoTzd_lxpeKHU1mThHH8xEEYJl1JPWSS2fTImYdKBDm0Z2CzS7PbA.jpg"
+      }
+    },
     {
       "id": "5203",
       "title": "為啥國安基金這次這麼快？ https://www.threads.com/share/_1apM5J-k",
