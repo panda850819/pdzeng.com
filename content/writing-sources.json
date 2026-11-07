@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:06:19.000Z",
+  "updatedAt": "2026-11-07T04:03:28.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5205",
+      "title": "還沒仔細看 但是 FluidKey 40%?",
+      "description": "還沒仔細看 但是 FluidKey 40%?",
+      "url": "https://t.me/pdzeng_talk/5205",
+      "publishedAt": "2026-11-07T04:03:28.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5205",
+        "siteName": "Telegram",
+        "title": "還沒仔細看 但是 FluidKey 40%?",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/NbpWAdDPPT1wmV78frC_K9zIcOxu50xy-IFgKz_GIKX8p37tCcjbb3rOLVj4-XMD-KF_XmJnAQ48r6y7YxABUg5x-cdLZHXMr9IvmM4SQugWGRUv3JTZWJslAzMGcGzqZ-_0Zsbm5SAkk4XErasY_3swyj8n_FH9vop-XKQLK3GkvpDsfDpRK8auj7fJa0qKbAGaZNU07tnWaypx-RkGJHYiUvN_47_o-8hI7Z55rICdJAEwfk860CHJAxVjHmg-vs2dXCOvRmyQksINTI4fWT0bWrx37DnuEGfRYBpflM9CEBKeYRXDlTAOeCgBdY6-VqqBkItpxc87FqkjEMBGvQ.jpg"
+      }
+    },
     {
       "id": "5204",
       "title": "https://home.treasury.gov/news/press-releases/sb0685",
