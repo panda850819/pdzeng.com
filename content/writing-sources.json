@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T06:54:54.000Z",
+  "updatedAt": "2026-11-07T16:08:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5208",
+      "title": "hyoban/hyoban 🔗 https://github.com/hyoban/hyoban.cc #github",
+      "description": "hyoban/hyoban 🔗 https://github.com/hyoban/hyoban.cc #github",
+      "url": "https://t.me/pdzeng_talk/5208",
+      "publishedAt": "2026-11-07T16:08:54.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/hyoban/hyoban.cc",
+        "siteName": "GitHub",
+        "title": "GitHub - hyoban/hyoban.cc",
+        "description": "Contribute to hyoban/hyoban.cc development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/jbOlLPGcCUWicJYqbkKGMVFX8n92jLvF_SaFJGreSJu_KH3XcmUotnW1_ZJefv3ivngD28TbSO4O_JM4fEcnByz7iwv4BP0f1to0q-fuUbHB-d7FlPUVgs82SqV-kdRJ82DubHq_lmkOwXOyumadQgi6vaO5cJZyOqfwAl7f0lK6vBDRBY3UYBLUpYCEj11kwZsSF5jccyrRNhWf8QRPVhYy0Hn5e1Pfrhix2wNk0pFOjG1VNvu2QjluufviZu4EVnwuCIw0zu160_TX6BzknfafEJuW-9b1K-gbdb1QKsbGiQGzstUcUsGuAONIQkMIC03-w6B3cuDTDgBTNSUzOA.jpg"
+      }
+    },
     {
       "id": "5207",
       "title": "caru-ini/stack-diagram 🔗 https://github.com/caru-ini/stack-diagram #github",
