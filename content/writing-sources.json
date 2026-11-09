@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:23:27.000Z",
+  "updatedAt": "2026-11-09T00:58:58.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,11 +143,25 @@
   ],
   "telegram": [
     {
+      "id": "5212",
+      "title": "黃仁勳外遇， 很多人以為這是新聞，其實 10 月底紐時就爆過了。 報導指出，川普一年前就聽過情報簡報，但選擇不採取行動，因為他不想影響輝達的晶片銷售，這些銷售有助推動經濟和股市。 換句話說，老…",
+      "description": "黃仁勳外遇， 很多人以為這是新聞，其實 10 月底紐時就爆過了。 報導指出，川普一年前就聽過情報簡報，但選擇不採取行動，因為他不想影響輝達的晶片銷售，這些銷售有助推動經濟和股市。 換句話說，老黃過去一年有川普這把保護傘。 可是 11/3 期中選舉一出來，民主黨拿下參眾兩院，明年 1 月新國會上任後，委員會主席全換成民主黨，傳喚權也跟著換手。 有一點很關鍵：選…",
+      "url": "https://t.me/pdzeng_talk/5212",
+      "publishedAt": "2026-11-09T00:58:58.000Z"
+    },
+    {
       "id": "5211",
-      "title": "又黑天鵝了 這次是 NVDA",
-      "description": "又黑天鵝了 這次是 NVDA",
+      "title": "又黑天鵝了 這次是 NVDA https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "description": "又黑天鵝了 這次是 NVDA https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "url": "https://t.me/pdzeng_talk/5211",
-      "publishedAt": "2026-11-09T00:23:27.000Z"
+      "publishedAt": "2026-11-09T00:23:27.000Z",
+      "preview": {
+        "targetUrl": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+        "siteName": "NVIDIA Newsroom",
+        "title": "Statement from NVIDIA Board of Directors",
+        "description": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ...",
+        "imageUrl": "https://cdn4.telesco.pe/file/poXz0mPgdSM0l7MOB5abwD_apUuaHvYqFlP8Yl0OwIFftGQ_ZT-LULnNP7k8Q9UJWq1Eu57Uv3TZclEp4DlblvUizvUkahqHs_YJ6kExhTC1zpUh7iyIqU6eSPK51ZarSgh_WD1omTSaHvQG52D5qb0Rhj0jQOKySFd5kKeQvDShcvH10Pts0G6IlqnA5oHtWek89Qe0oB4Lned4kkJaksBYYCyTXK830SR-ex8UO3-3NHTBH8HY3LK_IUXigFk-5qSmlaB7xwz6Yo5yTAfzYk5xWnotajdZKkl4RsnLml9LlhFLp_AUW94sO6sKngdWrhgjcaVwqLf9nMdBSfVluw.jpg"
+      }
     },
     {
       "id": "5210",
