@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:22:29.000Z",
+  "updatedAt": "2026-11-09T03:50:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5215",
+      "title": "Niko1221/Strata 🔗 https://github.com/Niko1221/Strata #github",
+      "description": "Niko1221/Strata 🔗 https://github.com/Niko1221/Strata #github",
+      "url": "https://t.me/pdzeng_talk/5215",
+      "publishedAt": "2026-11-09T03:50:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/Niko1221/Strata",
+        "siteName": "GitHub",
+        "title": "GitHub - Niko1221/Strata: Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference…",
+        "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. - Niko1221/Strata",
+        "imageUrl": "https://cdn4.telesco.pe/file/F8HxYysfTEuE1k1Is800ncVZI6mKMuVm2PQNKyG1KGo5pfai3XvF5dKvEO7oMvRxqudmmUJtdrgpZQFYaPSJqmaIHZUjSHUFRh_ucey8X-3jSMvo6zSSO29W0nJMXEHDsvbpcJ8up2r2RgpYclzNj23Df9raZtVgGP2Ig1aQDqYfzUfzmiVmSCkLLLT9npbjilI5AU8sxMiNVfB5l55PdbSgsTz-b655XBzLpJyb3pIQJ8wjjP8dAjv7vqTJjhWU3irVU20pCRNkndhtbiLlUxZCvGGrqWsXJD0OVraCNvHFrHG202FB2FdN8Rp3HOI3xFix-sVUXONbfvEwVnZelw.jpg"
+      }
+    },
+    {
       "id": "5214",
       "title": "https://lightapaw.com/%E9%BE%90%E9%BE%90",
       "description": "https://lightapaw.com/%E9%BE%90%E9%BE%90",
@@ -257,7 +271,7 @@
         "siteName": "Telegram",
         "title": "還沒仔細看 但是 FluidKey 40%?",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/dbI4JzmxyhjsquYoKbCilm9L0IsfejF_xTfdz8XOkYx0T7f_zTlTeYtt9lRRYMnVYjD3REvwnUApUB6Btaf4C8oo5M20hQDXBtR1CgfcJOHwrPSTtfcpFupC-7gPUj4MK7GhdtjTmI0GXdIxM1EMPW8MXUN4oDZih8a3F6QNjOGFILFLOuOy9IZoTTK3v8283jmO8RsvfY2mv3tNnjWrBbPgA_VqRs4s6adIiwrkEp5AyuCJfS5y3VnpF0AkCA1o38P7CnK9yhiQGw5l6XmFUFIsV_PsCV1yhr6NUXtfI1RkfoG8TUxP9ja-7Re5_4fGG4gwOlhEUuRYBL47fqqUCQ.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/XtM5adglpi9qYUxSQKATLVX73SF2ZEc3DERL-LmNg6qmzHUiTDuBfBpZcOmvjo9e2GEdsjPxSTBIvHtrZV19uO3hffD5N67mEaJFNd3Fk_C-BH7Me-6c8VslQD2jg_pQtyCNLUhZX47sOdFfGg8sDVlFcS6LITzaQvfZVRE114Yz6uOYIw5zhx7HK6WhHGG4nqiXwZK_m6k2eYF2DMvYLgXK5rscJKxQPzRqpnE03V-H3VjzI-yrw-rY0c_r-oCi44OSj3i13bjALwSNzPfWS6gHn4LQh3WVktHTZmSojSRfQHjYLXWo7m9xjsCm-gv6_szoHrunWRp4aKUqJ8Z1jw.jpg"
       }
     },
     {
