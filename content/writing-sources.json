@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:18:33.000Z",
+  "updatedAt": "2026-11-09T00:23:27.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5211",
+      "title": "又黑天鵝了 這次是 NVDA",
+      "description": "又黑天鵝了 這次是 NVDA",
+      "url": "https://t.me/pdzeng_talk/5211",
+      "publishedAt": "2026-11-09T00:23:27.000Z"
+    },
     {
       "id": "5210",
       "title": "Yes 剛剛有一堆報錯把我煩死了 https://t.me/heitou_news/15188",
