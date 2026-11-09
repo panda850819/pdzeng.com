@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:29:01.000Z",
+  "updatedAt": "2026-11-09T03:22:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5214",
+      "title": "https://lightapaw.com/%E9%BE%90%E9%BE%90",
+      "description": "https://lightapaw.com/%E9%BE%90%E9%BE%90",
+      "url": "https://t.me/pdzeng_talk/5214",
+      "publishedAt": "2026-11-09T03:22:29.000Z",
+      "preview": {
+        "targetUrl": "https://lightapaw.com/%E9%BE%90%E9%BE%90",
+        "siteName": "Light a Paw",
+        "title": "懷念龐龐 (2014 – 2026)",
+        "description": "“啊龐，遇到祢真的是我們的福氣 我跟媽咪都很想祢也很愛祢 祢要過得好好的喔，記得偶爾來找我們玩”",
+        "imageUrl": "https://cdn4.telesco.pe/file/PWTkdYBIGBnDX12Ju2rwKTjbHA95gX9n7i_m8Izpz_QLyXF2UiOIQ2-GoM9u4-VkPKmMGobjEWL_vMbQZKAR8OgNSbO1ApA912lUqJCSycvb_uPauJOG1ov5cg7aDMlbRlO77WpSPSNb96d7mhOb0MuOQS1svEtmjIstc-61HrTmnIFkIMIGbctCJka0TRUW8fDRouGqzCnjtILPYmVo66zOHMzaXwAxuFGmpiFW0FCzBNDLobgwGkCAjHyEPE1fNOn-c5c36vARLd7MJ2V9bKvDsK7NwnVUXLcMr0WZDXQVrtgDyb-zrimurJZU6znvYjWHSybfh6hwjfTVBdHmgQ.jpg"
+      }
+    },
     {
       "id": "5213",
       "title": "之前很多時間沒好好搞 line bank 等等要先去補辦自然人憑證然後把 line bank 額度打開，我才能轉去證券戶 = = 真的好麻煩 花了早上大概一個多小時研究了下 fluidkey…",
