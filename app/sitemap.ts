@@ -6,10 +6,10 @@ export const dynamic = "force-static";
 const SITE = "https://pdzeng.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const pages = ["", "/work/", "/writing/", "/substack/", "/now/", "/projects/", "/about/", "/cv/"].map((path) => ({
+  const pages = ["/", "/work/", "/writing/", "/substack/", "/now/", "/projects/", "/about/", "/cv/"].map((path) => ({
     url: `${SITE}${path}`,
     changeFrequency: "weekly" as const,
-    priority: path === "" ? 1 : 0.8,
+    priority: path === "/" ? 1 : 0.8,
   }));
 
   const posts = published.map((p) => ({

@@ -14,3 +14,4 @@ jobs:
       - run: bunx velite
       - run: bun run typecheck
       - run: bun run build
+      - run: bun test tests/seo-canonical.test.js tests/site-worker.test.js
