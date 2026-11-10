@@ -21,7 +21,6 @@ export function Footer() {
           <Signature id="sig-foot" />
         </div>
         <div className="fcta">
-          <h2 className="fcta-title">歡迎聊聊</h2>
           <ContactCta href={meetingHref}>歡迎聊聊</ContactCta>
         </div>
         <div className="fcols">
