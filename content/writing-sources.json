@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:26:12.000Z",
+  "updatedAt": "2026-11-10T10:43:44.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5227",
+      "title": "https://x.com/binance/status/2120093246399430770?a=4slUPVyxoXGfikFQ1zo&s=20 恭喜發財",
+      "description": "https://x.com/binance/status/2120093246399430770?a=4slUPVyxoXGfikFQ1zo&s=20 恭喜發財",
+      "url": "https://t.me/pdzeng_talk/5227",
+      "publishedAt": "2026-11-10T10:43:44.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/binance/status/2120093246399430770?a=4slUPVyxoXGfikFQ1zo&s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Binance (@binance) on X",
+        "description": "A vulnerability (worse_query) affecting iOS 26.7.1, 27.0.1, and 27.2 allows malicious apps to read local files from other apps, putting seed phrases, private keys, and login credentials at risk ac…",
+        "imageUrl": "https://cdn4.telesco.pe/file/dv7vy2B2wHAxZrQkMdsWqQa3E9Ztx5zvwnWc7wAYu-Tknjh1CYuhsMubkRsqBFfGNaML8lNjgUQBpdN7917g6c4z2PeBi4uRthNQyxaszfbyociqc9zO9m4y-ub-IotJ3Cnr_BCDxsUjk0jEAx-ErhR02aONR9R_KwwiF-xcPUvipQ3nSVicOsjaz_SBCZcztPZRkPz26hRnmBtuii5re0Bf2OlE64uiXmb5qrxhiW9lnh62BvRMHnhReRGCEtimeWupnAmOnNBJd1AmMmx4GStlNw6KAMy7u_cyP5l3yiDVGYWIdelwTOyNM5tkYvBBM-YOgJDYDnx7Cp0nNjJL2A.jpg"
+      }
+    },
     {
       "id": "5226",
       "title": "今天來 cursor 小聚，他們邀請之前 cursor 的 design ryo https://ryo.lu/",
