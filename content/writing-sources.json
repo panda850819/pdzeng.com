@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:03:02.000Z",
+  "updatedAt": "2026-11-10T10:26:12.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5226",
+      "title": "今天來 cursor 小聚，他們邀請之前 cursor 的 design ryo https://ryo.lu/",
+      "description": "今天來 cursor 小聚，他們邀請之前 cursor 的 design ryo https://ryo.lu/",
+      "url": "https://t.me/pdzeng_talk/5226",
+      "publishedAt": "2026-11-10T10:26:12.000Z"
+    },
+    {
+      "id": "5225",
+      "title": "你們 Cdc rip https://x.com/cryptocom/status/2119810309120561458",
+      "description": "你們 Cdc rip https://x.com/cryptocom/status/2119810309120561458",
+      "url": "https://t.me/pdzeng_talk/5225",
+      "publishedAt": "2026-11-10T10:07:54.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/cryptocom/status/2119810309120561458",
+        "siteName": "X (formerly Twitter)",
+        "title": "Crypto.com (@cryptocom) on X",
+        "description": "https://t.co/hcDm4vdblb Rips is LIVE. Here’s your important TL;DR before you start ripping: ✅",
+        "imageUrl": "https://cdn4.telesco.pe/file/aBk-P5KQ6GBvY5jSUbyAPaZNqwh10e3aSK-OpXWiVr_fjhlI4DW7svaN-LH98YJsQSPQoMPAqvzv58OyofxYb4pPnGg0wQOgCXw2574HdnQwljY8Lj4YisKvCg1fLv5Pvz7jIWU1jKwgvwI3UHI57DG6_uecx7NvBU1cJ7ZhlDOwnUUp9YQbbKJK9aOO90stre0ZccIp7GFZmuocZFzTRHUysBPYXPQj1u0ino-ugsgDzIl3AbKp1ezfweUmyV8ZBbU4VrsqbhPclqPbWHv18FZl69WJkDxmHJ7-5XQiYqUkV_Ewd3rrFu0iUKQays5IMvc0VMHdJSujzRNP37QeeQ.jpg"
+      }
+    },
     {
       "id": "5224",
       "title": "▶️ 學會講重點才能做好工作 @Dr. Harvey-2050 #youtube https://www.youtube.com/watch?v=Fo80VMxMXtc",
