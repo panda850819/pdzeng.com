@@ -1,74 +1,47 @@
 "use client";
 
-import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
-import type { UnifiedWritingItem, WritingCategory, WritingPreview } from "@/lib/writing";
+import { useEffect, useState } from "react";
+import type { MurmurTalkItem, WritingPreview } from "@/lib/writing";
 import { splitXCopy, telegramNote, writingHeadline } from "@/lib/writing-display";
 
-const filters = [
-  { key: "all", label: "All" },
-  { key: "writing", label: "Writing", zh: "寫作" },
-  { key: "murmurtalk", label: "MurmurTalk", zh: "隨口說" },
-] as const;
-
-// Old share links used one hash per source; send them to the category that now holds it
-const legacyHashes: Record<string, Filter> = { blog: "writing", telegram: "murmurtalk", x: "murmurtalk" };
-
-type Filter = "all" | WritingCategory;
 type View = "list" | "grid";
 
 const sourceLabels = {
-  substack: "Substack",
   telegram: "Telegram",
   x: "X",
 } as const;
 
-const sourceNotes: Record<Filter, React.ReactNode> = {
-  all: "Latest public writing across every channel.",
-  writing: (
-    <>
-      Essays published on{" "}
-      <a className="text-ink underline decoration-line underline-offset-4" href="https://pdzeng.substack.com/" target="_blank" rel="noreferrer">
-        Substack
-      </a>
-      .
-    </>
-  ),
-  murmurtalk: (
-    <>
-      Short notes from{" "}
-      <a className="text-ink underline decoration-line underline-offset-4" href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer">
-        @pdzeng_talk
-      </a>{" "}
-      on Telegram and public posts by{" "}
-      <a className="text-ink underline decoration-line underline-offset-4" href="https://x.com/PandaZeng1" target="_blank" rel="noreferrer">
-        @PandaZeng1
-      </a>{" "}
-      on X, with links to the originals. The Telegram archive is powered by the{" "}
-      <a className="text-ink underline decoration-line underline-offset-4" href="https://github.com/panda850819/mini-blog" target="_blank" rel="noreferrer">
-        mini-blog
-      </a>{" "}
-      source.
-    </>
-  ),
-};
+const linkClass = "text-ink underline decoration-line underline-offset-4";
 
-const isFilter = (value: string): value is Filter => filters.some((filter) => filter.key === value);
+const sourceNote = (
+  <>
+    短貼來自 Telegram 頻道{" "}
+    <a className={linkClass} href="https://t.me/pdzeng_talk" target="_blank" rel="noreferrer">
+      @pdzeng_talk
+    </a>{" "}
+    和 X 帳號{" "}
+    <a className={linkClass} href="https://x.com/PandaZeng1" target="_blank" rel="noreferrer">
+      @PandaZeng1
+    </a>
+    ，每則都連回原文。Telegram 封存由{" "}
+    <a className={linkClass} href="https://github.com/panda850819/mini-blog" target="_blank" rel="noreferrer">
+      mini-blog
+    </a>{" "}
+    提供。
+  </>
+);
 
 const formatDate = (value: string) => value.slice(0, 10);
 
-function ItemLink({ item, className, children }: { item: UnifiedWritingItem; className: string; children: React.ReactNode }) {
-  if (item.external) {
-    return (
-      <a href={item.url} target="_blank" rel="noreferrer" className={className}>
-        {children}
-      </a>
-    );
-  }
-  return <Link href={item.url} className={className}>{children}</Link>;
+function ItemLink({ item, className, children }: { item: MurmurTalkItem; className: string; children: React.ReactNode }) {
+  return (
+    <a href={item.url} target="_blank" rel="noreferrer" className={className}>
+      {children}
+    </a>
+  );
 }
 
-const hasMetrics = (item: UnifiedWritingItem) =>
+const hasMetrics = (item: MurmurTalkItem) =>
   Boolean(item.metrics && item.metrics.replies + item.metrics.reposts + item.metrics.likes > 0);
 
 const previewSiteLabel = (preview: WritingPreview) =>
@@ -98,7 +71,7 @@ function PreviewImage({ preview, className = "aspect-[16/9]" }: { preview?: Writ
   );
 }
 
-function ItemMeta({ item }: { item: UnifiedWritingItem }) {
+function ItemMeta({ item }: { item: MurmurTalkItem }) {
   return (
     <div className="flex items-center justify-between gap-3 text-xs text-faint sm:block">
       <time dateTime={item.publishedAt} className="tabular-nums">{formatDate(item.publishedAt)}</time>
@@ -107,7 +80,7 @@ function ItemMeta({ item }: { item: UnifiedWritingItem }) {
   );
 }
 
-function Metrics({ item }: { item: UnifiedWritingItem }) {
+function Metrics({ item }: { item: MurmurTalkItem }) {
   if (!hasMetrics(item)) return null;
   return (
     <p className="mt-3 text-xs text-faint tabular-nums">
@@ -131,27 +104,8 @@ function CompactPreview({ preview, showImage = true, primary = false, excludeTex
   );
 }
 
-export function GridCard({ item }: { item: UnifiedWritingItem }) {
-  if (item.source === "substack") {
-    return (
-      <>
-        <PreviewImage preview={item.preview} />
-        <div className="flex flex-1 flex-col p-5">
-          <div className="flex items-center justify-between gap-3 text-xs text-faint">
-            <span>Substack</span>
-            <time dateTime={item.publishedAt} className="shrink-0 tabular-nums">{formatDate(item.publishedAt)}</time>
-          </div>
-          <h2 lang={item.locale === "zh-TW" ? "zh" : "en"} className="mt-2 line-clamp-3 break-words text-base text-ink transition-colors duration-150 [@media(hover:hover)]:group-hover:text-bamboo">
-            {item.title}
-          </h2>
-          {item.description && <p lang="zh" className="mt-2 line-clamp-3 flex-1 text-sm text-muted">{item.description}</p>}
-        </div>
-      </>
-    );
-  }
-
+export function GridCard({ item }: { item: MurmurTalkItem }) {
   if (item.source === "telegram") {
-    const note = telegramNote(item);
     const headline = writingHeadline(item);
     return (
       <div className="flex h-full flex-col p-5">
@@ -185,11 +139,11 @@ export function GridCard({ item }: { item: UnifiedWritingItem }) {
   );
 }
 
-function ListRow({ item }: { item: UnifiedWritingItem }) {
+function ListRow({ item }: { item: MurmurTalkItem }) {
   const note = item.source === "telegram" ? telegramNote(item) : "";
   const xCopy = item.source === "x" ? splitXCopy(item) : null;
   const continuation = xCopy?.body || item.description;
-  const showCompactPreview = Boolean(item.preview && item.source !== "substack" && (item.source === "telegram" || item.preview.title || item.preview.description));
+  const showCompactPreview = Boolean(item.preview && (item.source === "telegram" || item.preview.title || item.preview.description));
   const showHeading = item.source !== "telegram" || Boolean(note) || !item.preview;
 
   return (
@@ -214,94 +168,57 @@ function ListRow({ item }: { item: UnifiedWritingItem }) {
   );
 }
 
-export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
-  const [filter, setFilter] = useState<Filter>("all");
+export function WritingList({ items }: { items: MurmurTalkItem[] }) {
   const [view, setView] = useState<View>("list");
   const [visibleCount, setVisibleCount] = useState(24);
 
   useEffect(() => {
     const savedView = localStorage.getItem("writing-view");
     if (savedView === "grid" || savedView === "list") setView(savedView);
-    const hashFilter = window.location.hash.slice(1);
-    if (isFilter(hashFilter)) setFilter(hashFilter);
-    else if (legacyHashes[hashFilter]) setFilter(legacyHashes[hashFilter]);
   }, []);
-
-  const switchFilter = (next: Filter) => {
-    setFilter(next);
-    setVisibleCount(24);
-    window.history.replaceState(null, "", next === "all" ? window.location.pathname : `#${next}`);
-  };
 
   const switchView = (next: View) => {
     setView(next);
     localStorage.setItem("writing-view", next);
   };
 
-  const filtered = useMemo(
-    () => (filter === "all" ? items : items.filter((item) => item.category === filter)),
-    [filter, items],
-  );
-  const visible = filtered.slice(0, visibleCount);
+  const visible = items.slice(0, visibleCount);
 
   return (
     <div className="mt-8">
-      <div className="flex flex-col gap-5 border-b border-line pb-6">
-        <div className="flex items-center justify-between gap-4">
-          <div className="flex flex-wrap gap-2" role="group" aria-label="Filter writing">
-            {filters.map((item) => (
-              <button
-                key={item.key}
-                onClick={() => switchFilter(item.key)}
-                aria-pressed={filter === item.key}
-                className={`hit rounded-full px-4 py-1.5 text-sm transition-colors duration-150 active:scale-95 ${
-                  filter === item.key
-                    ? "bg-bamboo font-medium text-canvas"
-                    : "surface-2 hairline text-muted [@media(hover:hover)]:hover:text-ink"
-                }`}
-              >
-                {"zh" in item && (
-                  <span lang="zh-Hant" className="mr-1.5">
-                    {item.zh}
-                  </span>
-                )}
-                {item.label}
-              </button>
-            ))}
-          </div>
-          <div className="hidden gap-1 sm:flex" role="group" aria-label="View mode">
-            <button
-              onClick={() => switchView("list")}
-              aria-pressed={view === "list"}
-              aria-label="List view"
-              className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
-                view === "list" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
-              }`}
-            >
-              <span aria-hidden>≡</span>
-            </button>
-            <button
-              onClick={() => switchView("grid")}
-              aria-pressed={view === "grid"}
-              aria-label="Grid view"
-              className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
-                view === "grid" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
-              }`}
-            >
-              <span aria-hidden>⊞</span>
-            </button>
-          </div>
-        </div>
-        <div className="flex flex-col gap-1 text-sm text-faint sm:flex-row sm:items-baseline sm:justify-between">
-          <p>{sourceNotes[filter]}</p>
-          <p className="shrink-0 tabular-nums">
-            {filtered.length} entries{filtered[0] && ` · latest ${formatDate(filtered[0].publishedAt)}`}
+      <div className="flex items-start justify-between gap-4 border-b border-line pb-6">
+        <div className="flex flex-col gap-1 text-sm text-faint">
+          <p>{sourceNote}</p>
+          <p className="tabular-nums">
+            {items.length} 則{items[0] && ` · 最新 ${formatDate(items[0].publishedAt)}`}
           </p>
+        </div>
+        <div className="hidden shrink-0 gap-1 sm:flex" role="group" aria-label="檢視方式">
+          <button
+            onClick={() => switchView("list")}
+            aria-pressed={view === "list"}
+            aria-label="列表檢視"
+            className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
+              view === "list" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
+            }`}
+          >
+            <span aria-hidden>≡</span>
+          </button>
+          <button
+            onClick={() => switchView("grid")}
+            aria-pressed={view === "grid"}
+            aria-label="格狀檢視"
+            className={`flex h-8 w-8 items-center justify-center rounded-md transition-colors duration-150 active:scale-95 ${
+              view === "grid" ? "surface-3 text-ink" : "text-faint [@media(hover:hover)]:hover:text-ink"
+            }`}
+          >
+            <span aria-hidden>⊞</span>
+          </button>
         </div>
       </div>
 
       {visible.length === 0 ? (
-        <p className="py-16 text-muted">No published entries in this source yet.</p>
+        <p className="py-16 text-muted">還沒有短貼。</p>
       ) : view === "grid" ? (
         <ul className="mt-6 grid gap-4 sm:grid-cols-2">
           {visible.map((item) => (
@@ -322,12 +239,12 @@ export function WritingList({ items }: { items: UnifiedWritingItem[] }) {
         </ul>
       )}
 
-      {visible.length < filtered.length && (
+      {visible.length < items.length && (
         <button
           onClick={() => setVisibleCount((count) => count + 24)}
           className="mt-8 w-full rounded-lg border border-line py-3 text-sm text-muted transition-colors duration-150 active:scale-[0.99] [@media(hover:hover)]:hover:text-ink"
         >
-          Show older entries
+          載入更早的短貼
         </button>
       )}
     </div>

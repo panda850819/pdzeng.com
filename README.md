@@ -19,12 +19,12 @@ Bun is the package manager and script runner everywhere — local and CI. Do not
 
 ## Writing content
 
-`/writing/` is a unified visual index. Essays come only from Substack, short
-notes come from `@pdzeng_talk`, and top-level public X posts authored by
-`@PandaZeng1` are archived without replies or retweets. Legacy Markdown posts
-remain reachable on-site but do not appear in the Writing index.
-Grid and list views render source-native previews from Substack enclosures,
-Telegram link metadata or message media, and X media or quoted-post context.
+`/writing/` is 隨口說: short posts only. Notes come from `@pdzeng_talk`, and
+top-level public X posts authored by `@PandaZeng1` are archived without replies
+or retweets. Substack essays are listed on `/substack/` (文章) instead. Legacy
+Markdown posts remain reachable on-site but do not appear in either index.
+Grid and list views render source-native previews from Telegram link metadata
+or message media, and X media or quoted-post context.
 Telegram keeps authored notes separate from linked content; X keeps media,
 quotes, and metrics secondary to the post text.
 

@@ -101,3 +101,8 @@ export const unifiedWriting = (): UnifiedWritingItem[] =>
   [...sourceItems].sort(
     (a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.id.localeCompare(b.id),
   );
+
+export type MurmurTalkItem = UnifiedWritingItem & { source: "telegram" | "x"; category: "murmurtalk" };
+
+export const isMurmurTalk = (item: UnifiedWritingItem): item is MurmurTalkItem =>
+  item.category === "murmurtalk" && item.source !== "substack";
