@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { OG_TAGLINE } from "../lib/site-meta.ts";
 
@@ -88,6 +88,27 @@ describe("static export of the home page", () => {
   });
 });
 
+describe("heading outline on every exported page", () => {
+  const files = readdirSync(OUT, { recursive: true }).filter((f) => String(f).endsWith(".html"));
+  const withFooter = files.filter((f) => read(String(f)).includes('<footer class="foot"'));
+
+  test("covers the pages that render the shared footer", () => {
+    expect(withFooter.length).toBeGreaterThan(10);
+  });
+
+  for (const rel of withFooter) {
+    test(String(rel), () => {
+      const html = read(String(rel));
+      const levels = [...html.matchAll(/<h([1-6])\b/g)].map((m) => Number(m[1]));
+      levels.reduce((prev, level) => {
+        expect(level).toBeLessThanOrEqual(prev + 1);
+        return level;
+      }, 0);
+      expect(html.slice(html.indexOf('<footer class="foot"'))).not.toMatch(/<h[1-6]\b/);
+    });
+  }
+});
+
 describe("every page shares the new header and footer", () => {
   const pages = ["index.html", "now/index.html", "work/index.html", "about/index.html", "writing/index.html", "substack/index.html", "cv/index.html"];
 
@@ -109,7 +130,9 @@ describe("every page shares the new header and footer", () => {
       expect(html).toContain('<footer class="foot"');
       expect(html).toContain('clip-path="url(#sig-foot)"');
       const fcta = html.slice(html.indexOf('class="fcta"'), html.indexOf('class="fcols"'));
-      expect(fcta).toContain('<h2 class="fcta-title">歡迎聊聊</h2>');
+      expect(html).toContain('<section class="fcta" aria-label="預約聊聊">');
+      expect(fcta).not.toContain("fcta-title");
+      expect(fcta).not.toContain("<h2");
       expect(fcta).toMatch(/<a class="cta" href="https:\/\/calendly\.com\/pdzeng\/meetings"[^>]*>歡迎聊聊<svg/);
       expect(fcta).not.toContain('class="fcta-note"');
       expect(fcta.replace(/<[^>]*>/g, "")).not.toContain("calendly.com/pdzeng/meetings");
