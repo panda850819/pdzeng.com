@@ -20,9 +20,9 @@ export function Footer() {
         <div className="fsig">
           <Signature id="sig-foot" />
         </div>
-        <div className="fcta">
+        <section className="fcta" aria-label="預約聊聊">
           <ContactCta href={meetingHref}>歡迎聊聊</ContactCta>
-        </div>
+        </section>
         <div className="fcols">
           <ul>
             <li>
