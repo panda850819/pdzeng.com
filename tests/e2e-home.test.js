@@ -111,7 +111,8 @@ describe("every page shares the new header and footer", () => {
       const fcta = html.slice(html.indexOf('class="fcta"'), html.indexOf('class="fcols"'));
       expect(fcta).toContain('<h2 class="fcta-title">歡迎聊聊</h2>');
       expect(fcta).toMatch(/<a class="cta" href="https:\/\/calendly\.com\/pdzeng\/meetings"[^>]*>歡迎聊聊<svg/);
-      expect(fcta).not.toContain('<p class="fcta-note">歡迎聊聊</p>');
+      expect(fcta).not.toContain('class="fcta-note"');
+      expect(fcta.replace(/<[^>]*>/g, "")).not.toContain("calendly.com/pdzeng/meetings");
       expect(fcta).not.toContain("聯絡我合作");
       expect(html).toMatch(/<a class="cta" href="https:\/\/t\.me\/pdzeng"[^>]*>聯絡我合作<svg/);
       expect(html).not.toContain(DROPPED_CTA);

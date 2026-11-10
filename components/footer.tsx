@@ -23,11 +23,6 @@ export function Footer() {
         <div className="fcta">
           <h2 className="fcta-title">歡迎聊聊</h2>
           <ContactCta href={meetingHref}>歡迎聊聊</ContactCta>
-          <p className="fcta-note">
-            <a href={meetingHref} target="_blank" rel="noreferrer">
-              calendly.com/pdzeng/meetings
-            </a>
-          </p>
         </div>
         <div className="fcols">
           <ul>
