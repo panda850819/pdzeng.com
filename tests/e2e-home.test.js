@@ -130,14 +130,29 @@ describe("every page shares the new header and footer", () => {
   });
 });
 
-describe("/writing/ categories", () => {
-  test("filters are All / 寫作 Writing / 隨口說 MurmurTalk", () => {
-    const html = read("writing/index.html");
-    expect(html).toMatch(/<span lang="zh-Hant"[^>]*>寫作<\/span>Writing/);
-    expect(html).toMatch(/<span lang="zh-Hant"[^>]*>隨口說<\/span>MurmurTalk/);
-    const group = html.slice(html.indexOf('aria-label="Filter writing"'), html.indexOf('aria-label="View mode"'));
-    expect(group.match(/<button/g)?.length).toBe(3);
-    for (const old of ["Blog", "Telegram", "X archive"]) expect(group).not.toContain(old);
+describe("/writing/ is 隨口說", () => {
+  const html = read("writing/index.html");
+  const main = mainOf(html);
+
+  test("titled 隨口說 in the page and metadata", () => {
+    expect(main).toMatch(/<h1[^>]*>隨口說<\/h1>/);
+    expect(html).toContain("<title>隨口說 · Panda Zeng</title>");
+    expect(html).toMatch(/<meta property="og:title" content="隨口說 · Panda Zeng"\/>/);
+  });
+
+  test("lists only Telegram and X posts, with no filter bar", () => {
+    const sources = new Set([...html.matchAll(/\\"source\\":\\"(\w+)\\"/g)].map((m) => m[1]));
+    expect([...sources].toSorted()).toEqual(["telegram", "x"]);
+    expect(main).not.toMatch(/<a [^>]*href="https:\/\/[^"]*substack\.com/);
+    expect(main).not.toContain('aria-label="Filter writing"');
+    expect(main).toContain("https://t.me/pdzeng_talk");
+    expect(main).toContain("https://x.com/PandaZeng1");
+    for (const word of ["MurmurTalk", "Essays"]) expect(html).not.toContain(word);
+  });
+
+  test("the header labels /writing/ as 隨口說 and marks it current", () => {
+    expect(html).toMatch(/aria-current="page" href="\/writing\/"[^>]*>隨口說<|href="\/writing\/" aria-current="page"[^>]*>隨口說</);
+    expect(html).not.toMatch(/href="\/writing\/"[^>]*>寫作</);
   });
 });
 
