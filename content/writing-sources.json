@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:02:19.000Z",
+  "updatedAt": "2026-11-10T06:50:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5222",
+      "title": "huginn/huginn 🔗 https://github.com/huginn/huginn #github",
+      "description": "huginn/huginn 🔗 https://github.com/huginn/huginn #github",
+      "url": "https://t.me/pdzeng_talk/5222",
+      "publishedAt": "2026-11-10T06:50:54.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/huginn/huginn",
+        "siteName": "GitHub",
+        "title": "GitHub - huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!",
+        "description": "Create agents that monitor and act on your behalf. Your agents are standing by! - huginn/huginn",
+        "imageUrl": "https://cdn4.telesco.pe/file/pyp0nxeLxz_5lcXaQK0L_Khl0tiL8cfeWAlajyRJLyRZKfkMOtVetpjXZfLQtSLL1W2D5x7ib8G9G8upqCi4WFMsm6J3KcfxPPNAZMFyZLZvuz9HvheCWdieSicotlzg0WcDuvNl92_Z_vY2zNLNAcTUWRl6WX18SDppqj2sf6Z6qUW2rbGg0spaRNs3AiJT2piMESwCWCykra4TVSelgVbBD_Jt0YhuP391wfzRAgIa1oEw6IJo_Ah8XLa0KjirU_ZPHN7exPE1gVva_f2EcreTj7XrGb-bxXm0CTmBu0CVuWGihUF2LjfMD1fjnearY_6X5CB6wX45mX9PG0v2ng.jpg"
+      }
+    },
+    {
       "id": "5221",
       "title": "https://course.mixxin.tw/c/your-ai-marketing-partners 15 skills / 1,299 NTD 看起來之後的上課，會多賣一包 Skill…",
       "description": "https://course.mixxin.tw/c/your-ai-marketing-partners 15 skills / 1,299 NTD 看起來之後的上課，會多賣一包 Skills 就是你不上課沒關係，你多買這個，套用就可以直接學到囉 ^____^",
@@ -216,7 +230,7 @@
         "siteName": "Miru",
         "title": "Miru — Research Agent for Financial Markets",
         "description": "Miru is the research agent for financial markets, delivering auditable answers backed by institutional-grade data.",
-        "imageUrl": "https://cdn4.telesco.pe/file/tKxaKKRI0upUsKuXdgipFLU1b8HoXSsCh1FIooirsU1-GJFBo2yyvG7ejOb4c6p9ZY8QQSysMNF690sa21Jd7qMm2_am9-fxXrgEjw-elkTPQHTNnIxoPX3qlJ-zFvQy9_3_djAkdJ8OAnJKMerLtacpRl4zb45C7VsfigsluhOMNWAoYj34kbg7P0LWw_BX0IgsweXFSH_oDxL5mIjHm04D7eM8gUNKtI_ySAm3ZzPLFuHOt0zTrGonRmL9aQ3CchoNypM42epf1W4jfaCIYOtajX6A2cdfJgGRRf8YF6BHSSArtgq8AIZw-lcZoCoWgt_kx6Dz7jgFQpSjlMhfVw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/cQ04PWmAD4MofxZJ3zM7iC13PD-qDfpm7ErKQvbHdWltYtwsQ-ySIRXXQeIsalWOQ2pzHTVcIsvQhUEAkLqsn1hmLABO1U1GxGzCiauEZ00-x7Xt9Bd_GGYngniJdyvWQci6JRqJ_YuOdX7uN5JpgfqJMszM_TKEcCGfGCbCH7od3hwWGnfKzPQctYVb5TrsMYQpOfYXyNU0WwCqQB3TeSCiY38XeVZEGrJclFxeN0ShCTivnZ4qjd5EQV5WHzLOtUL_oJzazvnGmeym5lrniRmhqNCtFdPz7IZXS-rUp7MA3PeNtZmiCubLqJerj7IInxVQKBjh5BUg81PABjqynw.jpg"
       }
     },
     {
