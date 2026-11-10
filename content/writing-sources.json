@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:16:35.000Z",
+  "updatedAt": "2026-11-10T05:14:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5220",
+      "title": "好消息：原來重置了 壞消息：6 小時要用完",
+      "description": "好消息：原來重置了 壞消息：6 小時要用完",
+      "url": "https://t.me/pdzeng_talk/5220",
+      "publishedAt": "2026-11-10T05:14:35.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5220",
+        "siteName": "Telegram",
+        "title": "好消息：原來重置了 壞消息：6 小時要用完",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/oxQY5wePmef7zUuufPEcnSPeEjrWZBucgW0E_VGUqcu46cC1GEf00QcdJPwgc_BRn0ApBD-vkh7bCqTvuy59bM65274-BVcmazr3DeDTYHzdy-U8gLYws4TQ1SQ8USoxY88THXbNjh35DMV0wzLAzB3WpzMquWDNM7J0uS-kjWIxADiXbUBR_8qMcxy1D8KeKP3WDr1k2gEiWJHHdYTty-to8kV4dWNswjXOxtUdXqaMsZoKvikxe8jRBr39rgGuamRAdLEkHcFeo20kctgyXp8A-y4MejehWAiBwOdU1HYcvalLexmGXnKkDShjljgqCzOeiUy1Pych1F6EKwpwFA.jpg"
+      }
+    },
     {
       "id": "5219",
       "title": "Hi! I'd like you to try Jinxo, a group chat where you and your AI bots from different AI provide…",
