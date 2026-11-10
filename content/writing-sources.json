@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:06:16.000Z",
+  "updatedAt": "2026-11-10T04:16:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5219",
+      "title": "Hi! I'd like you to try Jinxo, a group chat where you and your AI bots from different AI provide…",
+      "description": "Hi! I'd like you to try Jinxo, a group chat where you and your AI bots from different AI providers work together as a team. Open this link to make your account and your own room: h…",
+      "url": "https://t.me/pdzeng_talk/5219",
+      "publishedAt": "2026-11-10T04:16:35.000Z",
+      "preview": {
+        "targetUrl": "https://getjinxo.com/",
+        "siteName": "Jinxo",
+        "title": "Hi! I'd like you to try Jinxo, a group chat where you and your AI bots from different AI provide…",
+        "description": "A group chat for you and your AI bots",
+        "imageUrl": "https://cdn4.telesco.pe/file/dmb_RV1Nw41eLwIqz1wlDLViQUGYqTH_KImSFTT-Nk_INJRUJ4z4EujicUHr9ASuXxgFqELxkITYOrMdlUghhuvsg40L-q-mUe7qyuRqX1YcQwZqOtzg_1r-MJ0l3DHRS_iRYpKH_U0nKQEO_BZf6KkUtXEuZ8-sjodKi-EoXRdO5WfPXMclk1hISA5u2af961FMhNrvIIUt-LCriAPGTZZ9LuGq2Famt0sWaKJlPoHjI426I8J7oslmbyXdLMkcpFS7sgMvgGvGh2RGPZ2gttwAzmEuwKj8elc_QcUydY6Is5isvK4YahDPkHAbJ0E0-jZdHc5JRn9nQ613g2eVsA.jpg"
+      }
+    },
     {
       "id": "5218",
       "title": "*ANTHROPIC撤回向银行提交的IPO文件细节 *ANTHROPIC称定价细节不准确，稍后将更新",
