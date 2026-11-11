@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:43:44.000Z",
+  "updatedAt": "2026-11-11T11:36:18.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5228",
+      "title": "https://x.com/emilkowalski/status/2120462021141434397?a=Dv5XY6kjYNSfIWvqD1Y&s=20",
+      "description": "https://x.com/emilkowalski/status/2120462021141434397?a=Dv5XY6kjYNSfIWvqD1Y&s=20",
+      "url": "https://t.me/pdzeng_talk/5228",
+      "publishedAt": "2026-11-11T11:36:18.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/emilkowalski/status/2120462021141434397?a=Dv5XY6kjYNSfIWvqD1Y&s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Emil Kowalski (@emilkowalski) on X",
+        "description": "For design skills, I agree. That’s why my skills don’t enforce a specific style, or try to do everything for you, but rather are small and focus on specific rules. Not animating from scale 0, o…",
+        "imageUrl": "https://cdn4.telesco.pe/file/cayIlvxG2adTRK3-8uGmoALXCjE8y5GMzkMPJMjqsHdgPAFnCk088wSyIp99tEtsez1TVXjzv11-JdTYri75JAkVJVJ_NuoBPier6auuteQIhUj8bj_B1RlOCzhozOgoav-UrAvgyNfj--ZP4I6n_tdUlwd9cnuf6hK1rKgZEWm17SNI3AM5VYHQwx4WtzQLRktxPYRNOrmivqI2fg5pmKxAQqPyuomPFa4UFVnQfy9pebxMM3OWwP8rQ4V6goZsHsEtubSGb6tsIBaeqHP5OCXza950_wgY7aQfgjvNbc-336gJKrnBYZrn3CkNpoTdqwJWtIiKFZTr802fwZV7Wg.jpg"
+      }
+    },
     {
       "id": "5227",
       "title": "https://x.com/binance/status/2120093246399430770?a=4slUPVyxoXGfikFQ1zo&s=20 恭喜發財",
