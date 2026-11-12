@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:10:09.000Z",
+  "updatedAt": "2026-11-12T06:28:57.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5233",
+      "title": "https://prompt-motion.com/",
+      "description": "https://prompt-motion.com/",
+      "url": "https://t.me/pdzeng_talk/5233",
+      "publishedAt": "2026-11-12T06:28:57.000Z",
+      "preview": {
+        "targetUrl": "https://prompt-motion.com/",
+        "siteName": "Prompt Motion",
+        "title": "https://prompt-motion.com/",
+        "description": "A collection of motion videos made with Claude Opus 5.5, with the prompts and skills behind them.",
+        "imageUrl": "https://cdn4.telesco.pe/file/s2RERj6xoSfja43ZeVaCdcAXFRO_PO6zhA3sBw1ugzwcQ8dDWcNAYpZnwtxEnP_W6fQqi2Xq6Zwk0m9NUXz06rTgf4g0MFIn0ao7JxPBImB17v86drV2ohd_n4yCjvRMSF3EjY65pQjlG9Xgl4sFSvZlbDx8GGsGWqkTojT9nQ0T_-_Gl8epuwKDIMElZc6OCS6jmlP3dhiDQ4TvFeVtOrX3To4aYPQlNnvaSU89ajxmh2-8rUnq8VVGzLHt5zNxm8G1ll_2vaoUP0n4SzBHrKsQl1N3G-OSfuu8_Jei2B1JzMbf-HgwLAL0bJdsKwWtS-CVReGy-UzyXdPYDAHHUQ.jpg"
+      }
+    },
     {
       "id": "5232",
       "title": "記得抽 $ant 啊，目前超額認購。估計也會拉盤的",
@@ -349,7 +363,7 @@
         "siteName": "Miru",
         "title": "Miru — Research Agent for Financial Markets",
         "description": "Miru is the research agent for financial markets, delivering auditable answers backed by institutional-grade data.",
-        "imageUrl": "https://cdn4.telesco.pe/file/VWOd0jZA_-gITtXD3cF3864CxVHYV5CZ662yQ8gVVYf-FQAMvDyBEA3GsHj5RqYzb7pl4Jzm88hwzBVySKwBu2Nrluntu7e2Md9-XerKTPcGZEnLHCTr1hDrDaQmACKKwsHWWASaoirHZaQrVrNm0IEMhIaV8xOZoecu5Kqtv-vcDtLXCanDdrd9HvB2RUA9Ayahwm_amm0IbsfkYsWQdzMG6hwLooc7RteRphnrTbY_fDKZf_j_pZmhAHMgZJVpgBowaehAV2ysMamGDvJhlinTlVQQW-4lhsay5mRh3fpHVSU2RPNq63t-NfgX-9Hl_jSyC4as8hi7yDLO1xvpSA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Xbv9M4nppwgKgsoDYjCj5Ddr7OfZLy15cCeCsi4VnENwRCUmoGDxhUCqE20urilcvaLQ7vqoHhhsLx9bt5jti22Mgux7uOV2lFHNSsQqPK6kFUu5_lt1hNRpfXaSESVj-NnuC2B_yOKJZihA8jSyOtHmSTjbYtD9MJNfFUbFICgxvwCh89t0vyiOWwGnWQV09jtQzY-HFOjvqJRc1sCiOVDvHPeyvrbs9lcLhYQcH6zqvU8A4rk3UmT-cz8HYNymkwzCTsfxRBZrNJqeC7A6wQtBxatokrbxEokMR6gEAgLP6ooNTJ73lTT8AMVeEC-eBpVoj11rUBKMEFhLoffpOw.jpg"
       }
     },
     {
