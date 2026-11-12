@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:28:57.000Z",
+  "updatedAt": "2026-11-12T06:41:07.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5235",
+      "title": "剛剛去了 yc school tw 的 pre-event 基本上清一色都是 ai 沒有什麼 web3，基本上聽到的 Buzz Words 硬體、AI、GTM、SEO/GEO 然後有個 Sal…",
+      "description": "剛剛去了 yc school tw 的 pre-event 基本上清一色都是 ai 沒有什麼 web3，基本上聽到的 Buzz Words 硬體、AI、GTM、SEO/GEO 然後有個 Sales or BDs，具體是什麼崗位 idk，問了我你知道什麼是 token 嗎？ 然後他竟然不知道 Cursor Or Grok，WTF 但我還是蠻佩服這種啥都不知道，…",
+      "url": "https://t.me/pdzeng_talk/5235",
+      "publishedAt": "2026-11-12T06:41:07.000Z"
+    },
+    {
+      "id": "5234",
+      "title": "▶️ 為什麼有人創業就是會賺？30位老闆都先做對這8件事｜我媽叫我不要創業！ #youtube https://www.youtube.com/watch?v=aq5G2_WwHzw",
+      "description": "▶️ 為什麼有人創業就是會賺？30位老闆都先做對這8件事｜我媽叫我不要創業！ #youtube https://www.youtube.com/watch?v=aq5G2_WwHzw",
+      "url": "https://t.me/pdzeng_talk/5234",
+      "publishedAt": "2026-11-12T06:32:03.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?v=aq5G2_WwHzw",
+        "siteName": "YouTube",
+        "title": "為什麼有人創業就是會賺？30位老闆都先做對這8件事｜我媽叫我不要創業！",
+        "description": "想知道如何從 0 開始創業、驗證市場需求，突破營收成長瓶頸？歡迎報名《科學創業課》體驗課，參加送「品牌財務表」掌握經營關鍵！ 👉",
+        "imageUrl": "https://cdn4.telesco.pe/file/nUCVEfNtqlDppT4_WLeSmZSxxwBn6Bm9h30sSKwQzfMjz4um33dwINovk2b1dj3Dh1NUCLaYgwEfeZ8T5A4xAnhjJ3zSx92XwPMZCptD6nBZxRGzJEy2ieOJvQOS4ZQctGIc7us7Kz3hhw5OOLOVlsw8Q0TMOIoLs1HOYoXmPPUzxNdL51BFeGtg4Vpt1W95nQ3gCta_aV8KWBX4SeCAyCV-Adr7SPQYnAMWYggdZum-audMWvmbqHHTT6Lb2DWr9R5dOr93QZn4qEE42GJzYUBGY8e2UUxqtBbKleXlxtZ7v_jewepYGxH8giYCFkidGc9VSsbnZLR95zcJ6lixnw.jpg"
+      }
+    },
     {
       "id": "5233",
       "title": "https://prompt-motion.com/",
@@ -286,7 +307,7 @@
         "siteName": "GitHub",
         "title": "GitHub - huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!",
         "description": "Create agents that monitor and act on your behalf. Your agents are standing by! - huginn/huginn",
-        "imageUrl": "https://cdn4.telesco.pe/file/CBGoww4QuM65-5zHMASW1TbHhRH16dEWEHt_s5tSYH--nb7oEkCNLvLBR_XKUNBFs0fYrndu2x4dsMp1Xz1PsF1ijn3VUm2v-2aqUVQ_2R_ksBhhX0zIrD9hleIvYmLGFAspH2EFuIAnqZECWaSdN5RjJnyfl0w2JY0p1gJR8FmHCSOgG__-bDQOQG4WKPiqKuKCi8jaW0Sovc0TR0rcn60W_VLcpcuMIjhjESs9kpJGN8-7_ZAEX57SiuRdyQS_FTYsL0K21zdYz7oUgAOKS6JqwA3NNgblPVkNK4jJKmnoz_wLiiQ8irRnBGUhVrd-wz4DF4AwRtJ0xBz_jmEQIw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/Mu3dJARDQkNJfHKe75QM5miPWCoCxYA9nCb8rz7ye1tZ0WCUjrNPt4tfOnZKl7X9FI7eOX6rTQQMHNG1cJgMai30NX5hFZ5Sqi2g58NJWAXQ1vh27YweR1XG7ZiUne0aPZEHDBSGz1CM6WKNfi7BJEA7KG9iU-xgWTsRkjJL_HFfTHh_HT28nUASn5QaswhBUuyU_sVyEwxC7ouNDFeo7vRgL9ne__jr25ZZwyCJeMhoJZsA9wyVNVCaSuC_ZVeIeHIfxb4drmEpuUOg046vgeQ4TGebt-nZX7Ix9kXC5qx1Zv4OsHj3qc7jP_WJnBRGQWePb0i0NQHO5xA9zrUhZw.jpg"
       }
     },
     {
