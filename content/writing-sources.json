@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:22:54.000Z",
+  "updatedAt": "2026-11-14T05:12:16.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5247",
+      "title": "https://vocus.cc/salon/jackson",
+      "description": "https://vocus.cc/salon/jackson",
+      "url": "https://t.me/pdzeng_talk/5247",
+      "publishedAt": "2026-11-14T05:12:16.000Z",
+      "preview": {
+        "targetUrl": "https://vocus.cc/salon/jackson",
+        "siteName": "vocus.cc",
+        "title": "Jackson每週洞見與乾貨｜Jackson",
+        "description": "每周整理一封 當周學習各種領域的筆記，也有不少自己的洞見與心得，包含商業、抗老科學、親子教育…等，免費的，純粹記錄，如果剛好對別人有用就太好了。",
+        "imageUrl": "https://cdn4.telesco.pe/file/DdD0GX_co919LaWwGKihKLU_iM74CbLIUorPkBRvkWvghUaBC1pMaHi260KGLT-EVVwpqZx6BoJjk7JFeWqWdDyCMvW_XID21HLM6bvUHoVxyw9Y7PH0y02vkB-fuhug5-xJ5-5IWndPUBemx2yMY1dSenkdn9x7vep0a5zM--ZLEajH_p-iN9EBd9oSbjhu52DCGsct3_k4rwnth32p2V_BOiV3lvlpHwEKwsQ1By7CWob8ESGu8aNu9NLUBwlzt1jzrHmZ4ELrZWEKS7pxDiINPoSsw6XFO4kGLQI9evktubGayfflcMzlnlr7VQX3sBFOvbENUegp06eTNnAx9g.jpg"
+      }
+    },
     {
       "id": "5246",
       "title": "🥺 https://t.me/trad_fin_cn/4850",
