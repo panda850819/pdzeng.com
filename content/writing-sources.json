@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:12:16.000Z",
+  "updatedAt": "2026-11-14T05:50:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5248",
+      "title": "https://standwithjensen.com/",
+      "description": "https://standwithjensen.com/",
+      "url": "https://t.me/pdzeng_talk/5248",
+      "publishedAt": "2026-11-14T05:50:05.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5248",
+        "siteName": "Telegram",
+        "title": "https://standwithjensen.com/",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/ee94ywVSTegcgk8ROkD5FRhnhRqlmaPUMDItVBJiCsWotGppIOHtr4Y2U560ObwKpa5fsQXe8gnhbG8P7P2gHK5CPm1q3DJyWP43NcEbRpGvajHR9bUeGmVXZrv43zWqpTnHq9esXyIL7e2QHZl_kJOY9i6SE3bTREjyYIp8HPGJLwCm2io9ygcSYCwI1Ko8qNx-GfDBFtyhBckJrSOPUhehb8j43Ne2uMp5SMjdMzncWYTdF1kz2r-m-Ge16doSnjlo21dSRlNc1-BcD71stqFsGDnlG6kbjki1LKZD9T5mE9QkjXWaY1OrDIO72J0B0I0Usd99wqeuIW8wO-tbPg.jpg"
+      }
+    },
+    {
       "id": "5247",
       "title": "https://vocus.cc/salon/jackson",
       "description": "https://vocus.cc/salon/jackson",
@@ -278,7 +292,7 @@
         "siteName": "Prompt Motion",
         "title": "https://prompt-motion.com/",
         "description": "The original library of AI motion graphics prompts: motion videos made with Claude Opus, each with the prompt or skill behind it, ready to copy.",
-        "imageUrl": "https://cdn4.telesco.pe/file/lx020WPFW2yxIify8_IBUr7ZFFaqA2HjH7Td-v9W0XugIrxdm1Pgk1lWoPSFnEYAJpfbrt5Kcib6Q7jjJyD3nCDUul0SqiTSz1zC7AK84MyGdYWj15fUg-lVQQFtiPkeo03Dt1sR30Dir4u-WR9Awl1Cwx-C9veK6LmcQYQoSZOd3wYa8BlIYkmU8SRa43Jy38a9kCNuHXbIkh2XWokgPLX8hcY8mOqHEcd7bCnopS2Bn8h8vSmjUvlV0QvV0WYvWEwu-cwKt1DMh8C1B-kvMJYLtM6_1y_uloGpT7gtjkh-26R6L5UhKN5c0suJUy2yvlmYGRcp4KrC3fI-9nikRw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/GOFTnLrdH9iKZ6uCSYeCkGwYl70QyfzEanWUbyLkskxl5BIbky3AofhQQ94BzqyJhn-6qTaEcqar0w32jZUUmqYlRJDXS9MibIdD_bz1ImtfldgyCzQvf9bDzbXnHeJkEj17EExc1u8wWLAcKlEF5Dsr5taTyfaizrta5gnZfMmoip7p5lCCq0_PAJLB6xdFrrLwaG6OGRubTW0bMrLQo3WnV28mLi_XCfuid86oBlssnoe23PLS3zrqlncAECGMIJIXtdGJIEa-jEaDvstm7LdvyhteA9v22AO8AtsyY17oz8wk_xrX2O_iS7A2c4kvOQlpCEIFH2pIHk0eAGKNXQ.jpg"
       }
     },
     {
