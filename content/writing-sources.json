@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T10:20:53.000Z",
+  "updatedAt": "2026-11-15T16:13:34.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5253",
+      "title": "https://x.com/shirleyusy/status/2121945008769241555?a=PZPwbuJ-ih__hC60zC0&s=20 $GOOG",
+      "description": "https://x.com/shirleyusy/status/2121945008769241555?a=PZPwbuJ-ih__hC60zC0&s=20 $GOOG",
+      "url": "https://t.me/pdzeng_talk/5253",
+      "publishedAt": "2026-11-15T16:13:34.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/shirleyusy/status/2121945008769241555?a=PZPwbuJ-ih__hC60zC0&s=20",
+        "siteName": "X (formerly Twitter)",
+        "title": "Shirley | AI (@shirleyusy) on X",
+        "description": "从马斯克回复的nice work可以看出，他也许要考虑从nvda独家转tpu了",
+        "imageUrl": "https://cdn4.telesco.pe/file/gbk3DFCOQzHbOoT1cmLjtivyQtfVr1NKf-LYzrev5134ovrJcQhoLc2N3q9Qin8-M5hzgiN9RuOqSrEWiast-AQfiun5FHzQ_u-Q9xyNqDUzDNeqoITb3RD5p2PLJtBJm-fXrcrGOkPFHwgEMxL2NSksLj6XrT-YOEvTgPvuINVC8JvEPhZkIyMF0JZKKySYi_f1qX9FejYktZB9AcuvUO-80jcn-Xy377uIpJIQx_Lh_9zJ1LOdzyHHrli1-431Qpvz96w539hLKctxptDJC_KapA_PsJLKcPrbm3AE8N6qQFFQM6lXD_LRGQFuyTkICtaO34nDIg5E0yhYrS5lqQ.jpg"
+      }
+    },
     {
       "id": "5252",
       "title": "chekusu/wanman 🔗 https://github.com/chekusu/wanman #github",
