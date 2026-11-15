@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:13:34.000Z",
+  "updatedAt": "2026-11-15T16:42:10.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5254",
+      "title": "https://x.com/_0x77/status/2121672007821787365?a=GDzIWckXqygShIdUxjk&s=46",
+      "description": "https://x.com/_0x77/status/2121672007821787365?a=GDzIWckXqygShIdUxjk&s=46",
+      "url": "https://t.me/pdzeng_talk/5254",
+      "publishedAt": "2026-11-15T16:42:10.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/_0x77/status/2121672007821787365?a=GDzIWckXqygShIdUxjk&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "0x77 🐙",
+        "description": "这是谁把 wintermutes 的做市合约给反编译并开源了？ https://t.co/u2dYT7oAId",
+        "imageUrl": "https://cdn4.telesco.pe/file/Kobyz_CCt2kZcwOL0TreHghbjOJrVA5e_aNRiM0YFELSnjCLI80c1XPmhsmZbpNIWUlUsdwfbTG8aMYcbkoOkZ3xJdVUIV4cTsL2nBbC8iYf3kkFlkSkv4r0j-m4FN9-SARBuMQiB2oaE55Dmd_lt-Wy_0z3wRdltZXhPihryvFlo81-5e6YEjLJ-w0tY8eF-hGrhRG2TSVZIyG8U0tleMKRYXiyUJzLHk59DUXMnTUsHKrg4HyQwrhOfWAGjrseSbkruZTLTFaS1jTdPw63l2CHyY7i1mPWTj75JHYnhSXt7Uswn3Xy687gSnY8EC0V2rLqklaDOQXEgbhfmmgaYQ.jpg"
+      }
+    },
     {
       "id": "5253",
       "title": "https://x.com/shirleyusy/status/2121945008769241555?a=PZPwbuJ-ih__hC60zC0&s=20 $GOOG",
