@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:50:05.000Z",
+  "updatedAt": "2026-11-15T01:40:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5249",
+      "title": "shadcn-labs/mdxcn 🔗 https://github.com/shadcn-labs/mdxcn #github",
+      "description": "shadcn-labs/mdxcn 🔗 https://github.com/shadcn-labs/mdxcn #github",
+      "url": "https://t.me/pdzeng_talk/5249",
+      "publishedAt": "2026-11-15T01:40:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/shadcn-labs/mdxcn",
+        "siteName": "GitHub",
+        "title": "GitHub - shadcn-labs/mdxcn: mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy…",
+        "description": "mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli. - shadcn-labs/mdxcn"
+      }
+    },
     {
       "id": "5248",
       "title": "https://standwithjensen.com/",
