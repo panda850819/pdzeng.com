@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:40:53.000Z",
+  "updatedAt": "2026-11-15T07:48:57.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5251",
+      "title": "我其實也看不懂行情但是看圖說故事的能力估計還是可以的",
+      "description": "我其實也看不懂行情但是看圖說故事的能力估計還是可以的",
+      "url": "https://t.me/pdzeng_talk/5251",
+      "publishedAt": "2026-11-15T07:48:57.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5251",
+        "siteName": "Telegram",
+        "title": "我其實也看不懂行情但是看圖說故事的能力估計還是可以的",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/sXFmDia907sMgIOTIWiiEDB1ld7CxaJBmwyLiNzA8gIlbI0ZZXhuaAUyw4mupFokDvYEJ1_rC-w_yr7mjwKB_NuE8-PET3AV8BZl6QAXB6RdbrtQokier5M4Z1cP4ZC5gJ1eAWXJQxQq7nOkVUoaYVJ4rVE-pfo_Qn4bmzRvTRt283BuCN5gwrORsp4MZDnj7t3yANJSsZnmtud3upQR6dFk0npQGrs4UC4L0d4TDkEfswAhCCfKmC_RAt3DQJwloLWFGYe86b1ynPvnyb9wopDOQTHMX01j7eosXj-GXPyLCuaqiEVeqhzfVgIW2gVbVcdur5MwYEEOHzWWqgk6cA.jpg"
+      }
+    },
+    {
+      "id": "5250",
+      "title": "https://www.youtube.com/watch?v=MkSHSoUCrvg&list=PLSgM_rxboC3A 笑死本季新番 左邊在高利貸 右邊在賭博 打怪一定有風險，魔力投資有…",
+      "description": "https://www.youtube.com/watch?v=MkSHSoUCrvg&list=PLSgM_rxboC3A 笑死本季新番 左邊在高利貸 右邊在賭博 打怪一定有風險，魔力投資有賺有賠，借用前應詳閱公開說明書 簡單介紹：這是一個前隊友一直融資開槓桿打怪的故事，接下來即將開展維持率不足接著被強制斷頭的人生",
+      "url": "https://t.me/pdzeng_talk/5250",
+      "publishedAt": "2026-11-15T07:34:27.000Z",
+      "preview": {
+        "targetUrl": "https://youtube.com/watch?list=PLSgM_rxboC3A&v=MkSHSoUCrvg",
+        "siteName": "YouTube",
+        "title": "用【循環利息】強制收回借出的魔力 第01話【放逐】｜Muse木棉花 動畫 線上看",
+        "description": "🍁",
+        "imageUrl": "https://cdn4.telesco.pe/file/lKF2F9lzMtJY4Ljqsd35lqV-34UOAaIRuZfP_Kdu8bQnZx50IbhKBWdltQpO1QVgMSd4X5FsbHuT_u5MRPAIJbGITb5jrof2l9u_Cr7SjXrwPdp4hvVhX9ncMnIzYIKBH9R7edzaueTT0R1LG71KUotknlMuH0v8qzQ7dEZkqByympxIWoFmER8-9DncX7EVqCFqbUJKrLmpmbvNDX17rJAtPH8G1DRRwmihYwf1SRcQK3Mio-3iV3w50JAkXsXHbRCuytK5l6bSKhuZTu0qye4EsD9oBiYOl-bd1hUBGrHDYjcQLlBhkIVFeaVaJL-TDBY-M5lqMwv_bEdjBDHfrA.jpg"
+      }
+    },
     {
       "id": "5249",
       "title": "shadcn-labs/mdxcn 🔗 https://github.com/shadcn-labs/mdxcn #github",
