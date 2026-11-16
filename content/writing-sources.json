@@ -352,9 +352,8 @@
       "preview": {
         "targetUrl": "https://github.com/zxsos/HGhubX",
         "siteName": "GitHub",
-        "title": "GitHub - zxsos/HGhubX",
-        "description": "Contribute to zxsos/HGhubX development by creating an account on GitHub.",
-        "imageUrl": "https://cdn4.telesco.pe/file/SIztZB5vGc8URDd94_IPBu9cmbiUp1oxCqrdi84JxYzATS3qHf_qB3z4dt2eZ5qf-ilArVtRP2Z9MZ5RT-I8LnlE4L4bKIwAJGH6Kijf8jUdVC0uI7AB3gIjmi0GHt61a-4FYXy99Kzz6unH8UmxndaUcF-rg0QJtFECbql9YQBFZghXrGUZ4dCseMx4Vv7Tqd1OfeJ0dqD9NSklFKGjQzx-mvfHuOQF5P2vIPhr_bf8OqaZoeeais-syU9w5bYT6z5tMzadHAcTzplHxKS9B3vsqHy05jkob1UAPhYF5r4CmSXbCv4thAOZe2jJI0P3k5m598KYSkTVpgD-38kqsw.jpg"
+        "title": "GitHub - zxsos/HGhubX: Cross-platform short-drama client built with Tauri 2, React and Rust.",
+        "description": "Cross-platform short-drama client built with Tauri 2, React and Rust. - zxsos/HGhubX"
       }
     },
     {
