@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T05:36:45.000Z",
+  "updatedAt": "2026-11-16T08:30:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5256",
+      "title": "BoardUI/boardui 🔗 https://github.com/BoardUI/boardui #github",
+      "description": "BoardUI/boardui 🔗 https://github.com/BoardUI/boardui #github",
+      "url": "https://t.me/pdzeng_talk/5256",
+      "publishedAt": "2026-11-16T08:30:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/BoardUI/boardui",
+        "siteName": "GitHub",
+        "title": "GitHub - BoardUI/boardui: React design system for agentic interfaces. Every free BoardUI component as source, with a working AI…",
+        "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage. - BoardUI/boardui",
+        "imageUrl": "https://cdn4.telesco.pe/file/HvrYyfxFUv0__wQmRSYIvBD_HO_QJgRDHHaa0jNkpZrTO1rCOQ3cWSzFZRORDNgE6_Ufrgcmx9oYAggCRIqJiIMeWN6QKDLMhmx4u6hPdeVYFN_I4FDG1Jhygx45H9nufnmNYJhRgGk3RRveW-3xO6ZsTIs77YzQsfdro936bwwivm1caxRkWTuiFeQ2K9bYVOei0wBj-4VEmsl2_3poL-QSVyLYX70lx5E0EvLBSZVysG9Y7_bR4iEx-Z1jCkWEZgImENHNd86sZsEMoOq4NxTQ0pLS8SdZW-q86DGsuM2Q-m1N5uXq2fBu7Xz7uWEcZN_Nt7Qt-EbuL1M5tBbbmQ.jpg"
+      }
+    },
     {
       "id": "5255",
       "title": "https://eqn.news/api",
