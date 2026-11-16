@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:42:10.000Z",
+  "updatedAt": "2026-11-16T05:36:45.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5255",
+      "title": "https://eqn.news/api",
+      "description": "https://eqn.news/api",
+      "url": "https://t.me/pdzeng_talk/5255",
+      "publishedAt": "2026-11-16T05:36:45.000Z",
+      "preview": {
+        "targetUrl": "https://eqn.news/api",
+        "siteName": "方程式新闻 Equation News",
+        "title": "加密快讯数据接口 · MCP、WebSocket 与 RSS · 方程式新闻 Equation News",
+        "description": "方程式新闻（Equation News）数据接口：毫秒级加密快讯，MCP / WebSocket / RSS 接入，免费、不需要 Key。",
+        "imageUrl": "https://cdn4.telesco.pe/file/d__-pqAEoCgB-cbI63FlnQdp83E0jRrbENoM710BV6PLEApbEJK2ce4nYzNLzHLyRV6cR8VNkj-lv47x34flv1cV1Gi1AX5Lwz2S430OSFIDqfKmpdOZ6pjE7zTxzLZqIGP36vW_k6uipUl15PAGZ-EiUhFE4fPTuHzJytaMHjhhdlspxIn5lBhk3XnqV2fj_DD_Vcqyya2vMXoLR3RiA27UZ3pRcrGxWYCivioIn-BFE2083nm_AIrp4gjamX_1TpQiKKZW7VvbFEiB0RP85V5DDePMM-3QuhwrENyqVvY1u9SVihVyZJs_L97Ogx4clya9WBCFkvi8hw7HfEeaYw.jpg"
+      }
+    },
     {
       "id": "5254",
       "title": "https://x.com/_0x77/status/2121672007821787365?a=GDzIWckXqygShIdUxjk&s=46",
