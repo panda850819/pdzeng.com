@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:16:05.000Z",
+  "updatedAt": "2026-11-16T10:02:26.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,13 @@
   ],
   "telegram": [
     {
+      "id": "5258",
+      "title": "mexc card 駕崩",
+      "description": "mexc card 駕崩",
+      "url": "https://t.me/pdzeng_talk/5258",
+      "publishedAt": "2026-11-16T10:02:26.000Z"
+    },
+    {
       "id": "5257",
       "title": "https://substack.com/profile/67873475-panda/note/c-388711761?utm_source=notes-share-action&r=14e…",
       "description": "https://substack.com/profile/67873475-panda/note/c-388711761?utm_source=notes-share-action&r=14erib",
@@ -223,7 +230,7 @@
         "siteName": "GitHub",
         "title": "GitHub - chekusu/wanman: wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users…",
         "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent w...",
-        "imageUrl": "https://cdn4.telesco.pe/file/rt7vXPP_Ng-LhFHoNhDhoRfS9zRW2v9KBSxfuo4kIt3rdbwyYA27rRGWd3wVFFe7Bc2BSQmKB74Q-9v-I9iNY0g20tqu3Bo58wqpuQRIFDwQ7PCeaiqEiIGsRvEEHVb1pYLIOqUoTGmXG-3eAtFmYaJ1L1HFQYAgX9FqVmgE0hGDQQO8yulSoZe6K5iMJN06MRwFIBXa0dGMR0R0npmPMlJD5YSBmPEePem_jGGqkHvPWwK2SpXZmypb8X-7Ocb8T4KZUzGELDiznKmC-T4EgR8JEvF70qtVzGQ9FYWbI0vwHvoO0GuqJRa1pFPSdPOoD8Azn5VXMKQVhGiN5G77ew.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/JAm37ZI4gHRLmtcoIKS1ZyewEmC9nTVZHCBjKC_dxIUYzODIaQ2QgHkjs0BmPUq1z68z60hpS7syMXl_j_2z367Q_H_ltcMrgJreP8rH1t1SAVQvIzvXchPc-WrFiR1MSqxUr5DTFXPRsRNPVGjAxFVgiw6lWFPn0HF69jdaNOxGjzSKx1cSv0o7qcy92nVU-ZKbxcdd2ooGOzArTuMg3Sd6vBhKXFddQhYMl2J824Zp2qXy5ERdhPA8R30Y8y0orna0w_MELm7KrO6QQROuNbKaCmNMVeEAC6NFBjwCDPmjU6pQgNKq9rsW6QHq9h2abNc2YMhjXOmU61QzJ8MZAQ.jpg"
       }
     },
     {
