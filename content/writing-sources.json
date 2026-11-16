@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:30:53.000Z",
+  "updatedAt": "2026-11-16T09:16:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5257",
+      "title": "https://substack.com/profile/67873475-panda/note/c-388711761?utm_source=notes-share-action&r=14e…",
+      "description": "https://substack.com/profile/67873475-panda/note/c-388711761?utm_source=notes-share-action&r=14erib",
+      "url": "https://t.me/pdzeng_talk/5257",
+      "publishedAt": "2026-11-16T09:16:05.000Z",
+      "preview": {
+        "targetUrl": "https://substack.com/profile/67873475-panda/note/c-388711761?r=14erib",
+        "siteName": "Substack",
+        "title": "Panda (@pdzeng)",
+        "description": "這也是給我自己的警惕，看到滿街滿谷 AI 的文字、照片、影音的時候，有沒有能力辨別以及如何理解跟使用，會變成下一個難題 在那之前，多多保持我們身而為人的觀察力以及注意力去學習、去成長，我認為才是比較正確的選項",
+        "imageUrl": "https://cdn4.telesco.pe/file/JMGXcIDZC4WvvFhKI2uhwvqVzbgihXKa5XMz5I1-zxvc0cUPKRrx3Amg8fCJpDaR7JyGr9SDz-1zKRbLDHbljZtYRVUnhRLUGkFUABVVHGC4WiMNKLIh76_Nn_juElMpDv2UNooyB5Dd55MiWrRRWRMcmD4rS8saGggbaC4LyCmNp2gtfyT7Dz84iwonbkLEo8GvI-yQ7isTVZo1BIGfss5OmyDFn6Fcz7YKhg4LlQkOxhPR8cuseSjYoEPytpRKWH1QjmMVwsGw0rWrTbT5L2JUqMNYE3mu4m816HLFR5uYfGyvxzTeXDf9lbFWIMVDie7gJGqRoeezAqiRSDOsTQ.jpg"
+      }
+    },
     {
       "id": "5256",
       "title": "BoardUI/boardui 🔗 https://github.com/BoardUI/boardui #github",
