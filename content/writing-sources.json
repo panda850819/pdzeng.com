@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:02:26.000Z",
+  "updatedAt": "2026-11-16T10:45:17.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5259",
+      "title": "Lit 被黑了疑似",
+      "description": "Lit 被黑了疑似",
+      "url": "https://t.me/pdzeng_talk/5259",
+      "publishedAt": "2026-11-16T10:45:17.000Z"
+    },
     {
       "id": "5258",
       "title": "mexc card 駕崩",
