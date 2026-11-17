@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:45:17.000Z",
+  "updatedAt": "2026-11-17T14:13:51.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5260",
+      "title": "洗碗工",
+      "description": "洗碗工",
+      "url": "https://t.me/pdzeng_talk/5260",
+      "publishedAt": "2026-11-17T14:13:51.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5260",
+        "siteName": "Telegram",
+        "title": "洗碗工",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/tMrpnGv2KCAYBZJ9fSTWobe_uKMAzmlqHX9H6vRinDcJsSNS5ennCuC9huGVmIDdlNYsqZx9x7TQmUzkuPG4xKayHyp-fMc2yOZ44pcbzx8f-aoDxwq4kLZOVH0iXqNLwRpb8Ap5WvDLVBa2DpDENuK-8p72QDrEs4U24hbgMANjk7VkveIkEhwsXXqNCRLvAEpayez31Kl6-3g0CZzbhiMXZ7e7KgVNi97X-pEmoPga4rqoecJfJuaehHSOJtov1BQge9O6yXeP54XpHJwydREYu2rXWVNfdJwTdtYw57EHRZ0Dg2OEFBwEZogcxCfSwWv7XS4mHlsfhkFmFfDCtg.jpg"
+      }
+    },
     {
       "id": "5259",
       "title": "Lit 被黑了疑似",
