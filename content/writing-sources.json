@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:13:51.000Z",
+  "updatedAt": "2026-11-17T15:55:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5261",
+      "title": "https://x.com/turingou/status/2122525656861069615?a=PjdxIOiIL-sTJIB6JZc&s=46 這就是開源嗎",
+      "description": "https://x.com/turingou/status/2122525656861069615?a=PjdxIOiIL-sTJIB6JZc&s=46 這就是開源嗎",
+      "url": "https://t.me/pdzeng_talk/5261",
+      "publishedAt": "2026-11-17T15:55:29.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/turingou/status/2122525656861069615?a=PjdxIOiIL-sTJIB6JZc&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "郭宇 guoyu.eth (@turingou) on X",
+        "description": "Age-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn more",
+        "imageUrl": "https://cdn4.telesco.pe/file/nXD2s2Xd4D_nYKrBQp5IaQotzhTaG-tcrGZARhqGZu7gz3oFPjfgd--2j7AFZyxLonDI1Qzjnpt7kFw8JrCVP7iP66TzsMrVrZ7UfhcI5MwhjiyrIIROXXAEpCP6bMf5-Kt0G51KCuWi8Fxxf12dkJHGv_3baSciNXscaMFLq_bgaRR2JZyD5ds4hD8pmEckC-d0pxkAzBJVHGy-NaO40RjVmBCpji7xumj7NcgBVhZm3BZNXSViKhLBqzGEwEGfkKkaNVzIFsjVG3eIyEQO-uLv1_yvZhH2hcOrVv49m9LOyBPm_SwXq6Vp1iprzMLeRQxucxydnQ0uTrP0O4IpFQ.jpg"
+      }
+    },
+    {
       "id": "5260",
       "title": "洗碗工",
       "description": "洗碗工",
@@ -237,7 +251,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "Shirley | AI (@shirleyusy) on X",
         "description": "从马斯克回复的nice work可以看出，他也许要考虑从nvda独家转tpu了",
-        "imageUrl": "https://cdn4.telesco.pe/file/aYdRdPgAjmnt_wQQtyMTVvh2yhaS8vwMoGt0Gk6MWA8T6-MMXKjRyi8VV-VDwPvcbEsVtk_KJlmaxlGD_r8uf7TIg2_iK0QJ59htebHhq2uN9lQo2vL_EKRQvVcEL1DK8KiN5rQgxIRtYDr-s9-ClvUP1AS1WTiwrKhKKYJMNMVFE_dxykVt9X4qYEXnfLCKn-Vee9s9FpBL3KLqeyxI892AymJMdcOuql3zPuV9_TaaguWD32qzrmLv7LCA9B7z7XsdNpWA8_hEzpoHaZMwK7hDh72PhumTqXFsYyt1wkp9y-Fy-7V_fwihSDSlDx8gFKx85z3XFkbBlOQ2tskZRA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/vIUiklS0a5BqVPju9b_C1gKdqIHYZ7vWwOSCxlonWDGGEi6m4e8lczJE2QI8GrLct3sJWykipe-occNP0TTSfjIgGKcqaWbbzfUys3V7Q895wOVER2hIfCxID4D7LGE2dofxfXU8XZOSm-lg0bzNkwRQat6ZvDr2Cv_74EmxO7vgBQIcLysdRsUhRwdSAL3EDLS7IK0BUZ26csDeqZ012J32mpxa9ncLOTdFzlj3lbDLQh0SlIOEGChO8gKDT99r6exq1wERJUws3npofvfLyn6jEmfP54jGhe6D6p7pSkEfZhIxZEud0FcX2nFZGm2c_5lDKZGYNcXvL8EoGSC_rA.jpg"
       }
     },
     {
