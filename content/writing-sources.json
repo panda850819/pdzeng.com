@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:28:53.000Z",
+  "updatedAt": "2026-11-17T16:51:37.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5263",
+      "title": "傻逼 https://t.me/trad_fin_cn/4878",
+      "description": "傻逼 https://t.me/trad_fin_cn/4878",
+      "url": "https://t.me/pdzeng_talk/5263",
+      "publishedAt": "2026-11-17T16:51:37.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/trad_fin_cn/4878",
+        "siteName": "Telegram",
+        "title": "tradfi_cn",
+        "description": "*截至周二，英伟达董事会未考虑黄仁勋回归 $NVDA"
+      }
+    },
     {
       "id": "5262",
       "title": "https://x.com/jensenhuang/status/2122726005219737649?a=LXmOy1tmy1Ur_FvgXHU&s=46",
