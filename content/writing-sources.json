@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:43:38.000Z",
+  "updatedAt": "2026-11-18T14:16:50.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5265",
+      "title": "https://news.pdzeng.com/ 後面可能會稍微微調一下，可能會是以我自己的 X 跟 Rss 來做整理",
+      "description": "https://news.pdzeng.com/ 後面可能會稍微微調一下，可能會是以我自己的 X 跟 Rss 來做整理",
+      "url": "https://t.me/pdzeng_talk/5265",
+      "publishedAt": "2026-11-18T14:16:50.000Z",
+      "preview": {
+        "targetUrl": "https://news.pdzeng.com/",
+        "siteName": "AI 日刊",
+        "title": "https://news.pdzeng.com/ 後面可能會稍微微調一下，可能會是以我自己的 X 跟 Rss 來做整理",
+        "description": "每天一頁，最多 40 條。主題偏 AI 寫程式、成本與繁中可用性；每條一句話，有事實核對的標出判決與來源。",
+        "imageUrl": "https://cdn4.telesco.pe/file/QgNzAyEAmurc3n3UUL7S31xxL8etPGWzDyl6x3CCwtxl_YVyGmrbHk-gNlYO1-3ZGnPGGBS_Xq-tL6mdVpO0KPK5mD_nLB1cPAuy2mAHM_a5-uzPrT2m41PokYblcIP8ZGwBL7F45hvqqLmPnq_6lRr2l9anWOiu8YR8uVbWQSMLMcfyCwxDhQgvKVufCb5WWM0StTbKweB6MbV0wE9Q0vs7wMbX8IL_FS-X4XVClhk7cC527BeTJ5V-7Fd0JJJjJzGD8-1t9iwBLglGkxCNx54FN-CgeZ_h7m9SozME3gtx7fjuTuHlBmSIWiDlOfqtwQJ54GMDTOwIyK1D77LMNg.jpg"
+      }
+    },
+    {
       "id": "5264",
       "title": "https://x.com/cognition/status/2122737511684587551 devin bots",
       "description": "https://x.com/cognition/status/2122737511684587551 devin bots",
@@ -201,7 +215,7 @@
         "siteName": "Telegram",
         "title": "洗碗工",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/tMrpnGv2KCAYBZJ9fSTWobe_uKMAzmlqHX9H6vRinDcJsSNS5ennCuC9huGVmIDdlNYsqZx9x7TQmUzkuPG4xKayHyp-fMc2yOZ44pcbzx8f-aoDxwq4kLZOVH0iXqNLwRpb8Ap5WvDLVBa2DpDENuK-8p72QDrEs4U24hbgMANjk7VkveIkEhwsXXqNCRLvAEpayez31Kl6-3g0CZzbhiMXZ7e7KgVNi97X-pEmoPga4rqoecJfJuaehHSOJtov1BQge9O6yXeP54XpHJwydREYu2rXWVNfdJwTdtYw57EHRZ0Dg2OEFBwEZogcxCfSwWv7XS4mHlsfhkFmFfDCtg.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/JG3xwj2BRgECfGTrbHPmH0onDClu6WWTWoxgD7jc7s1qaPxonR1qiKJ7aAEWHBt7FqkgbxIWdyV7SV63H3j98BB2Z42X2YXtUABRSU_c_XuOC8lCMLhfFkQH5NBufNJ0MmW30zy-orIbHyHZb4acWTL2a0VZsj4VJ4Mo2dtd8aaqI2O3h9zi0SqI5wZ4MbPthYfmyMWI3G54Q0pziAZ69BNJ8Zg8APkItAo_CKaV_8rG4SEwvnT-JCLvbbIrAS3Mz0-wxTztYPnOY48R9kQN5wleX0sBpG8DQna00D2foyB9ocOtcLWCRfECon-WLXEPTAkDtYr4hn2Gr8YZxm_qmw.jpg"
       }
     },
     {
