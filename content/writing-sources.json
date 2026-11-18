@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:51:37.000Z",
+  "updatedAt": "2026-11-18T09:43:38.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5264",
+      "title": "https://x.com/cognition/status/2122737511684587551 devin bots",
+      "description": "https://x.com/cognition/status/2122737511684587551 devin bots",
+      "url": "https://t.me/pdzeng_talk/5264",
+      "publishedAt": "2026-11-18T09:43:38.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/cognition/status/2122737511684587551",
+        "siteName": "X (formerly Twitter)",
+        "title": "Cognition (@cognition) on X",
+        "description": "Meet Devin Bots. From writing firmware to merging thousands of PRs a week, a Devin Bot leads a team of agents to get the job done.",
+        "imageUrl": "https://cdn4.telesco.pe/file/A5-90o5SuFnjujPz2EIFNP5djpYMUzmwL0-kL4WiAuT7pfWMb56AsL7ibjVnHhmR8uEKYFypzu_8lu9uEuRMlaJfxEPXHUbnRLTBdQogKq98NKOW4XBqTIxcneNX2MMslYkylfaHYGsjrgg7iCDWArgAO7SCNpi1cbKUWDBA_FQ0YoMP6c0wR68THdqycB2o8BhID76OeiwkrQzj_Mjdwvngs9O2EeyQeXwZT-7BVRewmFXTZ7BGCFnbmuwCl3NxnnJAh9a5A92bG9lrJRsOwcEYqzRWDzJX9UxJFhWQtb8H4K_7sn5JlpKkdbpCJ9Ia7iIK5phN5jyOucqYNUs-yg.jpg"
+      }
+    },
+    {
       "id": "5263",
       "title": "傻逼 https://t.me/trad_fin_cn/4878",
       "description": "傻逼 https://t.me/trad_fin_cn/4878",
@@ -285,7 +299,7 @@
         "siteName": "GitHub",
         "title": "GitHub - chekusu/wanman: wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users…",
         "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent w...",
-        "imageUrl": "https://cdn4.telesco.pe/file/YHCcyseshBI0AEtdguoSo9rkdxVynNIEZgQfDJWeBacNmiYlbkeN0pjsfUPmqzacekX0oW287JAGJgUPtA0QU9DkrN_46g2Bl9dgekWTNQxy6QF2YkqDFkVC6INw67fUdPum0rpr_ubqRX7JNlO6MHdMpCYqI2201xnuFG4ywofUBAIcEeSY72q1K0x23im7Ypm0wYDMo1cdj27BEpvTv2stGLAtCgBsZRYxW6We9crbcEjs5E-1KBn49CjOUYmx4ZYxjIUL36XHV_01rev3A5e0n6UAC1EA6Kde4aHlH8RrBki1EQVt9KQ2NzeO0GiOpekJFLOK8qfwmU9IHwNKSw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/rVhdnK4PjLLwcO0ejTierVleW4roNS3mRm_VrI95jK_lFk06NEVvqeadI5hVWNm_mEJT2gWeaRCCIq7vlGp61SMHZYWjn7glVGXJvcNh6DiTa0RVwqi8E5u8E5YDZdUdaymXlFtuW1oY9UJ2Ml9QFKT97IBzfLEqd-deSk6jp5BVAwUxmdlS1vaDaxFUR-FDxEBGZR8r_kbgGNL5xDUnw0GiaICaG56Pme8eNlQTbr0By6mSjCetqPUBtWBjoaXzzR4GOTcbtHOeJPyRKXscjjX8CgSJ9_hliT8FQqtBhszpLSIKW5MOQ0mY81VWFuhPkF-3uXBJm4z5eL0rO82JlQ.jpg"
       }
     },
     {
