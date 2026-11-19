@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:25:02.000Z",
+  "updatedAt": "2026-11-19T09:20:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5268",
+      "title": "DimitarPetrov/stegify 🔗 https://github.com/DimitarPetrov/stegify #github",
+      "description": "DimitarPetrov/stegify 🔗 https://github.com/DimitarPetrov/stegify #github",
+      "url": "https://t.me/pdzeng_talk/5268",
+      "publishedAt": "2026-11-19T09:20:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/DimitarPetrov/stegify",
+        "siteName": "GitHub",
+        "title": "GitHub - DimitarPetrov/stegify: 🔍",
+        "description": "🔍"
+      }
+    },
     {
       "id": "5267",
       "title": "林睿閎John ⏲️ 發文時間：2026.11.19 週四 🔥 【台股這波大跌，市場真正擔心的是2028年！】 這波台股大跌，真正的問題不是AI在2027年沒有成長，而是市場開始懷疑2028年…",
