@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:20:53.000Z",
+  "updatedAt": "2026-11-20T03:18:59.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,34 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5270",
+      "title": "好狂 https://www.threads.com/@ddc_0815/post/Df7Jhp5CeoH?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYL…",
+      "description": "好狂 https://www.threads.com/@ddc_0815/post/Df7Jhp5CeoH?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYLp9cu6NLxMROepXxKhwnF-bGpTsP9oj0amD",
+      "url": "https://t.me/pdzeng_talk/5270",
+      "publishedAt": "2026-11-20T03:18:59.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/@ddc_0815/post/Df7Jhp5CeoH?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYLp9cu6NLxMROepXxKhwnF-bGpTsP9oj0amD",
+        "siteName": "Threads",
+        "title": "🦇",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/rxwsa79xtl0Wr8RlnVe48Ki6wyN-a-7mXYtpI5Q6EQ3l7wWj-kxOumtvuzfXp2xofPx_vPefksrPb7nsvL77AxAyadwPw9GFOzfqVZsAn6JWYuSMhaemWj0Yp415QlOd1-tQ3z53jez2ulKjBzAHWaUwoyQD1PsKLff63if0mI0ksOBxiWK0Yrwi_ht2OAOTmserMMxpENPfFOFo1g7mPOjaVnApfYV2d9MXcOGCyOloW1ZQDn4Eciv097a0CoIqnKY9k34t7jv8C1Ns3MOQq9A8xYmddbWFR9Hx_gapzG7k_6HmlsSUFuh2DKAb6WuZxopZB2zHWlFAvV_fMHDWKA.jpg"
+      }
+    },
+    {
+      "id": "5269",
+      "title": "https://www.threads.com/@johnny850807/post/Df8cfMgkzgs?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqY…",
+      "description": "https://www.threads.com/@johnny850807/post/Df8cfMgkzgs?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYLp9cu6NLxMROepXxKhwnF-bGpTsP9oj0amD",
+      "url": "https://t.me/pdzeng_talk/5269",
+      "publishedAt": "2026-11-20T03:16:01.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/@johnny850807/post/Df8cfMgkzgs?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYLp9cu6NLxMROepXxKhwnF-bGpTsP9oj0amD",
+        "siteName": "Threads",
+        "title": "水球潘 (@johnny850807) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/D1ZwQgeMhbuOvCZovFIMryyHYyWXjX4jr0VNKDWfGmdVwJJgIZ-FDSdS-0cGcqmS1T90Q1PC6IAfAxkD69GtJY5k-P9H1C8gWlxfnrbpvQvpudSMOZ38TkfZV9Z9j7q-7wtHfHU8iMiBH8I6IUjodd-4SjRG7qxzukAm0ORB-fI4CrcGHPG5dB5-wSeS1rW7ngEblwsD6h8KIHe9roYLRQJb_tbh4FHyCaErOY2wfTEzyvyyCB7UvmDCmsVDkeRbqCYA2LxrOo6kvqYZggQ2SnHdFDi7gSgwXVhIpBwpAUXzzMc7ao4jzA89FKWQZvhcj3ugPO8r_WVXD1P4eyRO8w.jpg"
+      }
+    },
     {
       "id": "5268",
       "title": "DimitarPetrov/stegify 🔗 https://github.com/DimitarPetrov/stegify #github",
