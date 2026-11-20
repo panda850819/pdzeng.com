@@ -16,9 +16,13 @@ concurrency:
   group: deploy
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ${{ (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository) && 'ubuntu-latest' || fromJSON('["self-hosted","lab","public-isolated"]') }}
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
