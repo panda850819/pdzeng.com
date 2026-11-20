@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:13:15.000Z",
+  "updatedAt": "2026-11-20T14:36:05.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5275",
+      "title": "$GOOG",
+      "description": "$GOOG",
+      "url": "https://t.me/pdzeng_talk/5275",
+      "publishedAt": "2026-11-20T14:36:05.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5275",
+        "siteName": "Telegram",
+        "title": "$GOOG",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/MNOd_H7XMvqr7FLRWt0Xx63w-QxiZSWHtJgyws8vuiOugaOKBTZzXDxeekCn7u47Fq95OBkbqZk-fR2LkG3w3oWa8i4i-DPVcrLh9VSYKrHP2atzqvTIW7VEygVGtKOexqGLJL9yfjeA_jJ8EvXLUSY1-42QEPSd772BhdsAb6WCfSz4C6Iu2t11LiGCQthimBtV1DB9T7RsmdFqGJNhM8HF6u0LpOp0tDZPKnWYEuWdus33gTgKlIuQwt2N7KmyACVdlhelgOq4h3ZUdiiBNUG2rg_xuWzeUC17f_Jxdn9Ke4QWcDZBIpYCkDQVJUlPpuewiS7JkeHED07pb8vsFQ.jpg"
+      }
+    },
     {
       "id": "5274",
       "title": "https://x.com/xuanwo/status/2123646984116634042",
