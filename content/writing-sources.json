@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:18:59.000Z",
+  "updatedAt": "2026-11-20T03:47:23.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5271",
+      "title": "https://x.com/fluidkey/status/2123510970165436704",
+      "description": "https://x.com/fluidkey/status/2123510970165436704",
+      "url": "https://t.me/pdzeng_talk/5271",
+      "publishedAt": "2026-11-20T03:47:23.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/fluidkey/status/2123510970165436704",
+        "siteName": "X (formerly Twitter)",
+        "title": "fluidkey.eth (@fluidkey) on X",
+        "description": "Update on today’s security incident: there have been no unauthorized transactions since 18:05 UTC, when we took all services offline. We are working with SEAL 911 on the investigation and on trac…",
+        "imageUrl": "https://cdn4.telesco.pe/file/WXJlcIdl3XY8Nj4GEZMb9HxGm3yNtaCLX1SvCMNH5d4sKyJjEViYH3LJahGDppA8aVjVn1nfMeod9hEZi6y7Kmxs18MaZ-hoQVuNjkf9Zb3790CJWLfmQlsZ2mkekMjXIF6G7qDy8EHIudRXwx7ukYtWdX4HrdG-ShbSrlHnJ2mDWdK4YeHRlpeGQAgaCQ0xtcGcHrh8bqdUeQJ83nORv6kgnLu-qyjgyQ4zFMYvjL6ieKjbEdcYgo392M2cOQ9t1jpZg1xpDUdtMhGwpzn1vZWQQ4hP0hrYv2xsRHRtLICyAXf68oG0D4Bnc8w9Ire-SN0USGqx1xoxAwYb77lb7g.jpg"
+      }
+    },
     {
       "id": "5270",
       "title": "好狂 https://www.threads.com/@ddc_0815/post/Df7Jhp5CeoH?xmt=AQG0rIwq4DljU6pH2yOIA1UXPhkgq5hMQxDqYL…",
@@ -10024,7 +10038,7 @@
       "publishedAt": "2023-10-14T10:44:26.000Z",
       "replies": 80,
       "reposts": 464,
-      "likes": 3512,
+      "likes": 3513,
       "preview": {
         "targetUrl": "https://x.com/PandaZeng1/status/1713143722161107119",
         "siteName": "X",
