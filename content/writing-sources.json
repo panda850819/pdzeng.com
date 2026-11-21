@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:36:05.000Z",
+  "updatedAt": "2026-11-21T03:51:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,13 @@
   ],
   "telegram": [
     {
+      "id": "5276",
+      "title": "應該有蠻多人被 liquid 了",
+      "description": "應該有蠻多人被 liquid 了",
+      "url": "https://t.me/pdzeng_talk/5276",
+      "publishedAt": "2026-11-21T03:51:54.000Z"
+    },
+    {
       "id": "5275",
       "title": "$GOOG",
       "description": "$GOOG",
@@ -195,7 +202,7 @@
         "siteName": "X (formerly Twitter)",
         "title": "fluidkey.eth (@fluidkey) on X",
         "description": "Update on today’s security incident: there have been no unauthorized transactions since 18:05 UTC, when we took all services offline. We are working with SEAL 911 on the investigation and on trac…",
-        "imageUrl": "https://cdn4.telesco.pe/file/WXJlcIdl3XY8Nj4GEZMb9HxGm3yNtaCLX1SvCMNH5d4sKyJjEViYH3LJahGDppA8aVjVn1nfMeod9hEZi6y7Kmxs18MaZ-hoQVuNjkf9Zb3790CJWLfmQlsZ2mkekMjXIF6G7qDy8EHIudRXwx7ukYtWdX4HrdG-ShbSrlHnJ2mDWdK4YeHRlpeGQAgaCQ0xtcGcHrh8bqdUeQJ83nORv6kgnLu-qyjgyQ4zFMYvjL6ieKjbEdcYgo392M2cOQ9t1jpZg1xpDUdtMhGwpzn1vZWQQ4hP0hrYv2xsRHRtLICyAXf68oG0D4Bnc8w9Ire-SN0USGqx1xoxAwYb77lb7g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/S7Ph3lKIWrKNaQAt0Np_x-MCj-0k_Dvv5URKs7oaU1LxLTcswmB7Z2AZeCup87o-SJVtKIC8CTBULgppzz8Wk4qk_V54OongiS-DqLgrWAjREUw_BKl2J6q-J_xYzHW9aNdAAMGjFzuhfatZrHncbBuemQZxCDTOFokmCbnwdA5VXGai8qWwxa5TGc49ew9wer9DXCVxdQKZRrdbGGH-WLkGA5bxCRpSzj8ykPRdyUXBiECul8YJd6HP_fnOd_H6s5Y4_x24I6huuBRgv-8_ewei_ZKsrRTnRL-LvqGMC2KNO8c_X4ilOvlBrqMDGvNyiU-Vm6WavlZogY6kN9kTyA.jpg"
       }
     },
     {
