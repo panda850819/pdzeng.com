@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:01:41.000Z",
+  "updatedAt": "2026-11-21T13:55:35.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5280",
+      "title": "我是沒想到這個還要解釋 https://www.threads.com/share/BAS6FO8GYP",
+      "description": "我是沒想到這個還要解釋 https://www.threads.com/share/BAS6FO8GYP",
+      "url": "https://t.me/pdzeng_talk/5280",
+      "publishedAt": "2026-11-21T13:55:35.000Z",
+      "preview": {
+        "targetUrl": "https://threads.com/share/BAS6FO8GYP",
+        "siteName": "Threads",
+        "title": "熊貓隨口說 (@panda_life_diary) on Threads",
+        "description": "",
+        "imageUrl": "https://cdn4.telesco.pe/file/hyAkwCzBCU1ff_Juq2hQgrrOW2YgVNaJvwCgDqwda7uoJSx3xzy-UZObyHgStUs3s7_QtZlPWqpqsvtcMkIW28gyri7p0upO2ahhRbxslQ_pfsYHWmKFak2-Sa-_kIIQWNw8kL_S8LfSiGmFbsEIWoC-8nXBkAPF1KmAVEaa43CWrtuvZIRSOD-2uxyEo7bgc2xDCcVZOkTx1xM_Bfetc17KqedH_7-rd0snKDym7gGTrZ_k2nfCyeM-zPFrnzHXJNiP76mw7ww1tWKn4-xhDgmac8B_LOWx6vNEIznUc6E7V6NkmUqoTpo5J3uJY2F0RqB4bf4--1XXnLR390U9jg.jpg"
+      }
+    },
     {
       "id": "5278",
       "title": "轉貼 https://x.com/fluidkey/status/2123811285934506413 Fluidkey 已恢復線上，網頁版、iOS 和 Android 均已更新至 v1.7…",
@@ -299,7 +313,7 @@
         "siteName": "AI 日刊",
         "title": "https://news.pdzeng.com/ 後面可能會稍微微調一下，可能會是以我自己的 X 跟 Rss 來做整理",
         "description": "每天一頁，最多 40 條。主題偏 AI 寫程式、成本與繁中可用性；每條一句話，有事實核對的標出判決與來源。",
-        "imageUrl": "https://cdn4.telesco.pe/file/g_d_Tj1rHuqsmMUY8BLmkQjoqfjl6M1ShUa1z-XBPOnUI_TNy8z2t67EleCBo5LzthyqajPURjQHPFpfm3Fw7y6oDf0qYsHQCdYK7p451h9yvMv7CY1xaZAdijDZG9APvmmJZRyzMkvVWSl36jshIIpNofkKynk06ak-RGYGtXBcokXSiWZqCyZ3OwK7N6kzgCDcqprw0k7DMFNPXHEBy0Kn-G44lzu0oCFSPFxeKymhkTtxm8jP86F3SC_beVRQAIi6IIsuKMRYp7kRxhz_UqmSm0_5zE5ZiSjJLusLTGK841eO4cUoGT2M2xzlf0kxz0eNzC7CxYzKBxl88cgrhg.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/BZpWQXbdPLgR2nDz1JE8qEiYIoECY0-DbvXUP2DCQFECiG2GyhBKLeHuFqQkfTgBmo7Admdak8yZWBtkmxSsn9_BD_Z8jeA9dJnBT6eue8CRTSJosRqhPBkqYDOncfU2IzINfQFwCPRX7cxALUSguww8GzKuxLbGJqHOH4ihXsslSQ8aAQtERfEyolhxOpFXmjSVg3s6mnG9XHKFUIn4gMf-Tp5WmxAQJnC-mdIcJj9WL0DpysHRtLgJ3XXhSIS34jAYKkfM4w54CxIPpcxVFttXVMnlSbjTvjM4zaeK_92TUxtrAInVLOLmOxTmOHIs9hGpWv1AxmN-UpKsh0osqA.jpg"
       }
     },
     {
