@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:49:52.000Z",
+  "updatedAt": "2026-11-21T10:01:41.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5278",
+      "title": "轉貼 https://x.com/fluidkey/status/2123811285934506413 Fluidkey 已恢復線上，網頁版、iOS 和 Android 均已更新至 v1.7…",
+      "description": "轉貼 https://x.com/fluidkey/status/2123811285934506413 Fluidkey 已恢復線上，網頁版、iOS 和 Android 均已更新至 v1.79.22。 先前版本將維持離線。若要在 App 上重新啟用交易，請前往「設定」>「更新」。我們已封鎖所有先前版本的網頁版與行動 App，因此您必須更新至安全的新版本後才…",
+      "url": "https://t.me/pdzeng_talk/5278",
+      "publishedAt": "2026-11-21T10:01:41.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/fluidkey/status/2123811285934506413",
+        "siteName": "X (formerly Twitter)",
+        "title": "fluidkey.eth (@fluidkey) on X",
+        "description": "Fluidkey is back online with v1.79.22 on web, iOS and Android. Previous versions will remain offline. To re-enable transactions on the app go to Settings > Update. We have implemented a block fo…",
+        "imageUrl": "https://cdn4.telesco.pe/file/ThvnF_ABtnL-9K5BIqbHXXOUNm5SK_xaxjUGcfF7inaQEZ4A5_xJzl7jy5lxYRGeR8Sjou-QfHkk-MzYdovpDBcJv9Of7fXFq9ADec3dUM0CqzZWLymAbRUPm-WfbkN8XE69-t6AYd6cwVubFSfdJWdjQf1l0UV51kGNp6X6dptSPF-IsoNivDFNeGFNYVs7bQR5CYyLZTSc-WVwPXhw-FcUoE73hu7C_BZRxu1Dt0eTMtVlfohdthfF5JPmxS1cZNeBcBcCBURr-ruPXuM1fmyseuOAJQA9Dtmjk5D5ZQIWnyhRdk8lfwgQUJMqRo32EkmnnzKhtZWCrWc-aT4LGg.jpg"
+      }
+    },
     {
       "id": "5277",
       "title": "https://poke.com/bots",
