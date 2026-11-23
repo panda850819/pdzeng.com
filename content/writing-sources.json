@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:00:18.000Z",
+  "updatedAt": "2026-11-23T15:43:58.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,27 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5288",
+      "title": "其實同理，接下來 Herdr 說不定也出 Herdr Bots",
+      "description": "其實同理，接下來 Herdr 說不定也出 Herdr Bots",
+      "url": "https://t.me/pdzeng_talk/5288",
+      "publishedAt": "2026-11-23T15:43:58.000Z"
+    },
+    {
+      "id": "5287",
+      "title": "https://x.com/orca_build/status/2124043290551124273 Orca 推出新功能 Orca Bots",
+      "description": "https://x.com/orca_build/status/2124043290551124273 Orca 推出新功能 Orca Bots",
+      "url": "https://t.me/pdzeng_talk/5287",
+      "publishedAt": "2026-11-23T15:43:10.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/orca_build/status/2124043290551124273",
+        "siteName": "X (formerly Twitter)",
+        "title": "Orca (@orca_build) on X",
+        "description": "Apparently you can make your Orcabot look like Grokbot 🫨",
+        "imageUrl": "https://cdn4.telesco.pe/file/skj6zR2afairUIIOLr-wJhqSWiR17D3rrc1H2TXqfcLyb7iLkfbbpUmQnZjGGH4USNYnnakHb3YV-yEdUChifNy3PpxNbq30mp81hUNYBJ7zlfmxqbqlrh5SngGIZo3gJ2VkBbI62g7fUF4gmuUWAhivf-cr7AzyJ2Xas2PCMwi2y8mSnJqXjsTMdaF1XV5MDa-rTvqHgKFaqPVfK84TinFnEq1GkZwIkmy88EJDl87iVlum33Tn4W4qBRh4PCgDo_jxsPDDDdQETjx93E5WK9RZbRU5Ax7yfHUj4ck2-ig1QvxqDB8TouYd25EVIGcJ5R_zcoRWivDGXYs4qiYOIA.jpg"
+      }
+    },
     {
       "id": "5286",
       "title": "爸爸回來了",
