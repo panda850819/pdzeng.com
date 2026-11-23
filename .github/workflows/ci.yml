@@ -3,12 +3,23 @@ name: CI
 on:
   pull_request:
     branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  BASE_SHA: ${{ github.event.pull_request.base.sha }}
+
 jobs:
   build:
+    if: github.event_name == 'pull_request'
     runs-on: ${{ (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository) && 'ubuntu-latest' || fromJSON('["self-hosted","lab","public-isolated"]') }}
     timeout-minutes: 10
     steps:
@@ -23,3 +34,104 @@ jobs:
       - run: bun run typecheck
       - run: bun run build
       - run: bun test tests/seo-canonical.test.js tests/site-worker.test.js
+
+  rules:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - name: no-comments (diff)
+        if: github.event_name == 'pull_request'
+        run: bun scripts/check-comments.ts --diff "$BASE_SHA"
+      - name: no-comments (shrink-only baseline)
+        run: |
+          if [ -n "$BASE_SHA" ]; then
+            bun scripts/check-comments.ts --baseline .comment-baseline --base "$BASE_SHA"
+          else
+            bun scripts/check-comments.ts --baseline .comment-baseline
+          fi
+      - name: bash -n
+        run: |
+          shopt -s nullglob
+          for f in .pipeline/*.sh scripts/*.sh; do bash -n "$f" || exit 1; echo "ok $f"; done
+
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - name: pick tests
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            bun scripts/select-tests.ts --base "$BASE_SHA" --build-flag "$RUNNER_TEMP/build" > "$RUNNER_TEMP/targets" 2> "$RUNNER_TEMP/reason"
+          else
+            echo tests > "$RUNNER_TEMP/targets"
+            echo 1 > "$RUNNER_TEMP/build"
+            echo "push／手動：完整測試" > "$RUNNER_TEMP/reason"
+          fi
+          cat "$RUNNER_TEMP/reason"
+          cat "$RUNNER_TEMP/targets"
+      - name: build site for out/ tests
+        run: |
+          if [ "$(cat "$RUNNER_TEMP/build")" = 1 ]; then
+            bunx velite
+            bun run build
+          else
+            echo "選到的測試不讀 out/，略過 build"
+          fi
+      - name: bun test
+        run: |
+          {
+            echo "### tests"
+            echo "選測：$(cat "$RUNNER_TEMP/reason")"
+          } >> "$GITHUB_STEP_SUMMARY"
+          if [ ! -s "$RUNNER_TEMP/targets" ]; then
+            echo "沒有要跑的測試" | tee -a "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          set -o pipefail
+          if grep -qx tests "$RUNNER_TEMP/targets"; then
+            bun test 2>&1 | tee "$RUNNER_TEMP/test.log"
+          else
+            xargs bun test < "$RUNNER_TEMP/targets" 2>&1 | tee "$RUNNER_TEMP/test.log"
+          fi
+          {
+            echo '```'
+            grep -E '^ *[0-9]+ (pass|fail)$|^Ran ' "$RUNNER_TEMP/test.log"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  budget:
+    if: always() && github.event_name == 'pull_request'
+    needs: [rules, tests]
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - name: PR CI 預算 300 秒
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LIMIT_S: "300"
+        run: |
+          started=$(curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/attempts/$GITHUB_RUN_ATTEMPT" \
+            | jq -r .run_started_at)
+          wall=$(( $(date -u +%s) - $(date -u -d "$started" +%s) ))
+          echo "PR CI wall time: ${wall}s (limit ${LIMIT_S}s)" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "rules=${{ needs.rules.result }} tests=${{ needs.tests.result }}" | tee -a "$GITHUB_STEP_SUMMARY"
+          [ "$wall" -le "$LIMIT_S" ]
