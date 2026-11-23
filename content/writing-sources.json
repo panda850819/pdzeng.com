@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:10:53.000Z",
+  "updatedAt": "2026-11-23T14:00:18.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,13 @@
   ],
   "telegram": [
     {
+      "id": "5286",
+      "title": "爸爸回來了",
+      "description": "爸爸回來了",
+      "url": "https://t.me/pdzeng_talk/5286",
+      "publishedAt": "2026-11-23T14:00:18.000Z"
+    },
+    {
       "id": "5285",
       "title": "https://designed-to-scale.vercel.app/#/request-lifecycle/1",
       "description": "https://designed-to-scale.vercel.app/#/request-lifecycle/1",
@@ -272,7 +279,7 @@
         "siteName": "Telegram",
         "title": "$GOOG",
         "description": "",
-        "imageUrl": "https://cdn5.telesco.pe/file/UIE9oO02OZSybkf9lDEkLGUfnqR7Ia69bcr69bs8N37P6V8HloSxNp9CzJmniddbf0gwl5Gic1kelbqqwDg0yO-sfAynGQeHIwYyjU3RTqnDcW8JZcqeewBfJwN1kTQbu57e52nUa1YP6jnvm9OzCb3WzkYseOFALmZNYoaYrT-8R046lJ7ghEM7hCrj4RvWoFWX2YAePH6oUMALUbZeTyXjOU_JQvhLZL7mhBG6SYnKWczT2r--gn3OiBCzHvxe7HVFv5Np4_Ggg8MsvGAK5gsbJoJeXcYAmN4AonBKCRDSQnp-cGpA9F0x5VZng2EEBLHI3_eZKXVo7gDiSoEI2Q.jpg"
+        "imageUrl": "https://cdn5.telesco.pe/file/m7O1iU5Sd4iWUg41OfTJuRglPQBCf7rwfGsiYvMH0n7kqyyiOLCzV8akVlCklymTKOXrmK6o3r2OcFUd72PR4vmFjsZgpHZXIXSOqwXysCoXP1jrxmuuhzDfirc4Qykl-Mxd4Hv8P9mC-37c_A2nVD5hDHUREARLoB6RYewdl86NzltZker6l9ItBMRY4ZXGzvSMolydpuy137rja_WuimUFrKTOAZkdR8cduibUPhFlzHanOyBXpbapdoHIyPbZjbm_V6J61TK2CodUN0xjcvdoQ4eJjCtQ7r3UWiIuzG8tNTuLz-be2-7Eg6ChG69YlICaVtFVkPdxt4-oeinUrA.jpg"
       }
     },
     {
