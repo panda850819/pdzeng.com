@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:00:08.000Z",
+  "updatedAt": "2026-11-23T13:10:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,20 @@
   ],
   "telegram": [
     {
+      "id": "5285",
+      "title": "https://designed-to-scale.vercel.app/#/request-lifecycle/1",
+      "description": "https://designed-to-scale.vercel.app/#/request-lifecycle/1",
+      "url": "https://t.me/pdzeng_talk/5285",
+      "publishedAt": "2026-11-23T13:10:53.000Z",
+      "preview": {
+        "targetUrl": "https://designed-to-scale.vercel.app/",
+        "siteName": "System Design",
+        "title": "System Design — an interactive course",
+        "description": "An interactive system design course: each idea is an animated diagram you step through — load balancing, caching, sharding, consensus, queues and whole-system designs, from one server to millions of users.",
+        "imageUrl": "https://cdn4.telesco.pe/file/vMrFzJqtyop0k8lBUY2pDk-cWeDQws0YQgVyz8r0klnZyNeF_RgmpntbmHSxNJ8UxWac6bzPK8gK_0Ug7V1iFimGfhsGej7BSV_dmgmcJP1sCXyGz70kpPU8xX2Yg7bIYR27bWVCWR_OCK9461fTTy7luajp_hM8rYX1DH0XkmSfUWC1vfgYSNBZsagdMIMnXaMjK-cElYV5FPzO-ZBlJ8nbVVUsuXx5DthUOS-AQcK8UnMOmrAj_qMcfl6Ccot3ELiHL0WmTnrd-XElrfdjyN6bX6zRz8pnocL2oghAa3k563lS9-UHLevi0IXdy3K53rVRCyeG-syZCYpmGvAnrQ.jpg"
+      }
+    },
+    {
       "id": "5284",
       "title": "https://www.netflix.com/tw/title/81681910 看看我們的錢是怎麼被爆炸頭捲走的 尬到不行",
       "description": "https://www.netflix.com/tw/title/81681910 看看我們的錢是怎麼被爆炸頭捲走的 尬到不行",
@@ -209,7 +223,7 @@
         "siteName": "Threads",
         "title": "熊貓隨口說 (@panda_life_diary) on Threads",
         "description": "",
-        "imageUrl": "https://cdn4.telesco.pe/file/UxsrQybLjLiDJAfdy0gBs1YODXHXM9KSop4Zp8Eahiy8riClT1N7yXyv8ufHWM9nA56COCtVWnurB76Pcf3iO8t9SVe4qtnsvZYmHKSsk3yuYUSWb23Gi9z_xjHTxPYVFg9PdFOddq1RY4MzDd_8f6JSE2LbxKw9pyutg7ugUivo2XKdAJ76qRdvq4rpDmNeux4CUMud76P8l_eZ8OezNO8FdjNh_3xSheJmXD383cwDzYWX1hWzr0LpBqh0vuUxfhqFTrvKXpW3wBclf9hUYo9HWkLQBzu1uh2v0yFZhzdL1qqmbPdzR2hkPflQjrgzBeLghz3AC-MOE56vl3pH-g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/ND7p0h85Gmk0Q1qWag6gpioWlbAXdzD9emTelXVlnxaYb8uAZLwBSq0q4mlfIKmjFXvrLue7yhmJjU50Iq7wAsZ4w9Bdbu7hGbJqoaNwSo04iTYK_Mys46qSVCdq48zoC_U2gtr2iYxCaGHp_twl_I9lUiPNT89dVRMbOiYcjnSgZtoCrxJppEL6y6zCV5m1Kb3iafPqVwnaln2kvWBw9MBRigP5V1B93FivvwXgJU3MV3isZR-GLNTurdR52Y6mHc3GV2cDNWkSMNkw6tINVTAVvw-_ZLGZ2MbyNV_YjI_3qoBKhQl0hrnYO8eNpAA2mhmtHIo_VDT59KBXAv2TJA.jpg"
       }
     },
     {
