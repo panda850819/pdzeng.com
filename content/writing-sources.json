@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:00:53.000Z",
+  "updatedAt": "2026-11-23T11:00:08.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5284",
+      "title": "https://www.netflix.com/tw/title/81681910 看看我們的錢是怎麼被爆炸頭捲走的 尬到不行",
+      "description": "https://www.netflix.com/tw/title/81681910 看看我們的錢是怎麼被爆炸頭捲走的 尬到不行",
+      "url": "https://t.me/pdzeng_talk/5284",
+      "publishedAt": "2026-11-23T11:00:08.000Z",
+      "preview": {
+        "targetUrl": "https://netflix.com/tw/title/81681910",
+        "siteName": "Netflix",
+        "title": "Watch 鑲金理想 | Netflix Official Site",
+        "description": "年輕、理想化、突然擁有幾十億身價，他們想做好事，卻反而激發了彼此最壞的一面。這段病態愛情故事取材自真實詐騙案件。",
+        "imageUrl": "https://cdn4.telesco.pe/file/pufqcahF01F0OBxvvroUIBsXWPMkfYmbuf24wrhzPCm953Ruu8C21bbKW-zeCM25XFwmgVM4HA7R-SsGF2KczCwrkU_-klSkx77W3mteNwrKCT4cV3KlVR6S06dc2hd7NMXRpbV2ZXhwQWJ6WTg3WnRXXYcITZwULaY7a4gvAzwSFp5bWzPJaUrBZ8OCeV04q52PLQ7J3TwNwqUk-qBea4jzxTuZrrNxsY0srHpIAiuHyi2Q96qzgJwv3ZJq0CAouxAZZZ80C37mZUDLgoyi9N3DGYveq-KvuithUQGFllWlfsX3eGKy_iTosxAKHHYHOlTlyCMA9MXen54QL2a33w"
+      }
+    },
     {
       "id": "5283",
       "title": "HeyChengC/wallstreet-explainer 🔗 https://github.com/HeyChengC/wallstreet-explainer #github",
