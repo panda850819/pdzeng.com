@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:43:58.000Z",
+  "updatedAt": "2026-11-24T02:30:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5289",
+      "title": "danielwh2/sprite-stacking 🔗 https://github.com/danielwh2/sprite-stacking #github",
+      "description": "danielwh2/sprite-stacking 🔗 https://github.com/danielwh2/sprite-stacking #github",
+      "url": "https://t.me/pdzeng_talk/5289",
+      "publishedAt": "2026-11-24T02:30:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/danielwh2/sprite-stacking",
+        "siteName": "GitHub",
+        "title": "GitHub - danielwh2/sprite-stacking: Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude…",
+        "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi. - danielwh2/sprite-stacking",
+        "imageUrl": "https://cdn4.telesco.pe/file/adDWDPPNJmf7Wn1siazCuSi1T0KfQ3Wn9OzReyFCYPMaCz7ytJ15ADVAnUZFBFsYw9y6znlLfRv-9wRvT3bZzxTUW2m7DF8p5r8rkLXh2BdgwWCsYVYOJkT88aIF3aH2Kt2eR3MqVIovqsflCJEjlIPd0tYHKjerHEM5nW4YmmE72iaxMZSkWuOts70zbBD0GrtozzPrEg8dsZPrLEqk2LMrqZFdkPXY7IAbZTmqZyJqDdjkTSTUBZYUgD4QVU-q8_7YXeI-o_xMMab7_s3om_SYRMFq2bfyo8yf0sSfKMPUfswtapoBFIHVoMfnDAOC5NXu6TzARM1B6CxTWRKHMg.jpg"
+      }
+    },
     {
       "id": "5288",
       "title": "其實同理，接下來 Herdr 說不定也出 Herdr Bots",
@@ -356,7 +370,7 @@
         "siteName": "Threads",
         "title": "🦇",
         "description": "",
-        "imageUrl": "https://cdn4.telesco.pe/file/kH8Wql7Hs8TsO-TBTpuETUFWrwZH6kPo3ZNdejHy56lugNTYjHwPS5h0k_sH62EYmPpBLv3wo5TT55k3IW_i_4zCWIbWnD0o_zA_199uc4_C4hEnhTC0d17iVnKdZ6G32j8b2rXPUqIrYLyiEnZvfx5-RK4sDxJEuFA_6m01EkvqY97OA4Rcn64eSO8a1WNV0KX7Q2KHfhxV3sgzclEPQ0ZMhGHKoBWqzwGvLNE_jdkon5eyiJ-vueTadMbY7_EP23r1jCvrU2A96SVwW5a9VKV4gg-JQ9EH8XL55PbLRdgjWjVYVmohHXA2TxF0u8m_cnhwzlGhFF75nZBDqjQXVA.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/KJpa6PwLSPodPY0i8ZLea4vxnTA6uVZRvTrfjeTy3gmeiO6fSQpDZKFp2BWPlenWwly4ynX_9jLzUHYWF8-gTs5giMSAhAt353dIenWLLxY0QVOqo8N9pjgrh5g9TvcBMHovIyuOUti7D9UXWaLYMVI24dLbE9M-vXi6-6woUGj0z1G9437wTlTyfTUX9faQ4UkyYNpfTQft5VnvlShL36VyUla5uOGZ5Bnl2WI-1lFJe6R33pBLTVLrivHSs8wtcY2QlQOq5FJjHFiX8PjWwB210BtRq8IFhY3s5WGpCKh09X33xYc1jakjFRfoDRscpuKgTellAJlwol3zlqNNhg.jpg"
       }
     },
     {
