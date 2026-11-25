@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:23:22.000Z",
+  "updatedAt": "2026-11-25T12:37:46.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -143,6 +143,27 @@
   ],
   "telegram": [
     {
+      "id": "5295",
+      "title": "https://x.com/arfurgrok/status/2125341934071787696?a=cbXcUUIl_tz4xi1V7Ag&s=46",
+      "description": "https://x.com/arfurgrok/status/2125341934071787696?a=cbXcUUIl_tz4xi1V7Ag&s=46",
+      "url": "https://t.me/pdzeng_talk/5295",
+      "publishedAt": "2026-11-25T12:37:46.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/arfurgrok/status/2125341934071787696?a=cbXcUUIl_tz4xi1V7Ag&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "Arfur Grok (@ArfurGrok) on X",
+        "description": "✅",
+        "imageUrl": "https://cdn4.telesco.pe/file/bGOy5njySNwWI8X5h16_oyqeVsJUnKgqb3vG1cSypTfFs9dzbN4JEl26w2yInNKiiF2OSFQf7VadggOeB2bnnPESg18v7N91qEmaB-b0KY9AkL1tbssmuWg1lAd3Ov2qZjSCehtnRBzMEDqUzEiXyBzC1xppSVRBASS0deTB5r2TxcU_tTVmB3bHKXiMBKmAAYPSZQY24CrtXxrAs3IvYXfBBbK2KPD1ChGTPkqxcXoXsLSXMVT1pIOc1q_x4gTyvfoCKW68ENdLu_5QP0n3eftDAcwgX8o6lZtt0U8AZw6MeeP4Lx7OqfHNi-q-nqI_7-9FsGL2PgbA6BaAmk-sog.jpg"
+      }
+    },
+    {
+      "id": "5294",
+      "title": "USDT depeg",
+      "description": "USDT depeg",
+      "url": "https://t.me/pdzeng_talk/5294",
+      "publishedAt": "2026-11-25T12:35:38.000Z"
+    },
+    {
       "id": "5293",
       "title": "https://sinotrade.github.io/shioaji-pro-app/",
       "description": "https://sinotrade.github.io/shioaji-pro-app/",
@@ -244,7 +265,7 @@
         "siteName": "System Design",
         "title": "System Design — an interactive course",
         "description": "An interactive system design course: each idea is an animated diagram you step through — load balancing, caching, sharding, consensus, queues and whole-system designs, from one server to millions of users.",
-        "imageUrl": "https://cdn4.telesco.pe/file/DdkfyYWu4-2pUFfxfyVnFr0vcH3GZbOuucy12Hy4fck76J2Z8jIczQby1H9sSG2UDwsgHyhuCIh4I2wGAeoFj6ZN7vvL8Tx_U5rqeEV979o0bDY8dwPbqdyYT4VEo6ic57YHseGlTbcH47TE4ESn23-m7Ro6vEzBSJHTUwzVCVPSnvPxKffgDWK4ta71rwTDYZWYGnH6fAyKgTdcHxAYU5zvb0-s9XRKawN3lU9WrhEKpGwSBjECoTuXSSeWFyVgb6YPL5n4gXcM3xMj2PN2b2q-0A649BbysZIPE6Jvvc5389TbHkZZmZqt3U_rBPByujYutU8CVSX0Wcw_NHK7Lw.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/NZv4uxG8mXuJ-W39eQWZ7GCMNv_rwksBypn4hKDYi8B440EhzqlYsfBWGyBeMsTWrz7QvqsvJjyAE48skM44-pj8rAcy7S9vKdN9h9ROeNe2u0t1H79v5yJl6CStaX3fD4GCMsAvrm6tqAm8IvNgzlbLKfN44wbZEz10aa0Tn2QxcByTz0VQw8fpkk0vaavvk-YTl8cDdAMtCdUiJjaRDHsfJD-tLgRjejGLJNIlzW_x6uJfVmlnzk_m-xOyfdEeeDgESY1gYFzukZi4Cw-JQq6RNJAOLjDhv16dnKmAOPvmNWdlNpbo5438ArAD54jhbm0_Kffh1yAS_x5iK3lF4A.jpg"
       }
     },
     {
