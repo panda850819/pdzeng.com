@@ -258,7 +258,7 @@
         "siteName": "Netflix",
         "title": "Watch 鑲金理想 | Netflix Official Site",
         "description": "年輕、理想化、突然擁有幾十億身價，他們想做好事，卻反而激發了彼此最壞的一面。這段病態愛情故事取材自真實詐騙案件。",
-        "imageUrl": "https://cdn4.telesco.pe/file/dz_p9nVz8PEh_qwZQnsPpeXasHujKw6J5uw3A5uvW6ZBw3zzGBLfj6XszIXVjBgXQ9-d2tvAZwQqNskfJWNtQvnJKKC7C76i733OxeT4EhITibsHygFuZ0RaQC85XHn6IMrCPrCUJ07r-b2MX-PTaZ_qoOy5dvTjXUZJWPYl1k6VJ8F14xbygqCnDSf1UxR18eTxBDckgZCLkjMMhy7EWvQRzrBr5RRRiu16QgDG48rYE42ulvZEigDYAKy7QKzLFpcHvk9FhZMCtOYAnbGh2g-N2YiYJMqOHq5bx4WvVCa2EDULCkx1YsXJ-YRTkmPn5MJJ3uprYwJmpVuBaR1RPQ"
+        "imageUrl": "https://cdn4.telesco.pe/file/VV9UGttYcfWK71gy6LDHYBztda4tQfMqkG3bha5TFvqQLaAvIj1LIcS104x64HPffH6O4uAMRMo1k5lg2Y2UErvCnjPlox1coIxM1cTxa-aGkM2kYFcec-4kz1LekmgrAAM0S42BV_4wTcVJcImTFpRZy4ZvBwrxpg7YPsmZAECkY6MZWZDI6x1Op-CpdT-Pj_eXrhHSJ2yFBTflESjClE6yh8LEqVETwAp5KElZfHJRj2Y_2fmyjuUJQiJnf48Q7l309jYJrjgVv5FwZPlCzE8m-xIbr_NJdvhdY7DWri215fvHcvn87bBWUcWjRFhG6iYTBEMfCjoIHDbvYQn7jA"
       }
     },
     {
@@ -280,7 +280,14 @@
       "title": "天下苦 tradingview 久矣 https://hft.md/tradingview/",
       "description": "天下苦 tradingview 久矣 https://hft.md/tradingview/",
       "url": "https://t.me/pdzeng_talk/5282",
-      "publishedAt": "2026-11-23T05:52:50.000Z"
+      "publishedAt": "2026-11-23T05:52:50.000Z",
+      "preview": {
+        "targetUrl": "https://hft.md/tradingview",
+        "siteName": "hft.md",
+        "title": "Every free TradingView alternative on the internet (127) · hft.md",
+        "description": "127 free alternatives to TradingView: charting sites, screeners, broker platforms, open-source chart libraries, Pine Script alternatives, backtesters, Claude plug-ins (MCP) and AI tools. Exact free terms, what each replaces, how to set it up.",
+        "imageUrl": "https://cdn4.telesco.pe/file/gAbVC3oapR3c2yTuLeGoLmLy1rgl7LNptwCesZKzte86UBJxBz9rkkt04yhJp3VcZy-PLuFD-d_JPL6bV0SaiVks1Z0P83dsmpcI-8_6KFyONfbeRsdgHWHzVmaGPxf4kFR9r69X3vdjtBATKjkQa0ksV5QUg3fqR5zPTeU2FXnaqifhc3ECVXQLCbu8_-BeS5IeJH7p2XcqPLwnVk3og77JQeAju1O_LBIQgg_lckAg3KrYqTVAmET4H_1OYw9ckVXll406Pyb3uepjju497d-7ziW3T8-QoTsMYhP4jxPM8TN5mU8jaAKUWic62gDSoYxFZhavZ3d5cofJDvrizA.jpg"
+      }
     },
     {
       "id": "5281",
