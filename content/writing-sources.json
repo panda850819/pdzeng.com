@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:38:18.000Z",
+  "updatedAt": "2026-11-24T23:42:17.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5292",
+      "title": "https://x.com/poteto/status/2125340394938593344?a=7k0ZwfGqAjetl_eyZW0&s=46",
+      "description": "https://x.com/poteto/status/2125340394938593344?a=7k0ZwfGqAjetl_eyZW0&s=46",
+      "url": "https://t.me/pdzeng_talk/5292",
+      "publishedAt": "2026-11-24T23:42:17.000Z",
+      "preview": {
+        "targetUrl": "https://x.com/poteto/status/2125340394938593344?a=7k0ZwfGqAjetl_eyZW0&s=46",
+        "siteName": "X (formerly Twitter)",
+        "title": "lauren (@poteto) on X",
+        "description": "never thought i'd say this but i am now daily driving gemini neon in cursor it's a good model",
+        "imageUrl": "https://cdn4.telesco.pe/file/JY5UOKkY6Kr-3oU-Lhb75EeO9fGUa-74Ls_3cptUCeYM4pUBfB3kvOQJsIY-9qVQS3Fp8sD4XjVCLZV5wUolu3-nd6oQie-tUoYKKfm-bJqik08Xfy4elI5jfKKwXjU09J-lMcEEW8KoWshciAcJBa7JeiOPgSm87mJ4IZPb8LXF1ELRbskg8GzvH7LYGyQFrVwwiRDNLvKJz88woSwP7a0GZ9HyHB0S7A_pRzmoo4NGxiJ7n-mqZ8tJeEGlQunEMurPakLmtMcYXkSH511o2RjqgLLdg1RsUj6ijq-L6bFXhrpFkIZrzobFk0GYspkU9lKlUt2hAzZHEjFqzeqgKQ.jpg"
+      }
+    },
     {
       "id": "5291",
       "title": "https://x.com/theo/status/2125177503526588877?a=QKmGT-Oj9q3-DPQaARM&s=46",
