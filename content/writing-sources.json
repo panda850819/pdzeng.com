@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:59:48.000Z",
+  "updatedAt": "2026-11-26T13:24:29.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5299",
+      "title": "他有個 https://www.flowmusic.app/ 我覺得做出來還行耶",
+      "description": "他有個 https://www.flowmusic.app/ 我覺得做出來還行耶",
+      "url": "https://t.me/pdzeng_talk/5299",
+      "publishedAt": "2026-11-26T13:24:29.000Z",
+      "preview": {
+        "targetUrl": "https://flowmusic.app/",
+        "siteName": "Google Flow Music",
+        "title": "他有個 https://www.flowmusic.app/ 我覺得做出來還行耶",
+        "description": "Google Flow Music is a generative AI platform for creating, remixing, and sharing studio-quality songs. Direct music videos, vibe-code new instruments, and personalize your sound effortlessly.",
+        "imageUrl": "https://cdn4.telesco.pe/file/N-NZcKQCoVityTKqUjmJAMrMV66TJDPI1YneWy2ICj0nwpc1qhnS1T48llUVCK05DRAoWdN-aCjXoA3fhALffLdC3r0cnOJ9upROA87UBuQc1XECRoOUxpOfCxtCngoVzzKbN-fCdtLwFA6KSto_cjPrncXGKoeb1n0QnuVz33nrvNKaZLuDV6P_fuolFlcWl-R5PjcbjmWQ4IE-BwG5WQmWlf7vzi9guIN-76Tq9UbC552cCpqp5pD0PrmhsKfmaWEGQg3ccwZCuQPi9xDLNZHuXO32UfgyCKPRuUfNIADf0WIp02woq_XE0w61Jnl05tolsJy_T7cetKKyWksY_Q.jpg"
+      }
+    },
     {
       "id": "5298",
       "title": "如果你是免費仔，我建議你直接掛 vpn 先去申請個 muse 吧 能夠處理掉蠻多雜事的，grok bot 或是其他服務就是分開用 muse 現在沒有開放台灣區下載，但你可以透過 connect…",
