@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:24:29.000Z",
+  "updatedAt": "2026-11-27T03:30:54.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5300",
+      "title": "NOOUBY-DEV/huntclaw 🔗 https://github.com/NOOUBY-DEV/huntclaw #github",
+      "description": "NOOUBY-DEV/huntclaw 🔗 https://github.com/NOOUBY-DEV/huntclaw #github",
+      "url": "https://t.me/pdzeng_talk/5300",
+      "publishedAt": "2026-11-27T03:30:54.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/NOOUBY-DEV/huntclaw",
+        "siteName": "GitHub",
+        "title": "GitHub - NOOUBY-DEV/huntclaw: huntclaw - a very fast find-and-replace utility",
+        "description": "huntclaw - a very fast find-and-replace utility. Contribute to NOOUBY-DEV/huntclaw development by creating an account on GitHub.",
+        "imageUrl": "https://cdn4.telesco.pe/file/Nf1vQfOiI2EuqhXhRWoYng5hVePfRMTyu3IsdvIFPZmHNvJwKcPHuPch8TENNwV-KHtZlG4M_6a_caKI59guIxRuwVHhax12C03YmwXXerjcJ-MWYfx9Qa-XudRpkT8Ly2GcI_iuIM1Wi-hYrxre9EcCQGeUFxwS7YQcLbkV_vWSAp4X8WekQsStsybzf-Ac2wyrrG5dEf2PN8bNJoUmH1znat_e3zbSSV9hdWDeJAnas5wEhQXqbmPUKJKhmzhGx4Hutlq7bf47PguC1-7SXHI_aStctJZNqH6UVWGjTfJGxr074OAZX7S-JppI-Up3K8rAfr_fja0SL7xWbXOMNQ.jpg"
+      }
+    },
     {
       "id": "5299",
       "title": "他有個 https://www.flowmusic.app/ 我覺得做出來還行耶",
