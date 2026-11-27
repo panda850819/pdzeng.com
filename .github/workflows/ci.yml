@@ -59,6 +59,14 @@ jobs:
         run: |
           shopt -s nullglob
           for f in .pipeline/*.sh scripts/*.sh; do bash -n "$f" || exit 1; echo "ok $f"; done
+      - name: verification-record checker tests
+        if: github.event_name == 'pull_request'
+        run: bash scripts/ci/check-verification-record.test.sh
+      - name: verification-record
+        if: github.event_name == 'pull_request'
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: bash scripts/ci/check-verification-record.sh --base "$BASE_SHA"
 
   tests:
     runs-on: ubuntu-latest
