@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:30:54.000Z",
+  "updatedAt": "2026-11-27T05:30:53.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,19 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5301",
+      "title": "simonlin1212/Vibe-Research 🔗 https://github.com/simonlin1212/Vibe-Research #github",
+      "description": "simonlin1212/Vibe-Research 🔗 https://github.com/simonlin1212/Vibe-Research #github",
+      "url": "https://t.me/pdzeng_talk/5301",
+      "publishedAt": "2026-11-27T05:30:53.000Z",
+      "preview": {
+        "targetUrl": "https://github.com/simonlin1212/Vibe-Research",
+        "siteName": "GitHub",
+        "title": "GitHub - simonlin1212/Vibe-Research: Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code…",
+        "description": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks. - simonlin1212/Vi..."
+      }
+    },
     {
       "id": "5300",
       "title": "NOOUBY-DEV/huntclaw 🔗 https://github.com/NOOUBY-DEV/huntclaw #github",
