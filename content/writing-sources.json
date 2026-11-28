@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:00:51.000Z",
+  "updatedAt": "2026-11-28T02:16:04.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5306",
+      "title": "Windows 好難用",
+      "description": "Windows 好難用",
+      "url": "https://t.me/pdzeng_talk/5306",
+      "publishedAt": "2026-11-28T02:16:04.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5306",
+        "siteName": "Telegram",
+        "title": "Windows 好難用",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/gP_SEzNH-Emb2XhUxV_kDn56bxJWTqWnKEe4aVuhSFS94OmA-ZiNHFTg52LlFTtfCKi5UBKNVBv-pL4puC9Y1mm5rSGhENhr1k0UsaLTb7xiaYBrowQdFKrVlSdqrdfA70NonxXVnjiYaZnYVbXPqfTM7M9jLcnAm0_9_JvvSN4nLoK6WrSjW74Zd901NslohpiyvZXTB0xrvJVhlj8VCBursYdv8moqDtDhMuCsN-gUL1sfd_Oct3JH6H8lx6wc5cmd8X1M8X2PLzV7VdQt8vnZ7rve45KByqa7A4yxD19EDSs_W5ULNn26ccqxcL2aLctpofWctrnenN4xrG_fIw"
+      }
+    },
     {
       "id": "5305",
       "title": "https://people.lulumifish.com/tanjiro",
