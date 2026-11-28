@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:00:53.000Z",
+  "updatedAt": "2026-11-28T01:00:51.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5305",
+      "title": "https://people.lulumifish.com/tanjiro",
+      "description": "https://people.lulumifish.com/tanjiro",
+      "url": "https://t.me/pdzeng_talk/5305",
+      "publishedAt": "2026-11-28T01:00:51.000Z",
+      "preview": {
+        "targetUrl": "https://people.lulumifish.com/tanjiro",
+        "siteName": "Lulumifish",
+        "title": "炭治郎｜人物誌・作品選集",
+        "description": "從留下來的片段，重新讀他的貨幣、借貸與流動性思考。",
+        "imageUrl": "https://cdn4.telesco.pe/file/mtYvRpURFsCoUhTpLtWaDrX3IyWitDBvqcqhIghLeSJbL4EwzS0VayHI6YoR3ToExWQRRyZYWQJfm-wN7FrmmLTNNzcsT7N9fyX-NZojObwRO_Qho9p4taprK9NbXt8tmY6g5ZvxuTZWO-Xq0ka1dEcstN-8moURqLzyE5CFQEJ9hYVkKcpTL-Zfh5uBfCN7EaCCxf6pjKjCA6jAtFGEIaTM4Ks1kw6mVIIBJR_kPc1FxRYjrFDMmUPzJ_R_OG2IHCwqiKXS9W1l_U18RBKpAriUifPPGjQgACxg0HUSB4i8t7NE-1SwwQGmV_n3k7thayuCcT8uIu29ozRC_9YxRw.jpg"
+      }
+    },
     {
       "id": "5304",
       "title": "akseolabs-seo/seo-coach 🔗 https://github.com/akseolabs-seo/seo-coach #github",
