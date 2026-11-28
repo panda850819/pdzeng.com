@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:16:04.000Z",
+  "updatedAt": "2026-11-28T04:54:39.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,20 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5307",
+      "title": "川普是結束任期了是吧",
+      "description": "川普是結束任期了是吧",
+      "url": "https://t.me/pdzeng_talk/5307",
+      "publishedAt": "2026-11-28T04:54:39.000Z",
+      "preview": {
+        "targetUrl": "https://t.me/pdzeng_talk/5307",
+        "siteName": "Telegram",
+        "title": "川普是結束任期了是吧",
+        "description": "",
+        "imageUrl": "https://cdn5.telesco.pe/file/jmwP2X3UUnLnf3QRr2ZJELVtlnqtbYRWMgH-zrmqHc4h0JogbpNFSo-KY6tljMTcYPUoim0q4nTCbAfCKwhHNMKndYOtZY5zjVmQbW0GASjn_pYpxeG23tMrwWYITrCOKYfIOVRGWWDG9a66-AOiN-quMVCpmPn7GGtUIt5o8clJPlea1VBch5WpPeHOIXODAZRihGiOsB1FvItB7La0ZucJVPYS5rjG_qs96PyQnCWa5e_HhCzghWj9ef5zxe7pkZGfVmCvlIIrFVqjyHv4aCYTabtg952htUrq2sp7_F_NmJCqVGF8WbqsmWavYwWqvKT2uCBe6njGwaLfg0eDuA.jpg"
+      }
+    },
     {
       "id": "5306",
       "title": "Windows 好難用",
@@ -306,7 +320,7 @@
         "siteName": "sinotrade.github.io",
         "title": "Shioaji Pro｜AI Agent 交易新世代",
         "description": "AI Agent × Shioaji，開創你的交易 Pro 世代｜每一筆下單都需要你的核可。",
-        "imageUrl": "https://cdn4.telesco.pe/file/LZUseatNUfitpzYfGUSedEFupM-v9sLss9IPpph7p7h3u2oR7e0EppAqprLP58dlkkj35bRtYuoVKKkkn__Pyd-FC362L0Bh9fDsxpYLgoJ_oMX8Ryk6V0O-kGDsKDu6YWppy5v6kP2sDIrA-RxeBypTKVyAQm-DZ0YNgHJpjuTs53IBXauhiZGwwNsk3LMvGAUpqqbekj4Njb_c_-pensh1JEypyXdGNH2BzXczBtl8GU44sWZmgbNVLhXqyDT2--84IVOB1-2S9m8Z0b-bbYjy4T3O3quZuZu9GPJVinGpVDuHbQ-Rcm2bWRghwQIJkZrBdR-FflmmCF6FeScE8A.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/pPyiM4SpUze4ZX5LSyc51UH5NmlnlK1ExDRXmlyjjbRQR7eIsWfXe9fdaZkMcGtsU9gtSZWHi_Tm674kCbi6DJWEGAdRQPpzpnIzdmUh5292i5XjAkViJnEvXF5ahiLocu0h6Achr3xXlyyyWjKMPQiGl_Q9utdb6G4N-f9GmYxxS1eXMyK9mK0xXooTfE2tl5Z0Z8x_MjeH44q_F58J5IaCwPe-rxx_F6UHCsijF8tcjb3KnfFDpvCg6sFNEo5B2c4XD94L1QGR6lwQ4jmhld-XCtjpgJSsOr19E8Y2IM3l2FcXOYbM1ylDaiPfxG5T79QSbD0cmvSJJIA9CJdL9Q.jpg"
       }
     },
     {
