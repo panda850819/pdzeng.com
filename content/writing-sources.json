@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:04:41.000Z",
+  "updatedAt": "2026-11-28T09:16:51.000Z",
   "substack": [
     {
       "id": "https://pdzeng.substack.com/p/1-1-on-1",
@@ -142,6 +142,13 @@
     }
   ],
   "telegram": [
+    {
+      "id": "5309",
+      "title": "沒領到 https://t.me/c/2631914757/287",
+      "description": "沒領到 https://t.me/c/2631914757/287",
+      "url": "https://t.me/pdzeng_talk/5309",
+      "publishedAt": "2026-11-28T09:16:51.000Z"
+    },
     {
       "id": "5308",
       "title": "有USD1做合约保证的快注意一下的流动性风险，目前wlfi具体情况未知，bn的usd1保证金规模应该比较大，有合约杠杆比较高的也注意最近的清算情况，不过没有大量循环贷，应该不至于直接带崩，但还…",
