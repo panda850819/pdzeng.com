@@ -271,7 +271,7 @@
         "siteName": "Google Flow Music",
         "title": "他有個 https://www.flowmusic.app/ 我覺得做出來還行耶",
         "description": "Google Flow Music is a generative AI platform for creating, remixing, and sharing studio-quality songs. Direct music videos, vibe-code new instruments, and personalize your sound effortlessly.",
-        "imageUrl": "https://cdn4.telesco.pe/file/eTkebf0xe4GkPW_q5WPWoNscJPQsKOSaj12i4oBPINldtWNWq5i68hbply2ETexctqNYFo_oMSEk4BMsgCFbROJdbFuO24T985CQ_YdIeo2nFvhPcomdkmJLOOBjGEP3kSoLxDCyYtl74J6-iTIEx0NVpGQP3JTi4a4hO0lDHjZnRboNAMom41BKjLUpmftIVAVGRMWrxFJUk5kbWfW0g5ZZttwho8vjnzKLnP9PxaQxTVGuL52hHvO8Q-HCt1_xdIVY7mMEvkfkL6FaugHpdR1n9iBujAcPA26b-mVoRyKlk8eQA7apGPxlqFShaj1FgeqG3mO9l38CZOkQuEmJ_g.jpg"
+        "imageUrl": "https://cdn4.telesco.pe/file/k3gtl__O4sKkmfYGHCoUkp_gYzi7tNu-To8up3yROF3JQfDxais8_iE3WJJbytCZSeD7AOFAfvlWCevk2aq68MjUpEjrGg8A4N9qY-Wm3ATHFeIyUXEFkomYjEM4qZPGmJlcWQg-cPvM06JuaRzqP9N2C31Xdn3TEtZ0l0ILvqGwjKxsHrunp-dg19MQ9lo_qwKGjCv3tNG9wpwKMJJFggvjwV95AflNPr5dIkkFfLaSxWB_uc_6OEWVWXvROtwo950lN6Jqh0VFqRjHqU-5FeQgD4iX6witqSkf_5LYpoTSc9b5hiwOnaKueW6RsL_m_EeqpETk-nx2modTmZ9vqQ.jpg"
       }
     },
     {
@@ -279,7 +279,14 @@
       "title": "如果你是免費仔，我建議你直接掛 vpn 先去申請個 muse 吧 能夠處理掉蠻多雜事的，grok bot 或是其他服務就是分開用 muse 現在沒有開放台灣區下載，但你可以透過 connect…",
       "description": "如果你是免費仔，我建議你直接掛 vpn 先去申請個 muse 吧 能夠處理掉蠻多雜事的，grok bot 或是其他服務就是分開用 muse 現在沒有開放台灣區下載，但你可以透過 connector 讓他接入到 whatsapp or slack 蠻方便的 Code: Z6419T https://muse.ai/join",
       "url": "https://t.me/pdzeng_talk/5298",
-      "publishedAt": "2026-11-26T08:59:48.000Z"
+      "publishedAt": "2026-11-26T08:59:48.000Z",
+      "preview": {
+        "targetUrl": "https://muse.ai/join",
+        "siteName": "Muse",
+        "title": "Muse — Your Personal AI Agent",
+        "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+        "imageUrl": "https://cdn4.telesco.pe/file/i7I1e2s4UxfZCHHZgTjSKaPjk5fPBq-glfRBDq7pwfq-1_I6BmGsaREDjw8dJg6fQEnpB1-G4QBWKxwAgXpiYX0DeIsHgJS6239AwOGDPLiNQzT20Grnapi63Dkd8KER-2FqAaXujIN6sc3PHC33YEsdEf6fE2ibUODqMHU_sy1uEdYf6h-spgcEryyyGQXtpEVhFEUzQL-cH_uYAfUZzTq3T18W_TlVr9c_0sKonxvSTv878LXRboqef4x8Yc8rWk9fMWKVZugw-cuPe01qGli46m4-5lO8Xwn-FSOymf0s8_iijGrwIUVmpGoNYXnBbo4C3e6-jbcMty64qewN0g"
+      }
     },
     {
       "id": "5296",
